@@ -1,0 +1,7 @@
+_site
+.sass-cache
+.jekyll-metadata
+rscript/.Rproj.user
+.Rproj
+.zip
+.Rproj.user

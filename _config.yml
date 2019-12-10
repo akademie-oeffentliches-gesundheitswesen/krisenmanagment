@@ -1,0 +1,28 @@
+remote_theme: pmarsceill/just-the-docs
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+
+# Enable support for hyphenated search words:
+search_tokenizer_separator: /[\s/]+/
+
+plugins:
+  - jekyll-seo-tag
+
+title: Lehrbuch ÖGD
+
+# Aux links for the upper right navigation
+aux_links:
+  "Lehrbuch auf GitHub":
+    - "https://github.com/akademie-oeffentliches-gesundheitswesen/lehrbuch-oeffentliche-gesundheit"
+  "PDF":
+    - "assets/pdf/book-test.pdf"
+  "Web-Buch":
+    - "https://vivliostyle.github.io/vivliostyle.js/viewer/vivliostyle-viewer.html#b=https://github.com/mrchristian/lehrbuch-oeffentliche-gesundheit/blob/master/los.xhtml&renderAllPages=true&spread=true"
+
+logo: "akademie.jpeg"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 1971 – 2019. Akademie für Öffentliches Gesundheitswesen in Düsseldorf. All rights reserved.  <br>
+All contents of this site constitute the property of Akademie and may not be copied, reproduced without prior written permission."

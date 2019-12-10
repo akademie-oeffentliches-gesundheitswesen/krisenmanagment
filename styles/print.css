@@ -1,0 +1,1120 @@
+@font-face {
+    font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-weight : normal;
+    font-style: normal;
+    src : url(../fonts/NotoSans-Regular.ttf);
+}
+@font-face {
+    font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-weight : bold;
+    font-style: normal;
+    src : url(../fonts/NotoSans-Bold.ttf);
+}
+@font-face {
+    font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-weight : normal;
+    font-style: italic;
+    src : url(../fonts/NotoSans-Italic.ttf);
+}
+@font-face {
+    font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-weight : bold;
+    font-style: italic;
+    src : url(../fonts/NotoSans-BoldItalic.ttf);
+}
+-@font-face {
+    font-family : -apple-system,BlinkMacSystemFont,"noto sans medium",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-weight : normal;
+    font-style: normal;
+    src : url(../fonts/NotoSans-Medium.ttf);
+}
+
+h3.titlepageSub {
+  color: black;
+  font-size: 14pt;
+  font-weight: normal;
+  text-align: center;
+  text-transform: none;
+  line-height: 20pt;
+  margin-bottom: 30pt;
+}
+
+p.titlepagePar {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+}
+
+p.titlepageSub {
+  color: black;
+  font-size: 14pt;
+  font-weight: normal;
+  text-align: center;
+  text-transform: none;
+  line-height: 20pt;
+  margin-bottom: 30pt;
+}
+
+#ReproducingAutonomy {
+  font-size: 26pt !important;
+  margin-bottom: 10pt !important;
+  margin-top: 0pt;
+}
+#ack {
+  margin-bottom: 10pt !important;
+  margin-top: 0pt;
+}
+
+.logo img {
+/*  width: 24mm;*/
+  align: center;
+  margin-bottom: 6pt;
+}
+
+.logo p {
+ color: black;
+ font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-size: 9pt;
+  font-weight: 300;
+  margin-top: 24pt;
+  text-align: center;
+
+}
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+@page {
+  size: 127mm 203mm;
+  margin-top: 15mm;
+  margin-bottom: 15mm;
+}
+
+html {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-weight: normal;
+  font-size: 10.75pt;
+  color: black;
+  hyphens: auto;
+}
+
+p {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-size: 9pt;
+  line-height: 14pt;
+  /*text-align: justify;*/
+  margin-bottom: 0pt;
+  letter-spacing: 0.2pt;
+  word-spacing: 0.2pt;
+  orphans: 2;
+  widows: 2;
+}
+
+p + p {
+  text-indent: 1.5em;
+  margin-top: 0 }
+
+p:first-of-type {
+  text-indent: 0;
+}
+
+p.stb { text-indent: 0; margin-top: 0.83em }
+p.mtb { text-indent: 0; margin-top: 2.17em }
+p.ltb { text-indent: 0; margin-top: 3.08em }
+p.ador { text-indent: 0; margin-left: 1.6pc; margin-top: 9pt }
+p.adorno { text-indent: 12px; margin-left: 1.6pc; margin-bottom: 9pt}
+p.start { text-indent: 0em; margin-top: 0em }
+p.divide { text-align: center }
+p.author {
+  color: black;
+  font-size: 14pt;
+  font-weight: normal;
+  text-align: center;
+  text-transform: none;
+  line-height: 20pt;
+  margin-bottom: 30pt;
+}
+
+p.copyright {
+  font-size: 9.75pt;
+  text-align: left;
+}
+
+p strong,
+p .bold,
+p .Bold,
+p b,
+li strong,
+li .bold,
+li .Bold,
+li b {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-weight: 500;
+}
+
+em,
+.italic {
+  font-family: inherit;
+  font-style: italic;
+  font-weight: 400;
+}
+
+pre {
+  max-width: 80.1266666667mm;
+}
+
+a {
+  color: black;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+  font-style: none;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+}
+
+strong em {
+  font-weight: bold;
+  font-style: italic;
+}
+
+var {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-weight: normal;
+}
+
+var em,
+var .Italic {
+  font-weight: normal;
+  font-style: normal;
+}
+
+sup {
+  font-size: 9.75pt;
+  font-weight: inherit;
+  position: relative;
+  top: -3px;
+  vertical-align: baseline;
+}
+
+.references p {
+  line-height: 10.8pt;
+  font-size: 9pt;
+}
+
+blockquote {
+  position: relative;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-size: 9.75pt;
+  vertical-align: baseline;
+  margin-top: 9pt;
+  margin-bottom: 9pt;
+  margin-left: 1pc;
+  margin-right: 0pc;
+}
+
+blockquote:before {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  content: '';
+  font-size: 3em;
+  top: -0.2pc;
+  left: -1.2pc;
+  position: absolute;
+  color: #7089ab;
+  opacity: 0.6;
+}
+
+blockquote:after {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  content: '';
+  font-size: 3em;
+  bottom: -15pt;
+  right: -0.8pc;
+  position: absolute;
+  color: #7089ab;
+  opacity: 0.6;
+}
+
+blockquote p {
+  font-family: inherit;
+  text-align: left;
+  font-style: normal;
+}
+
+blockquote  p.att { text-align: right; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans medium",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  margin-top: 1.5em;
+  color: black;
+  font-weight: normal;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 24pt;
+  color: black;
+  margin-bottom: 2em;
+  margin-top: 2em;
+  page-break-inside: avoid;
+  page-break-after: avoid;
+  text-align: center;
+  text-transform: none;
+  adobe-hyphenate: none;
+  -webkit-hyphens: none;
+  -epub-hyphens: none;
+  hyphens: none;
+  letter-spacing: 0pt;
+word-spacing: 1px;
+}
+
+h2 {
+  font-size: 15pt;
+  font-family: "noto sans medium", helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  text-transform: none;
+  font-weight: normal;
+  /*margin: 1.5em 0 1.2em 0;*/
+  margin-top: 20pt;
+  margin-bottom: 9pt;
+  page-break-inside: avoid;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 13pt;
+  margin-top: 20pt;
+  page-break-inside: avoid;
+  page-break-after: avoid;
+  font-weight: normal;
+  margin-bottom: 6pt;
+}
+
+h4 {
+  font-size: 11pt;
+  margin-top: 20pt;
+  margin-bottom: 9pt;
+  font-weight: normal;
+  page-break-inside: avoid;
+  page-break-after: avoid;
+}
+
+h5 {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-size: 10pt;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 500;
+  color: black;
+  page-break-inside: avoid;
+  page-break-after: avoid;
+}
+
+body {
+  counter-reset: chapter;
+}
+
+.one ol li {
+  list-style-type: decimal;
+}
+
+
+h1:before {
+  display: block;
+  text-transform: none;
+  counter-increment: chapter;
+  font-size: 10pt;
+  margin-bottom: 13pt;
+  letter-spacing: 1pt;
+}
+
+.footnotes ol {
+  font-size: 9pt;
+  line-height: 10.8pt;
+  list-style-position: outside;
+}
+
+.footnotes ol li p {
+  text-indent: 0;
+  font-size: 9pt;
+  line-height: 10.75pt;
+  word-wrap: break-word;
+}
+
+.footnotes ol li p a {
+  text-wrap: word-break;
+}
+
+li[id*="fn"] {
+  color: black;
+  text-indent: 0;
+  font-size: 9.75pt;
+  margin-left: 1.3pc;
+}
+
+a.footnoteRef {
+  border-bottom: 0;
+  line-height: 0;
+  background: none;
+  display: inline;
+}
+
+figure {
+  text-indent: 0;
+  width: 100%;
+  text-align: center;
+  margin-top: 27pt;
+  margin-bottom: 27pt;
+}
+
+figure img {
+  display: block;
+  height: auto;
+  margin: auto;
+}
+
+/*figure img figure-cat-figure {
+  width: 200px;
+}*/
+
+figure figcaption {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  margin-top: 0;
+  font-style: normal;
+  color: black;
+  text-indent: 0;
+  text-align: center;
+  font-size: 8pt;
+  font-style: italic;
+}
+
+.icon {
+  margin-right: 1em;
+  width: 20%;
+  float: left;
+}
+
+.icon img {
+  width: 100%;
+  margin-top: 1em;
+}
+
+.iconright {
+  margin-left: 1em;
+  width: 20%;
+  float: right;
+}
+
+.iconright img {
+  width: 100%;
+  margin-top: 1em;
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-top: 9pt;
+  margin-bottom: 9pt;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 30px;
+  font-size: 9pt;
+  line-height: 14pt;
+}
+
+#page-navigation ol {
+    margin: 0;
+    padding: 0;
+    list-style-type: decimal;
+    float: left;
+}
+
+ol {
+  display: block;
+  list-style-type: decimal;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+  font-size: 9pt;
+  line-height: 14pt;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+table {
+  margin: 0 auto;
+  width: 95% !important;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  background-size: 8pt;
+  page-break-inside: avoid;
+  margin-top: 9pt;
+  margin-bottom: 18pt;
+  border-collapse: collapse;
+  /*border-bottom: 1pt solid #000;*/
+  border-left: 0;
+  border-right: 0;
+  text-align: left;
+  font-size: 8pt;
+}
+
+table caption {
+  /*border-top: 1pt solid #435772;
+  border-bottom: 1pt solid #435772;*/
+  padding: 1em;
+  text-align: left;
+  margin: 0 auto;
+}
+
+table caption:before {
+  counter-increment: table;
+  content: "Table " counter(table);
+  margin-right: 1em;
+  font-style: italic;
+}
+
+table td {
+  width: auto;
+  border-left: 0;
+  border-right: 0;
+  text-align: right;
+}
+
+table td:last-of-type {
+  padding-right: 1em;
+}
+
+table p,
+table ul,
+table li,
+table ol {
+  font-size: 8pt;
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  text-align: left;
+  text-indent: 0;
+}
+
+table ol,
+table ul {
+  list-style-position: inside;
+}
+
+tr:first-of-type th,
+tr:first-of-type td {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+tr:last-of-type td {
+  padding-bottom: 0.6em;
+}
+
+table + p {
+  text-indent: 0;
+}
+
+th {
+  border-left: 0;
+  border-right: 0;
+  padding: 1em;
+  color: : black;
+  font-style: italic;
+  font-weight: normal;
+}
+
+tr:first-of-type {
+  /*border-bottom: 1pt solid #435772;*/
+}
+
+tr:first-of-type td {
+  font-weight: normal;
+  font-style: italic;
+}
+
+tr.head + tr td {
+  padding-top: 0.8em;
+}
+
+table + p {
+  margin: 0 auto;
+  width: 95% !important;
+  margin-top: 0;
+}
+
+table + p + p {
+  margin-top: 18pt;
+}
+
+.pagination-header:nth-of-type(odd) {
+  text-align: right;
+}
+
+.pagination-header:nth-of-type(even) {
+  text-align: left;
+}
+
+.pagination-header-chapter {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  text-transform: lowercase;
+  letter-spacing: 1.5pt;
+}
+
+.pagination-header-chapter em,
+.pagination-header-chapter .italic,
+.pagination-header-chapter .Italic {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+}
+
+.pagination-header-section {
+  color: black;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-size: 9pt;
+  text-transform: lowercase;
+  letter-spacing: 1.5pt;
+}
+
+.pagination-page {
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-size: 9pt;
+}
+
+.pagination-page:nth-child(even) .pagination-header {
+  font-size: 9pt;
+  right: 5.3pc;
+  left: 5.3pc;
+  top: 0.7in;
+  text-align: left;
+  margin-left: 0.6in;
+}
+
+.pagination-page:nth-child(even) .pagination-pagenumber {
+  font-size: 9pt;
+  right: 5.3pc;
+  left: 5.3pc;
+  text-align: left;
+  top: 0.7in;
+}
+
+.pagination-page:nth-child(odd) .pagination-header {
+  font-size: 9pt;
+  right: 5.3pc;
+  left: 5.3pc;
+  top: 0.7in;
+  text-align: right;
+  margin-right: 0.6in;
+}
+
+.pagination-page:nth-child(odd) .pagination-pagenumber {
+  font-size: 9pt;
+  right: 5.3pc;
+  left: 5.3pc;
+  text-align: right;
+  top: 0.7in;
+}
+
+.pagination-chapter .pagination-page:first-of-type .pagination-header {
+  display: none;
+}
+
+.pagination-chapter .pagination-page:first-of-type .pagination-pagenumber {
+  display: none;
+}
+
+.pagination-empty .pagination-header-chapter,
+.pagination-empty .pagination-header-section {
+  display: none;
+}
+
+.pagination-empty .pagination-pagenumber {
+  display: none;
+}
+
+section[data-type="toc"] h1.toc {
+  font-size: 26pt;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+}
+
+section[data-type="toc"] h4 {
+  color: black;
+  margin-top: 1.2em;
+  margin-bottom: 0em;
+  letter-spacing: 0.2pt;
+word-spacing: 1px;
+}
+
+section[data-type="toc"] ul li {
+  margin-top: 0.3em;
+  color: black;
+  margin-left: 0;
+  margin-left: 0;
+  text-indent: 0;
+  letter-spacing: 0.2pt;
+word-spacing: 0px;
+}
+
+section[data-type="toc"] ul li p {
+  margin-left: 0;
+  text-indent: 0;
+}
+
+section[data-type="toc"] ul li:before {
+  content: "";
+}
+
+section[data-type="toc"] a {
+  color: black;
+  font-weight: 300;
+  border-bottom: 0px solid transparent;
+  background: none;
+  text-shadow: none;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+}
+
+section[data-type="toc"] a:after {
+  content: "123";
+  font-style: normal;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  margin-left: 10em;
+  content: target-counter(attr(href, url), page);
+  display: inline-block;
+  float: right;
+}
+
+[data-name="cabbagetree"] {
+  width: 117%;
+  margin-left: -2em;
+  margin-bottom: 23pt;
+}
+
+[data-name="cyclesOfCtm"] {
+  width: 90%;
+  margin-left: 0;
+}
+
+[data-name="bookintro1"] {
+  margin-bottom: 12pt;
+}
+
+[data-name="bookintro2"] {
+  margin-bottom: 22pt;
+}
+
+[data-name="designsessions_colour_big"] {
+  width: 80%;
+  text-align: center;
+  margin-left: 10%;
+}
+
+[data-name="1phase_colour_big"] {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 12pt;
+  margin-top: 12pt;
+}
+
+[data-name="2phase_colour_icon"] {
+  width: 110pt !important;
+  text-align: center;
+  margin: 0 !important;
+}
+
+[data-name="mute-logo"] {
+  width: 40%;
+  margin-top: 17em !important;
+  margin-left: 7em;
+}
+
+[data-name="mute-logo2"] {
+  width: 30%;
+  margin-top: 0em !important;
+  margin-left: 0em;
+}
+
+[data-name="cokoflow_colour_big"] {
+  break-after: page;
+  text-align: center;
+  margin: 0;
+  transform: rotate(90deg) translateX(160pt) scale(1.7);
+}
+
+[data-name="cokoflow_colour_big"] figcaption {
+  transform: scale(0.6);
+}
+
+[data-name="cokoflow_lines_big"] {
+  break-after: page;
+  text-align: center;
+  margin: 0;
+  transform: rotate(90deg) translateX(136pt) scale(1.6);
+}
+
+[data-name="cokoflow_lines_big"] figcaption {
+  transform: scale(0.6);
+}
+
+[data-name="cabbage-tree"] {
+  width: 110pt !important;
+  text-align: center;
+  margin: 0 !important;
+  margin-right: 1em;
+}
+
+[data-name="adoption_lines_big"] {
+  width: 90% !important;
+  text-align: center;
+  margin: 0 !important;
+  margin-left: 1em;
+}
+
+[data-name="adoption_colour_big"] {
+  width: 90% !important;
+  text-align: center;
+  margin: 0 !important;
+  margin-left: 1em;
+}
+
+h2 + p {
+  margin-top: -5pt;
+}
+
+[data-name="2phase_lines_icon"] {
+  width: 80pt !important;
+  text-align: center;
+  margin: 0 !important;
+}
+
+section[data-type="chapter"] {
+ /* break-before: page; */
+}
+
+section[data-type="chaptertitle"] {
+ break-before: right;
+}
+
+section[data-type="chapter"], {
+ break-after: always;;
+}
+
+h2 {
+  /* break-before: page; */
+}
+
+/* for the running headers style*/
+
+.dup {
+  -epubx-flow-into: header;
+  -epubx-flow-options: exclusive static last;
+  text-transform: none;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-weight: normal;
+  font-style: italic;
+  /* text-align: right; */
+  /* text-transform: uppercase !important; */
+  font-size: 9pt;
+  letter-spacing: 0.2pt;
+  word-spacing: 1px;
+  margin: 0;
+  padding: 0;
+}
+
+.booktitle {
+  -epubx-flow-into: booktitle;
+  -epubx-flow-options: exclusive static last;
+  text-transform: none;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-weight: normal;
+  font-style: italic;
+  /* text-transform: uppercase !important; */
+  font-size: 9pt;
+  letter-spacing: 0.2pt;
+  word-spacing: 1px;
+}
+
+/* styling pieces */
+
+.pagenumber {
+  content: counter(page);
+  height: 13pt;
+  position: absolute;
+  bottom: 8mm;
+  text-align: center;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-size: 9pt;
+  font-style: italic;
+}
+
+/* running headers locations */
+
+.header {
+  height: 13pt;
+  position: absolute;
+  top: 9mm;
+}
+
+/* flows */
+
+[data-type="chaptertitle"] {
+  -epubx-flow-into: chaptertitle;
+}
+
+[data-type="chapter"] {
+  -epubx-flow-into: chapter;
+}
+
+@-epubx-flow chapter {
+  -epubx-flow-consume: all;
+}
+
+[data-type="titlepage"] {
+  -epubx-flow-into: titlepage;
+}
+
+[data-type="colophon"] {
+  -epubx-flow-into: colophon;
+}
+
+[data-type="toc"] {
+  -epubx-flow-into: toc;
+}
+
+.logo {
+  -epubx-flow-into:  logo;
+}
+
+/* pages layout */
+
+@-epubx-page-master first-page-cover {
+  -epubx-page: 1;
+  background: url("../images/cover.jpg");
+  background-size: cover;
+}
+
+@-epubx-page-master second-page-backcover {
+  -epubx-page: 2;
+  background-size: cover;
+}
+
+
+@-epubx-page-master titlepagepage {
+  @-epubx-partition body {
+    -epubx-flow-from: titlepage;
+    -epubx-required: true;
+    left: -epubx-expr( page-number % 2==1 ? 20mm: 15mm);
+    right: -epubx-expr( page-number % 2==0 ? 20mm: 15mm);
+    top: 18mm;
+    bottom: 24mm;
+  }
+   @-epubx-partition logos {
+    -epubx-flow-from: logo;
+    -epubx-required: true;
+    left: -epubx-expr( page-number % 2==1 ? 20mm: 15mm);
+    right: -epubx-expr( page-number % 2==0 ? 20mm: 15mm);
+    /* height: 7em; */
+    bottom: 24mm;
+  }
+}
+
+/* toc */
+
+@-epubx-page-master toc {
+  -epubx-utilization: 0;
+  @-epubx-partition toc {
+    -epubx-flow-from: toc;
+    -epubx-required: true;
+    left: -epubx-expr( page-number % 2==1 ? 10mm: 10mm);
+    right: -epubx-expr( page-number % 2==0 ? 10mm: 12mm);
+    top: 15mm;
+    bottom: 20mm;
+  }
+}
+
+/* title for chapters */
+
+@-epubx-page-master chaptertitle {
+  -epubx-utilization: 0;
+  @-epubx-partition chaptertitle {
+    -epubx-flow-from: chaptertitle;
+    -epubx-required: true;
+    left: -epubx-expr( page-number % 2==1 ? 20mm: 15mm);
+    right: -epubx-expr( page-number % 2==0 ? 20mm: 15mm);
+    top: 15mm;
+    bottom: 20mm;
+  }
+}
+
+/* colophon */
+
+@-epubx-page-master colophon {
+  -epubx-utilization: 0;
+  @-epubx-partition colophon {
+    -epubx-flow-from: colophon;
+    -epubx-required: true;
+    left: -epubx-expr( page-number % 2==1 ? 20mm: 15mm);
+    right: -epubx-expr( page-number % 2==0 ? 20mm: 15mm);
+    top: 24mm;
+    bottom: 20mm;
+  }
+}
+
+/* create the layout of the body */
+
+@-epubx-page-master chapter {
+  -epubx-utilization: 0;
+
+/* guide - turn off at end */
+
+  /*  @-epubx-partition grid {
+      position: absolute;
+      top: 26mm;
+      right: 20mm;
+      left: 15mm;
+      bottom: 26mm;
+      border: 1pt solid magenta;
+  }  */
+
+  @-epubx-partition body {
+    -epubx-flow-from: chapter;
+    -epubx-required: true;
+    -epubx-snap-height: 13.5pt;
+    left: -epubx-expr( page-number % 2==1 ? 20mm: 15mm);
+    right: -epubx-expr( page-number % 2==0 ? 20mm: 15mm);
+    top: 15mm;
+    bottom: 15mm;
+    }
+  /* page numbering left */
+  @-epubx-partition class(pagenumber) {
+    -epubx-enabled: -epubx-expr( page-number % 2==0 ? 'true': 'false');
+    left: 15mm;
+  }
+  /* page numbering right */
+  @-epubx-partition class(pagenumber) {
+    -epubx-enabled: -epubx-expr( page-number % 2==1 ? 'true': 'false');
+    right: 15mm;
+  }
+
+  /* horizontal running header */
+ @-epubx-partition class(header) {
+    -epubx-flow-from: header;
+    -epubx-enabled: -epubx-expr( page-number % 2==0 ? 'true': 'false');
+    left: 15mm;
+  }
+  /* page numbering right */
+ @-epubx-partition class(header) {
+    -epubx-flow-from: booktitle;
+    -epubx-enabled: -epubx-expr( page-number % 2==1 ? 'true': 'false');
+    right: 15mm;
+  }
+
+  /* vertical ok */
+  /*   @-epubx-partition headervertical {
+    -epubx-flow-from: header;
+    -epubx-enabled: -epubx-expr( page-number % 2== 1 ? 1 : 0);
+    transform: rotate(90deg) translateX(25pt) translateY(-705px);
+    transform-origin: 0 100%;
+    right: 0;
+    top: 0;
+    width: 200mm;
+  } */
+
+    /*   @-epubx-partition booktitleVertical {
+    -epubx-flow-from: booktitle;
+    -epubx-enabled: -epubx-expr( page-number % 2==0 ? 1 : 0);
+    width: 200mm;
+    transform: rotate(90deg) translateX(25pt) translateY(-239pt);
+    transform-origin: 0 100%;
+    right: 0;
+    top: 0;
+    } */
+
+/* guide - turn off at end */
+
+/* baseline test
+    background: linear-gradient(white 11pt , cyan 1pt);
+    background-size: 100% 13.5pt;
+    background-position: 0 13.5pt;
+    */
+
+}
