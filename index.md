@@ -5,24 +5,8 @@ nav_order: 1
 permalink: /
 ---
 
-# Lehrbuch Öffentlicher Gesundheitsdienst
+# Lehrbuch Krisenmanagement
 
-Fachleute aus unterschiedlichen Bereichen im ÖGD, gemeinsam mit
-Lehrenden der Akademie, haben ab 2019 in sogenannten “Book Sprint” in
-gemeinsamer Autorenschaft Texte für diese Lehrbuchreihe verfasst.
-
-Auf die Phase des initialen kollaborativen Schreibprozesses folgte eine
-Lektoratsphase, wobei inhaltliche Ergänzungen und Überarbeitungen
-kontinuierlich durch- und eingeführt werden. Die Texteiträge beruhen auf
-breiter einschlägiger Literatur, praktischen Erfahrungen langjähriger
-ÖGD- Mitarbeiterinnen und Mitarbeiter, sowie Erfahrungen und Anregungen
-von Nachwuchs Fachkräften mit Interesse an Öffentlicher Gesundheit.
-
-In allen Büchern werden Geschichte, Ziele, Aufgaben und Strukturen,
-sowie Begriffsdefinitionen umfangreich beschrieben. Jedes Buch wurde als
-umfassende und in sich geschlossene Abhandlung aufgebaut und kann sowohl
-in Ergänzung zu den anderen Büchern gelesen als auch isoliert als
-Nachschlagewerk behandelt werden.
 
 ## Methode
 
@@ -62,3 +46,20 @@ Dieses Lehr- und Handbuch ist ein gemeinsames Projekt der Akademie für
 Lab](https://www.tib.eu/de/forschung-entwicklung/open-science) der
 [Technischen Informationsbibliothek](https://www.tib.eu) des
 Leibniz-Informationszentrums Technik und Naturwissenschaften.
+
+Fachleute aus unterschiedlichen Bereichen im ÖGD, gemeinsam mit
+Lehrenden der Akademie, haben ab 2019 in sogenannten “Book Sprint” in
+gemeinsamer Autorenschaft Texte für diese Lehrbuchreihe verfasst.
+
+Auf die Phase des initialen kollaborativen Schreibprozesses folgte eine
+Lektoratsphase, wobei inhaltliche Ergänzungen und Überarbeitungen
+kontinuierlich durch- und eingeführt werden. Die Texteiträge beruhen auf
+breiter einschlägiger Literatur, praktischen Erfahrungen langjähriger
+ÖGD- Mitarbeiterinnen und Mitarbeiter, sowie Erfahrungen und Anregungen
+von Nachwuchs Fachkräften mit Interesse an Öffentlicher Gesundheit.
+
+In allen Büchern werden Geschichte, Ziele, Aufgaben und Strukturen,
+sowie Begriffsdefinitionen umfangreich beschrieben. Jedes Buch wurde als
+umfassende und in sich geschlossene Abhandlung aufgebaut und kann sowohl
+in Ergänzung zu den anderen Büchern gelesen als auch isoliert als
+Nachschlagewerk behandelt werden.

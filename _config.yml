@@ -10,7 +10,7 @@ search_tokenizer_separator: /[\s/]+/
 plugins:
   - jekyll-seo-tag
 
-title: Lehrbuch ÖGD
+title: Krisenmanagment ÖGD
 
 # Aux links for the upper right navigation
 aux_links:
