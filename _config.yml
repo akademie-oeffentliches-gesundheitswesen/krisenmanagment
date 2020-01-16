@@ -15,11 +15,11 @@ title: Krisenmanagment ÖGD
 # Aux links for the upper right navigation
 aux_links:
   "Lehrbuch auf GitHub":
-    - "https://github.com/akademie-oeffentliches-gesundheitswesen/lehrbuch-oeffentliche-gesundheit"
+    - "https://github.com/akademie-oeffentliches-gesundheitswesen/lehrbuch-krisenmanagment"
   "PDF":
-    - "assets/pdf/book-test.pdf"
+    - ""
   "Web-Buch":
-    - "https://vivliostyle.github.io/vivliostyle.js/viewer/vivliostyle-viewer.html#b=https://github.com/akademie-oeffentliches-gesundheitswesen/Beta-Buch/blob/master/los.xhtml&renderAllPages=true&spread=true"
+    - ""
 
 logo: "akademie.jpeg"
 
