@@ -16,102 +16,125 @@ nav_order: 8
    <p></p>
  
  
-1.  ## <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318300">IGV Monitoring </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319500">&</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318300"> Evaluation</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318360"> </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318300">Framework</span>
+## <span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319670">Abklingen eines Ereignisses</span>
+
+Auch wenn die Fallzahlen rückläufig sind und die Abklingphase beginnt,
+darf die erhöhte bzw.
+weiter<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319690">
+</span>andauernde Aufmerksamkeit nicht nachlassen. Denn eine
+fortlaufende Überwachung des Ereignisses und anlassbezogene
+Risikobewertung<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319690">en</span>
+helfen, ein Neuaufflammen bzw. eine Verschiebung der Risikogruppen
+frühzeitig zu erkennen und angemessen reagieren zu
+könne<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319870">n</span>.<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319690">
+Bei Infektionskrankheiten ist es wichtig bei einer nachhaltigen
+Mensch-zu-Mensch-Übertragung, jede einzelne Transmissionskette
+nachzuvollziehen.</span>
+
+In der Abklingphase gilt es z. B. die medizinische Versorgung zum
+Regelbetrieb zurückzuführen und die während des Ausbruchs aufgrund von
+Ressourcenmangel oder Übertragungsrisiko depriorisierte medizinische
+Behandlungen wieder zu ermöglichen. Besondere Krisenmanagementstrukturen
+der administrativen Ebene (Krisenstäbe, Lagezentren) können schrittweise
+eingestellt und verhängte Maßnahmen schrittweise aufgehoben
+werden.
+
+## <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318300">IGV Monitoring </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319500">&</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318300"> Evaluation</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318360"> </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318300">Framework</span>
+
+Insbesondere seit dem Ebolafieber-Ausbruch in Westafrika 2014/2015
+empfiehlt die WHO im Rahmen der nationalen Umsetzung der Internationalen
+Gesundheitsvorschriften (IGV 2005) ergänzend
+zu<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318390">m</span>
+jährlichen, verpflichtenden
+<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">S</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318400">elf-
+</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">A</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318400">ssessment</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319540">
+State
+Party</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318400">
+</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318390">Annual
+Report</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318400">
+(SPAR)</span>, die freiwillige Durchführung
+<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318390">von
+weiteren
+Evaluationsmethoden</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">:</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318390">
+</span>Simulationsübungen, After Action Reviews (strukturierten
+Nachbereitung von Ereignissen) und [Joint External
+Evaluations](https://www.rki.de/DE/Content/Infekt/IGV/JEE.html "https://www.rki.de/DE/Content/Infekt/IGV/JEE.html")<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319410">
+<span class="citation">(Robert Koch Institut, 2019)</span></span>.
+Diese<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318310">
+4</span> Evaluierungsmethoden sind zusammengefasst in dem sogenanten
+[IGV
+Monito<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318390">r</span>ing
+und Evaluation
+Framework](https://www.who.int/ihr/publications/WHO-WHE-CPI-2018.51/en/ "https://www.who.int/ihr/publications/WHO-WHE-CPI-2018.51/en/")<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">
+und sollen die Kapazitäten stärken, um </span>Gesundheitsrisiken
+vorzubeugen, diese zu erkennen und schnellstmöglich darauf zu
+reagieren
+
+<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319410">Abbildung
+1</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318340">
+</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">4
+Komponente</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319410">n</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">
+des IGV
+</span><span class="approved-insertion" data-user="32" data-username="SieringU" data-date="26319540">M</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">onitoring
+and
+</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">E</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">valuation
+</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">F</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">ramework</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319410">
+der
+WHO</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">
+In:</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319410">
+</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">
+<span class="citation">(World Health Organization, 2018b, p.
+11)</span></span>
+
+1.  ![<span class="figure-cat-figure">Figure</span>](4a637a1e-fe1e-40dd-b1b2-4f3676a945dc.png)
     
-    Insbesondere seit dem Ebolafieber-Ausbruch in Westafrika 2014/2015
-    empfiehlt die WHO im Rahmen der nationalen Umsetzung der
-    Internationalen Gesundheitsvorschriften (IGV 2005) ergänzend
-    zu<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318390">m</span>
-    jährlichen, verpflichtenden
-    <span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">S</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318400">elf-
-    </span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">A</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318400">ssessment</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319540">
-    State
-    Party</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318400">
-    </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318390">Annual
-    Report</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318400">
-    (SPAR)</span>, die freiwillige Durchführung
-    <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318390">von
-    weiteren
-    Evaluationsmethoden</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">:</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318390">
-    </span>Simulationsübungen, After Action Reviews (strukturierten
-    Nachbereitung von Ereignissen) und [Joint External
-    Evaluations](https://www.rki.de/DE/Content/Infekt/IGV/JEE.html "https://www.rki.de/DE/Content/Infekt/IGV/JEE.html")<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319410">
-    <span class="citation">(Robert Koch Institut, 2019)</span></span>.
-    Diese<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318310">
-    4</span> Evaluierungsmethoden sind zusammengefasst in dem sogenanten
-    [IGV
-    Monito<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318390">r</span>ing
-    und Evaluation
-    Framework](https://www.who.int/ihr/publications/WHO-WHE-CPI-2018.51/en/ "https://www.who.int/ihr/publications/WHO-WHE-CPI-2018.51/en/")<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">
-    und sollen die Kapazitäten stärken, um </span>Gesundheitsrisiken
-    vorzubeugen, diese zu erkennen und schnellstmöglich darauf zu
-    reagieren
+    ### <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318300">Strukturierte Nach</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318310">b</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318300">e</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319580">r</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319670">e</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318300">itungen vo</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318360">n Ereignissen</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319490"> </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319500">(After Action Review</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">s</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319500">)</span>
     
-    <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319410">Abbildung
-    1</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318340">
-    </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">4
-    Komponente</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319410">n</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">
-    des IGV
-    </span><span class="approved-insertion" data-user="32" data-username="SieringU" data-date="26319540">M</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">onitoring
-    and
-    </span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">E</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">valuation
-    </span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">F</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">ramework</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319410">
-    der
-    WHO</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">
-    In:</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319410">
-    </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318350">
-    <span class="citation">(World Health Organization, 2018b, p.
-    11)</span></span>
+    <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">Es
+    ist
+    </span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319570">wichtig</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">,
+    </span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319570">die
+    </span>Maßnahmen<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319570">,
+    die im Rahmen einer Krisenbewältigung durch die öffentliche
+    Gesundheit ergriffen wurden,</span> zu überprüfen und zu
+    bewerten<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319380">,
+    </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">um
+    </span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319570">das</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">
+    zukünftige
+    </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">K</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">risenman</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">ge</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">me</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">nt
+    </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">zu
+    verbessern und indivduelles und kollektives Lernen zu
+    fördern</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">.</span>
     
-    ![<span class="figure-cat-figure">Figure</span>](4a637a1e-fe1e-40dd-b1b2-4f3676a945dc.png)
+    ##### <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430">Was ist eine </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520">Nachbe</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319580">re</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520">itung</span>
     
-      - ### <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318300">Strukturierte Nach</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318310">b</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318300">e</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319580">r</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318300">itungen vo</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26318360">n Ereignissen</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319490"> </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319500">(After Action Review</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319540">s</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319500">)</span>
+    <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319420">Die</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">
+    strukturierte
+    Nachbe</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319580">re</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">itung
+    von Ereignissen, ein
+    sogenannte</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319560">r</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">
+    After Action
+    Review</span><span class="approved-insertion" data-user="32" data-username="SieringU" data-date="26319540">
+    (AAR)</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319410">,
+    </span>ist eine
+    <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319470">freiwil</span><span class="approved-insertion" data-user="32" data-username="SieringU" data-date="26319540">l</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319470">ige,
+    </span>qualitative Überprüfung der Maßnahmen, die ergriffen
+    wurden<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319570">.</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319460">
+    AARs wie Simulationsübungen fokussieren auf die Funktionalität
+    </span><span class="approved-insertion" data-user="32" data-username="SieringU" data-date="26319540">von</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319460">
+    Krisenmanagementsystem</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319470">e</span><span class="approved-insertion" data-user="32" data-username="SieringU" data-date="26319540">n</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319460">
+    und sind</span> ein wichtiges Managementinstrument zur
+    kontinuierlichen Leistungsverbesserung und zum
+    Lernen.<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430">
+    </span>Ein After Action Review kann implementiert werden als Teil
+    des Krisenmanagementzyklus wie in Abbildung 2 dargestellt.
+    
+    Abbildung 2: AARs in the prepardness and response cycle.
+        Quelle:
+    
+      - ![<span class="figure-cat-figure">Figure</span>](cac0100c-305c-4e8e-9c10-87ac34ee0d4d.png)
         
-        <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">Es
-        ist
-        </span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319570">wichtig</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">,
-        </span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319570">die
-        </span>Maßnahmen<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319570">,
-        die im Rahmen einer Krisenbewältigung durch die öffentliche
-        Gesundheit ergriffen wurden,</span> zu überprüfen und zu
-        bewerten<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319380">,
-        </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">um
-        </span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319570">das</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">
-        zukünftige
-        </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">K</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">risenman</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">ge</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">me</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">nt
-        </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319390">zu
-        verbessern und indivduelles und kollektives Lernen zu
-        fördern</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">.</span>
-        
-        ### <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430">Was ist eine </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520">Nachbe</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319580">re</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520">itung</span>
-        
-        <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319420">Die</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">
-        strukturierte
-        Nachbe</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319580">re</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">itung
-        von Ereignissen, ein
-        sogenannte</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319560">r</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319400">
-        After Action
-        Review</span><span class="approved-insertion" data-user="32" data-username="SieringU" data-date="26319540">
-        (AAR)</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319410">,
-        </span>ist eine
-        <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319470">freiwil</span><span class="approved-insertion" data-user="32" data-username="SieringU" data-date="26319540">l</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319470">ige,
-        </span>qualitative Überprüfung der Maßnahmen, die ergriffen
-        wurden<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319570">.</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319460">
-        AARs wie Simulationsübungen fokussieren auf die Funktionalität
-        </span><span class="approved-insertion" data-user="32" data-username="SieringU" data-date="26319540">von</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319460">
-        Krisenmanagementsystem</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319470">e</span><span class="approved-insertion" data-user="32" data-username="SieringU" data-date="26319540">n</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319460">
-        und sind</span> ein wichtiges Managementinstrument zur
-        kontinuierlichen Leistungsverbesserung und zum
-        Lernen.<span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430">
-        </span>Ein After Action Review kann implementiert werden als
-        Teil des Krisenmanagementzyklus wie in Abbildung 2 dargestellt.
-        
-          - Abbildung 2: AARs in the prepardness and response cycle.
-            Quelle:
-        
-        ![<span class="figure-cat-figure">Figure</span>](cac0100c-305c-4e8e-9c10-87ac34ee0d4d.png)
-        
-        ### <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430">Ziele einer </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520">Nach</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319580">bereitung</span>
+        ##### <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430">Ziele einer </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520">Nach</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319580">bereitung</span>
         
         <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319450">Das
         </span><span class="approved-insertion" data-user="32" data-username="SieringU" data-date="26319540">ü</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319450">bergreifende
@@ -184,9 +207,14 @@ nav_order: 8
         <span class="citation">(World Health Organization,
         2019)</span></span>
         
-        ### <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430">Was ist der Prozess einer</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520"> Nachbe</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319580">re</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520">itung</span>
+        ##### <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430">Was ist der Prozess einer</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520"> Nachbe</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319580">re</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520">itung</span>
         
-        <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319540">Nach
+        <span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319660">E</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319670">r</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319660">eignisse
+        sollten zeitnah, ehrlich und unter Einbezug
+        unter</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319670">s</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319660">chiedlicher
+        Per</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319670">spektiven
+        evaluiert werden.
+        </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319540">Nach
         der WHO, gibt es drei Phasen, die allen
         Nach</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319580">bereitung</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319540">en
         gemeinsam
@@ -238,24 +266,17 @@ nav_order: 8
     (z.B</span>. bei Plänen, Basis-Surveillanceinstrumenten zur
     Krankheitsausbreitung, Krankheitslast, Versorgungslage,
     Dokumentation<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319660">,
-    Reso</span>) müssen
+    Ressourcen</span>) müssen
     <span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319660">beseitigt</span>
-    werden. Es ist zu prüfen, ob in der Krise aufgebaute Kapazitäten (z.
-    B. intensivierte Surveillance, diagnostische Kapazitäten) weiter
-    vorgehalten werden sollten bzw. in welchen Bereichen für die nächste
-    Lage mehr personelle, materielle und finanzielle Ressourcen
-    vorgehalten werden müssten („Surge Capacity“). In den Krisenplänen
-    sind Rollen, Zuständigkeiten und Finanzierung kritisch zu
-    hinterfragen und ggf.
-        festzulegen.
+    werden.
     
-      - ### <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520">Nacharbeitung</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430"> Tools</span>
+    ##### <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520">Nach</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319670">bereitung</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430"> Tools</span>
+    
+      - <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430">WHO</span>
+    
+      - <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430">ECDC</span>
         
-        <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430">WHO</span>
-        
-        <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430">ECDC</span>
-        
-        ### <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520">Nacharbeitungen</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430"> in Deutschland </span>
+        ### <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319520">Nach</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319670">bereitung</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319430"> in Deutschland </span>
         
         <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319550">muss
         noch erarbeitet werden ob wir hier text einfuegen. Gibt es da

@@ -16,7 +16,8 @@ nav_order: 2
    <p></p>
  
  
-<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319380">Die
+<span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319850">  
+</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319380">Die
 Zuständigkeiten können
 vari</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319490">ie</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319380">ren
 und sich über vie</span>le Agierende sowie über
@@ -32,24 +33,46 @@ Städten.</span>
 
 ### <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">Zuständigkeiten auf internationaler Ebene</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319390"> </span>
 
-<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">Als
-erste internationale Einrichtung steht sicherlich die World Health
-Organisation
-(</span>[<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">WHO</span>](https://www.who.int/ "World Health Organization")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">).
-Daneben
+<span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319850">D</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">ie
+World Health Organisation
+(</span>[<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">WHO</span>](https://www.who.int/ "World Health Organization")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">)</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319690">
+</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319850">ist</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319690">
+</span>die Koordinationsbehörde der Vereinten Nationen für das
+internationale öffentliche
+Gesundheitswesen<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319690">,
+</span>deren Hauptaufgabe die Bekämpfung der Erkrankungen, insbesondere
+Infektionskrankheiten<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319840">
+</span>sowie
+<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319690">die
+</span>Förderung der allgemeinen Gesundheit der Weltbevölkerung
+ist.<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319680">
+</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319850">  
+</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">Daneben
 fungier</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319570">en
 </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">international
 das Center for Disease Control and Prevention
-(</span>[<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">CDC</span>](https://www.cdc.gov/ "Centers for Disease Control and Prevention")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">)
-soiwe auf europäischer Ebene das European Center for Disease Control and
+(</span>[<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">CDC</span>](https://www.cdc.gov/ "Centers for Disease Control and Prevention")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">)</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319690">,
+</span>eine US-Bundesbehörde des amerikanischen
+Gesundheitsministeriums<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319840">
+</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">sow</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319680">i</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">e
+auf europäischer Ebene das European Center for Disease Control and
 Prevention</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319570">
 </span>[<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319570">(ECDC</span>](https://www.ecdc.europa.eu/en/home "European Centre for Disease Prevention and Control ")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319570">)</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">.
-Im Fall von übertragbaren Krankheiten hat das ECDC z. B. die "Risk
-Guidelines for
+</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319850">Das
+ECDC erstellt Richtlinien,
+z.</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319860">B</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319850">.
+für</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319860">
+den Umgang
+mit</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319850">
+ü</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">bertragbare</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319860">n</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">
+Krankheiten</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319860">
+in
+Flugzeugen</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319560">
+die "Risk Guidelines for
 infe</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319570">ctious
-diseases transmitted on aircraft
-(</span>[<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319570">RAGIDA</span>](https://www.ecdc.europa.eu/en/all-topics-ztravellers-health/infectious-diseases-aircraft "Infectious diseases on aircraft")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319570">)
-heraus gebracht.
+diseases transmitted on
+aircraft</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319860">"
+</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319570">(</span>[<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319570">RAGIDA</span>](https://www.ecdc.europa.eu/en/all-topics-ztravellers-health/infectious-diseases-aircraft "Infectious diseases on aircraft")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319570">).
 </span>
 
 ### <span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319380">Zuständigkeiten auf Bundesebene:</span>
@@ -68,13 +91,11 @@ ermöglichen. Die Ministerien und Institutionen auf
 Bundesebene</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319390">
 agieren
 nur</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319400">
-im Falle von einem Verteidigungsfall oder auf Anfrage der Länder.
-</span>
-
-<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319390">Relevante
-Akteure auf
-Bu</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319400">n</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319390">desebene
-sind: </span>
+im Verteidigungsfall oder auf
+Anfrage</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319860">
+bzw.
+Antrag</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319400">
+der Länder. </span>
 
 **Zusammenarbeit im Gesundheitssektor**
 
@@ -104,34 +125,62 @@ bereit (erreichbar über die [Pforte des
 RKI](https://www.rki.de/DE/Service/Kontakt/kontakt_node.html)). Auf
 Anfrage der Bundesländer entsendet das RKI Ausbruchsuntersuchungsteams,
 um die Gesundheitsämter bei der Ermittlung von Fällen und
-Kontaktpersonen sowie bei der Durchführung von epidemiologischen Studien
-zur Ermittlung von Infektionsquelle, Risikofaktoren, Transmissionswegen
-etc. zu unterstützen. Im Falle eines biologischen Ereignisses mit
-krisenhaften Charakter sind die Aufgaben des RKI z. B.
-Evidenzgenerierung (Datensammlung, Datenaufbereitung, Datenanalyse und
--beurteilung, Studiendurchführung), anlassbezogen Erstellung von
-Risikobewertungen, internationalen Meldeverpflichtungen, Durchführung
-von Labordiagnostik, Information und Unterstützung der Bundesländer bei
-der Koordinierung und Umsetzung von Maßnahmen im Infektionsschutz.
-Ebenso wie das BMG kann das RKI bei Gesundheitslagen, die mit einer
-großen Arbeitsbelastung und erheblichem Informations- und
-Kommunikationsbedarf einhergehen, ein Lagezentrum bzw. eine
-Koordinierungsstelle aktivieren.
+Kontaktpersonen<span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319860">,</span>
+sowie bei der Durchführung von epidemiologischen Studien zur Ermittlung
+von Infektionsquelle, Risikofaktoren, Transmissionswegen etc. zu
+unterstützen. Im Falle eines biologischen Ereignisses mit krisenhaften
+Charakter sind die Aufgaben des RKI z. B. Evidenzgenerierung
+(Datensammlung, Datenaufbereitung, Datenanalyse und -beurteilung,
+Studiendurchführung), anlassbezogen Erstellung von Risikobewertungen,
+internationalen Meldeverpflichtungen, Durchführung von Labordiagnostik,
+Information und Unterstützung der Bundesländer bei der Koordinierung und
+Umsetzung von Maßnahmen im Infektionsschutz. Ebenso wie das BMG kann das
+RKI bei Gesundheitslagen, die mit einer großen Arbeitsbelastung und
+erheblichem Informations- und Kommunikationsbedarf einhergehen, ein
+Lagezentrum bzw. eine Koordinierungsstelle aktivieren.
 
 \- Das **[Paul-Ehrlich-Institut
 (PEI)](http://www.pei.de/DE/home/de-node.html)**, Bundesinstitut für
-Impfstoffe und biomedizinische Arzneimittel, beschäftigt sich mit der
-Impfstoffbeschaffung und -anwendung sowie der Bewertung von
-unerwünschten Arzneimittelwirkungen.
+Impfstoffe und biomedizinische Arzneimittel,
+<span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319860">ist
+zuständig für die Zulassung</span>
+<span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319860">von
+Arzn</span><span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319870">eimitteln,
+die wissenschaftliche Beratung zur Arzneimittelentwicklunng, die
+Genehmigung klinischer Prüfungen, die experimentelle Produktprüfung und
+staatliche Chargenfreigabe</span> sowie der Bewertung von unerwünschten
+Arzneimittelwirkungen.<span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319870">
+Bei Impfstoffen informiert das PEI über Versorgungsengpässe und mögliche
+Alternativen.</span>
 
 \- Das **[Bundesinstitut für Arzneimittel und Medizinprodukte
 (BfArM)](http://www.bfarm.de/DE/Home/home_node.html)** befasst sich mit
-der Nutzen-Risikobewertung von Arzneimitteln und Medizinprodukten.
+der Nutzen-Risikobewertung von Arzneimitteln und
+Medizinprodukten.<span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319880">
+</span>Im BfArM arbeiten rund 1.100 Mitarbeiterinnen und Mitarbeiter -
+darunter Ärzte, Apotheker, Chemiker, Biologen, Juristen, Ingenieure,
+technische Assistenten und Verwaltungsmitarbeiter - an der Zulassung,
+der Verbesserung der Sicherheit von Arzneimitteln, der Risikoerfassung
+und -bewertung von Medizinprodukten und der Überwachung des
+Betäubungsmittel- und Grundstoffverkehrs. Oberstes Ziel aller Maßnahmen
+ist die Erhöhung der Arzneimittel- und damit der Patientensicherheit.
+Auf diese Weise leistet das BfArM einen wichtigen Beitrag zur Abwehr von
+Gesundheitsgefahren für die Bürgerinnen und Bürger
 
 \- Die **[Bundeszentrale für gesundheitliche Aufklärung
 (BZgA)](http://www.bzga.de/)** ist zuständig für die bundesweit
-ausgerichteter Informations- und Kommunikationsmaßnahmen für die
-Bevölkerung.
+ausgerichtete<span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319890">
+gesundheitliche Aufklärung</span>
+<span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319890">der</span>
+Bevölkerung.<span class="approved-insertion" data-user="28" data-username="StarkK" data-date="26319890">
+Hierzu gehört insbesondere:  
+</span>1. die Erarbeitung von Grundsätzen und Richtlinien für Inhalte
+und Methoden der praktischen Gesundheitserziehung,  
+2\. die Ausbildung und Fortbildung der auf dem Gebiet der
+Gesundheitserziehung und -aufklärung tätigen Personen,  
+3\. die Koordinierung und Verstärkung der gesundheitlichen Aufklärung
+und Gesundheitserziehung im Bundesgebiet,  
+4\. die Zusammenarbeit mit dem Ausland
 
 **Zusammenarbeit im Bereich der Tiergesundheit und
 Lebensmittelsicherheit (Landwirtschaft und Verbraucherschutz)**
@@ -295,12 +344,70 @@ Falle einer Krise </span>finden sich hier:
 
   - ### <span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319470">Zusammenarbeit der Bundesländer</span>
 
-  - <span class="approved-insertion" data-user="33" data-username="SasseJ" data-date="26319540">Gesundheitsministerkonferez
-    (GMK)</span>
+  - Die für Gesundheit zuständigen Ministerien und Senatsverwaltungen
+    der Bundesländer arbeiten in Form der **Gesundheitsministerkonferenz
+    (GMK)** zusammen. Grundsätzlich findet einmal jährlich eine
+    gemeinsame Tagung zur Abstimmung der Länderaktivitäten im Bereich
+    des Gesundheitswesens statt; außerordentliche Tagungen,
+    Telefonkonferenzen bzw. Umlaufbeschlüsse werden bei Bedarf
+    organisiert. In diesem Rahmen findet der fachliche und politische
+    Meinungsaustausch und die entsprechende Beschlussfassung statt.
+    Vorbereitet werden die Diskussionen und Beschlussfassungen der GMK
+    durch Konferenzen der Amtsleitungen der Ministerien und
+    Senatsverwaltungen (ACK) und die Arbeitsgemeinschaft der Obersten
+    Landesgesundheitsbehörden (AOLG). Das BMG ist als Gast
+    <span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319730">bei
+    Tagungen </span>anwesend.
+    
+    Als Arbeitsgruppe der AOLG ist die Arbeitsgruppe
+    **Infektionsschutz<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319730">
+    </span>(AGI)** für die Fragen der Prävention und Bekämpfung
+    übertragbarer Krankheiten zuständig. Die AGI stimmt konkrete
+    Aufgaben und notwendige Maßnahmen im Bereich des Infektionsschutzes
+    ab. BMG, BMVg, RKI, Paul-Ehrlich-Institut (PEI), die Deutsche
+    Vereinigung zur Bekämpfung der Viruskrankheiten e.V. (DVV) und die
+    Bundeszentrale für gesundheitliche Aufklärung (BZgA) sind in der AGI
+    jeweils als Gast vertreten. Zur Vorbereitung des Krisenmangements
+    des ÖGD arbeitet die AGI mit anderen Arbeitsgruppen der AOLG
+    zusammen (z. B. AG Grundsatzfragen des ÖGD, AG Arzneimittelwesen, AG
+    Krankenhauswesen, AG
+    Rettungsdienst).
 
-  - <span class="approved-insertion" data-user="33" data-username="SasseJ" data-date="26319540">Arbeitsgemeinschaft
-    Infektionssschutz (AGI)
-    </span>
+  - **<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319730">Der
+    </span>Ständige<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319730">
+    </span>Arbeitskreis der Kompetenz- und Behandlungszentren für
+    Krankheiten durch hochpathogene Erreger
+    (STAKOB)<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319730">
+    </span>**versteht sich als interdisziplinäre Arbeitsgemeinschaft von
+    Expertinnen und Experten auf dem Gebiet des
+    Infektionsschutz-Managements und der klinischen Behandlung von
+    Patienten mit Krankheiten durch hochpathogene Erreger. Sie setzt
+    sich aus Vertretern der deutschen Behandlungszentren, in denen
+    Patienten mit Krankheiten durch hochpathogene Erreger versorgt
+    werden können, und den jeweiligen Vertretern des öffentlichen
+    Gesundheitsdienstes
+    zusammen.<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319710">
+    Die </span>Geschäftsstelle des STAKOB ist am Robert Koch-Institut
+    angesiedelt.
+
+  - Die **Stän­dige Impf­kom­mis­sion (STIKO)** ist ein un­ab­hängiges
+    Gremium von Expertinnen und Experten aus unterschiedlichen Bereichen
+    der Wissenschaft und Forschung, des Öffentlichen Gesundheitsdienstes
+    und der niedergelassenen Ärzteschaft. Die 1972 gegründete STIKO ist
+    seit 2001 im IfSG gesetzlich verankert. Die Tätig­keit der STIKO
+    wird von einer Ge­schäfts­stelle am Robert Koch-Instituts
+    koordiniert. Aufgabe der STIKO ist die Erarbeitung von
+    Impf­em­pfehl­ungen für Deutsch­land. Seit 2007 sind diese
+    Empfehlungen Grundlage für die Schutz­impfungs­richtlinie (SI-RL)
+    des Ge­mein­samen Bundes­aus­schusses (G-BA) und werden damit
+    Pflicht­leistung der ge­setzlichen Kranken­ver­sicherung (GKV) in
+    Deutschland. Die ehrenamtlichen Mitglieder werden vom BMG im
+    Benehmen mit den obersten Landesgesundheitsbehörden grundsätzlich
+    alle drei Jahre neu berufen. Vertreter des BMG und der Länder, des
+    RKI<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319830">,
+    </span>des PEI und anderer Bundesbehörden und Institutionen sind
+    beratend
+    tätig.
     
     ### <span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319400">Zuständigkeit in den Ländern:</span>
 
@@ -319,8 +426,10 @@ Falle einer Krise </span>finden sich hier:
     der Fachthemen
     geregelt.</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319430">
     Durch entsprechende Ausführungsgesetze oder-Verordnungen werden die
-    in Bundesgesetzen geregelte Aufgaben den jeweiligen Behörden
-    innerhalb des Bundeslandes zugewiesen.
+    in Bundesgesetzen
+    geregelte</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319830">n</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319430">
+    Aufgaben den jeweiligen Behörden innerhalb des Bundeslandes
+    zugewiesen.
     </span>
 
   - <span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319430">Die
@@ -353,8 +462,11 @@ Falle einer Krise </span>finden sich hier:
     
       - <span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319490">Für
         die Aufstellung und Unterhaltung von Feuerwehren (Freiwillige
-        Feuerwehr, Berufsfeuerwehr) sind gemäß der entsprechenden
-        Ländergesetze die Gemeinden zuständig.
+        Feuerwehr, Berufsfeuerwehr) sind gemäß
+        de</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319830">n</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319490">
+        entsprechenden
+        Ländergesetze</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319830">n</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319490">
+        die Gemeinden zuständig.
         </span>
     
       - <span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319430">Die

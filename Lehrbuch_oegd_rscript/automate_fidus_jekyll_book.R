@@ -6,7 +6,7 @@ library(stringr)
 library(rmarkdown)
 
 # Unzip the file
-unzip("lehrbuch-ffentlicher-gesundheitsdienst.html.zip")
+unzip("lehrbuch.zip")
 
 # This command lists all html files after deleting index.html
 file.remove("index.html")

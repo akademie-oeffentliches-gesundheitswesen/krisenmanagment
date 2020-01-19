@@ -5,3 +5,5 @@ rscript/.Rproj.user
 .Rproj
 .zip
 .Rproj.user
+*.RData
+*.RHistory

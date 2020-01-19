@@ -17,7 +17,7 @@ nav_order: 3
  
  
 <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318310">Eingriffe
-durch den Öffentlichen Gesundheitsdienst, stellen in der Regel einen
+durch den Öffentlichen Gesundheitsdienst stellen in der Regel einen
 </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318340">Grundrechtseingriff
 dar. Vordergründig kommen Eingriffe in
 </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318310">die
@@ -43,18 +43,21 @@ GG</span>](https://www.gesetze-im-internet.de/gg/art_1.html "Grundgesetz für di
 kommen immer wieder weitere Grundrechtseingriffe in
 </span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26319540">B</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318340">etracht.
 Jeglicher Eingriff in ein Grundrecht muss durch weiter ausführende
-Gesetze legetimiert werden.
+Gesetze
+leg</span><span class="approved-insertion" data-user="30" data-username="MoellerI" data-date="26319670">i</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318340">timiert
+werden.
 </span>
 
 <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318340">Das
 Grundgesetz regelt im weiteren die Gesetzgebungskompetenz zwischen dem
 Bund und den Ländern.
 </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318350">Die
-Länder spezifischen Gesetze und Verordnungen regeln
+</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319830">l</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318350">änderspezifischen
+Gesetze und Verordnungen regeln
 </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319410">neben
 </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318350">d</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319410">er</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318350">
 Zuständigkeit insbesondere auch die Art des Eingriffs, die Verpflichtung
-zum Eingriff sowie die den Umgang mit den erhobenen
+zum Eingriff sowie den Umgang mit den erhobenen
 Daten.</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318360">
 Im weiteren werden die wichtigen unterschiedlichen Normen dargestellt.
 Ein abschließende Auflistung der einzelnen Normen ist durch die
@@ -69,9 +72,8 @@ der Bundesrepublick
 Deutschland</span>**<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318330">
 ist Grundlage jeder Gesetzgebung, auch im Bereich des Krisenmanagements
 und der öffentlichen
-Gesundheit.</span>
-
-<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318330">  
+Gesundheit.</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319720">  
+</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318330">  
 Hervorzuheben sind:
 </span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318340">  
 </span>Art
@@ -87,7 +89,8 @@ verleiht<span class="approved-insertion" data-user="31" data-username="BoehmH" d
 -
 D</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318340">ies
 betrifft z.B. den Rettungsdienst und Katastrophenschutz, sowie die
-Gesetzgebung zum öffentlichen Gesundheitsdienst  
+Gesetzgebung zum öffentlichen
+Gesundheitsdienst</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26319830">.</span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318340">  
 </span>Art
 72<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318340">
 </span>(1) Im Bereich der konkurrierenden Gesetzgebung haben die Länder
@@ -105,13 +108,13 @@ wo der Bund durch das Infektionsschutzgesetz seine
 Gesetzgebungskompetenz genutzt
 hat.</span>
 
-## <span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26319470">Landesgesetzgebung</span>
+## **Ländergesetze über den Öffentlichen Gesundheitsdienst**
 
 **<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318320">Ländergesetze
 über den Öffentlichen
 Gesundheitsdienst</span>**<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318320">
 bzw. gleichartige Verordnungen regeln die Struktur,
-</span>Zuständigten<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318320">
+</span>Zuständig<span class="approved-insertion" data-user="30" data-username="MoellerI" data-date="26319670">kei</span>ten<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318320">
 und Aufgaben der Behörden des Öffentlichen Gesundheitsdienstes des
 jeweiligen Bundeslandes. Dabei
 </span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318330">sind,
@@ -129,7 +132,11 @@ worden.</span>
 Menschen** (Infektionsschutzgesetz -
 [IfSG](https://www.gesetze-im-internet.de/ifsg/ "https://www.gesetze-im-internet.de/ifsg/"))<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318320">
 </span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318410">regelt,
-welche Krankheiten meldepflichtig
+welche
+Krankheiten</span><span class="approved-insertion" data-user="30" data-username="MoellerI" data-date="26319670">
+und
+Erreger</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318410">
+meldepflichtig
 sind</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319360">,
 w</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318410">elche
 Angaben von den Meldepflichtigen
@@ -181,15 +188,17 @@ das BMG, die Bundesländer sowie weitere beteiligte Behörden
 (einschließlich der für die Gesundheitskommunikation zuständigen
 Behörden) regelmäßig über die Lage zu informieren und den fachlichen
 Informationsaustausch zu
-organisieren.</span>
+organisieren.</span><span class="approved-insertion" data-user="1" data-username="simon" data-date="26320870">
+</span>
 
-<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319440">Regelungen
+**<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319440">Regelungen
 der Zuständigkeiten gemäß des
-IFSG</span>
+I</span><span class="approved-insertion" data-user="30" data-username="MoellerI" data-date="26319670">f</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319440">SG</span>**
 
 <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319460">Viele
-Bundesländern regeln die Zuständigkeit gemäß des IFSG in eigenen
-Verordnungen
+Bundesländer regeln die Zuständigkeit gemäß des
+I</span><span class="approved-insertion" data-user="30" data-username="MoellerI" data-date="26319670">f</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319460">SG
+in eigenen Verordnungen
 (s.</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26319530">
 </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319460">Tabelle).
 In den übrigen Ländern findet sich die Zuständigkeit i.d.R. in den
@@ -206,59 +215,62 @@ jeweilegen ÖGDG\`s.
         | <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319430">Brandenburg</span>                                                                                                                                                                                                                                  | <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319430">Mecklenburg-Vorpommern</span>                                                                                                                                                                                                                       | [<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319430">Saarland</span>](sl.juris.de/cgi-bin/landesrecht.py?d=http://sl.juris.de/sl/gesamt/InfSchGZustV_SL_2016.htm "Verordnung über die Zuständigkeiten nach dem Infektionsschutzgesetz Vom 12. September 2016* ")                                                                                                                                                                                                                                                                                                                                                                                                     | [<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319430">Thüringen</span>](https://umwelt-online.de/recht//gefstoff/gen_tech/th/ifsgdv_ges.htm "Thüringer Verordnung zur Regelung von Zuständigkeiten und zur Übertragung von Ermächtigungen nach dem Infektionsschutzgesetz - Thüringen -  Vom 2. März 2016")                                                                                                                                                                    |
         
 
-        ## **<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26319470">Internationale Gesundheitsvorschriften</span>**
+    <!-- end list -->
+    
+    1.  ## **Die Internationalen Gesundheitsvorschriften<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318350"> </span>**([IGV 2005](http://www.who.int/ihr/publications/9789241580496/en/))
         
-        **Die Internationalen
-        Gesundheitsvorschriften<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318350">
-        </span>**
-        ([IGV 2005](http://www.who.int/ihr/publications/9789241580496/en/))
-        <span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319580">
-        stellen ein Abkommen zwischen 196 Ländern dar, um gemeinsam für
-        die globale Gesundheitssicherheit zu arbeiten. Sie </span>regeln
-        Kommunikationsinhalte, Kommunikationswege, Prozeduren
-        <span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318380">zur
-        Verhütung</span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319590">,
-        Erkennung,
-        Meldungen</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318380">
-        und Bekämpfung grenzüberschreitende Ausbreitung von Krankheiten.
-        Sie d</span>efinieren insbesondere auch Kernkapazitäten auf
-        lokaler
-        Ebene<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318380">
-        (auch an Häfen und Flughäfen)</span>,
-        <span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318380">L</span>ande<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318380">s</span>bene
-        und<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318380">
-        Bundes</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318390">e</span>bene,
-        die
-        <span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318380">z</span>ur
-        Erkennung und Bewältigung vorhalten
-        <span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318380">werden
-        </span>müssen<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26319530">.
-        Mehr Informationen zu den IGV befinden sich unter:
-        https://www.rki.de/DE/Content/Infekt/IGV/igv\_node.html
-        </span><span class="approved-insertion" data-user="37" data-username="SchmidtT" data-date="26319590">&
-        </span><https://www.who.int/ihr/about/en/>
+        regeln Kommunikationsinhalte, Kommunikationswege, Prozeduren und
+        definieren insbesondere auch Kernkapazitäten auf lokaler Ebene,
+        Bundeslandebene und nationaler Ebene, die die unterzeichnenden
+        Staaten zur Erkennung und Bewältigung vorhalten müssen (70).
+        Dazu gehören z. B. auch Kernkapazitäten an internationalen Häfen
+        und Flughäfen. Für Deutschland ist das [Regionalbüro der WHO für
+        Europa](http://www.euro.who.int/de/home) (Sitz in Kopenhagen)
+        zuständig, an das Deutschland Ereignisse, die eine potenzielle
+        Bedrohung für die internationale Gesundheit darstellen könnten,
+        übermittelt. Die nationale Anlaufstelle für die WHO auf
+        deutscher Seite ist das Gemeinsame Melde- und Lagezentrum von
+        Bund und Ländern (GMLZ), das die in Deutschland separat
+        laufenden Meldewege für chemische, biologische, radiologische
+        und nukleare Gefahren bündelt.
+        
+        Die nationale Ebene (RKI) sollte vom Gesundheitsamt über die
+        zuständige Landesbehörde bereits unterrichtet werden, wenn die
+        bloße Möglichkeit besteht, dass ein Ereignis nach den Kriterien
+        der Anlage 2 der IGV eine gesundheitliche Notlage von
+        internationaler Tragweite darstellt. Das umfasst neben dem
+        Auftreten einer entsprechenden Krankheit auch Tatsachen, die auf
+        das Auftreten einer übertragbaren Krankheit hindeuten oder
+        Tatsachen, die zum Auftreten einer übertragbaren Krankheit
+        führen können, übermittlungspflichtig (§ 12 Abs. 1
+        IfSG).
+        
+        ## **<span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26321000">G</span>esetz zur Durchführung der Internationalen Gesundheitsvorschriften**
         
         <span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318350">Das</span>**<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318350">
         </span>Gesetz zur Durchführung der Internationalen
         Gesundheitsvorschriften
         (2005<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318350">)</span>**<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318350">
-        (</span>[IGV -
-        DG](http://www.gesetze-im-internet.de/igv-dg/ "http://www.gesetze-im-internet.de/igv-dg/")<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318350">)
-        </span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318390">rgelt
-        u.a. die
-        M</span><span class="approved-insertion" data-user="20" data-username="ptinnemann" data-date="26319540">e</span><span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318390">ldepflichten
-        für </span>Luftfahrzeugführende und
-        Schiffsführende<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318390">.
-        Darüber hinaus benennt es das Gemeinsame Melde- und Lagezentrum
-        von Bund und Ländern als nationale IGV Anlaufstelle für die
-        WHO.</span>
+        (</span>IGV -
+        DG<span class="approved-insertion" data-user="29" data-username="GroteU" data-date="26318350">)
+        </span>ind Luftfahrzeugführende und Schiffsführende zur Meldung
+        verpflichtet, wenn
         
-        **Katastrophenschutzgesetze der
-        Länder**<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318350">
+        1.  eine Person an Bord ist, bei der klinische Anzeichen auf das
+            Vorliegen einer übertragbaren Krankheit hindeuten, die die
+            öffentliche Gesundheit erheblich gefährdet, oder
+        
+        2.  an Bord sonstige Anzeichen für eine erhebliche Gefahr für
+            die öffentliche Gesundheit
+        bestehen.
+        
+        ## **Katastrophenschutzgesetze der Länder**
+        
+        <span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318350">
         regeln die für den Katastrophenschutz zuständigen Behörden und
         deren Zuständigkeiten sowie
-        </span>Aufgaben<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318350">
-        in Vorbereitung und Bewältigung einer Katastrophe,
+        </span>Aufgaben<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318350">in
+        Vorbereitung und Bewältigung einer Katastrophe,
         </span><span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318360">die
         Mitwirkung bzw. Mitwirkungspflichten von Helfern und Dritten,
         die </span>Pflichten der Betreiber  
@@ -268,78 +280,140 @@ jeweilegen ÖGDG\`s.
         Personen<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318360">
         und der </span>Inanspruchnahme von
         Sachen<span class="approved-insertion" data-user="31" data-username="BoehmH" data-date="26318360">
-        zur Bewältigungb einer Katastrophe sowie die
-        Kostentragung.</span>
-        
-        # **D<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318350">atenschutz</span>**
-        
-        <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318380">Grundsätzlich
-        </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319460">ist
-        </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318380">die
-        Erfassung, Speicherung und Verarbeitung von Personen bezogenen
-        Daten unzulässig. Viele
-        </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319460">Maßnahmen</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318380">
-        im öffentlichen Gesundheitsdienst, insbesondere im Bereich der
-        Gefahrenabwehr, finden gegen den Willen des/r Betroffenen statt.
-        Daher sehen die vorgenannten Normen den Eingriff in
-        d</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319460">ie</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318380">
-        Grundrecht</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319460">e</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318380">
-        vor und legetimieren diese. Dabei wird in der Inhalt der zu
-        erfassenden
-        </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318390">D</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318380">aten,
-        der/</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318390">die
-        Adressaten sowie die Regelungen zum speichern, löschen und
-        verarbeiten der Informationen ausführlich in den Normen
-        festgelegt. Dem Recht der Behörden und Institute gegen den
-        Willen des/der Betroffenen den Umgang mit den personenbezogenen
-        Daten steht die Verpflichtung der
-        Transparenz</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318400">
-        (</span>[<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318400">Art.12
-        DSGVO</span>](https://dsgvo-gesetz.de/art-12-dsgvo/ " Art. 12 DSGVO Transparente Information, Kommunikation und Modalitäten für die Ausübung der Rechte der betroffenen Person")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318400">)
-        </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318390">
-        und Informationspflicht
-        (</span>[<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318390">Art.14
-        DSGVO</span>](https://dsgvo-gesetz.de/art-14-dsgvo/ " Art. 14 DSGVO Informationspflicht, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben wurden")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318390">)
-        der betroffenen Person gegenüber.
-        </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319460">Die
-        Verordnung</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318390">
-        untersch</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319460">eidet</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318390">,
-        ob die Daten
-        direkt</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318400">
-        (</span>[Art.13
-        DSGVO](https://dsgvo-gesetz.de/art-13-dsgvo/ "Art. 13 DSGVO Informationspflicht bei Erhebung von personenbezogenen Daten bei der betroffenen Person")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318400">)</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318390">
-        oder
-        indirekt</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318400">
-        (</span>[<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318400">Art.14
-        DSGVO</span>](https://dsgvo-gesetz.de/art-14-dsgvo/ " Art. 14 DSGVO Informationspflicht, wenn die personenbezogenen Daten nicht bei der betroffenen Person erhoben wurden")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318400">)</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26318390">
-        bei der betroffenen Person erhoben
-        werden</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319380">.
-        In beiden Fällen besteht seitens der Behörde eine
-        Informationspflicht. Als Basis für die Information dient ein
-        Musterfomular zum Umgang mit personenbezogenene
-        Daten:</span>
-        
-        **<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319400">(Link
-        zum Musterinformationsblatt Datenerhebung Informationspflicht
-        gem
-        DSGVO)</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319460">  
-        </span>**
-        
-        **<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319490">Datenschutzgrundverordnung
-        (</span>[<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319490">DSGVO</span>](https://dsgvo-gesetz.de/ "Datenschutzgrundverordnung")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319490">)</span>**<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319490">  
-          
-        </span>Die DSGVO als internationale Rechtsnorm steht dem
-        nationalen Recht unmittelbar vor. Als Verordnung gilt sie
-        unmittelbar und muss nicht in nationales Recht ratifiziert
-        werden.<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319490">
-        Sie gilt in allen der EU angehörigen Staaten und dient als
-        Rahmen für die nationale
-        Gesetzgebung.  
-          
-        </span>**<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26319490">DSG
-        (N  
-          
-        GSDG (NW)</span>**
+        zur Bewältigungb einer
+    Katastrophe</span>
+    
+    ## Datenschut<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">z</span>
+    
+    <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320920">Grundsätzlich
+    ist die
+    E</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">r</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320920">fassung,
+    Speicherung und Verarbeitung von personenbezogenen Daten unzulässig.
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320930">Viele
+    Maßnahmen im Öffentlichen Gesundheitsdienst, insbesondere in der
+    Gefahrenabwehr, finden gegen den Willen des/r Betroffenen statt.
+    Daher sehen die vorgenannten Normen den
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">E</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320930">ingriff
+    in die Grundrechte vor und legetimieren diese. Dabei wird er Inhalt
+    der zu erfassenden Daten, der Adressaten sowie die Regelungen zum
+    speichern, löschen und verarbeiten der informationen ausführlich in
+    den Normen festgelegt. Dem Recht der Behörden und Institute gegen
+    den Willen des/der Betroffenen zum Umgang mit den personenbezogenen
+    Daten steht die Verpflichtung der Transparenz
+    (</span>[<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320930">Art.12
+    DSVO</span>](https://dsgvo-gesetz.de/art-12-dsgvo/ " Art. 12 DSGVO Transparente Information, Kommunikation und Modalitäten für die Ausübung der Rechte der betroffenen Person")<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320930">)
+    und Informationspflicht gegenüber
+    de</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26321110">n
+    B</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320930">etroffenen.  
+    </span>
+    
+    ### <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">Datenschutzgrundverordnung (</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320910">DSGVO</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">)</span>
+    
+    Die DSGVO als internationale Rechtsnorm steht dem nationalen Recht
+    unmittelbar vor. Als Verordnung gilt unmmittelbar und muss nicht in
+    nationales Recht ratifiziert
+    werden.<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">  
+      
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320910">Das
+    Kapiel III der DSGVO behandelt die Rechte der
+    Betroffenen.  
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320920">Wichtig
+    für den Krisenfall ist die Informationspflicht bei der Erhebung von
+    personenbezogenen Daten. Die DSGVO unterscheidet dabei, ob die Daten
+    direkt oder indirekt bei der Person erhoben
+    werden</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">,
+    Art.
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320920">13,
+    14
+    DSGVO</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">.</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320920">  
+    Um der Informationspflicht nachzukommen verwendet man idealer weise
+    ein Informationsblatt, indem die notwendigen Informationen für den
+    Einzellfall eingetragen werden. Dies bietet auch die Möglichkeit zu
+    dokumentieren, dass man der
+    In</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">formationspflicht
+    nachgekommen ist.  
+    Als Basis für die Erstellung eines Informationsblatt dient das in
+    der Anlage
+    hinterlgt</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26321110">e</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">
+    Musterformular.</span>**<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">
+    (Link zum
+    Formular</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26321120">:
+    Musterinformationsblatt - Datenerhebung: Informationspflicht gem.
+    DSGVO</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">)</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320960">  
+    </span>**<span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320960">  
+    Besonders zu beachten, das der Art.9 DSVO besonders sensibkle Daten
+    Kategorisiert. Diese finden in den nationalen Datenschutzgesetzen
+    besondere Aufmerksamkeit. Hierzu zählen auch die
+    Gesundheitsdaten.</span>
+    
+    ### <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">Bundesdatenschutzgesetz (BDSG)</span>
+    
+    <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">Für
+    öf</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320950">f</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">entliche
+    Stellen des Bundes sowie öffentliche Stellen
+    der</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26321120">
+    Länder</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320940">,
+    sofern diese nicht
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320950">durch
+    Landesgesetz geregelt sind, ist das BDSG die zuständige Norm. Für
+    die Anwendung auf Länderebene oder im kommunalen Bereich findet Sie
+    in der Praxis in der Regel keine
+    Anwendung.</span>
+    
+    ### <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320950">Landesdatenschutzgesetze </span>
+    
+    <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320950">Für
+    den öffentlichen Gesundheitsdienst ab der Länderebene regeln die
+    Landesdatenschutzgesetze den Umgang mit den personenbezogenenn Daten
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320980">sowie</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320950">
+    die jeweilige Aufsichtsbehörde. Grundsätzlich ist hier festzustellen
+    das die gesetzlichen Regelungen sowie auch
+    bei</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320960">m
+    Bundesdatenschutzgesetz, sich an den Regelungen der DSGVO messen und
+    in der Regel inhaltsgleich
+    sind.</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320980">  
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320960">  
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320970">Der
+    Umgang mit
+    b</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320960">esonders
+    sensible</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320970">n</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320960">
+    personenbezogene</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320970">n</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320960">
+    Daten
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320970">wird
+    in den Datenschutzgesetzen ausdrücklich behandelt. So sieht der § 15
+    DSG NRW eine
+    Gar</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320980">a</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320970">ntie
+    zum Schutz
+    die</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320980">s</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320970">er
+    Daten vor. Im § 16 DSG
+    NRW</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320960">
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320970">werden
+    besondere Kriterien für die Verarbeitung der sensiblen
+    personenbezogenen Daten festgelegt.
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320980">Diese
+    gesetzlichen Vorgaben müssen bei der Planung für den (mobilen)
+    Einsatz der Gesundheitsbehörden mit berücksichtigt
+    werden.  
+    </span>
+    
+    ### <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320990">Gesundheitsdatenschutzgesetze</span>
+    
+    <span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320990">  
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320980">Für
+    den
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320990">B</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320980">ereich
+    der öffentlichen Gesundheitsvorsorge
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320990">gibt
+    es zusätzliche Gesundheitsdatenschutzgesetze. Diese dienen dem Recht
+    auf informationelle Selbstbestimmung im Bereich des
+    Gesundheitswesens. Sie gelten subsidiär gegenüber den anderen
+    Gesetzen</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26321000">.</span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26320990">
+    </span><span class="approved-insertion" data-user="35" data-username="PukropskiG" data-date="26321000">Neben
+    den gesetzlichen Legitimationen in den zuvor geannten Gesetzen
+    finden hier noch spezielle Anwendungsbereiche Berücksichtigung.
+    </span>
+    
+      
 
 <div class="section fnlist" data-role="doc-footnotes">
 
