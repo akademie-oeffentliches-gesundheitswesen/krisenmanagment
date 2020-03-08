@@ -1,4 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: akademie-oeffentliches-gesundheitswesen/lehrbuch-theme
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -20,8 +20,6 @@ aux_links:
     - ""
   "Web-Buch":
     - ""
-
-logo: "akademie.jpeg"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 1971 – 2019. Akademie für Öffentliches Gesundheitswesen in Düsseldorf. All rights reserved.  <br>
