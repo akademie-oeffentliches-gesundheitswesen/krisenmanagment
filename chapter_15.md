@@ -1,6 +1,6 @@
 ---
 layout: page
-title: KRIAutoren/innen Verzeichnis
+title: Autorenschaft
 nav_order: 15
 ---
  

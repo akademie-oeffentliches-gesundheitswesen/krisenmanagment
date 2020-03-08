@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 09.1. Szenarien: CBRN
+title: 09.1. Szenarien CBRN
 nav_order: 7
 ---
  

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 09.1. Szenarien: CBRN (B-Lagen)
+title: 09.1. Szenarien CBRN (B-Lagen)
 nav_order: 8
 ---
  

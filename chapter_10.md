@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Gesundheitsamt im Krisenmodus
+title: 11. Annex-Checkliste Gesundheitsamt im Krisenmodus
 nav_order: 10
 ---
  
