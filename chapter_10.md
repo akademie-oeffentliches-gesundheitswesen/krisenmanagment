@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11. Annex-Checkliste Gesundheitsamt im Krisenmodus
+title: 11. Annex-Checkliste: Gesundheitsamt im Krisenmodus
 nav_order: 10
 ---
  
@@ -23,7 +23,7 @@ nav_order: 10
 
 # Alarmierung
 
-☐ Regelung zum Eingang von Alarmmeldunebg (über Rufbereitschaft?)
+☐ Regelung zum Eingang von Alarmmeldungen (über Rufbereitschaft?)
 
 ☐ Checkliste für den ersten Alarmempfänger/Rufbereitschaftsdienst
 
@@ -67,9 +67,9 @@ Verantwortlichkeiten festlegen.
 
 ☐ Personalplanungsübersicht
 
-☐ Personalanwesenheiübersicht
-
 ☐ Muster für Dienstplan
+
+☐ Personalanwesenheitsübersicht
 
 ☐ Beteiligung Personalrat
 

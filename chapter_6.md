@@ -47,7 +47,7 @@ Den logistischen Maßnahmen können folgende Themen zugeordnet werden:
   - Entsorgungsmanagement
 
 Hier dargestellt, sind generische Hinweise. Für zahlreiche Erreger gibt
-spezielle Empfehlungen, z.B. auf den Seiten des Robert Koch-Instiuts
+es spezielle Empfehlungen, z.B. auf den Seiten des Robert Koch-Instiuts
 unter "Infektionskrankheiten A-Z", auf den Ländern der Landesbehörden
 oder ggf. der jeweils zuständigen Behörden.
 
@@ -82,11 +82,11 @@ Die Anforderung an die Labor-Diagnostik sind dementsprechend:
 
 Zur Optimierung der Diagnostik sind eine korrekte Probenahme sowie
 richtige Verpackung und Versand (ebenfalls in dieser Toolbox
-dargestellt) notwedige Voraussetzungen. Um in Krisenfall keine unnötige
+dargestellt) notwendige Voraussetzungen. Um in Krisenfall keine unnötige
 Zeit zu verlieren, sollten entsprechende Labore im Zuständigkeitsbereich
 bekannt sein, deren Diagnostiksprektrum bekannt sein und die
 Kontaktinformationen vorliegen. Zum reibungslosen Ablauf trägt bei, mit
-dem Labor die Probenahme abzustimmen - insbesondere, welche Art von
+dem Labor die Probennahme abzustimmen - insbesondere, welche Art von
 Proben am besten geeignet sind - und das Labor vorab zu informieren,
 damit es mit vorbereitenden Maßnahmen beginnen kann, solange die Probe
 noch unterwegs ist.
@@ -841,11 +841,14 @@ Zu den wichtigsten präventiven Maß­nah­men, die es im medizischen
 Bereicht gibt, gehören Impfungen. Da moderne Impfstoffe sehr risikoarm
 sind und einen sehr hohen Schutz bewirken, ist es inbesondere für
 mediznisches Personal sinnvoll, Impfangebote anzunehmen, um im Falle
-eines Krankheitsausbruchs geschützt zu sein. Für den Schutz der
-Bevölkerung sind hohe Impfquoten anzustreben, da diese es verhindern,
-dass sich Krankheitserreger ausbreiten. Bei den humanen Pocken ist es
-durch sehr hohe Impfquoten sogar gelungen, die Krankheit vollständig zu
-eliminieren. Aktuell wird dieses Ziel bei Masern und Polio angestrebt.
+eines Krankheitsausbruchs geschützt zu sein. Auch die Impfung gegen
+andere Krankheiten kann sinnvoll sein, um nicht aufgrund ähnlicher
+Krankheitssymptomatik als Krankheitsverdächtig zu gelten. Für den Schutz
+der Bevölkerung sind hohe Impfquoten anzustreben, da diese es
+verhindern, dass sich Krankheitserreger ausbreiten. Bei den humanen
+Pocken ist es durch sehr hohe Impfquoten sogar gelungen, die Krankheit
+vollständig zu eliminieren. Aktuell wird dieses Ziel bei Masern und
+Polio angestrebt.
 
 Bei neuen Krankheitserregern ist davon auszugehen, dass ein Impfstoff
 nicht (sofort) zur Verfügung stehen wird, sondern erst entwickelt werden
@@ -933,11 +936,40 @@ durchgeführt werden.
 
 # Entsorgungsmanagement
 
-Kontaminierte Gegenstände, die nicht sicher desinfiziert werden können,
-sind gemeinsam mit der benutzen und dekontaminierten PSA nach
-Abfallschlüssel 180103\* zu entsorgen.
+Die entstehenden Abfälle sollten möglichst in unmittelbarer Nähe des
+Anfallortes der Abfälle desinfiziert werden. Gegenstände, die mit
+Erregern, an die auch  aufgrund §17  Infektionsschutzgesetz besondere 
+Beachtung  erfordern, kontaminiert sind und die nicht sicher
+desinfiziert werden können, sind gemeinsam mit der benutzen und
+dekontaminierten PSA nach Abfallschlüssel 180103\* zu entsorgen. Für den
+Transport zur Sonderabfallverbrennungsanlage (SAV) muss entsprechend dem
+ADR der mit L4-Erregern kontaminierte Abfall grundsätzlich nach der
+Verpackungsvorschrift P620 mit der Kennzeichnung UN 2814 verpackt
+werden. Da in der Praxis hierzu aktuell nicht ausreichend große
+Behältnisse zur Verfügung stehen, kann der Abfall entsprechend der
+[multilateralen Vereinbarung
+M315](https://www.rki.de/DE/Content/InfAZ/E/Ebola/Muster_Verpackungsanleitung.pdf?__blob=publicationFile "https://www.rki.de/DE/Content/InfAZ/E/Ebola/Muster_Verpackungsanleitung.pdf?__blob=publicationFile")
+verpacktt werden. Der Transport von ansteckungsgefährlichen Stoffen ist
+im Wesentlichen durch das ADR geregeltund erfolgt als Klasse 6.2,
+Kategorie A. Für die Verbrennung von Abfällen aus
+Gesundheitseinrichtungen, die mit Erregern der Risikogruppe 4
+kontaminiert sind, sind in SAV zusätzlich zu den oben genannten Vorgaben
+keine weiteren Sonderregelungen notwendig. Aus bestehenden Verträgen
+oder Andienungsverpflichtungen zu diesem Abfallschlüssel leitet sich für
+den Betreiber der SAV eine Entsorgungsverpflichtung ab.
 
-# 
+Bei Erregern, die nicht unter die [Klasse 6.2 Kat.
+A](https://adrbook.com/en/2017/ADR/2.2.62 "https://adrbook.com/en/2017/ADR/2.2.62")
+fallen bzw. bei denen ausschliesslich Kulturen unter die Kat. A fallen,
+kann der Krankenhausabfall wie anderer infektiöser Abfall nach der
+Verpackungsvorschrift UN 3291 verpackt und entsprechend der [Mitteilung
+derBund/Länder-Arbeitsgemeinschaft Abfall
+(LAGA)](https://www.laga-online.de/documents/m_2_3_1517834373.pdf "https://www.laga-online.de/documents/m_2_3_1517834373.pdf")
+der Entsorgung zugeführt werden.
+
+Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver
+Sicht keine besonderen Anforderungen gestellt werden, können nach AS 18
+01 04 entsorgt werden.
 
 ## 
 

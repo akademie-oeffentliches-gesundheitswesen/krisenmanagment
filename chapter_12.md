@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11. Annex-Checkliste Planungshilfe Krankenhäuser
+title: 11. Annex-Checkliste: Planungshilfe Krankenhäuser
 nav_order: 12
 ---
  

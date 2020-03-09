@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Einführung 
+title: 00-HOME BETA-version
 nav_order: 1
 ---
  

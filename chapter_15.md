@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autorenschaft
+title: Autorenschaft 
 nav_order: 15
 ---
  
@@ -34,7 +34,7 @@ nav_order: 15
 <p>ehemals Senatsverwaltung für Gesundheit, Pflege und Gleichstellung, Berlin</p></td>
 </tr>
 <tr class="odd">
-<td><p>Ulrike Grote</p>
+<td><p>Ulrike Grote, MPH</p>
 <p>Robert Koch-Institut, Berlin </p></td>
 </tr>
 <tr class="even">
@@ -54,7 +54,7 @@ nav_order: 15
 <p>Bezirksverwaltung, Düsseldorf</p></td>
 </tr>
 <tr class="even">
-<td><p>Dr. meJulia Sasse</p>
+<td><p>Dr. rer. nat. Julia Sasse</p>
 <p>Robert Koch-Institut, Berlin</p></td>
 </tr>
 <tr class="odd">
@@ -74,7 +74,7 @@ nav_order: 15
 <p>Gesundheitsamt, Stadt Frankfurt am Main</p></td>
 </tr>
 <tr class="odd">
-<td><p>Dr. Peter Tinnemann, MPH</p>
+<td><p>Dr. med. Peter Tinnemann, MPH</p>
 <p>Akademie für Öffentliches Gesundheitswesen, Berlin</p></td>
 </tr>
 </tbody>

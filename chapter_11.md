@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11. Annex- Checkliste Kommunikation
+title: 11. Annex - Checkliste Kommunikation
 nav_order: 11
 ---
  
