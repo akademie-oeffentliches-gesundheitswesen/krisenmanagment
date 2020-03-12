@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 09.1. Szenarien: CBRN (B-Lagen)
+title: 10. Toolbox
 nav_order: 8
 ---
  
@@ -16,423 +16,970 @@ nav_order: 8
    <p></p>
  
  
-## 9.1. Biologische Gefahrenlagen (B-Lagen, infektiologische Lagen)
+In der Toolbox (Werkzeugkasten) werden fachliche und logistische
+Maßnahmen näher beschrieben, die bei infektiologischen Gefahrenlagen
+ggf. notwendig werden.
 
-Hier werden zunächst die biologischen Gefahrenlagen betrachtet, die auch
-als sogenannte B-Lagen oder infektiologische Gefahrenlagen bezeichnet
-werden, und die an sich bereits sehr vielfältig sind. Folgende sechs
-Teilszenarien sind zu unterscheiden:
+Zu den fachlichen Maßnahmen gehören
 
-1.  Einzelfall einer Erkrankung mit hochpathogenen Erregern
+  - Diagnostik
 
-2.  lokale Epidemie
+  - Arbeitsschutz/Persönliche Schutzausrüstung
 
-3.  überregionale Epidemie
+  - Surveillance
 
-4.  Pandemie
+  - Desinfektionsmaßnahmen
 
-5.  Fund einer auffäligen Substanz/Anschlag auf Einzelpersonen
+  - Schutzmaßnahmen
 
-6.  Bioterroristischer Anschlag
+  - Isolierung
 
-## Risikobewertung
+Den logistischen Maßnahmen können folgende Themen zugeordnet werden:
 
-Unter biologischen Gefahren versteht man im allgemeinen die Verbreitung
-von Infektionserkrankungen oder entsprechenden Erregern. Für die
-Gefährdungsbewertung in einer akuten Lage ist es hilfreich, das
-biologische Agens zu kennen. Es ist die Unterscheidung zu treffen, ob es
-sich um die Ausbruchssituation in beispielsweise einer Klinik handelt,
-wo das Agens/die Infektionsgefahr meist bekannt ist; oder ob es sich um
-das gehäufte Auftreten von Erkrankungen, des gleichen Formenkreises und
-unklarem Erreger handelt (beides am ehesten entsprechend Szenario 2,
-Figure 1). Dieses wäre zum Beispiel in einer Pflegeeinrichtung bei dem
-gehäuften Auftreten von gastroenteristischen Symptomen denkbar. Möglich
-ist in diesem Zusammenhang auch die Gefährdung durch "Bioterrorismus" 
-bei (noch) unbekanntem Status an Betroffenen (am ehesten Szenario 5;
-Figure 1). Hier kommt es auch darauf an labortechnisch entsprechende
-Testungen zur Verfügung zu haben. Existierende Schnelltests sind
-insbesondere bei Umweltproben nur bedingt zuverlässig und können sowohl
-zu falsch positiven als auch zu falsch negativen Ergebnissen führen.
-Eine Analytik in einem erfahrenen Labor ist daher in jedem Fall für eine
-Risikobewertung notwendig.
+  - Patiententransport
 
-Auch wenn die überwiegende Anzahl der Ausbruchsgeschehen eine natürliche
-Ursache hat, ist bei der Risikobewertung die Möglichkeit einer
-absichtlichen Ausbringung zu bedenken. 
+  - Probenmanagement
 
-Darüberhinaus sind folgende Kritien einzubeziehen:
+  - Therapie und Impfkonzept
 
-·       Infektionswege
+  - Umgang mit Leichen
 
-·       Infektionsroute
+  - Entsorgungsmanagement
 
-·        Behandlungsoptionen
+Hier dargestellt, sind generische Hinweise. Für zahlreiche Erreger gibt
+es spezielle Empfehlungen, z.B. auf den Seiten des Robert Koch-Instiuts
+unter "Infektionskrankheiten A-Z", auf den Ländern der Landesbehörden
+oder ggf. der jeweils zuständigen Behörden.
 
-·       Verfügbare Schutzmaßnahmen
+# Fachliche Maßnahmen
 
-·       Ausbreitungswahrscheinlichkeit
+## Diagnostik
 
-Für eine Risikoanalyse im Vorfeld einer Lage, bietet sich beispielsweise
-eine [Matrix aus Schadensausmaß und
-Eintrittswahrscheinlichkeit](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Downloads/Krisenmanagement/matrix_abb.html)
-an.
+Die Diagnostik zur Feststellung der Krankheit ist ein wesentlicher
+Bestandteil zur Beurteilung, welche therapeutischen und
+seuchenhygienischen Maßnahmen notwendig sind. Die Diagnostik reicht von
+der Anamnese über die körperliche Untersuchung bis zur apparativen
+Untersuchung inklusive der Laboranalytik. Bei vielen
+Infektionskrankheiten wird die Diagnostik dadurch erschwert, dass die
+Symptome bei Krankheitsbeginn häufig sehr unspezifisch sind, so dass
+eine Abklärung im Labor notwendig ist, um die Diagnose zu bestätigen.
 
-Eine Risikomatrix kann helfen, das zu erwartende Schadensausmaß
-einzuschätzen, wie der Szenarienüberblick in **Abbildung X** zeigt
-(Quelle:Generischer Plan für biologische Gefahrenlagen - Anhand von 5
-Szenarien; Version 2.0 | Senatsverwaltung für Gesundheit und Soziales -
-Abbildung modifiziert in Szenario 5 und
-6)<span class="comment" data-id="1920806625">.</span>
+Die Anforderung an die Labor-Diagnostik sind dementsprechend:
 
-![<span class="figure-cat-figure">Figuur</span><span data-caption="Überblick verschiedene Szenarien">Überblick
-verschiedene Szenarien</span>](12b7df8f-4ecc-43bd-8832-72c24096aef7.png)
+  - hohe Sensitivität: möglichst geringe Mengen eines Erregers müssen
+    nachweisbar sein, um falsch negative Ergebnisse zu vermeiden
 
-Für eine Risikobewertung ist es darüber hinaus notwendig, das Ziel zu
-definieren, das in der jeweiligen Situation erreichbar ist. So kann zu
-Beginn einer Epidemie das Ziel darin liegen, den Ausbruch zu verhindern
-oder zumindest hinauszuzögern, während bei einer flächendeckenden
-Epidemie die Aufrechterhaltung des sozialen Lebens im Vordergrund steht.
-Der Übergang zwischen den drei, im Folgenden dargestellten, Phasen ist
-fließend, so dass im Rahmen der Risikobewertung eine schrittweise
-Anpassung der eingesetzten Maßnahmen notwendig ist ( [Informationen des
-Robert Koch-Instituts zu empfohlenen Infektionsschutzmaßnahmen und
-Zielen](https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/07_20.pdf?__blob=publicationFile).
+  - hohe Spezifität: gute Unterscheidung zwischen ähnlichen
+    Erregern/Agentien, damit keine falsch positiven Ergebnisse vorkommen
 
-*1) Eindämmungsstrategie (Containment)*: In dieser Phase wird versucht,
-jeden einzelnen Erkrankten so früh wie möglich zu entdecken und umgehend
-zu isolieren. Alle Kontaktpersonen werden nachverfolgt und unter
-Beobachtung oder ggf. unter Quarantäne (insbesondere bei Erkrankungen,
-bei denen schon vor Symptombeginn andere Personen angesteckt werden
-können) gesetzt, um die Infektionskette schnellstmöglich zu
-unterbrechen. Bei dieser Strategie ist das Ziel, den Erreger wieder
-auszurotten. Wenn dies nicht möglich ist, soll versucht werden, Zeit für
-eine bestmögliche Vorbereitung zu gewinnen, z.B. Entwicklung von
-Therapie-Optionen und/oder Impfstoffen, Studien zu Eigenschaften des
-Erregers, Erhöhung von Behandlungskapazitäten in Kliniken, zeitliche
-Trennung von anderen Infektionsgeschehen (z.B. jährliche „Grippewelle“).
+  - hohe Stabilität: möglichst geringer Einfluss von Störfaktoren, die
+    das Ergebnis verfälschen und zu falsch positiven oder falsch
+    negativen Ergebnissen führen können (z.B. durch Hemmstoffe)
 
-*2) Schutz-Strategie vulnerabler Gruppen (Protection)*: Sobald es nicht
-mehr möglich ist, eine Ausbreitung des Erregers zu verhindern,
-konzentriert sich der Schutz verstärkt auf Personen/Personengruppen, für
-die ein erhöhtes Risiko für schwere Krankheitsverläufe besteht.
+  - hohe Schnelligkeit: möglichst kurze Zeitspanne bis zum Testergebnis,
+    damit die richtigen Maßnahmen so schnell wie möglich ergriffen
+    werden können
 
-*3) Folgenminderungs-Strategie (Mitigation)*: Sollte die Ausbreitung der
-Erkrankung so groß geworden sein, dass Schutz-Strategie besonders
-vulnerablen Gruppen nicht mehr möglich ist, zielen die Maßnahmen stärker
-auf die Minderung weiterer negativer Auswirkungen auf die Bevölkerung
-und darauf, die Folgen für das soziale Leben möglichst gering zu halten.
+Zur Optimierung der Diagnostik sind eine korrekte Probenahme sowie
+richtige Verpackung und Versand (ebenfalls in dieser Toolbox
+dargestellt) notwendige Voraussetzungen. Um in Krisenfall keine unnötige
+Zeit zu verlieren, sollten entsprechende Labore im Zuständigkeitsbereich
+bekannt sein, deren Diagnostiksprektrum bekannt sein und die
+Kontaktinformationen vorliegen. Zum reibungslosen Ablauf trägt bei, mit
+dem Labor die Probennahme abzustimmen - insbesondere, welche Art von
+Proben am besten geeignet sind - und das Labor vorab zu informieren,
+damit es mit vorbereitenden Maßnahmen beginnen kann, solange die Probe
+noch unterwegs ist.
 
-## Szenarienspezifische Kommunikation
+Während es zu Beginn eines Ausbruchs oder bei Erkrankungen mit hoher
+Letatlität notwendig ist, jeden einzelnen Fall zu diagnostizieren, kann
+es im Verlauf einer Epidemie aufgrund von Laborüberlastung oder
+eindeutigen epidemiologischen Zusammenhängen notwendig werden, bei der
+Erstellung von Diagnosen auf Falldefinitionen zurückzugreifen, die
+eigentlich zum Ziel haben, bundesweit einheitliche Kriterien im Rahmen
+der Überwachung von Infektionskrankheiten sicherzustellen.
 
-Insbesondere zu Beginn einer biologischen Lage muss davon ausgegangen
-werden, dass nicht bekannt ist, welche Eigenschaften der Erreger hat
-oder sogar, um welchen Erreger es sich handelt. Auch diese Unsicherheit
-muss kommuniziert werden - welche Tatsachen bekannt sind, welche
-vermutet werden und zu welchen weitere Untersuchungen laufen.
+## Arbeitsschutz / Persönliche Schutzausrüstung
 
-Ein besonderes Augenmerk bei der Kommunikation von Infektionskrankheiten
-besteht darin, dass der Nachbar / Mitmensch plötzlich als Bedrohung
-wahrgenommen wird. Daher kommt der Information über Ansteckungswege und
-die Schutzmaßnahmen eine hohe Bedeutung zu.  Bei einem abzusehenden
-Mangel von Schutzmitteln ist zudem damit zu rechnen, dass eine
-Priorisierung vorgenommen werden muss. Diese muss sehr sorgfältig
-abgewogen und klar kommuniziert werden - möglichst auch schon im Vorfeld
-einer Krise. In "Ruhezeiten" ist es für fast alle nachvollziehbar, dass
-in einer medizinischen Krise das medizinische Personal, dass sich um die
-Erkrankten kümmern soll, bevorzugt Prophylaxe bekommen muss.
+### Grundlagen
 
-Zur Risiko- und Krisenkommunikation wird auf Kapitel XXX verwiesen.
+Die Grundlage für Tätigkeiten mit Biologischen Arbeitsstoffen bildet die
+**Biostoffverordnung (BioStoffV)**
+(<https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html>)
+mit dem Ziel, die Sicherheit und Gesundheit der Beschäftigten und
+anderer Personen zu schützen. Der beim Bundesministerium für Arbeit und
+Soziales gebildete Ausschuss für Biologische Arbeitsstoffe (ABAS)
+(<https://www.baua.de/DE/Aufgaben/Geschaeftsfuehrung-von-Ausschuessen/ABAS/ABAS_node.html>)
+ermittelt auf Grundlage der Biostoffverordnung den Stand der
+Wissenschaft, Technik, Arbeitsmedizin und Arbeitshygiene und stellt
+diese in Form von **Technischen Regeln für Biologische Arbeitsstoffe
+(TRBA)**
+(<https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/TRBA.html>)
+zur Verfügung.
 
-## Alarmierung, Meldewege
+Sie decken die folgenden Themengebiete ab:
 
-Nach Infektionsschutzgesetz (IfSG) besteht eine unverzügliche
-Meldepflicht für Ärzte, Leiter von Einrichtungen und Laboren an das
-zuständige Gesundheitsamt. Die Gesundheitsämter haben eine
-unverzügliche Übermittlungspflicht an die oberste
-Landesgesundheitsbehörde, diese wiederum übermittelt an das RKI.
-Voraussetzung dafür ist eine 24/7 Erreichbarkeit. Nach § 16 IfSG stellt
-das Gesundheitsamt unverzüglich Ermittlungen an zur Herkunft des
-Erregers, zu Kontaktpersonen und legt Maßnahmen zur Verhinderung der
-Ausbreitung fest (Tätigkeits-/ Besuchsverbote, Beobachtung, häusliche
-Isolierung, Absonderung in einem entsprechenden Krankenhaus - z. B.
-Sonderisolierstation gemäß § 30 (6) IfSG....).
+  - Allgemeines, Aufbau und Anwendung
 
-Mit der behandelnden Einrichtung , der Pressestelle und der obersten
-Landesbehörde ist gemeinsam festzulegen, wie und wann die Öffentlichkeit
-zu informieren ist. Dafür ist eine zeitnahe Pressekonferenz
-einzuberufen. Vorher sind Verantwortlichkeiten festzulegen: wer leitet
-die Pressekonferenz, wer sagt was zu welchem Thema.
+  - Tätigkeiten mit biologischen Arbeitsstoffen (z.B. Schutzmaßnahmen in
+    Laboratorien, bei akuten biologischen Gefahrenlagen, Abfall,
+    Abwasser, Gesundheitswesen)
 
-Weitere Hinweise zur Alarmeierung und Meldeverfahren ergeben sich aus
-dem Kapitel Einsatzplanung in den Unterpunkten Alarmierung und
-Meldewege.
+  - Gefährdungsbeurteilung (z.B. Einstufung in Risikogruppen)
 
-## Führungsorganisation
+  - Hygiene- und Desinfektionsmaßnahmen
 
-Die Führungsorganisation im Krisenfall wird ausführlich im Kapitel XXX
-beschrieben.
+  - Beschlüsse des ABAS zu Anforderungen bei Tätigkeiten mit
+    biologischen Arbeitsstoffen in besonderen Fällen (z.B. Tuberkulose,
+    Polio, Influenza, hochpathogene Krankheitserreger)
+    
+    TRBAs sollen dabei unterstützen, die bestmöglichen
+    Arbeitsschutzmaßnahmen umzusetzen. Sie haben keinen
+    Gesetzescharakter. Es ist daher möglich, andere Maßnahmen
+    anzuwenden, die die gleiche Schutzwirkung haben.
+    
+    Der Arbeitsschutz arbeitet nach dem Prinzip, dass bauliche Maßnahmen
+    vor organisatorichen Maßnahmen und diese wiederum vor persönlichen
+    Maßnahmen zu prüfen sind. Dementsprechend ist vor jedem Einsatz eine
+    Gefährdungsbewertung durchzuführen und angemessene Schutzmaßnahmen
+    festzulegen. Es sollte nicht grundsätzlich der höchstmögliche Schutz
+    angewendet werden, da dieser einerseits den Träger unnötig belastet
+    und im ungünstigens Fall sogar dazu beitragen kann, dass Patienten
+    nicht optimal versorgt werden.
+    
+    ## Persönliche Schutzausrüstung
+    
+    In den TRBAs werden die Anforderungen an die Persönliche
+    Schutzausrüstung (PSA) beschrieben, z.B. innerhalb von
+    **Einrichtungen des Gesundheitswesens (TRBA 250)**
+    (<https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/TRBA-250.html>)
+    oder für die **Versorgung von Patienten mit hochkontagiösen
+    Erkrankungen außerhalb von Sonderisolierstationen (Beschluss 610)**
+    (<https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/Beschluss-610.html>).
+    In den TRBAs werden zahlreiche Normen aufgeführt, die die PSA
+    erfüllen muss. Für die Beschaffung von PSA ist es hilfreich, die
+    Erfüllung der genannten Normen vom Hersteller zu fordern, da dadurch
+    gewährleistet ist, dass der Stand der Wissenschaft eingehalten wird.
+    
+    Schutzausrüstungen werden auf der Grundlage der **Richtlinie
+    89/686/EWG** (Richtlinie des Rates vom 21. Dezember 1989 zur
+    Angleichung der Rechtsvorschriften der Mitgliedstaaten für
+    persönliche Schutzausrüstungen)
+    (<https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A31989L0686>)
+    hergestellt und klassifiziert. Im Einsatz gegen tödliche Gefahren
+    oder bei schwerwiegenden gesundheitlichen Folgeschäden kommt die
+    Kategorie III zum Einsatz.
+    
+    Bei der Auswahl von PSA kann grundsätzlich unterschieden werden
+    zwischen dem sogenannten Infektionsschutzset, das aus verschiedenen
+    Komponenten zusammengesetzt wird, und dem Gebläseanzug, der häufig
+    aus einem Einteiler mit einem externen Gebläse besteht.
+    
+    **FOTO: Infektionsschutzset vs. Gebläseschutz**
+    
+    Als Vorteil des Infektionsschutzsets werden der geringere Preis pro
+    Set und der niedrigere Wartungsaufwand aufgeführt. Die Vorteile des
+    Gebläseanzugs sind der höhere Tragekomfort, längere Tragezeiten,
+    bessere Kommunikationsmöglichkeiten bei Verwendung eines Headsets,
+    keine Geruchsbelästigung bei der Dekontamination (bei der Nutzung
+    von ABEK P3-Filtern). Auch wenn beim Infektionsschutzset die
+    Fehlerquote beim Anlegen höher ist als beim Gebläseschutz, benötigen
+    beide Systeme regelmäßiges Training. Insbesondere beim Ablegen der
+    PSA treten regelmäßig Fehler auf, die im Ernstfall lebensbedrohliche
+    Folgen haben können.
+    
+    Im Folgenden wird daher auf diese Komponenten in Auszügen gesondert
+    eingegangen, bezüglich der vollständigen Beschreibung wird auf die
+    TRBA 250 und den Beschluss 610 verwiesen.
+    
+    ### **Atemschutz**
+    
+    Die Atemwege werden durch partikelfiltierende Masken geschützt
+    (Filtering Face Piece, FFP). Die Dichtigkeit wird nach DIN EN
+    149:2001 auf Feinstäube und flüssige Aerosole geprüft. Die Klasse
+    gibt die Filterleistung an:
 
-## Akteure und Aufgaben
+  - FFP-1 höchstens 22%,
 
-Bei Biologischen Lagen ist in erster Linie das Gesundheitsamt zuständig.
-Es muss eine Vielzahl an Aufgaben bei biologischen Gefahrenlagen
-übernehmen.
+  - FFP-2 höchstens 8% und
 
-Folgende Aufgaben können beispielhaft benannt werden:
+  - FFP-3 höchstnes 2% Gesamtleckage
+    
+    Mit Abnahme der Leckage steigt die Schutzwirkung, aber auch die
+    Belastung durch erschwertes Atmen. Ein Ausatemventil trägt im
+    Gegenzug zur Reduzierung der Belastung bei und sollte daher
+    insbesondere bei FFP-3 Masken gewählt werden. Zusätzlich wird die
+    Schutzwirkung durch den korrekten Sitz beeinflusst. Aufgrund
+    unterschiedlicher Kopfformen muss individuell getestet werden,
+    welche Maske für wen am besten geeignet ist. Hierzu ist ein
+    sogenannter FIT-Test durchzuführen. Bei Bartträgern oder stark
+    vernarbter Haut im Bereich der Dichtlippe ist davon auszugehen, dass
+    kein Dichtsitz erreicht wird. Um einen zusätzlichen Spritzschutz zu
+    gewährleisten, sollte das Filterflies zusätzlich nach DIN EN 14683
+    (Spritzschutz IIR) geprüft sein.
+    
+    Der häufig verwendete Mund-Nasen-Schutz ("OP-Maske") stellt keinen
+    Atemschutz dar. Er ist in erster Linie bei erkrankten Personen
+    einzusetzen, die gesundheitlich in der Lage sind, ihn zu nutzen, um
+    die Verteilung von Erregern zu verringern. Eine Atemschutzmaske mit
+    Ausatemventil darf hingegen bei Erkrankten nicht angewendet werden,
+    da sie einerseits beim Einatmen einen hohen Atemwiderstand aufweist,
+    andererseits beim Ausatmen keine Filterwirkung hat.
+    
+    Bei Verwendung einer Vollmaske oder eines Gebläseschutzanzugs können
+    Filter gewählt werden, die zusätzlich gegen Gase / Chemikalien
+    schützen. Die Deutsche Gesetzliche Unfallversicherung (DGUV) hat
+    wichtige **Hinweise zur Benutzung von Atemschutzgeräten**
+    (<https://publikationen.dguv.de/regelwerk/regeln/1011/benutzung-von-atemschutzgeraeten>)
+    zusammengestellt.
 
-  - Risikobewertung
+### Augenschutz
 
-  - Risiko- und Krisenkommunikation
+Bei der Auswahl von Augenschutz im Rahmen eines Infektionsschutzsetzs
+ist darauf zu achten, dass er mit den anderen Komponenten zusammen
+passt. Besonders kritisch ist der Übergang von Atemschutzmaske und
+Schutzbrille. Bei Gebläseschutzanzügen ist der Augenschutz integriert.
+Je nach Risikobewertung kann eine Vollbrille notwendig sein, die rundum
+geschlossen, ungelüftet und beschlagsfrei ist. Wenn keine Gefahr einer
+Aerosolbildung besteht, kann auch Gesichtsvisier genutzt werden. Die
+Prüfkriterien sind in der EN 166 festgelegt. Entsprechend dieser Norm
+sollte die Schutzbrille die Rahmenkennzeichnung 5 aufweisen.
 
-  - Interne Kommunikation
+### **Handhygiene**
 
-  - Aufklärung der Bevölkerung
+Da die meisten Erreger über Hände übertragen werden, kommt auch dem
+Handschutz eine besondere Bedeutung zu. Hierbei ist zu betonen, dass
+Handschuhe die biologischen Agenzien ebenfalls übertragen können. Die
+Benutzung von Handschuhen befreit nicht von der Händehygiene. Bei der
+Wahl der Handschuhe ist sowohl auf mechanischen als auch auf
+biologischen Schutz zu achten.
 
-  - Fachliche Vorbereitung der Pressearbeit, ggf. Hotline einrichten
+Empfehlenswert ist, sich innerhalb der Gemeinde/des Landkreises mit den
+anderen Behörden abzustimmen und ein einheitliches PSA- und auch
+Dekontaminations- und Schulungs-Konzept auszuarbeiten.
+
+### Bedarf an Schutzausrüstung
+
+Um den Verbrauch an PSA kalkulieren zu können, ist sowohl die Art als
+auch die Schwere der Erkrankung zu berücksichtigen, da von ihr
+einerseits die Art der PSA, andererseits die Häufigkeit der Kontakte mit
+den unterschiedlichen Berufsgruppen abhängt. Eine übersichtliche
+Kalkulationshilfe haben die Centers of Disease Control and Prevention
+auf ihrer Internetseite publiziert. Anhand von fünf unterschiedlichen
+Szenarien wird der Bedarf beispielhaft dargestellt: "**Estimated
+Personal Protective Equipment (PPE) Needed for Healthcare Facility**"
+(<https://www.cdc.gov/vhf/ebola/healthcare-us/ppe/calculator.html>).
+
+**MERKE: Der wichtigste persönliche Schutz ist die Inanspruchnahme der
+möglichen Schutzimpfungen\!\! Mit dem Betriebsarzt muss eine
+Gefährdungsanalyse erstellt werden.**
+
+## Surveillance
+
+Unter epidemiologischer Überwachung / Surveillane wird "die fortlaufende
+systematische Sammlung, Analyse, Bewertung und Verbreitung von
+Gesundheitsdaten zum Zweck der Planung, Durchführung und Bewertung von
+Maßnahmen zur Krankheitsbekämpfung verstanden"
+<span class="citation">RKI, 2020 (n.d.)</span>. Die Surveillance dient
+der Früherkennung und Verhinderung der Weiterverbreitung von Infektionen
+
+Im Dritten Abschnitt es [Infektionsschutzgesetzes
+(IfSG)](https://www.gesetze-im-internet.de/ifsg/ "https://www.gesetze-im-internet.de/ifsg/")
+sind die gesetzlichen Grundlagen für das Meldewesen in Deutschland
+festgeschrieben. Dort sind festgelegt die meldepflichtigen Krankheiten,
+Krankheitserreger sowie zur Meldung verpflichtete Personen sowie die
+Meldewege vom Gesundheitsamt über Landesbehörden bis zur Bundesbehörde
+und der Weltgesunheitsorgansiation. In Krisenfällen ist das BMG durch
+§15 ermächtigt, mittels Rechtsverordnung entsprechend der
+epideiologischen Lage, die Meldepflichten aufzuheben, einzuschränken
+oder zu erweitern.
+
+## Desinfektionsschutzmaßnahmen
+
+Da Krankheitserreger häufig auch über belebte und unbelebte Oberflächen
+weiterverbreitet werden können, ist es zur Verhinderung einer
+Weiterverbreitung von Krankheitserregern erforderlich, alle Gegenstände,
+mit denen eine infektiöse Person in Kontakt gekommen sein könnte,
+regelmäßig zu desinfizieren. Insbesondere die Abschlussdesinfektion,
+wenn ein Patient einen Ort verlässt, z.B. den Rettungswagen oder das
+Zimmer nach Entlassung, ist notwendig, um Personen, die die
+Räumlichkeiten anschließend betreten zu schützen. Bei
+aerosolübertragbaren Krankheiten kann es zusätzlich notwendig sein,
+neben einer Scheuer-Wischdesinfektion, eine Raumdesinfektion
+durchzuführen.
+
+Desinfektionsmaßnahmen betreffen auch Personen, die durch eine
+infektiöse Person oder Gegenstände kontaminiert worden sein könnten.
+Besondere Bedeutung kommt hierbei der Händehygiene zu, da die meisten
+Krankheiten über kontaminierte Hände übertragen werden. Während es im
+häuslichem Umfeld häufig ausreichend ist, die Hände gründlich zu
+waschen, ist zum Schutz der Mitarbeitenden, der Erkrankten und der
+Besucher in Bereichen mit gefährlichen Krankheitserregern, wie z.B. im
+medizischen Bereich und in Diagnostiklaboren, vorgeschrieben, die Hände
+zu desinfizieren.
+
+Im §18 des IfSG ist festgeschrieben, dass bei behördlich angeordnenten
+Desinfektionsmaßnahmen ein Desinfektionmittel und -methode angewendet
+werden dürfen, die von der zuständigen Bundesoberbehörde, in diesem Fall
+dem Robert Koch-Institut, im Bendesgesundheitsblatt bekannt gemacht
+wurde. Bei der Desinfektion werden thermische, chemische und sonstige
+Verfahren unterschieden. Bei der Auswahl eines geeingeten
+Desinfektionsmittels ist es notwendig, die Wirkungsbereiche zu beachten.
+Diese sind in der Desinfektionsmittelliste - hier vereinfacht
+dargestellt - unterschieden nach:
+
+A - zur Abtötung von vegetativen Bakterien
+
+B - zur Inaktivierung von Viren, wobei „viruzid“ sowohl gegen behüllte
+als auch gegen unbehüllte Viren wirksam ist, während „begrenzt viruzid“
+vorzugsweise gegen behüllte Viren wirkt
+
+C - zur Abtötung von Sporen des Erregers des Milzbrandes
+
+D- zur Abtötung von Sporen der Erreger von Gasödem und Wundstarrkrampf
+geeignet
+
+Hier ist die **Liste der vom Robert Koch-Institut geprüften und
+anerkannten Desinfektionsmittel und -verfahren**
+[Desinfektionsmittelliste](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste_node.html "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste_node.html")
+einsehbar
+([https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste\_node.html](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste_node.html "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste_node.html")).
+
+Da eine fachgereche Desinfektion hohe Fachkompetenz und Erfahrung
+voraussetzt, beschreibt die **Kommission für Krankenhaushygiene und
+Infektionsprävention**
+([https://www.rki.de/DE/Content/Kommissionen/KRINKO/krinko\_node.html](https://www.rki.de/DE/Content/Kommissionen/KRINKO/krinko_node.html "https://www.rki.de/DE/Content/Kommissionen/KRINKO/krinko_node.html")),
+in einer **Empfehlung: Personelle und organisatorische Voraussetzungen
+zur Prävention nosokomialer Infektionen**
+([https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili\_Hygmanagement.pdf](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili_Hygmanagement.pdf "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili_Hygmanagement.pdf")).
+
+Während unter Dekontamination üblicherweise die Reduktion von
+schädlichen Agentien auf ein gesundheitsunschägliches Maß verstanden
+wird, bedeutet Desinfektion, die Abtötung bzw. irreversible
+Inaktivierung von Krankheitserregern. Eine Dekontamination kann daher,
+in Gegensatzh zur Desinfektion, ausschliessliche eine mechanische
+Entfernung ohne Inaktivierung/Abtötung darstellen (**siehe dazu auch:
+Dekontamination betroffener Personen**).
+
+## Schutzmaßnahmen
+
+### Postexpositionsprophylaxe
+
+Grundsätzlich besteht bei einigen Infektionskrankheiten die Möglichkeit,
+das durch eine unmittelbar nach einer Exposition / möglichen Infektion
+eingeleitete Prophylaxe der Ausbruch einer Krankheit verhindert wird.
+
+Beispiele für Krankheiten, die mit antibiotischer
+Postexpositionsprophylaxe (PEP) verhindert werden können sind z.B.:
+
+  - Meningokokken-Meningitis
 
 <!-- end list -->
 
-  - Ermittlung von Kontaktpersonen, Festlegen von antiepidemischen
-    Maßnahmen nach IfSG, Kategorisierung von Kontaktpersonen
+  - Milzbrand
 
-  - infektionsepidemiologische Routineerfassung
+  - Tularämie
 
-  - Arbeitsschutz, Sicherstellung der Versorgung mit persönlicher
-    Schutzausrüstung
+  - Pest
 
-  - Anordnung von diagnostischen Maßnahmen und Entscheidung über das
-    Untersuchungsspektrum
+Auch einige Viruserkrankungen können im Rahmen eines individuellen
+Heilversuchs durch eine PEP möglicherweise verhindert werden, z.B.
 
-  - Schutzmaßnahmen zur Kontaktreduzierung
+  - virale hämorrhagische Fieber
 
-  - Hinweise zu Verhaltensmaßnahmen
+  - Pocken
 
-  - Organisation und Überwachung des Patienten
+  - Influenza
 
-  - Regelung der Probenahme und des Probentransports
+Bei Ansteckungsverdächtigen muss die Möglichkeit und Sinnhaftigkeit
+einer PEP geprüft werden.
 
-  - Wahrnehmung der Informations- und Beratungsaufgaben für andere
-    Behörden, Einrichtungen und für die Bevölkerung
+Der ÖGD sollte für den eigenen Zuständigkeitsbereich aktuelle
+Risikobewertungen vornehmen. Dazu gehört die folgenden Fragen zu klären:
 
-<!-- end list -->
+  - Mit welchen Infektionskrankheiten muss (realistisch) gerechnet
+    werden?
 
-  - Festlegen und Überwachen von Absonderungen
+  - Welche dieser Krankheiten sind einer medikamentösen PEP zugänglich?
 
-  - Entscheidung über Art und Umfang der Desinfektionsmaßnahmen und
-    deren Überwachung
+  - Welche Medikamente sind als PEP geeignet?
 
-  - ggf. Entscheidung über Dekontaminationsmaßnahmen
+  - Sind diese Medikamente für den ÖGD auch in Krisensituationen in
+    ausreichender Menge verfügbar?
 
-<!-- end list -->
+  - Ist eine eigene Bevorratung von Medikamenten sinnvoll? Sind bei
+    Bevorratung u.U. auch die Bestände benachbarter GA's bekannt?
 
-  - Amtsärztliche Veranlassung der Absonderung
+  - Gibt es einen Plan zur Verteilung der PEP?
 
-  - Anordnung der Leichenschau, Beurkundung eines Sterbefalles,
-    Überwachung des Leichentransports und der Kremierung
+  - Sind die Ressourcen zur Verteilung einer PEP auch im Krisenfall
+    verfügbar?
 
-<!-- end list -->
+  - Ist Informations- und Dokumentationsmaterial für den Fall einer PEP
+    vorbereitet?
 
-  - Entsorgungmanagement
+  - Sind postexpositionelle Impfungen möglich und sinnvoll?
 
-  - ggf. Koordination von Impfungen
+  - Sind die benötigten Impfstoffe in ausreichender Anzahl verfügbar?
 
-  - ggf. Organisationen der Postexpositionsprophylaxe
+  - Ist Material zum Transport, zur Lagerung und zur Verabreichung der
+    Impfstoffe vorhanden?
 
-  - Dokumentation und Evaluierung
+  - Gibt es einen Plan zur Verabreichung postexpositioneller Impfungen?
 
-Neben den Gesundheitsämter wirken die Landesbehörden und
-Gesundsheitsministerien im Ereignisfall mit. Diese Einrichtungen sind
-grundsätzlich bei den Meldeverfahren beteiligt. Die konkreten Aufgaben
-in einem Einsatzfall sind länderspezifisch unterschiedlich geregelt.
+  - Ist Informations- und Dokumentationsmaterial für den Fall einer
+    postexpositionellen Impfung vorbereitet?
 
-Das Robert Koch-Institut hält als wissenschaftlich-medizinische
-Einrichtung der Bundesregierung die Gesundheit der Bevölkerung (Public
-Health) im Blick. Es ist für die Bekämpfung von Infektionskrankheiten
-verantwortlich. Eine besondere Rolle im RKI spielt die Weiterentwicklung
-von Methoden und die Gestaltung wissenschaftlicher Standards, etwa die
-Aufgabe als Referenz-Untersuchungsstelle beim Verdacht auf die
-absichtliche Freisetzung von Krankheitserregern. Das Robert
-Koch-Institut berät aufgrund der gesetzlichen Vorgaben primär die
-Fachöffentlichkeit und die Politik. Dennoch gehört es zum
-Selbstverständnis, über relevante Infektionsrisiken und
-Gesundheitstrends auch Bürger und Patienten zu informieren, oder auf
-Informationsmöglichkeiten hinzuweisen. Möglichst viele sollen sich ein
-eigenes Urteil bilden können, um in einer bedrohlichen oder als
-bedrohlich empfundenen Situation angemessen zu reagieren und ihre eigene
-gesundheitliche Situation zu verbessern. (aus Institutsbroschüre:
-Gesundheit schützen, Risiken erforschen)
+## Isolierung/Absonderung/Quarantäne
 
-Der **st**ändige **A**rbeitskreis der **Ko**mpetenz- und
-**B**ehandlungszentren
-([STAKOB](https://www.rki.de/DE/Content/Kommissionen/Stakob/Stakob_node.html))
+Das Ziel von Isolierung/Absonderung/Quarantäne ist, eine
+Weiterverbreitung von Krankheitserregern zu reduzieren oder möglichst zu
+verhindern (siehe:
+[https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch\_Infektionsschutz.pdf](https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch_Infektionsschutz.pdf "Fachwörterbuch Infektionsschutz")).
+
+Das IfSG beschreibt die Maßnahmen hierzu in gestufter Weise in §§28 und
+30.
+
+Im Sinne des §30 IfSG ist die Absonderung/Quarantäne eine
+Isolierungsmaßnahme für Kranke, Krankheitsverdächtige,
+Ansteckungsverdächtige und Ausscheider. Diese kann in einem geeigneten
+Krankenhaus oder in sonst geeigneter Weise erfolgen. Für Ausscheider
+sind Ausnahmen möglich wenn andere Schutzmaßnamen befolgt werden.
+
+In Abgrenzung zur Absonderung/Quarantäne sind auch Isolierungsmaßnamen
+nach §28 möglich, bei denen Personen verpflichtet werden den Ort an dem
+sie sich befinden nicht zu verlassen oder bestimmte Orte nicht zu
+betreten. Hierzu könnte beispielsweise auch die häusliche Isolierung
+gezählt werden.
+
+### Praktische Aspekte von Isolierungsmaßnahmen
+
+Erfahrungen von Ausbrüchen in den letzten Jahren, bei denen z.B. eine
+häusliche Isolierungs angeordnet wurde, zeigen, dass den Betroffenen
+häufig der Hintergrund für die Sinnhaftigkeit der Maßnahme fehlte und
+sie teilweise lediglich als „Arbeitsverbot“ verstanden wurde oder dass
+sie zwar die Wohnung nicht verlassen sollten und im Gegenzug Besuch
+eingeladen hatten.
+
+Entsprechend empfiehlt es sich, die Anordnung schriftlich an die
+Betroffenen auszugeben und auf die Folgen bei Nichteinhaltung aufmerksam
+zu machen. Verstöße können mit einer Geld- oder Freiheitsstrafe geahndet
+werden.
+
+Es ist wichtig den Betroffenen Empfehlungen zu geben, wie sie sich im
+häuslichen Umfeld verhalten sollen, insbesondere wenn sich weitere
+Personen in derselben Wohnung aufhalten, für die keine
+Isolierungsmaßnamen fesgelegt wurden. Hierzu gehören die Händehygiene
+sowie das gegenseitige Abstandhalten. Insbesondere bei Familien mit
+kleinen Kindern kann dies eine große Herausforderung darstellen.
+
+Eine besondere Herausforderung kann auch die Versorgung von betroffene
+Personen darstellen, die keine Nachbarn oder Angehörige haben, die sie
+mit Lebensmitteln versorgen können. Hierzu sollte das Gesundheitsamt
+eine Liste mit Unterstützungsangeboten vorbereiten, z.B. Lieferdienste
+von Lebensmittelgeschäften oder Apotheken.
+
+Auch die seelische Gesundheit stellt einen wichtigen Pfeiler dar, da
+z.B. Ängste, Sorgen vor Ansteckung und Einsamkeit dazu beitragen können,
+dass die behördliche Anordnung nicht eingehalten oder abgebrochen wird.
+Informieren Sie daher die Betroffenen über Möglichkeiten, wie sie sich
+beschäftigen und fit halten können, wie sie weiterhin mit der Umwelt in
+Verbindung bleiben können und an wen sie sich im Notfall werden können.
+
+# 
+
+# Logistische Maßnahmen
+
+## Rettungsdienstlicher Patiententransport
+
+Der Patiententransport in B-Lagen stellt den Rettungsdienst vor
+besondere Herausforderungen.
+
+In der Regel ist der Transport dekontaminierter Patienten anzustreben.
+Die **Feuerwehr-Dienstvorschrift „Einheiten im ABC – Einsatz“** (FwDV
+500)
+([https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext\_Fw\_Dv/FwDV%20500-2012,1.pdf](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/FwDV%20500-2012,1.pdf;jsessionid=3BA3A43E8BA30225A703411AEEE48E8A.1_cid320?__blob=publicationFile))
+führt dazu aus:
+
+*"Kontaminierte Verletzte sind - soweit medizinisch vertretbar - unter
+Verantwortung und Anleitung durch den Rettungsdienst (Notarzt) zu
+dekontaminieren. (...) Bei einigen ABC-Gefahrstoffen, die bei
+Kontaminationsverschleppung eine erhebliche Schadenausweitung
+hervorrufen würden (z. B. Kampfstoffe, besonders B-Kampfstoffe und
+ansteckungsgefährliche Stoffe), ist eine Dekontamination/ Desinfektion
+an der Einsatzstelle erforderlich." <span class="citation">(AFKzV,
+2012)</span>*
+
+Der Transport nicht dekontaminierter Patienten in C-, R- und N-Lagen
+kann im Nachgang zu schwerwiegenden Problemen führen. Neben der
+Gefährdung von Personal und Bevölkerung kann es zu einer
+Kontaminationsverschleppung in Transportmittel und im Weiteren auch in
+Einrichtungen der Gesundheitsversorgung kommen. Im Verlauf einer Krise
+führt dies im ungünstigsten Fall zu einem Ausfall dieser Infrastruktur.
+
+## B-Lagen
+
+Der Transport infektiöser Patienten durch den Rettungsdienst folgt meist
+einer anderen Logik als bei C- und RN-Lagen. Da der Patient den Erreger
+stetig ausscheidet, ist eine Dekontamination häufig nicht sinnvoll.
+Diese Transporte setzen gewisse Schutzmaßnahmen voraus. Die Akteure des
+Rettungsdienstes erstellen hierzu Hygienepläne. Diese sollten in
+Zusammenarbeit und in Abstimmung mit den verantwortlichen Personen im
+Gesundheitsamt erarbeitet werden.
+
+Der Umfang der notwendigen Schutzmaßnahmen muss sich an einer Einstufung
+des Patienten orientieren. Hierzu sei an dieser Stelle auf die
+Informationen des Landesinstitut für Arbeitsgestaltung NRW:
+Infektionsgefährdung im Rettungsdienst
+(<https://www.lia.nrw.de/themengebiete/Arbeitsschutz-und-Gesundheit/Biostoffe/Infektionsgefaehrdung-im-Rettungsdienst/index.html>)
+verwiesen.
+
+## Dekontamination kontaminierter Personen
+
+Bei Personen, die äußerlich mit Erregern kontaminiert wurden, ist eine
+Dekontamination vor einem Transport hingegen sinnvoll, um eine
+Kontaminationsverschleppung zu verhindern. Exemplarisch sei der
+Transport einer Person genannt, die mit einer unbekannten biologischen
+Substanz in Kontakt gekommen ist. Dieser Patient ist zu dekontaminieren.
+Es ist davon auszugehen, dass alleine durch Entfernung der Kleidung ein
+Großteil der Kontamination entfernt werden kann. Der Körper ist
+anschließend mit reichlich Wasser und Seife mechanisch zu reinigen. Das
+Duschwasser sollte – wenn möglich – aufgefangen und einer gesonderten
+Dekontamination zugeführt werden (z.B. chemisch oder thermisch). Eine
+dekontaminierte Person gilt trotzdem weiterhin als
+ansteckungsverdächtig.
+
+Hierzu sei an dieser Stelle auf die Informationen des RKI zum Thema
+"**Pulverfund**" verwiesen
+([https://www.rki.de/DE/Content/Infekt/Biosicherheit/Poststellen/Pulverfund.pdf](https://www.rki.de/DE/Content/Infekt/Biosicherheit/Poststellen/Pulverfund.pdf "Pulverfund")).
+
+## Transportkapazitäten in der Krise
+
+In Vorbereitung auf eine Krise ist es notwendig, sich im zuständigen
+Rettungsdienst zu informieren, welche Schutzmaßnahmen umgesetzt werden
+und welche Erkrankungsfälle in welcher Anzahl sicher transportiert
+werden können.
+
+Es müssen bei der Verfügbarkeit von Rettungsmitteln auch Ausfallzeiten
+durch Desinfektion bedacht werden. Der Ausfall von Personal im Rahmen
+von Ausbruchgeschehen sollte bedacht werden.
+
+  - Welche Kapazitäten kann der zuständige Rettungsdienst im Rahmen von
+    Infektionstransporten realistisch zur Verfügung stellen?
+
+  - Welche weiteren Kapazitäten können, z.B. im Rahmen der überörtlichen
+    Hilfe, in welcher Zeit mobilisiert werden?
+
+  - Sind Meldewege und Zuständigkeiten geklärt?
+
+## Sonderisolier- oder Hochinfektionstranssport
+
+Regelmäßig wird es auf lokaler Ebene nicht möglich sein, Patienten mit
+lebensbedrohlichen hochansteckenden Erkrankungen sicher zu
+transportieren. Zu diesen Erkrankungen zählen z.B.
+
+  - Lungenpest
+
+  - Pocken
+
+  - virale hämorrhagische Fieber
+
+Allein der Verdacht auf eine dieser Erkrankungen sollte zu einem
+Transport mit angemessenen Schutzmaßnahmen führen. Ziel dieser
+Transporte ist in der Regel eine Sonderisolierstationen (SIS).
+
+Für diese sogenannten Sonderisoliertransporte (SIT) oder
+Hochinfektionstransporte (HIT) werden an einzelnen Standorten in
+Deutschland Sonderfahrzeuge (Infektionsrettungswagen), speziell
+geschultes Personal und besondere Schutzausrüstung vorgehalten. Es gibt
+allerdings keinen einheitlichen Standard. Aufgrund häufiger Anfragen
+beim Robert Koch-Institut wird an dieser Stelle darauf hingewiesen, dass
+für den primären Schutz des Personals in erster Linie die Einhaltung von
+Schutzmaßnahmen wie z.B. korrekter Einsatz der PSA und weniger das
+Transportmittel entscheidend ist. Der Vorteil von SIT und HIT besteht in
+der besseren Dekontaminierbarkeit des Fahrzeugs, da es mit glatten, gut
+dekontaminierbaren Oberflächen ausgestattet ist. Wird ein herkömmlicher
+RTW verwendet, sollten möglichst vorher die medizinischen Geräte
+ausgebaut werden, die nicht benötigt werden, da diese schwer zu
+dekontaminieren sind und meistens auch vom Hersteller keine Garantie
+übernommen wird, dass diese nach einer Dekontamination zuverlässig
+arbeiten.
+
+Die Durchführung von SIT/HIT ist logistisch sehr aufwendig und es wird
+ein erheblicher zeitlicher Vorlauf benötigt. Die Menge an durchführbaren
+SIT/HIT ist in ihrer Anzahl sehr begrenzt. Die Standorte der verfügbaren
+SIT/HIT sind entsprechend in dem **Ständigen Arbeitskreis der Kompetenz-
+und Behand­lungs­zentren für Krankheiten durch hoch­patho­gene Erreger
+(STAKOB)**
 (<https://www.rki.de/DE/Content/Kommissionen/Stakob/Stakob_node.html>)
-ist bei infektiologischen Lagen ein weiterer wichtiger Akteur. Die
-Stakob ist bundesweites Expertennetzwerk für das Management und die
-Versorgung von Patienten mit Krankheiten durch hochpathogene Erreger.
-Die Kompetenzzentren verfügen über die spezielle Expertise im Bereich
-des öffentlichen Gesundheitsdienstes, während die Behandlungszentren auf
-die klinische Versorgung in Sonderisolierstationen zur Behandlung von
-Patienten mit hochpathogenen, lebensbedrohlichen Krankungen
-spezialisiert sind. Auch zur telefonischen Beratung kann der STAKOB
-kontaktiert werden.
+bekannt.
 
-Weitere Akteure sind die medizischen Versorgungseinrichtungen. Hierzu
-gehören Krankenhäuser und Arztpraxen. Labore und Apotheken wirken
-ebenfalls mit.
+# Proben
 
-Letztendlich haben auch alle Arbeitgeber zusammen den Betriebsärzten
-insbesondere in einer Epidemie und in einer Pandemie Aufgaben im
-Arbeitsschutz.
+## Probenahme
 
-Insbesondere bei dem Verdacht auf einen Bioterroristischen Anschlag sind
-weitere Akteure beteiligt:
+Grundsätzlich sind die klinische Probenentnahme und die Umweltprobenahme
+zu unterscheiden. Auf die klinische Probenahme wird im Folgenden nicht
+weiter eingegangen, da sie zur täglichen Routine gehört. Sollte sich ein
+ungewöhnlicher klinischer Fall ergeben, der eine besondere Probenahme
+erforderlich macht, besteht die Möglichkeit, sich von Experten des
+STAKOB beim Robert Koch-Institut beraten zu lassen.
 
-·       die Polizei, um abzuklären, ob es sich um einen begründeten
-Verdacht handelt. Sie wird entsprechend eine Ernsthaftigkeitsprüfung
-durchführen. Sollte diese positiv ausfallen, sind weitere Maßnahmen
-notwendig, wie z.B. der Ausschluß von Sprengstoffen.  Auf die Polizei
-kommt im weiteren Verlauf die Ermittlung der Täter zu, sowie die
-Absperrung des Tatortes.
+Auch bei Umweltkontamination ist eine qualifizierte Probenahme die
+Voraussetzung für eine erfolgreiche Probenuntersuchung. Im Vorfeld
+sollte mit geeigneten Labor abgestimmt werden, welche Probe wie und in
+welcher Menge genommen werden soll. Zudem muss sichergestellt sein, dass
+das Labor Umweltproben bearbeiten kann. Wird ein (bio-)terroristischer
+Anschlag vermutet, bei dem zusätzlich die Täter ermittelt werden müssen,
+ist, um eine Vernichtung wichtiger Spuren zu vermeiden, zudem eine enge
+Abstimmung mit den zuständigen Polizeibehörden notwendig. Unter
+Umständen ist auch geschultes Personal für die Probenentnahme
+erforderlich. Es ist nicht zwingend davon auszugehen, dass jedes
+Gesundheitsamt dazu sofort in der Lage ist.
 
-·       die Feuerwehr im Rahmen der Gefahrenabwehr, um eine weitere
-Ausbreitung der biologischen Agenzien zu verhindern. Die Feuerwehr
-übernimmt auch häufig in Amthilfe für den Amtsarzt die Probenahme.
+Im Gegensatz zu chemischen, radioaktiven und nuklearen Stoffen ist eine
+Echtzeitdetektion biologischer Agenzien bisher nicht zuverlässig
+möglich. Kommerziell erhältliche Schnelltests zur Umweltanalytik
+weisen, auch wenn sie sich stetig verbessern, momentan noch eine zu hohe
+Anzahl an falsch positiven und falsch negativen Ergebnissen auf.
 
-·       die Analytische Task Force (ATF)
-(<https://www.bbk.bund.de/DE/AufgabenundAusstattung/CBRNSchutz/ATF/ATF_node.html>) 
-ist vom Bundesamt für Bevölkerungsschutz und Katastrophenhilfe mit
-spezieller Messtechnik ausgestattet worden. Sie ist an 10 Standorten in
-Deutschland und kann daher innerhalb von maximal 3 Stunden an jedem Ort,
-zu dem sie gerufen wird, tätig werden. Bei einem Pulverfund
-vorzugsweise, um eine Freimessung von chemischen und radionuklearen
-Stoffen vorzunehmen. Ressourcen
+Da die Probennahme in einem kontaminierten Umfeld erfolgt, ist
+Selbstschutz notwendig (s. Arbeitsschutz/PSA) sowie **TRBA 130**
+([https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/pdf/TRBA-130.pdf](https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/pdf/TRBA-130.pdf?__blob=publicationFile&v=2)).
+Auch die anschließende Dekontamination beim Verlassen des
+Probenahmeortes muss vor Betreten des kontaminierten Bereichs geklärt
+werden. Hierzu sollte das Gesundheitsamt, sofern es die Probennahme
+nicht selber durchführen will oder kann, mit den örtlichen Feuerwehren
+im Vorfeld Absprachen treffen. Weitere Informationen hat das BBK
+veröffentlicht mit den **Empfehlungen für die Probenahme zur
+Gefahrenabwehr im Bevölkerungsschutz**
+([https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/PublikationenForschung/Fib\_Band5\_2teAuflage.pdf](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/PublikationenForschung/Fib_Band5_2teAuflage.pdf?__blob=publicationFile)).
+In ihm wird die Probenahme bei chemischen, biologischen und radioaktiven
+Kontaminationen beschrieben. Die Europäische Kommission hat zu dem Thema
+den **Leitfaden Biological Incident Response & Environmental Sampling**
+(<https://ec.europa.eu/health/ph_threats/com/preparedness/docs/biological.pdf>)
+zur biologischen Probenahme publiziert.
 
-## **Ressourcen**
+## Probentransport
 
-### Personal
+### **Verantwortlichkeiten und Klassifizierung**
 
-Die wichtigste Ressourcen bei infektionlogischen Lage stellt das
-Personal dar. Hier müssen die Maßnahmen zum Arbeitsschutz (persönliche
-Schutzmaßnahmen) im Vordergrund stehen.
+Der Transport von Gefahrgut - darunter fallen auch CBRN-Proben - wird im
+**Europäische Übereinkommen zur internationalen Beförderung gefährlicher
+Güter auf der Straße** (Accord européen relatif au transport
+international des marchandises Dangereuses par Route, ADR;
+<https://www.unece.org/fileadmin/DAM/trans/danger/publi/adr/ADRaccord_f.pdf>)
+geregelt. Das ADR wird alle 2 Jahre überarbeitet, daher ist darauf zu
+achten, die aktuellste Ausgabe zu verwenden.
 
-In biologischen Gefahrenlagen kann das im Umgang mit PSA geschulte
-medizinische Personal inkl. Rettungsdienstpersonal sehr schnell zu einer
-Mangel-Ressource werden.  Insbesondere bei Nutzung des
-Infektionsschutzset und der damit verbundenen geringen Tragezeit und
-hohen körperlichen Belastung wird der Mangel an geschultem Personal
-zusätzlich verschärft.
+Gefahrstoffe werden verschiedenen Gefahrgutklassen zugeordnet, für die
+konkrete Kennzeichnungs-, Verpackungs- und Beförderungsrichtlinien
+vorgeschrieben sind. Der Absender ist nach §18 der **Gefahrgutverordnung
+Straße, Eisenbahn und Binnenschifffahrt** (GGVSEB)
+(<https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html>)
+verantwortlich für die ordnungsgemäße Klassifizierung und die Einhaltung
+der dazu gehörenden Transportvorschriften. Im Zweifelsfall ist dies der
+Leitung der versendenden Institution und damit z.B. der/die Leiter/in
+des Gesundheitsamtes.
 
-### **Persönliche Schutzausrüstung (PSA)**
+Ausführliche Erläuterung zum korrekten Versand werden dargestellt imt im
+Weltgesundheitsorgansiation Leitfaden "**Guidance on regulations for the
+Transport of Infectious Substances**"
+(<https://www.who.int/csr/resources/publications/biosafety/WHO_HSE_EPR_2008_10.pdf?ua=1>):
 
-Bei einer deutschlandweiten Krisensituation wird die PSA sehr schnell
-vergriffen sein wird. Entsprechend muss Vorsorge getroffen werden, um
-PSA in ausreichender Menge zu bevorraten. Die ausreichende Menge ist
-abhängig von der Risikobewertung, welche Szenarien zu erwarten sind und
-welches Ausmaß diese im eigenen Zuständigkeitsbereich annehmen können.
-Hierbei sind auch die Tragezeiten zu berücksichtigen. Wie unter "Toolbox
-- Arbeitsschutz" (Link )beschrieben, ist das Infektionsschutzset pro
-Anzug wesentlich günstiger als ein Gebläseanzug. Aufgrund der kurzen
-Tragezeit von maximal 2 Stunden, bei Ungeübten auch deutlich kürzer, ist
-der Verbrauch jedoch deutlich höher.
+  - Klassifizierung der Sendung
 
-### **Verpackungsmaterial für Proben**
+  - Korrekte Verpackung der Sendung
 
-Um in einer biologischen Krisensituation Proben schnell und sicher
-versenden zu können, ist ausreichend Verpackungsmaterial (P620)
-vorzuhalten. Falsches Verpackungsmaterial kann dazu führen, dass die
-Probe aus der Verpackung austritt und damit weitere Personen
-kontaminiert. Zudem können "improvisierte" Verpackungen das Personal im
-Labor vor Herausforderungen beim Öffnen der Verpackung stellen, wodurch
-wertvolle Zeit verschwendet wird.
+  - Korrekte Kennzeichnung der Sendung
 
-### Sonstige Ressourcen
+  - Korrekte Markierung der Sendung
 
-Auf die weiteren Ressourcen, wie Medikamente für PEP und Therapie , die
-Absonderungseinrichtungen bzw. das Personal zur Überwachung von
-häuslicher Quarantäne und die Versorgungskapazitäten im Krankenhaus,
-insbesondere Beatmungsbetten und Isolierbetten wird im Kapitel ...
-eingegangen (Link)
+  - Originaldokumentation für die Sendung
 
-## Ambulante Versorgung
+  - Vorlage der notwendigen Einfuhrgenehmigungen
 
-Sowohl im Rahmen der Influenza-Pandemieplanung als auch der Planungen im
-Rahmen von COVID-19 spielt die ambulanten Patientenversorgung eine große
-Rolle. Der Pandemieplan des Robert Koch-Institutes führt dazu aus
+  - Vorbereitende Vorkehrungen gegenüber dem Beförderungsunternehmen, um
+    zu gewährleisten, dass die Sendung für den Transport akzeptiert
+    wird, sowie die Beförderung auf der direkten bzw. schnellsten Route
+    erfolgt.
 
-*"zur Sicherstellung der notwendigen stationären Behandlungsressourcen
-für schwer erkrankte Fälle soll die Patientenversorgung so lange wie
-möglich ambulant erfolgen."*
+Für **chemische Stoffe** gelten, je nach Beschaffenheit des Stoffes, die
+Gefahrgutklassen (teilweise mit Unterklassen):
 
-(Strukturen und Maßnahmen, Nationaler Pandemieplan Teil 1, Robert Koch
-Institut, Stand 2. März 2017)
+Klasse 2 - Gase und gasförmige Stoffe
 
-Zur Abklärung von COVID-19 Verdachtsfällen schreibt das RKI
+Klasse 3 - entzündbare flüssige Stoffe
 
-*"in bestimmten Situationen, in denen eine stationäre Aufnahme unter
-klinischen Gesichtspunkten nicht notwendig ist, kann bei Erfüllung
-gewisser Voraussetzungen (siehe Tabelle) dies in der ambulanten
-Betreuung erfolgen."*
+Klasse 4 - entzündbare feste Stoffe
 
-(Hinweise zum ambulanten Management von COVID-19-Verdachtsfällen, Robert
-Koch Institut, Stand 27.2.2020).
+Klasse 5 - entzündend (oxidierend) wirkende Stoffe
 
-Die Organisation und das Risikomanagement der ambulanten Versorgung
-sollten im Vorfeld einer Krise geplant werden.
+Klasse 6.1 - giftige Stoffe
 
-*„Über die Daseinsfürsorge hinaus liegt die Zuständigkeit für die
-ambulante Versorgung im Rahmen des Sicherstellungsauftrags nach §72 des
-Fünften Buches Sozialgesetzbuch bei den Kassenärztlichen
-Vereinigungen“.*
+Klasse 8 - ätzende Stoffe
 
-(Strukturen und Maßnahmen, Nationaler Pandemieplan Teil 1, Robert Koch
-Institut, Stand 2. März 2017).
+Für **radiologisch-nukleare Stoffe** gilt die Gefahrgutklasse 7 -
+radioaktive Stoffe.
 
-Zur Sicherstellung der Qualität in der ambulanten Versorgung ist es
-dringend notwendig, niedergelassenen Ärztinnen und Ärzten speziell auf
-Ihre Tätigkeit ausgerichtete Informationsmaterialien zur Verfügung zu
-stellen, die ihnen praktische Handreichungen z.B. zur Anamnese-Erhebung,
-für Beratungsgespräche, zur Probenahme, zu Diagnostiklaboren und mit
-Schutzmaßnahmen für sich, ihr Personal sowie die anderen Patienten. Die
-Empfehlungen der Bundesärztekammer und der Berufsgenossenschaft für
-Gesundheitsdienst und Wohlfahrtspflege haben für das [Risikomanagement
-in
-Arztpraxen](https://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/Risikomanagement_in_Arztpraxen.pdf "Influenzapandemie - Risikomanagement in Arztpraxen")
-besondere Hinweise publiziert
-(<https://www.bundesaerztekammer.de/fileadmin/user_upload/downloads/Risikomanagement_in_Arztpraxen.pdf>).
+**Biologische Stoffe** werden der Gefahrgutklasse 6.2 -
+Ansteckungsgefährliche Stoffe zugeordnet. Ansteckungsgefährliche Stoffe
+im Sinne des ADR sind Stoffe, von denen bekannt oder anzunehmen ist,
+dass sie Krankheitserreger enthalten.
 
-## **Klinikzuweisung, stationäre Versorgung**
+Biologische Proben werden noch einmal unterteilt in:
 
-Wenn die Anzahl Geschädigter die unmittelbar verfügbaren Ressourcen des
-Rettungsdienstes übersteigt, spricht man von einem Massenanfall von
-Verletzten (MANV). Diesbezüglich und bezüglich Sichtung und
-Klinikzuweisung wird es in diesem Lehrbuch zu einem späteren Zeitpunkt
-weitere Hinweise geben.
+  - Klasse 6.2 Kategorie A: Ein ansteckungsgefährlicher Stoff, der in
+    einer solchen Form befördert wird, dass er bei einer Exposition bei
+    sonst gesunden Menschen oder Tieren eine dauerhafte Behinderung oder
+    eine lebensbedrohende oder tödliche Krankheit hervorrufen kann. Eine
+    Liste der Erreger ist im Annex 2 der Weltgesundheitsorganisation
+    "**Guidance on regulations for the Transport of Infectious
+    Substances**"
+    ([https://www.who.int/csr/resources/publications/biosafety/WHO\_HSE\_EPR\_2008\_10.pdf](https://www.who.int/csr/resources/publications/biosafety/WHO_HSE_EPR_2008_10.pdf?ua=1))
+    zu finden. Bei Erregern der Kategorie A fallen auch
+    Krankenhausabfälle unter die Klassifizierung (UN 2814 oder UN 2900)
+    und die Verpackungsvorschrift (Verpackung: P 620).
 
-Welche Systeme der Klinikzuweisung im Regelbetrieb des Rettungsdienstes
-genutzt werden, ist regional unterschiedlich. In welchen
-infektiologischen Lagen die Zuweisungssysteme für Regelbetrieb/MANV
-geeignet erscheinen oder ob abweichende Zuweisungssysteme zu nutzen
-sind, muss festgelegt werden.
+  - Klasse 6.2 Kategorie B: Ein ansteckungsgefährlicher Stoff, der den
+    Kriterien für eine Aufnahme in Kategorie A nicht entspricht.
+    (Klassifizierung: UN 3373; Verpackung: P 650)
 
-Idealerweise ist ein Zuweisungssystem nicht nur mit der stationären
-Versorgung, sondern auch mit dem ambulanten Sektor verzahnt. Hiermit
-kann dann eine gezielte Entlastung des stationären Bereichs erfolgen.
+  - Freigestelle medizinische Probe: Stoffe, die keine
+    ansteckungsgefährlichen Stoffe enthalten, oder Stoffe, bei denen es
+    unwahrscheinlich ist, dass sie bei Menschen oder Tieren Krankheiten
+    hervorrufen, unterliegen nicht den Vorschriften des ADR, es sei
+    denn, sie entsprechen den Kriterien für die Aufnahme in eine andere
+    Klasse. Hierbei handelt es sich z.B. um nicht-pathogene oder
+    inaktiviere Mikroorganismen oder um Proben mit Erregern in
+    Konzentrationen, wie sie in der Natur vorkommen. (ohne UN-Nummer;
+    Verpackung: auf Basis P 650)
+    
+    ### **Verpackungsvorschriften**
+    
+    Die Verpackungen sind grundsätzlich 3-teilig. Die hauptsächlichen
+    Unterschiede liegen in den unterschiedlichen Prüfanforderungen, die
+    die Verpackungen erfüllen müssen.
 
-Auch im stationären Bereich sind umfangreiche Vorbereitungen notwendig.
-So führt der Pandemieplan des Robert Koch-Institut aus:
+  - (einem) flüssigkeitsdichten Primärgefäß(en); umgeben von saugfähigem
+    Material in einer für die Aufnahme des gesamten Inhalts
+    ausreichenden Menge
 
-*„Eine von der allgemeinen Patientenversorgung räumlich getrennte
-Aufnahme und Versorgung von Influenzapatienten sowie die Bereitstellung
-zusätzlicher Bettenkapazitäten, beispielsweise durch Verschiebung
-planbarer Operationen, sind dabei von besonderer Bedeutung.*"
+  - einer flüssigkeitsdichten Sekundärverpackung (außer bei festen
+    Stoffen)
 
-(Strukturen und Maßnahmen, Nationaler Pandemieplan Teil 1, Robert Koch
-Institut, Stand 2. März 2017)
+  - einer starren
+Außenverpackung
 
-Zum Bedarf an persönlicher Schutzausrüstung sei an dieser Stelle auf das
-Kapitel *KRI10. Toolbox: Persönliche Schutzausrüstung* verwiesen. Auch
-an den erhöhten Bedarf z.B. von Medikamenten muss gedacht werden.
+![<span class="figure-cat-figure">Figure</span><span data-caption="Probenmaterial klassifizieren nach Verpackungsvorschrift (Quelle: RKI) ">Probenmaterial
+klassifizieren nach Verpackungsvorschrift (Quelle: RKI)
+</span>](39f56377-8b88-4c46-90f3-a82b00972190.jpg)
 
-<div class="section fnlist" data-role="doc-footnotes">
+### **Notfallbeförderung**
+
+Eine Freistellung von den Vorschriften des ADR ist bei einer
+Notfallbeförderung möglich (Unterabschnitt 1.1.3.1e ADR):
+
+*"Notfallbeförderungen zur Rettung menschlichen Lebens oder zum Schutz
+der Umwelt, vorausgesetzt es werden alle Maßnahmen zur völlig sicheren
+Durchführung dieser Beförderungen getroffen."*
+
+Die Notfallbeförderung befreit daher nicht von einer sicheren
+Verpackung. Einige Transportunternehmen bieten an, die Verpackungen
+mitzubringen und die Probe auch selber zu verpacken. Hier sollten im
+Vorfeld Absprachen mit Transportunternehmen getroffen werden.
+
+Im Falle der Primärproben bei einem bioterroristischen Anschlag oder bei
+einer akut lebensbedrohlichen Erkrankung, bei der nicht auf ein
+offiziell für den Gefahrguttransport gekennzeichnet Fahrzeug mit
+entsprechend geschulten Fahrer zurückgegriffen werden kann, ist eine
+Notfallbeförderung mit einem Einsatzfahrzeug von Rettungsdienst,
+Feuerwehr oder Polizei möglich.
+
+### Kontaktminimierende Maßnahmen
+
+Bei Infektionskrankheiten, die über Tröpfchen und/oder Schmierinfektion
+übertragen werden, kann durch kontaktminimierende Maßnahmen die
+Ausbreitung vermindert werden. Hierzu gehören vor allem eine strikte
+Händehygiene, eine Husten- und Nies-Etikette sowie Abstand (1-2m)
+halten.
+
+Um kontaktminimierende Maßnahmen zielgerichtet anzuwenden, empfiehlt es
+sich, relevante Einrichtungen und Veranstaltungen zu identifizieren. Je
+nach Erreger und besonders empfänglicher Gruppe können diese variieren,
+typische Einrichtungen sind z.B.:
+
+  - Schulen / Kindergärten
+
+  - Pflegeeinrichtungen
+
+  - Großküchen
+
+Bei Großveranstaltungen wie Messen, Konzerten, Sportveranstaltungen
+können als Kriterien für die Beschränkung herangezogen werden:
+
+Besteht die Möglichkeit Abstandsregelungen und sonstige Hygienemaßnahmen
+einzuführen oder kann die Teilnehmerzahl so reduziert werden, dass
+dieses möglich wird?
+
+  - Wie ist die Belüftung des Veranstaltungsortes?
+
+  - Ist ein Eingangsscreening möglich?
+
+  - Können Personen mit akuten erregertypischen Symptomen ausgeschlossen
+    werden?
+
+  - Kann die Veranstaltung verschoben werden?
+
+Das Robert Koch-Institut hat dazu die **Allgemeine Prinzipien der
+Risikoeinschätzung und Handlungsempfehlung für Großveranstaltungen
+veröffentlicht** (
+[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges\_Coronavirus/Risiko\_Grossveranstaltungen.pdf](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risiko_Grossveranstaltungen.pdf?__blob=publicationFile))
+
+# 
+
+# Therapie und Impfkonzept
+
+Zu den wichtigsten präventiven Maß­nah­men, die es im medizischen
+Bereicht gibt, gehören Impfungen. Da moderne Impfstoffe sehr risikoarm
+sind und einen sehr hohen Schutz bewirken, ist es inbesondere für
+mediznisches Personal sinnvoll, Impfangebote anzunehmen, um im Falle
+eines Krankheitsausbruchs geschützt zu sein. Auch die Impfung gegen
+andere Krankheiten kann sinnvoll sein, um nicht aufgrund ähnlicher
+Krankheitssymptomatik als Krankheitsverdächtig zu gelten. Für den Schutz
+der Bevölkerung sind hohe Impfquoten anzustreben, da diese es
+verhindern, dass sich Krankheitserreger ausbreiten. Bei den humanen
+Pocken ist es durch sehr hohe Impfquoten sogar gelungen, die Krankheit
+vollständig zu eliminieren. Aktuell wird dieses Ziel bei Masern und
+Polio angestrebt.
+
+Bei neuen Krankheitserregern ist davon auszugehen, dass ein Impfstoff
+nicht (sofort) zur Verfügung stehen wird, sondern erst entwickelt werden
+muss. Dies kann bei Impfstoffen, die grundsätzlich schon zugelassen sind
+und die nur auf den aktuellen Erreger angepasst werden müssen, innerhalb
+weniger Monate gehen (z.B. Influenza). Bei anderen Impfstoffen kann die
+Entwicklung Monate bis Jahre dauern, dem folgt noch ein längerer
+Zulassungsprozess, der sicherstellen soll, dass keine unerwünschten
+Nebenwirkungen bei dem Impfstoff auftreten.
+
+Therapiekonzepte sind bei zahlreichen Krankheiten verfügbar. Jedoch auch
+hier ist damit zu rechnen, dass bei neu auftretenden oder bei sehr
+selten auftretenden Krankheiten keine Therapieoptionen bekannt sind und
+erst im Laufe der Erkrankungen in Studien entwickelt werden können. Die
+ersten Patienten können daher nur mittels supportiver Therapie und in
+Einzelfällen im Rahmen eines individuellen Heilsversuchs therapiert
+werden.
+
+Ziel zu Beginn eines Ausbruchs einer Krankheit, für die kein Impfstoff
+und kein spezielles Therapeutikum besteht, ist es daher, den Ausbruch
+seuchenhygienische Maßnahmen so lange hinauszuzögern, bis Impfstoffe
+oder Medikamente zur Verfügung stehen. Für den Fall sollten Konzepte
+erarbeitet werden, wie die Medikamente oder Impfstoffe am schnellsten
+und sichersten der Bevölkerung zu Verfügung gestellt werden können.
+Konozepte hierzu wurden beispielsweise im Rahmen der Vorsorge eines
+Ausbruchs von humanen Pockenviren deutschlandweit erstellt.
+
+# Umgang mit Leichen
+
+Leider wird es sich auch in einer Krisensistuation nicht verhindern
+lassen, dass Menschen sterben werden werden. Dies kann in zweierlei
+Hinsicht eine Herausforderung für den Öffentlichen Gesundheitsdienst
+darstellen: durch eine hohe Anzahl sowie durch eine Kontagiösität der
+Leichname. Für beide Notfallsituationen sollten entsprechende
+Krisenpläne erarbeitet werden. Landesrechtliche Bestimmungen sind zu
+beachten.
+
+## Hohe Anzahl von Verstorbenen
+
+Um eine angenessene Aufbewahrung und Bestattung auch bei einer hohen
+Anzahl von Verstorbenen gewährleisten zu können, sollte eruiert werden,
+ob und wo es im Zuständigkeitsbereich kühle Räumlichkeiten gibt, um
+Verstorbene bis zur Beisetzung so aufzubewahren, dass es möglichst
+ethisch ist, von den Verstorbenen aber auch keine Gefahr für die
+Allgemeinbevölkerung ausgeht.
+
+## Kontagiöse Leichname
+
+In manchen Krankheiten ist bekannt, dass die Leichname noch eine hohe
+Erregeranzahl aufweisen und somit zur Gefahr für alle Personen werden,
+die mit ihnen umgehen müssen. Ausschlaggebend für die Infektiosität von
+Verstorbenen sind die Art des Erregers, der mögliche Übertragungsweg und
+die zeitliche Überlebensfähigkeit des Erregers in Körperflüssigkeiten
+oder im Körper eines Verstorbenen. Auf eine innere Leichenschau sollte
+daher möglichst verzichtet werden. Wenn Sie zwingend notwendig ist,
+sollte sie unter den Bedingungen der Sicherheitsstufe 3 oder 4
+durchgeführt werden. Das mit der Leichenschau beauftragte Personal ist
+mit PSA auszustatten und sollte im Umgang mit PSA geschult sein.
+
+Religiöse und weltanschauliche Wünsche sind grundsätzlich zu
+respektieren. Bei einem hochpahtogenen Erreger ist jedoch von einer
+rituellen Waschung, einer Aufbahrung des Verstorbenen, dem
+Abschiednehmen am offenen Sarg und von einer Erdbestattung generell
+abzuraten. Ebenso sollten eventuell vorhandene Implantate wie
+Herzschrittmacher, nicht entfernt werden, müssen aber bei der
+Feuerbestattung berücksichtigt werden.
+
+Der Verstorbene sollte vollständig mit einem speziellen Absorbens
+bestreut werden, um austretende Körperflüssigkeiten zu binden.
+Anschließend ist der Verstorbene in zwei formalingetränkte Tücher
+(10%ige Lösung) zu hüllen und in zwei gut verschließbare,
+flüssigkeitsdichte, nach den Richtlinien des Vereins Deutscher
+Ingenieure (VDI) normierte, Leichenhüllen aus Kunststoff („bodybag“) zu
+legen. Nachdem die Hüllen mit flüssigkeitsdichtem Klebeband verschlossen
+wurden, ist notwendig, diese von außen mit einem geeignetem
+Desinfektionsmittel zu desinfizieren (siehe Kapitel Desinfektion). Der
+so verpackte Leichnam kann ausgeschleust und eingesargt werden, wobei
+der Boden des zu verwendenden Holzsarges mit einer ausreichend hohen
+Schicht (mindestens 5 cm), aufsaugender Stoffe (Sägemehl, Hobelspäne,
+Vlies u.ä.) bedeckt sein muss. Der Leichnam ist der Feuerbestattung
+zuzuführen. Eine zweite Leichenschau sollte möglichst unterlassen oder
+bereits bei der Einsargung unter entsprechenden Sicherheitsmaßnahmen
+durchgeführt werden.
+
+# Entsorgungsmanagement
+
+Die entstehenden Abfälle sollten möglichst in unmittelbarer Nähe des
+Anfallortes der Abfälle desinfiziert werden. Gegenstände, die mit
+Erregern, an die auch  aufgrund §17  Infektionsschutzgesetz
+besondere Beachtung erfordern, kontaminiert sind und die nicht sicher
+desinfiziert werden können, sind gemeinsam mit der benutzen und
+dekontaminierten PSA nach Abfallschlüssel 180103\* zu entsorgen.
+
+Für den Transport zur Sonderabfallverbrennungsanlage (SAV) muss
+entsprechend dem ADR der mit L4-Erregern kontaminierte Abfall
+grundsätzlich nach der Verpackungsvorschrift P620 mit der Kennzeichnung
+UN 2814 verpackt werden. Da in der Praxis hierzu aktuell nicht
+ausreichend große Behältnisse zur Verfügung stehen, kann der Abfall
+entsprechend der **multilateralen Vereinbarung M315**
+([https://www.rki.de/DE/Content/InfAZ/E/Ebola/Muster\_Verpackungsanleitung.pdf](https://www.rki.de/DE/Content/InfAZ/E/Ebola/Muster_Verpackungsanleitung.pdf?__blob=publicationFile))
+verpacktt werden. Der Transport von ansteckungsgefährlichen Stoffen ist
+im Wesentlichen durch das ADR geregeltund erfolgt als Klasse 6.2,
+Kategorie A.
+
+Für die Verbrennung von Abfällen aus Gesundheitseinrichtungen, die mit
+Erregern der Risikogruppe 4 kontaminiert sind, sind in SAV zusätzlich zu
+den oben genannten Vorgaben keine weiteren Sonderregelungen notwendig.
+Aus bestehenden Verträgen oder Andienungsverpflichtungen zu diesem
+Abfallschlüssel leitet sich für den Betreiber der SAV eine
+Entsorgungsverpflichtung ab.
+
+Bei Erregern, die nicht unter die **ADR Klasse 6.2 Kat. A Infectious
+Substances**
+([https://adrbook.com/en/2017/ADR/2.2.62](https://adrbook.com/en/2017/ADR/2.2.62 "https://adrbook.com/en/2017/ADR/2.2.62"))
+fallen bzw. bei denen ausschliesslich Kulturen unter die Kat. A fallen,
+kann der Krankenhausabfall wie anderer infektiöser Abfall nach der
+Verpackungsvorschrift UN 3291 verpackt und entsprechend der Mitteilung
+der Bund/Länder-Arbeitsgemeinschaft Abfall (LAGA) 18 zu "**Vollzugshilfe
+zur Entsorgung von Abfällen aus Einrichtungen des Gesundheitsdienstes**"
+([https://www.laga-online.de/documents/m\_2\_3\_1517834373.pdf](https://www.laga-online.de/documents/m_2_3_1517834373.pdf "https://www.laga-online.de/documents/m_2_3_1517834373.pdf"))
+der Entsorgung zugeführt werden.
+
+Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver
+Sicht keine besonderen Anforderungen gestellt werden, können nach AS 18
+01 04 entsorgt werden.
+
+# Bibliography
+
+<div class="csl-bib-body">
 
 </div>

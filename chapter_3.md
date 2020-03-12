@@ -16,44 +16,46 @@ nav_order: 3
    <p></p>
  
  
-Im folgenden wird die spezifische Einsatzplanung für Gesundheitsbehörden
-in infektiologische Gefahrenlagen vorgestellt und Prinzipien eingeführt.
+Im Folgenden wird die spezifische Einsatzplanung für Gesundheitsbehörden
+in infektiologischen Gefahrenlagen vorgestellt und Prinzipien
+eingeführt.
 
 Die Erstellung von Einsatzplänen für infektiologische Gefahrenlagen ist
 Aufgabe von Bund, Ländern und Kommunen. Einheitliche Vorgaben für die
 Erstellung der Pläne gibt es nicht. Allerdings existieren teilweise
 Rahmenpläne auf Bundesebene, wie z.B. für die Influenza-Pandemieplanung
-([https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplanung\_Node.html](https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplanung_Node.html "https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplanung_Node.html"))
-oder für den Ebolaverdachtfall
+([https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplanung\_Node.html](https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplanung_Node.html "https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplanung_Node.html")),
+sowie Ergänzungen zum Nationalen Pandemieplan - COVID 19 - neuartige
+Coronaviruserkrankung
+([https://www.rki.de/DE/Content/InfAZ/N/Neuartiges\_Coronavirus/Ergaenzung\_Pandemieplan\_Covid.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ergaenzung_Pandemieplan_Covid.html "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ergaenzung_Pandemieplan_Covid.html"))
+oder für den Ebolaverdachtsfall
 ([https://www.rki.de/DE/Content/InfAZ/E/Ebola/Rahmenkonzept\_Ebola.pdf](https://www.rki.de/DE/Content/InfAZ/E/Ebola/Rahmenkonzept_Ebola.pdf "https://www.rki.de/DE/Content/InfAZ/E/Ebola/Rahmenkonzept_Ebola.pdf"),
 die koordinierend vom Robert Koch-Institut erstellt worden sind.
 
 Daneben sind in einigen Bundesländern durch die obersten
 Landesgesundheitsbehörden Pläne für Virale hämorrhagische Fieber
-(VhF-Pläne), Infektionsalarmpläne bzw. Pläne für Viruserkrankungen mit
-grossen Konsequenzen (High Consequence Infectious Diseases,HCID)
+(VHF-Pläne), Infektionsalarmpläne bzw. Pläne für Viruserkrankungen mit
+großen Konsequenzen (High Consequence Infectious Diseases, HCID)
 erarbeitet worden. Alle Länder haben Pläne für eine Influenzapandemie
 erstellt. Ferner werden durch die Innenressorts der Länder Rahmenalarm-
 und Einsatzpläne für den Katastrophenschutz erstellt. Alle diese Pläne
-können als Grundlage für die spezifische Planungen auf regionaler Ebene
-dienen.
+können als Grundlage für die spezifischen Planungen auf regionaler
+Ebene dienen.
 
-Einsatzpläne für Krisensituation werden häufig in Form von
+Einsatzpläne für Krisensituationen werden häufig in Form von
 Rechtsvorschriften erstellt. Diese sind im Einsatzgeschehen schwer zu
 lesen und nicht nach den Gesichtspunkten gegliedert, wie es für den
 Einsatzfall nötig wäre. Häufig werden keine elektronischen Systeme für
 die Erstellung der Einsatzpläne genutzt. Die manuelle Erstellung und
-Pflege ist aufwändig. Deshalb ist der Aufwand der Aktualisierung
+Pflege ist aufwendig. Deshalb ist der Aufwand der Aktualisierung
 erheblich. Dies führt dazu, dass Pläne nicht immer aktuell sind.
 
 Die Inhalte der Pläne müssen vor einem Einsatz den Mitarbeiterinnen und
-Mitarbeiter in Schulungen vermittelt werden und möglichst in Übungen mit
-ihnen erprobt werden.
+Mitarbeiter in Schulungen vermittelt und möglichst in Übungen mit ihnen
+erprobt werden.
 
-***Merksatz*** ****
-
-***Pläne werden nur dann erfolgreich umgesetzt, wenn Inhalte regelmäßig
-aktualisiert und Nutzern in Schulungen vermittelt werden.***
+***MERKE: Pläne werden nur dann erfolgreich umgesetzt, wenn Inhalte
+regelmäßig aktualisiert und Nutzern in Schulungen vermittelt werden.***
 
 # Ziele einer erfolgreichen Einsatzplanung
 
@@ -73,20 +75,19 @@ bewährt:
 ![<span class="figure-cat-figure">Figure</span><span data-caption="Struktur eines Einsatzplanes">Struktur
 eines Einsatzplanes</span>](8b61e4e6-c138-486a-a508-066aafcec607.jpg)
 
-In Figure 1 sind einzelne Punkte eines Einsatzplans in Form eines
+In Abbildung 1 sind einzelne Punkte eines Einsatzplans in Form eines
 Ablaufschemas dargestellt. Sie können als Gliederung für einen
 Einsatzplan verwendet werden.
 
-Im Folgenden werden die einzelnen Punkte eines Einsatzplans erläutert.
+Im Folgenden werden die einzelnen Unterpunkte eines Einsatzplans
+erläutert.
 
 # Risikobewertung
 
-Neben der allgemeinen Risikobewertung
-[](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/PiB_16_Risikoanalyse_im_Bevoelkerungsschutz.pdf?__blob=publicationFile "Risikoanalyse im Bevölkerungsschutz")
-zum Bevölkerungsschutz, die die Landkreise bzw. Länder durchführen
-müssen, sollten die verantwortlichen Gesundheitsbehörden für ihre
-Region eine fachspezifische Risikobewertung vorbereitend durchführen
-(mehr:
+Neben der allgemeinen Risikobewertung zum Bevölkerungsschutz, die die
+Landkreise/kreisfreien Städte bzw. Länder durchführen müssen, sollten
+die verantwortlichen Gesundheitsbehörden für ihre Region eine
+fachspezifische Risikobewertung vorbereitend durchführen (mehr:
 [https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis\_Bevoelkerungsschutz/PiB\_16\_Risikoanalyse\_im\_Bevoelkerungsschutz.pdf](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/PiB_16_Risikoanalyse_im_Bevoelkerungsschutz.pdf "Risikoanalyse im Bevölkerungsschutz")).
 
 Auf Basis dieser Risikobewertung ist im Einsatzfall von der
@@ -109,17 +110,17 @@ folgende Faktoren berücksichtigt werden:
 
 # Szenarienspezifische Kommunikation
 
-Für die Kommunikation mit Partnern, der Bevölkerung oder Presse, in
-besonderen Gefahren Szenarien muss jeweils spezifisch festgelegt werden,
+Für die Kommunikation mit Partnern, der Bevölkerung oder der Presse muss
+in besonderen Gefahrenszenarien jeweils spezifisch festgelegt werden,
 wer die Federführung hat und verantwortlich ist, welche Strategie
 eingesetzt wird und welche anderen Behörden und Einrichtungen beteiligt
 werden müssen. Ferner sind die grundsätzlichen Ziele der Kommunikation,
-die konkreten Inhalte sowie Instumente der Presserbeit und die
-Zielgruppen zu bestimmen. (***siehe Kapitel: Kommunikation***)
+die konkreten Inhalte sowie Instumente der Pressarbeit und die
+Zielgruppen zu bestimmen. (*siehe Kapitel: Kommunikation*)
 
 Neben der Kommunikation mit externen Partnern ist auch zu beachten, dass
-innerhalb einer Behörde die Mitarbeiterschaft informiert wird. Im
-Krisengeschehen sollten alle ausreichend informiert sein, um in
+innerhalb einer Behörde die Mitarbeiterinnen und Mitarbeiter informiert
+wird. Im Krisengeschehen sollten alle ausreichend informiert sein, um in
 angespannten Arbeitssituation Verständnis für die besondere Lage zu
 haben.
 
@@ -136,11 +137,11 @@ beteiligende weitere Einrichtungen zu planen. Sinnvollerweise sollte auf
 bestehende Alamierungssysteme in Behörden zurückgegriffen werden. Unter
 Umständen kann man bei Dritten, z.B. Leitstelle der Feuerwehr, eigene
 Alarmierungskreise einrichten lassen, sodass das amtsinterne Personal
-des Gesundheitsamtes ohne weiteren Aufwand auf direkten Weg durch
+des Gesundheitsamtes ohne weiteren Aufwand auf direktem Weg durch
 technische Hilfsmittel alamiert wird. Alarmierungs- und
 Benachrichtigungslisten sind regelmäßig zu aktualisieren.
 Alarmierungsübungen können genutzt werden, um die Aktualität der
-Kontaktdaten zu überprüfen.
+professionellen und privaten Kontaktdaten zu überprüfen.
 
 # Meldewege
 
@@ -168,13 +169,13 @@ Bundesbehörde. Dies ist für
   - für chemische Ereignisse das BBK und
 
   - für radiologisch-nukleare Ereignisse das BMU.
-    
-    Für Übermittlungen im biologischen Bereich stellt das RKI einen
-    Übermittlungsbogen
-    ([https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung\_12/meldung\_12\_node.html](https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html "https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html"))
-    zur Verfügung; eine Vorlage für einen Übermittlungsbogen für
-    Gefahren im chemischen Bereich gibt es vom BBK
-    ([https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV\_Meldebogen\_Info\_WHO\_Chemie.html](https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV_Meldebogen_Info_WHO_Chemie.html "https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV_Meldebogen_Info_WHO_Chemie.html")).
+
+Für **Übermittlungen im biologischen Bereich** stellt das RKI einen
+Übermittlungsbogen
+([https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung\_12/meldung\_12\_node.html](https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html "https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html"))
+zur Verfügung; eine Vorlage für einen **Übermittlungen von Gefahren im
+chemischen Bereich** gibt es vom BBK
+([https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV\_Meldebogen\_Info\_WHO\_Chemie.html](https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV_Meldebogen_Info_WHO_Chemie.html "https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV_Meldebogen_Info_WHO_Chemie.html")).
 
 Gemäß IGV Anlage 2 (siehe Abbildung 2) sind das Auftreten von Pocken,
 Poliomyelitis (verursacht durch den Wildtyp), humaner Influenza
@@ -188,8 +189,8 @@ entsprechend den Internationalen Gesundheitsvorschriften (IGV/IHR) als
 zwingend notwendig erachtet, auch um Länder mit schwächerem
 Gesundheitssystem besser zu unterstützen."*
 
-(COVID-19, Informationen für Beschäftigte und Reisende, Auswärtiges Amt,
-Stand 28.02.2020)
+*(COVID-19, Informationen für Beschäftigte und Reisende, Auswärtiges
+Amt, Stand 28.02.2020)*
 
 Das Auftreten von Cholera, Gelbfieber, Lungenpest, viralem
 hämorrhagischen Fieber oder West-Nil-Fieber sowie andere Ereignisse,
@@ -197,14 +198,14 @@ die von internationaler Tragweite für die öffentliche Gesundheit sein
 können, sind unter bestimmten Umständen an die WHO zu
 melden.
 
-![<span class="figure-cat-figure">Figure</span><span data-caption="Entscheidungsschema zur Meldung im Rahmen der IGV">Entscheidungsschema
-zur Meldung im Rahmen der
-IGV</span>](10052eba-f361-4bcd-bf9e-83c2b9648487.png)
+![<span data-caption="Entscheidungsschema zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle: BKK)">Entscheidungsschema
+zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle:
+BKK)</span>](bcd98565-cc3f-4c18-b2a4-86b4ede57839.png)
 
 Das Gesundheitsamt unterrichtet über die zuständige Landesbehörde die
 nationale Ebene, wenn die bloße Möglichkeit besteht, dass ein Ereignis
 nach den Kriterien der Anlage 2 der IGV eine gesundheitliche Notlage von
-internationaler Tragweite darstellt.
+internationaler Tragweite darstellen könnte.
 
 Die abschließende Bewertung, ob ein Ereignis an die
 Weltgesundheitsorganisation oder die verantwortlichen Behörden der
@@ -219,7 +220,7 @@ informiert sein. (***siehe: Kapitel Stabsarbeit im Öffentlichen
 Gesundheitsdienst***)
 
 In Einsatzplänen der involvierten Gesundheitsbehörden muss die
-Führungsverantwortung für spezielle Szenario festgelegt werden. Diese
+Führungsverantwortung für spezielle Szenarien festgelegt werden. Diese
 Verantwortung muss eindeutig sein. Bei mehreren beteiligten Behörden
 müssen Zuständigkeiten klar geregelt sein.
 
@@ -238,9 +239,9 @@ mitwirkt.
 
 # Einsatzmaßnahmen
 
-Die Einsatzmaßnahmen sind abhängig vom jeweiligen vorliegenden Szenario.
-In der Toolbox dieses Handbuches sind eine Reihe von
-Handlungsempfehlungen dargestellt (**Link Kapitel: Toolbox**).
+Die Einsatzmaßnahmen sind abhängig vom jeweils vorliegenden Szenario. In
+der Toolbox dieses Handbuches sind eine Reihe von Handlungsempfehlungen
+dargestellt (**Link Kapitel: Toolbox**).
 
 Einsatzmaßnahmen können durch gesetzliche Regelungen bedingt sein. Im
 Bereich des Öffentlichen Gesundheitsdienstes ergeben sie sich z.B. aus
@@ -270,26 +271,26 @@ Krisengeschehen eine Entlastung zu erfahren.
 # Ressourcen
 
 In machen Situation werden die benötigten Ressourcen von Dritten
-bereitgestellt, hierzu gehören u.a Versorgungsmöglichkeiten im
+bereitgestellt. Hierzu gehören u.a Versorgungsmöglichkeiten im
 Krankenhaus, die Verfügbarkeit von Impfstoffen und Antidota. Wer, was,
 wann bereitstellt sollte als Information in Einsatzplänen aufgenommen
-sein da eine Abfrage im Einsatzfall viel Zeit kostet und daher unbedingt
-vermieden werden sollte.
+sein, da eine Abfrage im Einsatzfall viel Zeit kostet und daher
+unbedingt vermieden werden muss.
 
 Andererseits müssen bestimmte Materialien, die im Einsatzfall nicht
 lieferbar sind, bzw. schnell zur Engpassressource werden, in den
-Gesundheitsbehörden vorgehalten werden. Ein wichtiges Beispiels ist hier
+Gesundheitsbehörden vorgehalten werden. Ein wichtiges Beispiel ist hier
 die sogenannte Persönliche Schutzausrüstung (PSA).
 
 # Checklisten für den Einsatz
 
 Eine sinnvolle und wichtige Maßnahme für einen geordneten Betrieb sind
-Checklisten, in denen schriftliche fixiert ist welche Informationen wann
+Checklisten, in denen schriftlich fixiert ist, welche Informationen wann
 benötigt bzw. abgefragt werden müssen. Ein gutes Beispiel sind
-bespielsweise Checklisten in der Luftfahrt die Piloten vor Abflug eines
-Flugzeuges durchgehen.
+Checklisten in der Luftfahrt, die Piloten vor Abflug eines Flugzeuges
+durchgehen.
 
-Im Krisenfall geben Checklisten eine wichtige Handlungssicherheit und
+Im Krisenfall geben Checklisten eine wichtige Handlungssicherheit. Sie
 schaffen die Möglichkeit intuitives Handeln und die Vollständigkeit von
 getroffenen Maßnahmen zu überprüfen. Im Handbuch werden Checklisten an
 verschiedenen Stellen zur Unterstützung für die handelnden

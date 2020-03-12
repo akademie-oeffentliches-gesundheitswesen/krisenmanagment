@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11. Annex - Checkliste Kommunikation
+title: 11. Annex-Checkliste: Infrastruktur und Ausstattung im Krisenstab
 nav_order: 11
 ---
  
@@ -21,119 +21,94 @@ nav_order: 11
 | Worum geht es? | Titel |       |
 | Addressaten    |       | Datum |
 
-# **Auswahl der Kommunikationsform?**
+# Räume
 
-  - Presseerklärung
+☐ Raum für die Stabsarbeit vorbereiten.
 
-  - Pressekonferenz/Experteninterview
+☐ Raum für die Lagebesprechungen auswählen.
 
-  - Bürgertelefon
+☐ IT-Technik vorbereiten.
 
-  - Häufige Fragen (frequently asked questions,FAQ)-Listen
+☐ Schlüsselorganisation
 
-  - Internetauftritt der Verwaltungseinheit
+# IT-Ausstattung
 
-  - Soziale Medien (z-B. Twitter, Instagram)
-    
-    ## Inhaltliche Vorbereitung
-    
-      - Was ist die derzeitige Situation?
-    
-      - \- Was ist wann und wo passiert?
-    
-      - \- Welche Schäden liegen vor / Personen (Anzahl) sind betroffen?
-    
-      - Was zeichnet sich ab? best-case vs. worst-case Entwicklungen
-    
-      - \- Was wurde bisher von den Behörden unternommen
-    
-      - \- Was ist von den Behörden geplant? Aktivitäten?
-    
-      - \- Wer wird betroffen sein? Welche (Verhaltens-)Regeln ergeben
-        sich aus dem Ereignis?
-    
-      - Welche Fachinformationen sind relevant?
-    
-      - Welche Informationen halten Landes-/Bundeseinrichtungen vor?
-    
-      - Welche allgemein verständlichen Informationen sind relevant?
-    
-      - Was ist die Hauptnachricht für die Allgemeinbevölkerung?
-    
-    ## Pressemitteilung
-    
-      - Was? Wann? Wo? Wer?
-    
-      - Anspechpartner/in
-    
-      - Datum, ggf Uhrzeit
-    
-      - Webseite, Soziale Medien, ggf weiteführende
-        InformationenKontaktdaten
-    
-    <!-- end list -->
-    
-      - Pressesprecher
-    
-      - andere kompetente Ansprechpartner wie z.B. Feuerwehr, Polizei,
-        Obere Gesundheitsbehörden, Ministerien/Senatsverwaltung
+☐ Bereitstellung zusätzlicher IT-Arbeitsplätze (Notebooks)
 
-# **Checkliste Pressekonferenz**
+☐ Kopiergerät und Drucker in der Nähe des Stabsraumes installieren.☐
+Kopiergerät und Drucker in der Nähe des Stabsraumes installieren.
 
-(auf der Basis von Vorarbeiten von Christoph Lang, ehemals Leiter
-Pressestelle, Senatsverwaltung für Gesundheit, Pflege und
-Gleichstellung)
+☐ Beamer bereithalten.
 
-## Einladung zur Pressekonferenz
+☐ Zentrales Gruppenpostfach für den Stab einrichten.
 
-  - Zeitpunkt, Ort & Dauer festlegen
+☐ Zentrales Datenverzeichnis anlegen.
 
-  - Begleitung Presse (ggf. vor Ort)
+☐ Funktionsbezogenen Accounts einrichten lassen.
 
-  - Raum für Einzelinterview (Radio, Podcasts, Fernsehen) festlegen
+☐ Zugang Twitter und Facebook einrichten und Verfügbarkeit am
+Arbeitsplatz prüfen.
 
-  - Pressemappe vorbereiten
+☐ Redundanter IT-Anschluss unabhängig vom Hausnetz
 
-  - vorbereitete Interviewpartner festlegen
+## Telefon und Telefax
 
-  - Telefonische Errichbarkeit festlegen
+☐ Besondere Telefonanschlüsse für Krisensituationen bereithalten.
 
-## Absperrung/Zugangsbeschränkung
+☐ Besondere Telefaxanschlüsse für Krisensituationen bereithalten.
 
-  - Briefing für Sicherheitsdienst
+☐ Zentrale Erreichbarkeit des Stabes festlegen und kommunizieren.
 
-## Presseraum
+☐ Personelle Besetzung der zentrale Erreichbarkeit des Stabes
+sicherstellen.
 
-  - Catering (z.B. Getränke, einfacher Imbiss wie z.B. belegte Brötchen)
+☐ Anrufbeantworter für die zentrale Erreichbarkeit des Stabes
+einrichten.
 
-  - Arbeitsmöglichkeit: Stühle und Tische
+☐ Sammelrufnummer für ein Bürgertelefon einrichten (mit
+Anrufbeantworter).
 
-  - ausreichend Steckdosen (evtl. Mehrfachsteckdosen bereit halten) für
-    Aufladen von Smartphones und Notebooks
+☐ Rufumleitungen technisch vorbereiten (Handlungsanweisung).
 
-  - idealerweise auch W-LAN (evtl. Zugangscode hinterlegen\!)
+☐ Fernsprechapparat für Telefonkonferenzen vorhalten.
 
-  - Stellwände, Flip-charts vorbereiten
+☐ Redundante Telefonmöglichkeit schaffen (Festnetz unabhängig vom
+Hausnetz und/oder zusätzlich Mobiltelefone - prepaid mit Aktivierung im
+Einsatzfall)
 
-  - Fernsehtauglicher Hintergrund festlegen für Interviews
+# Büroausstattung/Technik
 
-## Journalistenbegleitung/-betreuung
+☐ Tafel, Flipchart für Lagedarstellung
 
-  - ständig anwesende, geschulte Person (Pressesprecher/in)
+☐ Whiteboard für den Stabsraum
 
-  - alternativ durch ständige Erreichbarkeit?
+☐ Tafel für die Dokumentation der Aufgaben
 
-  - Telefonische Erreichbarkeit festlegen, ggf Hotline
+☐ Kopiergerät und Drucker in der Nähe des Stabsraumes installieren.
 
-## Regelmäßige Pressebriefings
+☐ Garderobenschränke für Fremdpersonal
 
-  - wer spricht?
+☐ Uhren im Stabsraum aufhängen.
 
-  - betroffene Person/en informiert?
+# Material
 
-  - Medientraining absolviert?
+☐ Grundausstattung an Büromaterial bereitstellen
 
-  - Experten vor Ort? In Kontakt mit Medienvertretern?
+☐ Moderationskoffer
+
+☐ Geschirr, Gläser, Kaffeemaschine
+
+☐ Landkarten (ggf. elektronisch)
+
+# Vorlagen
+
+☐ Verteilerlisten vorbereiten und im Einsatz aktualisieren.
+
+☐ Mustervordruck für Gesprächnotizen
+
+☐ Muster für Einsatztagebuch
+
+☐ Muster für Protokolle
 
 |               |  |         |
 | ------------- |  | ------- |

@@ -16,25 +16,27 @@ nav_order: 2
    <p></p>
  
  
-Im Infektionschutz und Bevölkerungsschutz werden viele Begrifflichkeiten
-und Abkürzungen genutzt, die sich nicht in jedem Fall sofort
-erschließen. Zwei Publikationen des Robert Koch-Instituts bzw. vom
-Bundesamt für Bevölkerungsschutz und Katastrophenhilfe erläutern
-gebräuchliche Fachbegriffe.
+Im Infektionschutz und im Bevölkerungsschutz werden viele
+Begrifflichkeiten und Abkürzungen benutzt, die sich nicht in jedem Fall
+sofort erschließen. Das Robert Koch-Institut und das Bundesamt für
+Bevölkerungsschutz und Katastrophenhilfe erläutern gebräuchliche
+Fachbegriffe.
 
 Definitionen, Hinweise sowie Interpretationen zu Fachwörtern zum
 Infektionsschutz und zur Infektionsepidemiologie stellte das Robert
-Koch-Institut hier online:
-<https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch_Infektionsschutz.pdf?__blob=publicationFile>
+Koch-Institut hier
+online:
 
-[Ausgewählte zentrale Begriffe des
-Bevölkerungsschutzes](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/Glossar_2018.pdf?__blob=publicationFile "Definitionen BBK")
-werden in einem Glossar des Bundesamtes für Bevölkerungsschutz und
-Katastrophenhilfe definiert. Der Bevölkerungsschutz beschreibt als
-Oberbegriff alle Aufgaben und Maßnahmen der Kommunen und der Länder im
-Katastrophenschutz sowie des Bundes im Zivilschutz. Damit ist des
-gesamte Spektrum der Definitionen in diesem Bereich
-beschrieben.
+[https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch\_Infektionsschutz.pdf](https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch_Infektionsschutz.pdf?__blob=publicationFile)
+
+Der Bevölkerungsschutz beschreibt als Oberbegriff alle Aufgaben und
+Maßnahmen der Kommunen und der Länder im Katastrophenschutz sowie des
+Bundes im Zivilschutz. Ausgewählte zentrale Begriffe des
+Bevölkerungsschutzes definiert des Bundesamtes für Bevölkerungsschutz
+und Katastrophenhilfe in einem Glossar
+hier:
+
+[https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis\_Bevoelkerungsschutz/Glossar\_2018.pdf](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/Glossar_2018.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/Glossar_2018.pdf")
 
 <https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/Glossar_2018.pdf?__blob=publicationFile>
 

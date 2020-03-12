@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 06. Stabsarbeit
+title: 07. Kommunikation
 nav_order: 5
 ---
  
@@ -16,396 +16,278 @@ nav_order: 5
    <p></p>
  
  
-## **Organisation eines Arbeits-, Krisenstabes bei infektiologischen Gefahrenlagen**
+Eine gute Kommunikation ist ein wesentlicher Bestandteil zur
+erfolgreichen Bewältigung einer Krise. Man unterscheidet (1) die
+"interne" Kommunikation innerhalb des Verwaltungs- bzw. Krisenstabes,
+diese ist durch die jeweilige Stabsdienstordnung geregelt, und (2) die
+"externe" Kommunikation nach außen. Die interne Kommunikation ist im
+Kapitel "Einsatzplanung" dargestellt. In diesem Kapitel wird die
+"externe" Kommunikation mit der Bevölkerung dargestellt.
 
-Die etablierten Verwaltungsstrukturen der Gesundheitsämter, aber auch
-der anderen Einrichtungen des Öffentlichen Gesundheitsdienstes, sind in
-der Regel nicht geeignet um die Herausforderungen einer
-infektiologischer Gefahrenlagen bzw. Krisensituationen unverzüglich,
-fehlerfrei und in einer einheitlichen Führung zu bewältigen. Um den
-Anforderungen gerecht zu werden, bietet es sich auch für die Behörden
-des ÖGD an bei solchen Ereignissen, im Stabsmodus zu arbeiten. Das
-Arbeiten in den Strukturen eines Arbeits- bzw. Krisenstabes ähnelt der
-Arbeit in Projekten. Unter einer einheitlichen Führung ist die Erfüllung
-von Aufgaben zu überwachen, Termine sind zu koordinieren und
-Entscheidungen sind zu dokumentieren.
+Hierbei wird zwischen Risiko- und Krisenkommunikation unterschieden. Mit
+Risikokommunikation wird die Kommunikation im Vorfeld einer Krise
+bezeichnet. Krisenkommunikation wird notwendig, wenn die Krise
+eingetreten ist. Eine gute Risikokommunikation erleichtet die
+Kommunikation in der Krise erheblich, da sie es ermöglicht, auf dieses
+Wissen im Krisenfall aufzubauen.
 
-Neben den Maßnahmen zur (Krisen-)Bewältigung der dringlichen Aufgaben,
-die sich aus einer akuten infektiologischen Gefahrenlage ergeben, muss
-auch gewährleistet sein, dass auch alle anderen unverzichtbaren
-hoheitlichen Aufgaben (Meldewesen, Ausbruchsmanagement, Leichenschau
-u.ä.) ggf. reduziert sichergestellt werden können. Dazu ist eine
-Aufgabenpriorisierung, wie sie auch in Projekten üblich ist,
-unverzichtbar.
+Der **Leitfaden Krisenkommunikation**
+([https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bevoelkerungsschutz/leitfaden-krisenkommunikation.pdf](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bevoelkerungsschutz/leitfaden-krisenkommunikation.pdf "https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bevoelkerungsschutz/leitfaden-krisenkommunikation.pdf"))
+des Bundesministerium für Inneres (BMI) stellt in übersichtlicher Weise
+die folgenden Themen für eine erfolgreiche Kommunikation dar:
 
-Bei einer stabsmäßigen Arbeit im Gesundheitsamt bzw. andere Behörden im
-ÖGD sollten die Strukturen berücksichtigt werden, die im Kreis, in der
-Stadt bzw. im Land für die Gefahrenabwehr und den Katastrophenschutz
-vorhanden sind. Es ist zu klären, ob in einer Gesundheitslage die
-Führung vom Gesundheitsbereich übernommen wird. Hierzu gibt es
-unterschiedliche Modelle in den Länder. Teilweise liegt die Federführung
-im Gesundheitsbereich, teilweise werde gemeinsame Stäbe von Gesundheits-
-und Innen-/Katastrophenschutzbereich gebildet.
+  - Risikokommunikation
 
-## Organisation von Stäben
+  - Krisenkommunikation
 
-Zur Bewältigung von Schadenlagen und Katastrophen gibt es drei relevante
-Komponenten der Führung:
+  - Zielgruppengerechte Krisenkommunikation
 
-  - die politisch gesamtverantwortliche Komponente,
+  - Krisenkommunikationsplan
 
-  - die operativ-taktische Komponente und
+  - Planungshilfen
 
-  - die administrativ-organisatorische Komponente.
+Durch eine gute Kommunikation können Bevölkerung, Medienvertreter und
+Behörden zu einem erfolgreichen Team bei der Bewältigung einer Krise
+werden.
 
-Diese Strukturen finden sich weigehend gleichartig auf Ebene der
-Landkreise und kreisfreien Städte in Deutschland
-wieder.
+## Risikokommunikation
 
-![<span class="figure-cat-figure">Figure</span><span data-caption="Komponenten der Führung">Komponenten
-der Führung</span>](b1c6adc6-40ab-49ab-878a-1edadaecc784.jpg)
+Ziel der Risikokommunikation ist es, das gegenseitige Vertrauen aller
+Beteiligten zu stärken. Dies gelingt am besten dadurch, eine
+langfristige Beziehung aufzubauen. Diese stellt die Grundlage für
+Glaubwürdigkeit dar, die im Krisenfall unverzichtbar ist.
+Risikokommunikation setzt daher Transparenz, Verlässlichkeit und
+größtmögliche Ehrlichkeit voraus. Entsprechend stellt
+Risikokommunikation einen kontinuierlichen Prozess dar. Behörden sollten
+sie ansehen und nutzen als
 
-#### Politisch gesamtverantwortliche Komponente
+*„Austausch von Informationen und Meinungen über Risiken zur
+Risikovermeidung, Risikominimierung und Risikoakzeptanz“*
 
-Die politisch-gesamtverantwortliche Leitung (zum Beispiel:
-Bürgermeisterin oder Bürgermeister, Landrätin oder Landrat,
-Ministerin/Minister) wird insbesondere bei weiträumigen und länger
-andauernden Großschadenereignissen oder in Katastrophenfällen aber auch
-bei infektiologischen Gefahrenlagen nötig. In diesem Rahmen hat die
-politischen Gesamtverantwortung die Aufgabe zur Veranlassung und
-Verantwortung sowohl von Einsatzmaßnahmen (operativ-taktisch) als auch
-Verwaltungsmaßnahmen (administrativ-organisatorisch). Zur Erledigung der
-Maßnahmen dienen – je nach Landesregelung - entweder zwei getrennte
-Stäbe (Führungsstab bzw. Katastrophenschutzstab und Verwaltungsstab)
-oder ein Gesamtstab, in dem beide Aufgabenbereiche integriert sind.
+<span class="citation">(Bundesamt für Bevölkerungsschutz und
+Katastrophenhilfe, 2011)</span>, bei der alle Beteiligten einbezogen
+werden sollten.
 
-#### Operativ-taktische Komponente
+Dies ist insbesondere von Bedeutung, wenn die Bevölkerung motiviert
+werden soll, selber Vorsorge zu betreiben. Ein Beispiel für die
+Krisenvorsorge ist die Broschüre des BBK "**Ratgeber für Notfallvorsorge
+und richtiges Handeln in Notsituationen**"
+([https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren\_Flyer/Buergerinformationen\_A4/Ratgeber\_Brosch.pdf](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Buergerinformationen_A4/Ratgeber_Brosch.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Buergerinformationen_A4/Ratgeber_Brosch.pdf")),
+in der wichtige Informationen und Checklisten "*zu allen wichtigen
+Themen – vom Lebensmittelvorrat bis zum Notgepäck – um persönlich für
+den Notfall gerüstet zu sein*" <span class="citation">(Bundesamt für
+Bevölkerungsschutz und Katastrophenhilfe, 2018)</span> zusammengestellt
+sind. Nur durch präventive Kommunikation ist es möglich, dass im
+Krisenfall auf die getroffe Vorsorge zurückgegriffen und das Wissen
+unverzüglich abgerufen werden kann.
 
-Auf operativ-taktischer Ebene kommt als Führungsmittel bei Schadenslagen
-unterhalb der Katastrophenschwelle, d.h. bei Großschadenslagen, der
-„**Führungsstab**“ und bei größerer Schadenslagen oberhalb der
-Katastrophenschwelle der „**Katastrophenschutzstab**“ zum Einsatz. Beide
-Stäbe sind in der Regel mit den gleichen Personen besetzt; die Anzahl
-der Stabsmitglieder kann jedoch bei einem Führungsstab geringer sein.
-Stabsstrukturen wachsen parallel zum Umfang eines Schadensereignisses
-auf.
+Ein Beispiel für die Notwendigkeit einer Risikokommunikation ist die in
+diesem Handbuch dargestellte Ressourcenknappheit, hier am Beispiel der
+Verteilung von Medikamenten herausgegriffen. Solang keine
+gesundheitlichen Gefahren drohen, wird jede Person dafür Verständnis
+aufbringen, dass medizinisches Personal, das sich um die ersten
+Patienten kümmern muss, bevorzugt geschützt werden muss. Ebenso Kräfte,
+die für die Aufrechterhaltung der kritischen Infrastrukturen oder für
+die öffentliche Sicherheit verantwortlich sind. Für die Arbeit innerhalb
+des eigenen Amtes kann dies bedeuten, dass im Vorfeld einer Krise
+geklärt wird, welche Aufgaben, die im Regelbetrieb eine hohe
+Wichtigkeit haben, in der Krise zurückstehen müssen.
 
-##### Dienstvorschrift DV 100  
-"Führung und Leitung im Einsatz"
+Herausforderung der Risikokommunikation ist, dass eine Vielzahl von
+Faktoren darüber entscheidet wie ein Risiko wahrgenommen wird. Dies kann
+dazu führen, dass hohe Risiken unter- und geringe Risiken überschätzt
+werden, wodurch im Rückschluss die Maßnahmen der Gesundheitsbehörden als
+überzogen oder als unzureichend empfunden werden. Ein typisches Beispiel
+hierfür ist, eine Impfung aus Angst vor den sehr seltenen Nebenwirkungen
+abzulehnen und dafür das wesentlich höhere Risiko eines schwerwiegenden
+Erkrankungsverlaufs bei einer Infektion in Kauf zu nehmen. Treten
+gefährliche Erkrankungen aufgrund hoher Impfraten nur noch selten auf,
+ist eine besondere Herausforderung persönliche und gesellschaftliche
+Nutzen-Risiko-Erwägungen voneinander getrennt darzustellen.
 
-Alle Katastrophenschutzorganisationen (Feuerwehr, Rettungsdienst,
-Polizei/ Ordnungsbehörden und Hilfsorganisationen) in Deutschland
-arbeiten im Einsatz also auch im Stab nach einer gleichartigen
-Dienstvorschrift (z. B. Feuerwehr-Dienstvorschrift [FwDV
-100](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/FwDV%20100.pdf?__blob=publicationFile "DV 100")
-„Führung und Leitung im Einsatz“ -
-https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext\_Fw\_Dv/FwDV%20100.pdf?\_\_blob=publicationFile).
-Damit sich die Gesundheitsbehörden in diesem System der Führungstruktur
-zu Recht finden, ist eine frühzeitige Einbindung in das
-Gefahrenabwehrsystem sinnvoll.
+Die Art der Kommunikation trägt entscheidend dazu bei, wie ein
+bestimmtes Risiko wahrgenommen wird. So deuten verschiedenen Studien
+darauf hin, dass bezüglich der Eintrittswahrscheinlichkeit, relative
+Zahlen - im Vergleich zu absoluten Zahlen- häufig zu einer zu hohen
+Risikobewertung führen <span class="citation">(Wegwarth, Odette;
+Gigerenzer, Gerd, 2011)</span>. Auch kann die Art der Darstellung dazu
+führen, dass das Schadensausmaß falsch eingeschätzt wird. Dies spielt
+insbesondere bei biologischen Gefahrenlagen, bei denen das
+Schadensausmaß von so vielen Faktoren abhängt, dass eine Abschätzung
+nahezu unmöglich ist, eine große Rolle. Auch diese Unsicherheit muss
+kommuniziert werden. So hat z.B. die strategische Planung für den Fall,
+wie mit 30% Personalausfall umzugehen ist, dazu geführt, dass sich die
+Auffassung festgesetzt hat, dass bei jeder Pandemie ca. 30% erkranken.
 
-Die jeweilige Dienstvorschrift ist für alle Gefahrenabwehrbehörden das
-Führungsinstrument auf der Stadt- bzw. der Landkreisebene zur
-Bewältigung größerer Schadenslagen und Katastrophen. Durch die
-Dienstvorschrift werden alle Vertreter der wesentlichen Bereiche der
-Gefahrenabwehr und Gesundheitsvorsorge gleichermaßen verantwortlich in
-eine einheitliche Führung eingebunden.
+Auch der Zeitpunkt der Risikokommunikation kann einen Einfluss darauf
+haben, wie sie wahrgenommen wird. Die Veröffentlichung von diesen
+Notfall-Informationen muss daher so in eine Risikobewertung
+eingebettetet werden, dass für den Adressaten deutlich wird, ob dies
+eine allgemeine Information ohne aktuellen Anlass ist oder auf ein in
+Kürze zu erwartendes Ereignis vorbereiten soll. Neben dem langfristigen
+Aufbau von Vertrauen, kann die Risikokommunikation auch kurzfristig bei
+vermuteten, vorhersehbaren Gefahren (z.B. extremen Wetterlagen) dazu
+genutzt werden,
 
-Ein **Führungs- bzw. Katastrophenschutzstab** beschäftigt sich mit allen
-anfallenden operativ-taktischen Maßnahmen z.B. Abschnittsbildung,
-Bereitstellen von Einsatzkräften und Reserven oder dem Aufbau und
-Betrieb einer Kommunikationsstruktur.
+"*die Bevölkerung für bevorstehende Ereignisse zu sensibilisieren und
+Maßnahmen z.B. zur Warnung der Bevölkerung und zum Schutz der
+Bevölkerung vorzubereiten*",
 
-![<span data-caption="Gliederung Führungsstab">Gliederung
-Führungsstab</span>](aacd8b75-22dc-4975-8657-87812430b3ed.jpg)
+wie das BBK in seinem Glossar "**Ausgewählte zentrale Begriffe des
+Bevölkerungsschutzes**" schreibt
+([https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis\_Bevoelkerungsschutz/Glossar\_2018.pdf](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/Glossar_2018.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/Glossar_2018.pdf")).  
 
-Generell sind in beiden Stäben folgende Sachgebiete (S) zu besetzen:
+## Krisenkommunikation
 
-  - **S 1 (Personal)** steuert alle operativen Einsatzkräfte.
+Im Gegensatz zur Risikokommunikation, die vor allem der Vorbereitung auf
+die Krise dient, bedeutet Krisenkommunikation den
 
-  - **S 2 (Lage)** trägt alle erforderlichen Fakten zur Beurteilung der
-    Lage zusammen. Zum Sachgebiet S 2 gehören auch die Funktionen
-    Einsatztagebuch und Sichtung.
+"*Austausch von Informationen und Meinungen während einer Krise zur
+Verhinderung oder Begrenzung von Schäden an einem Schutzgut*"
 
-  - **S 3 (Einsatz)** koordiniert und überwacht alle Einsatzaufträge.
-    Diesem Sachgebiet ist auch die Funktion Auftragskontrolle
-    zugewiesen.
+<span class="citation">(Bundesamt für Bevölkerungsschutz und
+Katastrophenhilfe, 2011)</span>.
 
-  - **S 4 (Logistik)** steuert die gesamte Logistik und das benötigte
-    Material
+Krisenkommunikation muss sicherstellen, dass alle Verantwortlichen den
+gleichen Informations- und Wissensstand haben. Ebenso müssen Medien und
+Bevölkerung möglichst wahrheitsgemäß, transparent und aktuell informiert
+werden.
 
-  - **S 5 (Presse- und Medienarbeit)** koordiniert die Presse- und
-    Medienarbeit mit allen Beteiligten
+Ziel der Krisenkommunikation ist es, rechtzeitig, ausreichend und
+konkret zu informieren, damit die erforderlichen Maßnahmen zum Schutz
+der Bevölkerung getroffen werden können. Um Verunsicherung zu vermeiden,
+ist eine abgestimmte Sprachregelung, an die sich alle Beteiligten zu
+halten haben, erforderlich. Aus diesem Grund ist es notwendig, auch eine
+Krisenkommunikation im Vorfeld zu planen.
 
-  - **S 6 (IT und Kommunikation)** stellt die IT und die gesamte
-    Kommunikationtechnik bereit
+Wird der richtige Zeitpunkt versäumt oder werden unterschiedliche
+Informationen verbreitet, drohen überbordende Fehlinformationen und
+unzutreffende Gerüchte, die schlimmstenfalls zu Hysterie oder Panik
+führen. Bereits von den ersten Reaktionen kann es abhängen, ob der
+Krisenverlauf für die Organisation außer Kontrolle gerät.
 
-Das Gesundheitsamt kann in Ereignissen (z.B. Austritt einer chemischen
-Substanz) als Fachberatung und Verbindungsperson in dem Führungsstab
-bzw. Katastrophenschutzstab vertreten sein.
+Um die Kontrolle über die Kommunikation zu behalten, gelten daher
+folgende Grundsätze:
 
-Die o.g. genannten Stabsfunktionen werden im Abschnitt "Aufgaben der
-Stabsfunktionen" (***Link***) detaillierter beschrieben.
+1\. Agieren statt reagieren
 
-#### Administrativ-organisatorische Komponente
+2\. nur gesicherte Informationen herausgeben, ggf. Unsicherheiten
+erläutern
 
-Neben **Führungs- bzw. Katastrophenschutzstäben** kann es - je nach
-Regelungen der Länder - als eine eigenständige Einheit oder zusammen mit
-dem **Führungs- bzw. Katastrophenschutzstab** einen **Verwaltungsstab**
-geben. Wenn beide Stäbe zusammen tätig werden, bilden sie eine Einheit.
-Während der Führungs- bzw. Katastrophenschutzstab die taktisch-operative
-Komponente abdeckt, beschäftigt sich der **Verwaltungsstab** mit dem
-administrativ-organisatorische Teil der Katastrophenschutzleitung. Er
-soll unter zeitkritischen Bedingungen und unter Beachtung aller
-notwendigen Gesichtspunkte, Entscheidungen treffen, die aufgrund
-rechtlicher Vorgaben, finanzieller Zuständigkeiten und politischer
-Rahmenbedingungen der Führungs- bzw. Katastrophenschutzstab nicht
-zuständig ist. Hierzu zählen z.B. Entscheidung von Schließung von
-öffentlichen Einrichtungen.
+3\. Kontakt halten / ansprechbar sein
 
-Um hierfür eine länderübergreifende, einheitliche Organisationsform zu
-ermöglichen, gibt es das Dokument "[Hinweise zur Bildung von Stäben der
-administrativ – organisatorischen
-Komponente](http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/IMKBeschluesse/IMK174TOP26Anlg2.pdf?__blob=publicationFile "Hinweise zur Bildung von Stäben der administrativ – organisatorischen Komponente ")"
-(http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/IMKBeschluesse/IMK174TOP26Anlg2.pdf?\_\_blob=publicationFile).
-Diese Hinweise gelten auch hier sowohl für die Stabsarbeit bei
-Großschadenereignissen als auch für Katastrophenfälle. Einige Länder
-setzen diese Komponente bereits für Ereignisse unterhalb der Schwelle
-eines Großschadensereignisses ein.
+### **Presse- und Medienarbeit**
 
-Gemäß den Hinweise sitzen im **Verwaltungsstab** alle zur Bewältigung
-der Schadenlage notwendigen beziehungsweise zuständigen Ämter der
-eigenen Verwaltung, anderer Behörden und Dritte mit relevanten
-Kenntnissen. Neben ständigen Mitgliedern des Stabes (SMS), zu denen u.a.
-auch das Gesundheitsamt- bzw. Gesundheitsbehörde als Fachberater gehört,
-gibt es ereignisspezifische Mitglieder des Stabes. Dieses können auch
-nicht-regierungs Akteure (z.B. Stromanbeiter bei einem Stromausfall)
-sein. Abbildung 2 gibt einen Überblick über die Zusammensetzung eines
-**Verwaltungstabs**:
+Im Krisenfall muss die Kommunikation nach außen eindeutig geregelt
+werden. Presse und Medien benötigen feste Ansprechpartner. Informationen
+an die Öffentlichkeit dürfen nur durch dafür Autorisierte gegeben
+werden, die für diese Aufgabe besonders ausgebildet sind. Anfragende
+müssen an Autorisierte verwiesen werden. Fach-Expertise bedeutet nicht
+automatisch, dass diese auch verständlich vermittelt werden kann.
 
-![<span class="figure-cat-figure">Figure</span><span data-caption="Struktur eines Verwaltungsstabes">Struktur
-eines
-Verwaltungsstabes</span>](1d4083da-3db7-4899-8c50-b4d87d249840.jpg)
+Da die Bevölkerung erwartet, dass die Behörden zeitnahHilfe leisten,
+Sicherheit geben und effizient funktionieren, ist der Umgang mit
+Unsicherheiten, wie er häufig zu Beginn einer Krise besteht, eine
+besondere Herausforderung. Um Vertrauen zu erhalten, muss die
+Unsichterheit kommuniziert werden, gleichzeitig müssen auch die
+Maßnahmen benannt werden, die ergriffen werden, um die Unsicherheiten
+zu klären und den Zeitpunkt, wann mit weiteren Informationen zu rechnen
+ist.
 
-  
+Zur Vorbereitung auf eine Pressekonferenz ist es wichtig, sich nicht nur
+auf die Informationen vorzubereiten, die vermittelt werden sollen,
+sondern sich auch zu überlegen, welche Informationen die Pressevertreter
+haben möchten. Wenn die Vertreter der Medien die Antworten auf ihre
+Fragen nicht von den autorisierten Personen erhalten, werden sie sich
+andere "Experten" suchen, die Antworten geben. Bei sehr komplexen und
+fachlichen Themen kann es daher empfehlenswert sein, ein Team von
+Ansprechpartnern zur Pressekonferenz dazuzubitten. Dies können je nach
+Szenario z.B. der behandelnde Arzt, beteiligte Rettungskräfte oder
+Vertreter anderer Behörden sein.
 
-Die „**Leitung des Stabes“** ist verantwortlich für die Leitung und die
-Koordinierung des Verwaltungsstabes, trifft Entscheidungen über die zu
-treffenden Maßnahmen, legt Ziele fest und entscheidet über die
-Einberufung weiterer lagespezifischer Mitglieder in den Stab. Sollte die
-politische Verantwortlichkeit nicht bei der Leitung des
-Verwaltungsstabes liegen, entscheidet die Leitung des Stabes, welche
-Maßnahmen innerhalb des Stabes und welche durch die politische
-Gesamtverantwortung bestimmt werden.
+Hilfreich ist es, den Pressevertretern auch organisatorisch gute
+Rahmenbedingungen für ihre professionelle Arbeit zu liefern, z.B. einen
+ausreichend dimensionierten Presseraum mit guter Akkustik, möglichst mit
+Tischen, Stühlen, Steckdosen und WLAN ausgestattet, so dass die
+Informationen gleich weiterverarbeitet werden können. Bei längeren Lagen
+kann es sinnvoll sein, für Verpflegung, zumindest Getränke oder auch
+einfache Speisen, zu sorgen. Die Betreuung sollte möglichst durch eine
+durchgängig anwesende, geschulte Person erfolgen oder zumindest sollte
+deren ständige Erreichbarkeit sichergestellt
+sein.
 
-Die **Koordinierungsgruppe Verwaltungsstab (KGS)** setzt sich aus dem
-Bereichen **„Innerer Dienst“** und **„Lage und Dokumentation“**
-zusammen. Der **„Innere Dienst“** alarmiert Stabsmitglieder, erstellt
-und aktualisiert ggf. die Stabsdienstordnung, Alarmierungs-und
-Ereichbarkeitslisten und stellt die Arbeitsfähigkeit des Stabs sicher,
-d.h. Versorgung, Nachbestellung von Materialien, Organisation von Räumen
-und Besprechungen. Der KGS-Bereich **„Lage und Dokumentation“**
-beschäftigt sich u.a. mit dem Anfordern, Sammeln, Auswerten,
-Dokumentation von Lageinformationen und Meldungen sowie mit der Führung
-des Einsatztagebuchs und der Darstellung der Lage und von Prognosen zur
-voraussichtlichen Lageentwicklung.
+### **Direkte Kommunikation, mittels Internet, Bürgertelefon, sozialer Medien und Apps**
 
-Die Funktion **„Bevölkerungsinformation und Medienarbeit (BuMA)“**
-koordiniert, betreut und informiert die Presse und andere Medien durch
-z.B. die Erstellung von Presseinformationen, auswertung von
-Pressemiteilungen oder Einrichten eines Bürgertelefons.
+Neben Pressekonferenzen, die ausschliesslich einen persönlichen Kontakt
+zwischen Behörde und Medienvertretern ermöglichen, bietet das Internet
+zahlreiche Möglichkeiten, direkt mit der Bevölkerung zu kommunizieren.
+Auch hierzu ist eine Vorbereitung im Vorfeld notwendig, um im Krisenfall
+auf die notwendige Infrastruktur und Expertise zurückgreifen zu können.
+Eine Kenntnis der Zielgruppe, die erreicht werden soll, ist bei direkter
+Kommunikation besondes notwenig, um die richtigen Kommunikationskanäle
+und die passende Sprache zu wählen.
 
-„**Ständige Mitglieder des Stabes (SMS)“** bewerten das Ereignis aus
-ihrer fachlichen Sicht, stellen Probleme und Gefährdungen aus ihrer
-Sicht dar und erarbeiten Möglichkeiten und Vorschläge für zweckdienliche
-Maßnahmen. Die SMS sind entscheidungsbefugte Vertreter aus notwendigen
-Ämtern, Behörden oder Dritten. In der Regel sind die Bereiche
-Sicherheit und Ordnung, Katastrophenschutz, Gesundheit, Umwelt, Polizei
-und Soziales vertreten. Je nach Lage können weitere Fachbereiche
-einbezogen werden wie Bau- und Wohnungsaufsicht (z.B. bei Bränden),
-Schulamt etc. Darüber hinaus gibt es eine Verbindungsperson zum
-Führungsstab.
+Für das Internet können im Vorfeld Darksites vorbereitet werden, die im
+Krisenfall mit aktuellen Informationen bestückt werden und eine schnelle
+Freischaltung ermöglichen.
 
-Genauso wie die SMS bringen **„Ereignisspezifische Mitglieder des Stabes
-(EMS)“** ihre spezifischen Kenntnisse in die Lagebewertung und
-Lagebewältigung mit ein. Sie werden je nach Lage ausgesucht und
-bestehen aus entscheidungsbefugten Vertreter von Ämter der eigenen
-Verwaltung, Behörden, Gemeinden oder fachkundige Dritte. Zu letzteren
-zählen zum Beispiel Feuerwehr; Hilfsorganisationen, THW, Bundeswehr,
-Energieversorger und Verkehrsunternehmen. Die EMS-Vertreter können ihre
-Aufgabe teilweise innerhalb ihres normalen Arbeitsbereiches erledigen
-und müssen nicht ständig im Verwaltungsstab anwesend sein.
+Eine weitere Kommunikationsform, die von der Bevölkerung sehr geschätzt
+wird, jedoch sehr personalintensiv ist, sind Bürgertelefone oder
+sogenannte "Hotlines". Im Umkehrschluss kann aus den häufigsten Fragen
+auch abgelesen werden, zu welchen Themen ein besonderer
+Informationsbedarf besteht oder sich gar falsche Informationen
+verbreiten.
 
-## Zusammenarbeit der Stäbe
+Speziell für die schnelle Warnung vor Gefahrenlagen wurde die
+Notfall-Informations- und Nachrichten-App des Bundes, kurz **Warn-App
+NINA**
+([https://www.bbk.bund.de/DE/NINA/Warn-App\_NINA.html](https://www.bbk.bund.de/DE/NINA/Warn-App_NINA.html "https://www.bbk.bund.de/DE/NINA/Warn-App_NINA.html")),
+entwickelt. Wichtige Warnmeldungen für unterschiedliche Gefahrenlagen
+wie zum Beispiel Gefahrstoffausbreitung oder einem Großbrand werden
+direkt auf die Mobiltelefone der Bevölkerung gesendet. Auch hierbei ist
+die Risikokommunikation im Vorfeld notwendig, um die App bekannt zu
+machen.
 
-Einen Überblick über die Zusammenarbeit in Krisenfällen zeigt die
-nachfolgende
-Grafik:
+### **Fachkommunikation**
 
-![<span class="figure-cat-figure">Figure</span><span data-caption="Grafik Stäbe">Grafik
-Stäbe</span>](9cf983fb-6e98-4dc9-b8c2-d07fa2165195.jpg)
+Bei einigen Krisenlagen kann es notwendig oder auch hilfreich sein, eine
+gezielte Fachkommunikation mit besonderen Zielgruppen zu führen. Für den
+ÖGD sind die in ihrem Zuständigkeitsbereich tätigen Ärztinnen und Ärzte
+hierbei besonders herauszuheben. Einerseits kann auch bei ihnen
+Unsicherheit vorliegen, der dringend entgegengewirkt werden muss,
+andererseits sind sie wichtige Multiplikatoren, die ein hohes Vertrauen
+in der Bevölkerung besitzen.
 
-## Krisenstab im Gesundheitsamt
+Aufgrund ihrer Ausbildung kann bei medizinisches Fachpersonal fachliches
+Wissen vorausgestzt werden, dass für die Kommunikation mit der
+Bevölkerung entsprechend die eigenen fachspezifische Sprache anwenden
+und nutzen kann.
 
-Der Arbeitsstab bzw. Krisenstab des Gesundheitsamtes ist im Krisenfall
-grundsätzlich eine ergänzende und unterstützende amtsinterne
-Organisationsstruktur für die Amtsleitung, die in der Regel als
-Fachvertreter des Gesundheitsamtes im Führungs- oder
-Katastrophenschutzstab tätig sein wird.
+## **Verantwortlichkeit und Dokumentation**
 
-Der Stab des Gesundheitsamtes selbst übernimmt in der Regel nicht die
-Führung, sondern koordiniert und erarbeitet die erforderlichen
-Maßnahmen auf Weisung der Leitung des Gesundheitsamt. Bei begrenzten
-infektiologischen Gefahrenlagen kann und sollte er allerdings auch
-alleine tätig werden. Während er bei größeren Gefahrenlagen
-unterstützender Bestandteil der Amtsleitung im Führungsstab- oder
-Katastrophenschutzstab ist.
+In der Regel gibt es in den Verwaltungen Presseabteilungen mit
+Pressesprechern, die für die Öffentlichkeitsarbeit zuständig sind. Der
+Umgang mit Presseanfragen, Anfragen von anderen Behörden, Anfragen von
+Institutionen und Anfragen aus der Bevölkerung sollte klar geregelt
+sein. In Krisensituationen werden häufig zentrale Auskunftsstellen
+eingerichtet, die einen Teil der Öffentlichkeitsarbeit übernehmen.
+Abzuraten ist von ungeregeltem Auskunftsverhalten von Experten. Die für
+Auskünfte autorisierten Personen sollten verpflichtet werden, die
+Anfragen nachvollziehbar und strukturiert zu dokumentieren. Die
+Hauptverantwortlichen für die Öffentlichkeitsarbeit müssen jederzeit den
+Stand der bereits herausgegebenen Informationen nachvollziehen können.
 
-Gesundheitsämter nehmen sowohl administrativ-organisatorische Aufgaben,
-wie die Koordination und Entscheidung von Fachaufgaben im originären
-Zuständigkeitsbereich, als auch operativ-taktische Aufgaben, wie die
-Bildung von Einsatzschwerpunkten, den Einsatz von Personal und die
-Steuerung von Logistik wahr.
+Wichtig bei der Kommunikation, insbesondere in Krisensituationen, ist
+immer auch die Dokumentation, die eine Nachvollziehbarkeit sicherstellen
+muss. Durch klar festgelegte interne Zuständigkeits- und
+Entscheidungsstrukturen kann über die Kommunikationswege die zeitnahe
+und sachgerechte Umsetzung vorangebracht werden. Die Rückmeldung der
+ausführenden Stellen muss hierbei ebenso bedacht werden, wie die
+Information der nicht beteiligten Verwaltungsbereiche und der
+Bevölkerung.
 
-Die Struktur des Stabes in Gesundheitsbehörden sollte sich abhängig von
-den personellen Gegebenheiten an der FwDV 100 orientieren. Wenn es die
-Gefahrenlage und die Aufgaben in dem Stab erfordern, wird er durch
-weiteres internes Personal unterstützt oder bei Bedarf durch weiteres
-Personal aus anderen Ämtern/Abteilungen ergänzt, wenn es für die
-Aufgabenerfüllung sachgerecht ist, werden ggf. Stabsfunkionen
-zusammengelegt.
+# Bibliography
 
-Für die Arbeit im Krisenstab müssen bestimmte infrastrukturelle
-Voraussetzungen geschaffen werden. Der Krisenstab benötigt einen
-geeigneten Raum mit entsprechender Ausstattung, inklusive Informations-
-und Kommunikationstechnik. Einige Dinge sollten grundsätzlich immer
-bereitstehen, andere können anlassbezogen geschaffen werden.
-
-Die Checkliste „Ausstattung eines Krisenstabes“ macht Vorschläge, die
-bei der Einrichtung eines Stabes genutzt werden können.
-
-## Krisenmanagement auf der Ebene oberster Landesbehörden
-
-Die Ministerien und die ihnen nachgeordneten allgemeinen und besonderen
-Landesbehörden sind jeweils im Rahmen ihrer Aufgaben für die Vorbeugung
-und Abwehr von Gefahren zuständig. Im Sinne der gesamtstaatlichen
-Vorsorge gegen infektiologische Gefahrenlagen kann bei drohenden
-Gefahren, bei eingetretenen Schadenslagen sowie bei Katastrophen der
-Stab dieser Gesundheitsbehörden aufgerufen werden. Teilweise werden
-diese Stäbe im Rahmen des Ressortprinzps federführend tätig, teilweise
-werden gemeinsame Stäbe von Gesundheits- und Innenressorts gebildet. Die
-Gesundheitsministerien können in der Regel bei gesundheitsbezogenen
-Lagen die Aufrufung des Stabes der Landesregierung vorschlagen. In
-diesem Stab arbeiten dann die betroffenen Ministerien gemäß ihrer
-Aufgabenzuständigkeit mit und erledigen die Aufgaben im Rahmen des
-Ressortzuständigkeit.
-
-## Arbeitsweise im Stab
-
-Die Arbeitsweise im Stab ist ein zielgerichteter, immer wiederkehrender
-in sich geschlossener Denk- und Handlungsablauf. Durch das wiederholte
-Durchlaufen wird die notwendige Lagebeurteilung und Beschlussfassung
-sichergestellt.
-
-![<span class="figure-cat-figure">Figure</span><span data-caption="Arbeitsweise im Krisenstab">Arbeitsweise
-im Krisenstab</span>](2b9be091-dd4a-40e0-9d5e-2847433c369d.jpg)
-
-## Aufgaben der Stabsfunktionen
-
-Die Aufgaben der Stabsfunktionen gemäß der FwDV 100 werden beispielhaft
-in der nachfolgenden Tabelle dargestellt:
-
-<table>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>Stabsfunktion</strong></p></td>
-<td><p><strong>Aufgaben</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>S 1 (Personal)</p></td>
-<td><ul>
-<li><p>Alarmierung von im Dienst befindlichen Personal</p></li>
-<li><p>Alarmierung von Personal aus der Freizeit</p></li>
-<li><p>Überwachung der Alarmierung</p></li>
-<li><p>Führen von Personalübersichten, Überwachung der Arbeitszeiten</p></li>
-<li><p>Bereitstellen von Personal Reserven (bei längeren Einsätzen)</p></li>
-<li><p>Alarmieren und Anfordern von Ämtern und Behörden, Organisationen</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>S 2 (Lage)</p></td>
-<td><p><strong>Information sicherstellen</strong></p>
-<ul>
-<li><p>Unterrichten vorgesetzter Stellen</p></li>
-<li><p>regelmäßige betriebsinterne Information der Mitarbeiter</p></li>
-<li><p>Unterrichten anderer Stellen</p>
-<p><strong>Einsatzdokumentation</strong></p></li>
-<li><p>Führen des Einsatztagebuches</p></li>
-<li><p>Sammeln, sichern und registrieren des Informationsmaterials</p></li>
-<li><p>Erstellen eines Abschlussberichtes</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>S 3 (Einsatz)</p></td>
-<td><ul>
-<li><p>Beurteilen der Lage</p></li>
-<li><p>Einsatzdurchführung, z.B. Festlegen von Einsatzschwerpunkten,</p></li>
-<li><p>Festlegen der erforderlicher Einsatzkräfte, Einsatzmittel und Reserven</p></li>
-<li><p>Sicherstellung der Führung im Rahmen des Einsatzplanes (Führungsorganisation)</p></li>
-<li><p>Durchführen von Lagebesprechungen</p></li>
-<li><p>Erteilen und Überwachen von Aufträgen</p></li>
-<li><p>Zusammenarbeit mit anderen Ämtern, Behörden und Organisationen</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>S 4 (Logistik)</p></td>
-<td><ul>
-<li><p>Anfordern weiterer Einsatzmittel</p></li>
-<li><p>Heranziehen von Hilfsmitteln</p></li>
-<li><p>Bereitstellen von Verbrauchsgütern und Einsatzmitteln</p></li>
-<li><p>Bereitstellen und Zuführen der Verpflegung</p></li>
-<li><p>Festlegen der Versorgungsorganisation</p></li>
-<li><p>Bereitstellen von Schutzausstattung zum Eigenschutz der Mitarbeiter</p></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>S 5 (Presse- und Medienarbeit)</p></td>
-<td><p><strong>Presse- und Medieninformation</strong></p>
-<ul>
-<li><p>sammeln, auswählen und aufbereiten von Informationen aus dem Einsatz</p></li>
-<li><p>erfassen, dokumentieren und auswerten der Presse- und Medienlage</p></li>
-<li><p>erstellen von Presse- und Medieninformationen</p></li>
-</ul>
-<p><strong>Presse- und Medienbetreuung</strong></p>
-<ul>
-<li><p>informieren, führen und unterbringen der Presse- und Medienvertreter/innen</p></li>
-<li><p>vorbereiten und durchführen von Pressekonferenzen Veranlassen und betreuen von Bürgertelefonen Veranlassen von Warn- und Suchhinweisen</p></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>S 6 (IT und Kommunikation)</p></td>
-<td><p><strong>Planen des IT- und Kommunikationseinsatzes</strong></p>
-<p><strong>Erarbeiten eines Kommunikationskonzeptes</strong></p>
-<p><strong>Sicherstellung des Einsatzes</strong></p>
-<ul>
-<li><p>Sicherstellung des IT-Einsatzes, Sicherstellung der Kommunikationsorganisation</p></li>
-</ul>
-<ul>
-<li><p>Gewährleisten der Kommunikationssicherheit (Redundanz)</p></li>
-</ul>
-<ul>
-<li><p>Überwachen des Kommunikationsbetriebes<br />
-</p>
-<p><strong>Ausstattung der Einsatzleitung mit Bürokommunikation</strong></p></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
-
-<div class="section fnlist" data-role="doc-footnotes">
+<div class="csl-bib-body">
 
 </div>

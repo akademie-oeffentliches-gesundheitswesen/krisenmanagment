@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Planungshilfe Krankenhäuser
+title: 11. Annex-Checkliste: Planungshilfe Gesundheitsämter
 nav_order: 12
 ---
  
@@ -16,171 +16,80 @@ nav_order: 12
    <p></p>
  
  
-Die folgende Checkliste basiert auf Auführungen des Nationalen
-Pandemieplan Teil I
-([https://edoc.rki.de/handle/176904/187](https://edoc.rki.de/handle/176904/187 "https://edoc.rki.de/handle/176904/187"))
+# KOORDINATION
 
-|                |       |       |
-| -------------- | ----- | ----- |
-| Worum geht es? | Titel |       |
-| Addressaten    |       | Datum |
+  - Lageabhängige Entscheidung über interne Führungsorganisation
 
-# Hintergrund
+  - Koordinierung der Maßnahmen
 
-Bei einer ausgeweiteten Epidemie/Pandemie ist davon auszugehen, dass im
-Vergleich zu einem begrenzten Ausbruch Anzahl der Erkrankten insgesamt
-als auch der Anteil schwer erkrankter Patienten deutlich erhöht ist.
-Daher ist mit einer erhöhten Belastung, ggf. Überlastung der
-Kapazitäten, in der stationären Krankenhausversorgung zu rechnen.
+  - Dokumentation und Evaluierung
 
-***CAVE: Das (medizinische, pflegerische, u.a.) Personal kann selbst von
-krankheitsbedingten Ausfällen betroffen sein und bestehenden Kapazitäten
-können so eingeschränkt sein.***
+  - Kontinuierliche Evaluierung des Ereignisses
 
-Der massenhafte Anfall von stationär behandlungsbedürftigen Patienten,
-die teilweise intensiv-/beatmungspflichtig sind, erfordert in den
-Krankenhäusern klare Festlegungen bezüglich der organisatorischen
-Umsetzung.
+  - Demobilisierung
 
-Die Planungen und Vorbereitungen auf kommunaler Ebene (z.B. Kreisebene)
-erfordern die Einbeziehung aller Krisen- und
-Katastrophenreaktionsstrukturen.
+# RISIKOMANAGEMENT
 
-## Vorbereitende Maßnahmen
+  - Risikobewertung
 
-▶ Impfung des Personals gegen saisonale Influenza
+# KOMMUNIKATION
 
-▶ Anpassung der Notfallpläne, insbesondere Krankenhäuser,
-Gesundheitsämter an Pandemieplanung
+  - Risiko- und Krisenkommunikation
 
-▶ Information und Schulung des Personals über Notfallpläne und
-Hygienemanagement
+  - Kommunale interne Kommunikation
 
-## Organisatorische Maßnahmen zur Sicherstellung der stationären Versorgung
+  - Aufklärung der Bevölkerung
 
-▶ Schaffung/Erhöhung der Bettenkapazitäten für zusätzliche Patienten
+  - Fachliche Vorbereitung der Pressearbeit, ggf. Hotline einrichten
 
-▶ Aussetzen elektiver Aufnahmen
+# AUSBRUCHUNTERSUCHUNG
 
-▶ Entlassung von Patienten zum frühest möglichen Zeitpunkt
+  - Arbeitsschutz, Sicherstellung der Versorgung mit persönlicher
+    Schutzausrüstung
 
-▶ Einbeziehung anderer Stationen (z. B. Haut, Augen – unter
-Berücksichtigung der pandemiespezifischen Anforderungen)
+  - infektionsepidemiologische Routine-Erfassung
 
-## Personalmanagement
+  - Ermittlung von Kontaktpersonen, Kategorisierung von Kontaktpersonen
 
-▶ Verstärkung der Personalressourcen (z. B. Umschichtung aus Bereichen,
-die auf Grund des Aussetzens elektiver Aufnahmen weniger Personal
-binden; Berücksichtigung von Medizinstudenten im letzten
-Ausbildungsjahr etc.)
+  - Festlegen von antiepidemischen Maßnahmen nach IfSG
 
-▶ erkranktes Personal mit Symptomen aus der Patientenversorgung
-ausschließen
+  - Anordnung von diagnostischen Maßnahmen & Entscheidung über das
+    Untersuchungsspektrum
 
-## Bevorratung bzw. Managementkonzept für rasche Beschaffung im Ereignisfall
+  - Regelung der Probenahme und des Probentransports
 
-▶ Antibiotika, Schmerzmittel, Sedativa
+  - Schutzmaßnahmen zur Kontaktreduzierung
 
-▶ Desinfektionsmittel
+  - Organisation und Überwachung des Patienten
 
-▶ Persönliche Schutzausrüstung:
+  - Festlegen und Überwachen von Absonderungen
 
-▶▶Einmalhandschuhe
+  - Entscheidung über Art & Umfang der Desinfektionsmaßnahmen und deren
+    Überwachung
 
-▶▶ Mund-Nasen-Schutz
+  - ggf. Entscheidung über Dekontaminationsmaßnahmen
 
-▶▶ FFP2-Masken/FFP3-Masken
+# BERATUNG
 
-## Information und Schulung des Personals
+  - Hinweise zu Verhaltensmaßnahmen für Betroffene
 
-## 
+  - Wahrnehmung der Informations- und Beratungsaufgaben für andere
+    Behörden, Einrichtungen und für die Bevölkerung
 
-▶ Regelmäßige Auffrischung des Informationsstands des Personals:
+# ORDNUNGSRECHTLICHE AUFGABEN
 
-▶ ▶ organisatorischen Vorbereitungen
+  - Amtsärztliche Veranlassung der Absonderung
 
-▶ ▶ Ablaufpläne
+  - Anordnung der Leichenschau, Beurkundung eines Sterbefalles,
+    Überwachung des Leichentransports und der Kremierung
 
-▶ ▶ Hygienemanagement
+  - Anordnung von Tätigkeits-, Teilnahme- und Besuchsverboten
 
-▶ Spezifisches Schulungsangebot zur Behandlung und Pflege von Patienten
-für Personal, das aus anderen Bereichen umgeschichtet wird
+  - Entsorgungmanagement
 
-## Maßnahmen zum Personalschutz
+  - ggf. Koordination von Impfungen
 
-▶ ggf. Antivirale Prophylaxe
-
-▶ ggf. Impfung
-
-## Ausstattung der Behandlungseinheiten
-
-▶ Kohortenisolierung muss möglich sein; d.h. „Stationsschleuse“ bzw.
-Schleuse im Eingangsbereich eines komplett als Behandlungseinheit
-genutzten Gebäudes
-
-▶ Raumlufttechnische Anlage ist dahingehend zu überprüfen, durch
-welche Maßnahmen eine Weiterverbreitung in andere Krankenhausbereiche
-verhindert werden kann
-
-▶ Möglichkeit der Sauerstoffversorgung (möglichst zentral)
-
-▶ Beatmungsplätze
-
-▶ medizintechnische Ausrüstung (z. B. Katheder, Infusionsgeräte,
-Medikamente)
-
-▶ Röntgengeräte (z. B. auch mobile Röntgengeräte)
-
-▶ Ultraschall, EKG, Defibrillatoreinheit, Pulsoxymetrie
-
-## Ablauforganisation
-
-▶ Gesonderter Aufnahmebereich für infektiöse Patienten
-
-▶ Aufnahme-Indikation prüfen
-
-▶ Behandlungsbereich von der übrigen Versorgung abgetrennt, nach
-Möglichkeit auch Röntgenbereich einbeziehen
-
-▶ Dem Behandlungsbereich sollte ein Intensivbereich zugeordnet werden
-
-▶ Management der Bettenkapazitäten
-
-## Krankenhaushygienische Maßnahmen
-
-Wichtige fachliche Empfehlungen enthalten folgende Quellen:
-
-▶ RKI: Empfehlung des RKI für die Hygienemaßnahmen bei Patienten mit
-Verdacht auf bzw. nachgewiesener Influenza
-
-▶ BAuA: Beschluss 609 – Arbeitsschutz beim Auftreten von Influenza unter
-besonderer Berücksichtigung des Atemschutzes
-
-Darüber hinaus sind die Hygienepläne zu überprüfen.
-
-▶ Persönliche Schutzmaßnahmen des medizinischen Personals
-
-▶ Entsorgung von Abfall nach Abfallschlüssel AS 180104 gem.. LAGA
-
-▶ Interner Patiententransport
-
-Der Patient trägt nach Möglichkeit Mund-Nasen-Schutz, das Personal
-Schutzkleidung und Atemschutzmaske. Kontaktflächen und Transportmittel
-sind unmittelbar nach dem Transport zu desinfizieren.
-
-▶ Umgang mit Verstorbenen
-
-Der Umgang mit an COVID-19 Verstorbenen erfordert (bisher: Stand
-04-März) kein spezielles Containment wie bei hochkontagiösen
-Infektionskrankheiten anderer Genese; vom Umgang mit infektiös
-Verstorbenen geht bei Einhaltung üblicher Hygieneregeln keine besondere
-Infektionsgefahr aus. Der ungeschützte Kontakt mit erregerhaltigen
-Sekreten ist generell zu vermeiden.
-
-|               |  |         |
-| ------------- |  | ------- |
-| Einrichtung   |  | Version |
-| Bearbeiter/in |  | Ablage  |
+  - ggf. Organisationen der Postexpositionsprophylaxe
 
 <div class="section fnlist" data-role="doc-footnotes">
 

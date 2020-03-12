@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 00-HOME BETA-version
+title: Startseite
 nav_order: 1
 ---
  
@@ -25,10 +25,10 @@ Gesundheitsämtern.
 Dieses Lehrbuch soll Mitarbeiterinnen und Mitarbeitern in
 Gesundheitsämter, aber auch aus anderen Einrichtungen des ÖGD,
 praktische Hinweise geben, wie sie sich zielgericht auf die
-Gefahrenabwehr in Krisensituationen vorbereiten und Grundlagen des
-Krisenmanagement vermitteln.
+Gefahrenabwehr in Krisensituationen vorbereiten können und Grundlagen
+des Krisenmanagements vermitteln.
 
-Instrumente des Krisenmanagement helfen Mitarbeiterinnen und
+Instrumente des Krisenmanagements helfen Mitarbeiterinnen und
 Mitarbeitern im ÖGD die Arbeitsfähigkeit der Behörden in
 infektiologischen Gefahrenlagen sicherzustellen. Übliche
 Verwaltungsstrukturen werden den Anforderungen bei einer Krise in der
@@ -38,8 +38,8 @@ Bei begrenztem Fachpersonal müssen Kompetenzen deshalb zentral gebündelt
 und bereitgestellt werden.
 
 Neben fachlichen Gesichtspunkten werden in diesem Lehrbuch insbesondere
-Handlungsempfehlungen für die Einsatzplanung und Stabsarbeit gegeben.
-Checklisten ergänzen als praktische Hilfsmittel.
+Handlungsempfehlungen für die Einsatzplanung und Stabsarbeit gegeben,
+die Checklisten ergänzen das Lehrbuch als praktische Hilfsmittel.
 
 Aufgrund der aktuellen Lage (Stand März 2020) in Zusammenhang mit dem
 neuen Coronavirus stellen wir bereits eine Vorabversion des Lehrbuchs

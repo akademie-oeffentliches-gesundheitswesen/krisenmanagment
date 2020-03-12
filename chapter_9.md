@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11. Annex - Checkliste Formatvorlage
+title: 11. Annex-Checkliste: Gesundheitsamt im Krisenmodus
 nav_order: 9
 ---
  
@@ -16,75 +16,123 @@ nav_order: 9
    <p></p>
  
  
-Checkliste – TITEL (Vorlage für Format einer
-Checkliste)
+|                |       |       |
+| -------------- | ----- | ----- |
+| Worum geht es? | Titel |       |
+| Addressaten    |       | Datum |
 
- 
+# Alarmierung
 
-|                                                                                             |  |                                    |
-| ------------------------------------------------------------------------------------------- |  | ---------------------------------- |
-| Worum geht es? (TITEL; Diese Formatinformation sollte eine Checkliste mindestens enthalten) |  |                                    |
-| Addressaten (z.B. Alle Ersteller/innen von Checkliste)                                      |  | Datum (TAG.MONAT.JAHR, 04.03.2020) |
+☐ Regelung zum Eingang von Alarmmeldungen (über Rufbereitschaft?)
 
- 
+☐ Checkliste für den ersten Alarmempfänger/Rufbereitschaftsdienst
 
-Checklisten sind kein Allheilmittel. Sie ersetzen prinzipiell nicht Ihr
-besonders Wissen und Ihre kreativen Lösungen für Problem. Sie können Sie
-aber sehr gut bei wiederkehrenden Aufgaben im Arbeitsalltag unterstützen
-und entlasten
+☐ Alarmierungsliste (szenarienabhängig)
 
-## Wozu brauche ich eine Checkliste?
+☐ interne Alarmierungsliste Gesundheitsamt
 
-Checklisten:
+☐ Benachrichtungsliste externe Ansprechpartner/-innen
 
-vermeiden, dass Sie etwas vergessen
+# Zugangsregelung Gesundheitsamt
 
-erlauben Überblick über komplext Sachverhalte
+☐ Zugangsberechtigte Personen
 
-dienen zur Strukturierten Be(Ab-)arbeitung von Sachverhalten
+☐ Organisatorische Zugangsregelung (welche Zugänge, Ort Schlüsselkasten
+etc.)
 
-unterteilen komplexe Aufgaben in überschaubare Portionen
+## Organisation
 
-erlauben Arbeitsablauf zu standardisieren und damit effizientes arbeiten
-.
+☐ Struktur und Umfang der Funktionen festlegen.
 
-durch "abhaken" von erledigten Aufgaben schaffen sie Überblick,
-Kontrolle und Dokumentation von Arbeitsabläufe 
+☐ Einbindung des Arbeits-/Krisenstabes in die Krisenstabsstrukturen der
+Region beachten
 
-ist wertvolle Arbeitshilfe um Aufgaben an Vertretung zu übergeben
+☐ Aufwachsen einer Lage bei der Einrichtung des Stabes berücksichtigen.
 
-## Wie erstelle ich eine Checkliste?
+☐ Arbeitsauftrag bestimmen und mit Behördenleitung abstimmen.
 
-  - Erstellen Sie Ihre spezifische Vorlage, in der immer der Titel
-    der jeweiligen Checkliste, der Name der Einrichtung und des/r
-    Bearbeiters/in und das Datum bzw. die Version dokumentiert sind.
-    Zusätzlich können Sie noch eintragen wo sie die Checkliste
-    abgelegt/gespeichert haben.
+☐ Prozessabläufe/Kommunikationwege bestimmen.
 
-<!-- end list -->
+☐ Regelmäßige Abläufe z.B. für Lagebesprechungen festlegen
+(Termintafel).
 
-  - Aufgabenliste erstellen:
-    
-    1\. alle relevanten Punkte /Arbeitsschritte aufschreiben
-    
-    2\. mit Kollegen/Vorgesetzten besprechen und auf Vollständigkeit
-    klären
-    
-    3\. Themen chronologisch / loordnen
+☐ Fachliche Arbeitsschwerpunkte festsetzen, Personal zuordnen und
+Verantwortlichkeiten festlegen.
 
-  - Ihre Liste lässt sich am besten in der praktischen Arbeit testen.
-    Wenn Sie eine Sache zum ersten Mal machen, wird sie wahrscheinlich
-    noch nicht perfekt laufen – eine Chance, die Checkliste zu
-    überarbeiten.
+# Personelle Vorsorge
 
- 
+☐ Übersicht der zu besetzenden Funktionen
 
-|                                           |  |                                            |
-| ----------------------------------------- |  | ------------------------------------------ |
-| Einrichtung (z.B. GESUNDHEITSAMT LEIPZIG) |  | Version (REV\_01)                          |
-| Bearbeiter/in (MAXIMA MUSTERFRAU          |  | Ablage (c:ordnerX/ordner/xY/dateiname.doc) |
+☐ Übersicht verfügbarer Mitarbeiterinnen und Mitarbeiter
 
- 
+☐ Personalplanungsübersicht
+
+☐ Muster für Dienstplan
+
+☐ Personalanwesenheitsübersicht
+
+☐ Beteiligung Personalrat
+
+☐ Überstundenanordnungen, Urlaubssperre
+
+☐ Fremdsprachenkenntnisse des Personals
+
+☐ ggf. personelle Besetzung Bürgertelefon
+
+☐ Unterstützung Verwaltung (Personaleinsatz, Dienstplanung)
+
+☐ Externe Fachberater/-innen aus anderen Behörden und Einrichtungen
+
+## Leitung des Stabes
+
+☐ Personen auswählen, Stellvertretung bedenken.
+
+☐ Checkliste für die Aufgaben erstellen.
+
+☐ Wie wird die Auftragskontrolle durchgeführt?
+
+## Lagedarstellung
+
+☐ Geeignetes Personal bestimmen und ausbilden.
+
+☐ Verfügbare Daten aus vorhandenen Quellen
+
+☐ Muster Einsatztagebuch (Link Vorlage)
+
+☐ Muster Lagebericht
+
+# Infrastruktur (Räume, Technik)
+
+###### Details siehe gesonderte Checkliste
+
+☐ Raumplan
+
+☐ Technische Ausstattung
+
+☐ Ausweichstandort
+
+# Organisation Bürgertelefon
+
+## Fachliche Inhalte, FAQ
+
+☐ Zuständigkeit für die Erarbeitung
+
+☐ Quellen (RKI, BMG, WHO etc.)
+
+☐ Erstellung von Handunterlagen für die Arbeitsplätze/Aktualisierung
+
+## Personelle Besetzung Bürgertelefon
+
+☐ Fachliche Betreuung (möglichst externe Kräfte, Honorarverträge)
+
+☐ Besetzung der Hotline (Schichtwechsel alle 4 -6 Stunden)
+
+☐ Dienstplan
+
+|               |  |         |
+| ------------- |  | ------- |
+| Einrichtung   |  | Version |
+| Bearbeiter/in |  | Ablage  |
 
 <div class="section fnlist" data-role="doc-footnotes">
 
