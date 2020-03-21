@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Kommunikation
+title: 11. Annex-Checkliste: Gesundheitsamt im Krisenmodus
 nav_order: 10
 ---
  
@@ -16,132 +16,123 @@ nav_order: 10
    <p></p>
  
  
-|                |       |       |
-| -------------- | ----- | ----- |
-| Worum geht es? | Titel |       |
-| Addressaten    |       | Datum |
+|                     |             |                                   |
+| ------------------- | ----------- | --------------------------------- |
+| **Worum geht es?:** | ** Titel:** | **Gesundheitsamt im Krisenmodus** |
+| Addressaten:        |             | Datum:                            |
 
-# **Auswahl der Kommunikationsform?**
+## Alarmierung
 
-  - Presse-Erklärung
+☐ Regelung zum Eingang von Alarmmeldungen (über Rufbereitschaft?)
 
-  - Pressekonferenz/Experteninterview
+☐ Checkliste für den ersten Alarmempfänger/Rufbereitschaftsdienst
 
-  - Bürgertelefon
+☐ Alarmierungsliste (szenarienabhängig)
 
-  - Häufige Fragen (frequently asked questions/FAQ)-Listen
+☐ interne Alarmierungsliste Gesundheitsamt
 
-  - Internetauftritt der Verwaltungseinheit
+☐ Benachrichtungsliste externe Ansprechpartner/-innen
 
-  - Soziale Medien (z-B. Twitter, Instagram)
-    
-    ## Inhaltliche Vorbereitung
-    
-      - Was ist die derzeitige Situation?
-    
-      - Was ist wann und wo passiert?
-    
-      - Welche Schäden liegen vor
-    
-      - Wieviel Personen (Anzahl) sind betroffen?
-    
-      - Was zeichnet sich ab? best-case vs. worst-case Entwicklungen
-    
-      - Was wurde bisher von den Behörden unternommen
-    
-      - Was ist von den Behörden geplant? Aktivitäten?
-    
-      - Wer wird betroffen sein? Welche (Verhaltens-)Regeln ergeben sich
-        aus dem Ereignis?
-    
-      - Welche Fachinformationen sind relevant?
-    
-      - Welche Informationen halten Landes-/Bundeseinrichtungen vor?
-    
-      - Welche allgemeinverständlichen Informationen sind relevant?
-    
-      - Was ist die Hauptnachricht für die Allgemeinbevölkerung?
-    
-    ## Pressemitteilung
-    
-      - Was? Wann? Wo? Wer?
-    
-      - Anspechpartner/in
-    
-      - Datum, ggf. Uhrzeit
-    
-      - Webseite, Soziale Medien, ggf. weiterführende Informationen und
-        Kontaktdaten
-    
-    <!-- end list -->
-    
-      - Pressesprecher
-    
-      - andere kompetente Ansprechpartner, wie z.B. Feuerwehr, Polizei,
-        Obere Gesundheitsbehörden, Ministerien/Senatsverwaltung
+## Zugangsregelung Gesundheitsamt
 
-# **Checkliste Pressekonferenz**
+☐ Zugangsberechtigte Personen
 
-(auf der Basis von Vorarbeiten von Christoph Lang, ehemals Leiter
-Pressestelle, Senatsverwaltung für Gesundheit, Pflege und
-Gleichstellung)
+☐ Organisatorische Zugangsregelung (welche Zugänge, Ort Schlüsselkasten
+etc.)
 
-## Einladung zur Pressekonferenz
+## Organisation
 
-  - Zeitpunkt, Ort & Dauer festlegen
+☐ Struktur und Umfang der Funktionen festlegen.
 
-  - Begleitung Presse (ggf. vor Ort)
+☐ Einbindung des Arbeits-/Krisenstabes in die Krisenstabsstrukturen der
+Region beachten
 
-  - Raum für Einzelinterview (Radio, Podcasts, Fernsehen) festlegen
+☐ Aufwachsen einer Lage bei der Einrichtung des Stabes berücksichtigen.
 
-  - Pressemappe vorbereiten
+☐ Arbeitsauftrag bestimmen und mit Behördenleitung abstimmen.
 
-  - vorbereitete Interviewpartner festlegen
+☐ Prozessabläufe/Kommunikationwege bestimmen.
 
-  - Telefonische Erreichbarkeit festlegen
+☐ Regelmäßige Abläufe z.B. für Lagebesprechungen festlegen
+(Termintafel).
 
-## Absperrung/Zugangsbeschränkung
+☐ Fachliche Arbeitsschwerpunkte festsetzen, Personal zuordnen und
+Verantwortlichkeiten festlegen.
 
-  - Briefing für Sicherheitsdienst
+## Personelle Vorsorge
 
-## Presseraum
+☐ Übersicht der zu besetzenden Funktionen
 
-  - Catering (z.B. Getränke, einfacher Imbiss, wie z.B. belegte
-    Brötchen)
+☐ Übersicht verfügbarer Mitarbeiterinnen und Mitarbeiter
 
-  - Arbeitsmöglichkeit: Stühle und Tische
+☐ Personalplanungsübersicht
 
-  - ausreichend Steckdosen (evtl. Mehrfachsteckdosen bereit halten) für
-    Aufladen von Smartphones und Notebooks
+☐ Muster für Dienstplan
 
-  - idealerweise auch W-LAN (evtl. Zugangscode hinterlegen\!)
+☐ Personalanwesenheitsübersicht
 
-  - Stellwände, Flipcharts vorbereiten
+☐ Beteiligung Personalrat
 
-  - Fernsehtauglichen Hintergrund festlegen für Interviews
+☐ Überstundenanordnungen, Urlaubssperre
 
-## Journalistenbegleitung/-betreuung
+☐ Fremdsprachenkenntnisse des Personals
 
-  - ständig anwesende, geschulte Person (Pressesprecher/in)
+☐ ggf. personelle Besetzung Bürgertelefon
 
-  - alternativ durch ständige Erreichbarkeit?
+☐ Unterstützung Verwaltung (Personaleinsatz, Dienstplanung)
 
-  - Telefonische Erreichbarkeit festlegen, ggf. Hotline
+☐ Externe Fachberater/-innen aus anderen Behörden und Einrichtungen
 
-## Regelmäßige Pressebriefings
+## Leitung des Stabes
 
-  - wer spricht?
+☐ Personen auswählen, Stellvertretung bedenken.
 
-  - betroffene Person/en informiert?
+☐ Checkliste für die Aufgaben erstellen.
 
-  - Medientraining absolviert?
+☐ Wie wird die Auftragskontrolle durchgeführt?
 
-  - Experten vor Ort? In Kontakt mit Medienvertretern?
+## Lagedarstellung
 
-|               |  |         |
-| ------------- |  | ------- |
-| Einrichtung   |  | Version |
-| Bearbeiter/in |  | Ablage  |
+☐ Geeignetes Personal bestimmen und ausbilden.
+
+☐ Verfügbare Daten aus vorhandenen Quellen
+
+☐ Muster Einsatztagebuch (Link Vorlage)
+
+☐ Muster Lagebericht
+
+## Infrastruktur (Räume, Technik)
+
+**Details siehe gesonderte Checkliste**
+
+☐ Raumplan
+
+☐ Technische Ausstattung
+
+☐ Ausweichstandort
+
+## Organisation
+
+### Fachliche Inhalte, FAQ
+
+☐ Zuständigkeit für die Erarbeitung
+
+☐ Quellen (RKI, BMG, WHO etc.)
+
+☐ Erstellung von Handunterlagen für die Arbeitsplätze/Aktualisierung
+
+### Personelle Besetzung Bürgertelefon
+
+☐ Fachliche Betreuung (möglichst externe Kräfte, Honorarverträge)
+
+☐ Besetzung der Hotline (Schichtwechsel alle 4 -6 Stunden)
+
+☐ Dienstplan
+
+|                |  |          |
+| -------------- |  | -------- |
+| Einrichtung:   |  | Version: |
+| Bearbeiter/in: |  | Ablage:  |
 
 <div class="section fnlist" data-role="doc-footnotes">
 

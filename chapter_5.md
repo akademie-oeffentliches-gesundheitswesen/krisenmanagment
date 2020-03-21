@@ -31,10 +31,11 @@ eingetreten ist. Eine gute Risikokommunikation erleichtet die
 Kommunikation in der Krise erheblich, da sie es ermöglicht, auf dieses
 Wissen im Krisenfall aufzubauen.
 
-Der **Leitfaden Krisenkommunikation**
-([https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bevoelkerungsschutz/leitfaden-krisenkommunikation.pdf](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bevoelkerungsschutz/leitfaden-krisenkommunikation.pdf "https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bevoelkerungsschutz/leitfaden-krisenkommunikation.pdf"))
-des Bundesministerium für Inneres (BMI) stellt in übersichtlicher Weise
-die folgenden Themen für eine erfolgreiche Kommunikation dar:
+Der **[Leitfaden
+Krisenkommunikation](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bevoelkerungsschutz/leitfaden-krisenkommunikation.pdf "https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bevoelkerungsschutz/leitfaden-krisenkommunikation.pdf")**
+des Bundesministerium des Innern, für Bau und Heimat (BMI) stellt in
+übersichtlicher Weise die folgenden Themen für eine erfolgreiche
+Kommunikation dar:
 
   - Risikokommunikation
 
@@ -61,22 +62,22 @@ größtmögliche Ehrlichkeit voraus. Entsprechend stellt
 Risikokommunikation einen kontinuierlichen Prozess dar. Behörden sollten
 sie ansehen und nutzen als
 
-*„Austausch von Informationen und Meinungen über Risiken zur
-Risikovermeidung, Risikominimierung und Risikoakzeptanz“*
+> > *„Austausch von Informationen und Meinungen über Risiken zur
+> > Risikovermeidung, Risikominimierung und Risikoakzeptanz“*
+> > <span class="citation">(Bundesamt für Bevölkerungsschutz und
+> > Katastrophenhilfe 2011)</span>,
 
-<span class="citation">(Bundesamt für Bevölkerungsschutz und
-Katastrophenhilfe, 2011)</span>, bei der alle Beteiligten einbezogen
-werden sollten.
+bei der alle Beteiligten einbezogen werden sollten.
 
 Dies ist insbesondere von Bedeutung, wenn die Bevölkerung motiviert
 werden soll, selber Vorsorge zu betreiben. Ein Beispiel für die
-Krisenvorsorge ist die Broschüre des BBK "**Ratgeber für Notfallvorsorge
-und richtiges Handeln in Notsituationen**"
-([https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren\_Flyer/Buergerinformationen\_A4/Ratgeber\_Brosch.pdf](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Buergerinformationen_A4/Ratgeber_Brosch.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Buergerinformationen_A4/Ratgeber_Brosch.pdf")),
+Krisenvorsorge ist die Broschüre des BBK **[Ratgeber für Notfallvorsorge
+und richtiges Handeln in
+Notsituationen](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Buergerinformationen_A4/Ratgeber_Brosch.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Buergerinformationen_A4/Ratgeber_Brosch.pdf")**,
 in der wichtige Informationen und Checklisten "*zu allen wichtigen
 Themen – vom Lebensmittelvorrat bis zum Notgepäck – um persönlich für
 den Notfall gerüstet zu sein*" <span class="citation">(Bundesamt für
-Bevölkerungsschutz und Katastrophenhilfe, 2018)</span> zusammengestellt
+Bevölkerungsschutz und Katastrophenhilfe 2018)</span> zusammengestellt
 sind. Nur durch präventive Kommunikation ist es möglich, dass im
 Krisenfall auf die getroffe Vorsorge zurückgegriffen und das Wissen
 unverzüglich abgerufen werden kann.
@@ -110,7 +111,7 @@ bestimmtes Risiko wahrgenommen wird. So deuten verschiedenen Studien
 darauf hin, dass bezüglich der Eintrittswahrscheinlichkeit, relative
 Zahlen - im Vergleich zu absoluten Zahlen- häufig zu einer zu hohen
 Risikobewertung führen <span class="citation">(Wegwarth, Odette;
-Gigerenzer, Gerd, 2011)</span>. Auch kann die Art der Darstellung dazu
+Gigerenzer, Gerd 2011)</span>. Auch kann die Art der Darstellung dazu
 führen, dass das Schadensausmaß falsch eingeschätzt wird. Dies spielt
 insbesondere bei biologischen Gefahrenlagen, bei denen das
 Schadensausmaß von so vielen Faktoren abhängt, dass eine Abschätzung
@@ -129,24 +130,23 @@ Aufbau von Vertrauen, kann die Risikokommunikation auch kurzfristig bei
 vermuteten, vorhersehbaren Gefahren (z.B. extremen Wetterlagen) dazu
 genutzt werden,
 
-"*die Bevölkerung für bevorstehende Ereignisse zu sensibilisieren und
-Maßnahmen z.B. zur Warnung der Bevölkerung und zum Schutz der
-Bevölkerung vorzubereiten*",
+> > "*die Bevölkerung für bevorstehende Ereignisse zu sensibilisieren
+> > und Maßnahmen z.B. zur Warnung der Bevölkerung und zum Schutz der
+> > Bevölkerung vorzubereiten*",
 
-wie das BBK in seinem Glossar "**Ausgewählte zentrale Begriffe des
-Bevölkerungsschutzes**" schreibt
-([https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis\_Bevoelkerungsschutz/Glossar\_2018.pdf](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/Glossar_2018.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/Glossar_2018.pdf")).  
+wie das BBK in seinem Glossar "**[Ausgewählte zentrale Begriffe des
+Bevölkerungsschutzes](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/Glossar_2018.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/Glossar_2018.pdf")**"
+schreibt.  
 
 ## Krisenkommunikation
 
 Im Gegensatz zur Risikokommunikation, die vor allem der Vorbereitung auf
 die Krise dient, bedeutet Krisenkommunikation den
 
-"*Austausch von Informationen und Meinungen während einer Krise zur
-Verhinderung oder Begrenzung von Schäden an einem Schutzgut*"
-
-<span class="citation">(Bundesamt für Bevölkerungsschutz und
-Katastrophenhilfe, 2011)</span>.
+> > "*Austausch von Informationen und Meinungen während einer Krise zur
+> > Verhinderung oder Begrenzung von Schäden an einem Schutzgut*"
+> > <span class="citation">(Bundesamt für Bevölkerungsschutz und
+> > Katastrophenhilfe 2011)</span>.
 
 Krisenkommunikation muss sicherstellen, dass alle Verantwortlichen den
 gleichen Informations- und Wissensstand haben. Ebenso müssen Medien und
@@ -166,17 +166,17 @@ unzutreffende Gerüchte, die schlimmstenfalls zu Hysterie oder Panik
 führen. Bereits von den ersten Reaktionen kann es abhängen, ob der
 Krisenverlauf für die Organisation außer Kontrolle gerät.
 
-Um die Kontrolle über die Kommunikation zu behalten, gelten daher
-folgende Grundsätze:
+**MERKE: Um die Kontrolle über die Kommunikation zu behalten, gelten
+daher folgende Grundsätze:**
 
-1\. Agieren statt reagieren
+**1. agieren statt reagieren**
 
-2\. nur gesicherte Informationen herausgeben, ggf. Unsicherheiten
-erläutern
+**2. nur gesicherte Informationen herausgeben, ggf. Unsicherheiten
+erläutern**
 
-3\. Kontakt halten / ansprechbar sein
+**3. Kontakt halten und ansprechbar sein**
 
-### **Presse- und Medienarbeit**
+## **Presse- und Medienarbeit**
 
 Im Krisenfall muss die Kommunikation nach außen eindeutig geregelt
 werden. Presse und Medien benötigen feste Ansprechpartner. Informationen
@@ -213,10 +213,9 @@ Informationen gleich weiterverarbeitet werden können. Bei längeren Lagen
 kann es sinnvoll sein, für Verpflegung, zumindest Getränke oder auch
 einfache Speisen, zu sorgen. Die Betreuung sollte möglichst durch eine
 durchgängig anwesende, geschulte Person erfolgen oder zumindest sollte
-deren ständige Erreichbarkeit sichergestellt
-sein.
+deren ständige Erreichbarkeit sichergestellt sein.
 
-### **Direkte Kommunikation, mittels Internet, Bürgertelefon, sozialer Medien und Apps**
+## Direkte Kommunikation: Internet, Bürgertelefon, soziale Medien & Apps
 
 Neben Pressekonferenzen, die ausschliesslich einen persönlichen Kontakt
 zwischen Behörde und Medienvertretern ermöglichen, bietet das Internet
@@ -239,16 +238,15 @@ Informationsbedarf besteht oder sich gar falsche Informationen
 verbreiten.
 
 Speziell für die schnelle Warnung vor Gefahrenlagen wurde die
-Notfall-Informations- und Nachrichten-App des Bundes, kurz **Warn-App
-NINA**
-([https://www.bbk.bund.de/DE/NINA/Warn-App\_NINA.html](https://www.bbk.bund.de/DE/NINA/Warn-App_NINA.html "https://www.bbk.bund.de/DE/NINA/Warn-App_NINA.html")),
+Notfall-Informations- und Nachrichten-App des Bundes, kurz **[Warn-App
+NINA](https://www.bbk.bund.de/DE/NINA/Warn-App_NINA.html "https://www.bbk.bund.de/DE/NINA/Warn-App_NINA.html")**,
 entwickelt. Wichtige Warnmeldungen für unterschiedliche Gefahrenlagen
 wie zum Beispiel Gefahrstoffausbreitung oder einem Großbrand werden
 direkt auf die Mobiltelefone der Bevölkerung gesendet. Auch hierbei ist
 die Risikokommunikation im Vorfeld notwendig, um die App bekannt zu
 machen.
 
-### **Fachkommunikation**
+## Fachkommunikation
 
 Bei einigen Krisenlagen kann es notwendig oder auch hilfreich sein, eine
 gezielte Fachkommunikation mit besonderen Zielgruppen zu führen. Für den
@@ -263,7 +261,7 @@ Wissen vorausgestzt werden, dass für die Kommunikation mit der
 Bevölkerung entsprechend die eigenen fachspezifische Sprache anwenden
 und nutzen kann.
 
-## **Verantwortlichkeit und Dokumentation**
+## Verantwortlichkeit und Dokumentation
 
 In der Regel gibt es in den Verwaltungen Presseabteilungen mit
 Pressesprechern, die für die Öffentlichkeitsarbeit zuständig sind. Der
@@ -286,7 +284,7 @@ ausführenden Stellen muss hierbei ebenso bedacht werden, wie die
 Information der nicht beteiligten Verwaltungsbereiche und der
 Bevölkerung.
 
-# Bibliography
+# Literaturverzeichnis
 
 <div class="csl-bib-body">
 

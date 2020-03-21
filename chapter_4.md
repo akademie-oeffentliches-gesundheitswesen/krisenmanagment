@@ -16,7 +16,7 @@ nav_order: 4
    <p></p>
  
  
-## **Organisation eines Arbeits-, Krisenstabes bei infektiologischen Gefahrenlagen**
+## Relevanz eines Arbeits-/ Krisenstabes
 
 Die etablierten Verwaltungsstrukturen der Gesundheitsämter, aber auch
 der anderen Einrichtungen des Öffentlichen Gesundheitsdienstes, sind in
@@ -46,7 +46,7 @@ unterschiedliche Modelle in den Ländern. Teilweise liegt die
 Federführung im Gesundheitsbereich, teilweise werden gemeinsame Stäbe
 von Gesundheits- und Innen-/Katastrophenschutzbereich gebildet.
 
-## Organisation von Stäben
+## Organisation & Führung von Stäben
 
 Zur Bewältigung von Schadenslagen und Katastrophen gibt es drei
 relevante Komponenten der Führung:
@@ -61,14 +61,13 @@ Diese Strukturen finden sich weigehend gleichartig auf Ebene der
 Landkreise und kreisfreien Städte in Deutschland
 wieder.
 
-![<span class="figure-cat-figure">Figure</span><span data-caption="Komponenten der Führung">Komponenten
+![<span class="figure-cat-figure">Abbildung</span><span data-caption="Komponenten der Führung">Komponenten
 der Führung</span>](b1c6adc6-40ab-49ab-878a-1edadaecc784.jpg)
 
-#### Politisch gesamtverantwortliche Komponente
+### Politisch gesamtverantwortliche Komponente
 
-Die politisch-gesamtverantwortliche Leitung (zum Beispiel:
-Bürgermeisterin oder Bürgermeister, Landrätin oder Landrat,
-Ministerin/Minister) wird insbesondere bei weiträumigen und länger
+Die politisch-gesamtverantwortliche Leitung (z.B. Bürgermeister/in,
+Landrät/in, Minister/in) wird insbesondere bei weiträumigen und länger
 andauernden Großschadenereignissen oder in Katastrophenfällen, aber auch
 bei infektiologischen Gefahrenlagen nötig. In diesem Rahmen hat die
 politischen Gesamtverantwortung die Aufgabe zur Veranlassung und
@@ -78,28 +77,27 @@ Maßnahmen dienen – je nach Landesregelung - entweder zwei getrennte
 Stäbe (Führungsstab bzw. Katastrophenschutzstab und Verwaltungsstab)
 oder ein Gesamtstab, in dem beide Aufgabenbereiche integriert sind.
 
-#### Operativ-taktische Komponente
+### Operativ-taktische Komponente
 
 Auf operativ-taktischer Ebene kommt als Führungsmittel bei Schadenslagen
 unterhalb der Katastrophenschwelle, d.h. bei Großschadenslagen, der
-„**Führungsstab**“ und bei größerer Schadenslagen oberhalb der
-Katastrophenschwelle der „**Katastrophenschutzstab**“ zum Einsatz. Beide
+„Führungsstab“ und bei größerer Schadenslagen oberhalb der
+Katastrophenschwelle der „Katastrophenschutzstab“ zum Einsatz. Beide
 Stäbe sind in der Regel mit den gleichen Personen besetzt; die Anzahl
 der Stabsmitglieder kann jedoch bei einem Führungsstab geringer sein.
 Stabsstrukturen wachsen parallel zum Umfang eines Schadensereignisses
 auf.
 
-##### Dienstvorschrift DV 100  
-"Führung und Leitung im Einsatz"
+### Dienstvorschrift DV 100 "Führung und Leitung im Einsatz"
 
 Alle Katastrophenschutzorganisationen (Feuerwehr, Rettungsdienst,
 Polizei/ Ordnungsbehörden und Hilfsorganisationen) in Deutschland
 arbeiten im Einsatz also auch im Stab nach einer gleichartigen
-Dienstvorschrift (z. B. **Feuerwehr-Dienstvorschrift „Führung und
-Leitung im Einsatz“** **(FwDV 100),**
-[https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext\_Fw\_Dv/FwDV%20100.pdf](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/FwDV%20100.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/FwDV%20100.pdf")).
-Damit sich die Gesundheitsbehörden in diesem System der Führungstruktur
-zu Recht finden, ist eine frühzeitige Einbindung in das
+Dienstvorschrift (z. B. **[Feuerwehr-Dienstvorschrift „Führung und
+Leitung im
+Einsatz](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/FwDV%20100.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/FwDV%20100.pdf")“**
+(FwDV 100). Damit sich die Gesundheitsbehörden in diesem System der
+Führungstruktur zu Recht finden, ist eine frühzeitige Einbindung in das
 Gefahrenabwehrsystem sinnvoll.
 
 Die jeweilige Dienstvorschrift ist für alle Gefahrenabwehrbehörden das
@@ -115,7 +113,7 @@ Bereitstellen von Einsatzkräften und Reserven oder dem Aufbau und
 Betrieb einer
 Kommunikationsstruktur.
 
-![<span class="figure-cat-figure">Figure</span><span data-caption="Aufbau und Gliederung eines Führungsstab">Aufbau
+![<span class="figure-cat-figure">Abbildung</span><span data-caption="Aufbau und Gliederung eines Führungsstab">Aufbau
 und Gliederung eines
 Führungsstab</span>](aacd8b75-22dc-4975-8657-87812430b3ed.jpg)
 
@@ -144,10 +142,10 @@ Das Gesundheitsamt kann in Ereignissen (z.B. Austritt einer chemischen
 Substanz) als Fachberatung und Verbindungsperson in dem Führungsstab
 bzw. Katastrophenschutzstab vertreten sein.
 
-Die o.g. genannten Stabsfunktionen werden im Abschnitt "Aufgaben der
-Stabsfunktionen" (***Link***) detaillierter beschrieben.
+Die oben genannten Stabsfunktionen werden im Abschnitt "Aufgaben der
+Stabsfunktionen" detaillierter beschrieben.
 
-#### Administrativ-organisatorische Komponente
+### Administrativ-organisatorische Komponente
 
 Neben Führungs- bzw. Katastrophenschutzstäben kann es - je nach
 Regelungen der Länder - als eine eigenständige Einheit oder zusammen mit
@@ -164,9 +162,9 @@ zuständig ist. Hierzu zählen z.B. Entscheidung zur Schließung von
 öffentlichen Einrichtungen.
 
 Um hierfür eine länderübergreifende, einheitliche Organisationsform zu
-ermöglichen, gibt es das Dokument "**Hinweise zur Bildung von Stäben der
-administrativ – organisatorischen Komponente**"
-([http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/IMKBeschluesse/IMK174TOP26Anlg2.pdf](http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/IMKBeschluesse/IMK174TOP26Anlg2.pdf "http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/IMKBeschluesse/IMK174TOP26Anlg2.pdf")).
+ermöglichen, gibt es das Dokument "**[Hinweise zur Bildung von Stäben
+der administrativ – organisatorischen
+Komponente](http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/IMKBeschluesse/IMK174TOP26Anlg2.pdf "http://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/IMKBeschluesse/IMK174TOP26Anlg2.pdf")**".
 Diese Hinweise gelten auch hier sowohl für die Stabsarbeit bei
 Großschadenereignissen als auch für Katastrophenfälle. Einige Länder
 setzen diese Komponente bereits für Ereignisse unterhalb der Schwelle
@@ -179,10 +177,10 @@ Neben ständigen Mitgliedern des Stabes (SMS), zu denen u.a. auch das
 Gesundheitsamt- bzw. Gesundheitsbehörde als Fachberater gehört, gibt es
 ereignisspezifische Mitglieder des Stabes. Dieses können auch
 nicht-regierungs Akteure (z.B. Stromanbeiter bei einem Stromausfall)
-sein. Abbildung 2 gibt einen Überblick über die Zusammensetzung eines
+sein. Abbildung 3 gibt einen Überblick über die Zusammensetzung eines
 Verwaltungstabs:
 
-![<span class="figure-cat-figure">Figure</span><span data-caption="Struktur eines Verwaltungsstabes">Struktur
+![<span class="figure-cat-figure">Abbildung</span><span data-caption="Struktur eines Verwaltungsstabes">Struktur
 eines
 Verwaltungsstabes</span>](1d4083da-3db7-4899-8c50-b4d87d249840.jpg)
 
@@ -239,7 +237,7 @@ Einen Überblick über die Zusammenarbeit in Krisenfällen zeigt die
 nachfolgende
 Abbildung:
 
-![<span class="figure-cat-figure">Figure</span><span data-caption="Grafik Stäbe">Grafik
+![<span class="figure-cat-figure">Abbildung</span><span data-caption="Grafik Stäbe">Grafik
 Stäbe</span>](9cf983fb-6e98-4dc9-b8c2-d07fa2165195.jpg)
 
 ## Krisenstab im Gesundheitsamt
@@ -288,14 +286,15 @@ Landesbehörden sind jeweils im Rahmen ihrer Aufgaben für die Vorbeugung
 und Abwehr von Gefahren zuständig. Im Sinne der gesamtstaatlichen
 Vorsorge gegen infektiologische Gefahrenlagen kann bei drohenden
 Gefahren, bei eingetretenen Schadenslagen sowie bei Katastrophen der
-Stab dieser Gesundheitsbehörden aufgerufen werden. Teilweise werden
-diese Stäbe im Rahmen des Ressortprinzps federführend tätig, teilweise
-werden gemeinsame Stäbe von Gesundheits- und Innenressorts gebildet. Die
-Gesundheitsministerien können in der Regel bei gesundheitsbezogenen
-Lagen die Aufrufung des Stabes der Landesregierung vorschlagen. In
-diesem Stab arbeiten dann die betroffenen Ministerien gemäß ihrer
-Aufgabenzuständigkeit mit und erledigen die Aufgaben im Rahmen der
-Ressortzuständigkeit.
+Stab dieser Gesundheitsbehörden aufgerufen werden.
+
+Teilweise werden diese Stäbe im Rahmen des Ressortprinzps federführend
+tätig, teilweise werden gemeinsame Stäbe von Gesundheits- und
+Innenressorts gebildet. Die Gesundheitsministerien können in der Regel
+bei gesundheitsbezogenen Lagen die Aufrufung des Stabes der
+Landesregierung vorschlagen. In diesem Stab arbeiten dann die
+betroffenen Ministerien gemäß ihrer Aufgabenzuständigkeit mit und
+erledigen die Aufgaben im Rahmen der Ressortzuständigkeit.
 
 ## Arbeitsweise im Stab
 
@@ -304,7 +303,7 @@ in sich geschlossener Denk- und Handlungsablauf. Durch das wiederholte
 Durchlaufen wird die notwendige Lagebeurteilung und Beschlussfassung
 sichergestellt.
 
-![<span class="figure-cat-figure">Figure</span><span data-caption="Arbeitsweise im Krisenstab">Arbeitsweise
+![<span class="figure-cat-figure">Abbildung</span><span data-caption="Arbeitsweise im Krisenstab">Arbeitsweise
 im Krisenstab</span>](2b9be091-dd4a-40e0-9d5e-2847433c369d.jpg)
 
 ## Aufgaben der Stabsfunktionen
@@ -387,8 +386,8 @@ in der nachfolgenden Tabelle dargestellt:
 </tr>
 <tr class="odd">
 <td><p>S 6 (IT und Kommunikation)</p></td>
-<td><p><strong>Planen des IT- und Kommunikationseinsatzes</strong></p>
-<p><strong>Erarbeiten eines Kommunikationskonzeptes</strong></p>
+<td><p><strong>Planen des IT- und Kommunikationseinsatzes,</strong></p>
+<p><strong>Erarbeiten eines Kommunikationskonzeptes,</strong></p>
 <p><strong>Sicherstellung des Einsatzes</strong></p>
 <ul>
 <li><p>Sicherstellung des IT-Einsatzes, Sicherstellung der Kommunikationsorganisation</p></li>
@@ -397,8 +396,7 @@ in der nachfolgenden Tabelle dargestellt:
 <li><p>Gewährleisten der Kommunikationssicherheit (Redundanz)</p></li>
 </ul>
 <ul>
-<li><p>Überwachen des Kommunikationsbetriebes<br />
-</p>
+<li><p>Überwachen des Kommunikationsbetriebes</p>
 <p><strong>Ausstattung der Einsatzleitung mit Bürokommunikation</strong></p></li>
 </ul></td>
 </tr>

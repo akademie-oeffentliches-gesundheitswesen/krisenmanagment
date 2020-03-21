@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Planungshilfe Krankenhäuser
+title: 11. Annex-Checkliste: Planungshilfe Gesundheitsämter
 nav_order: 13
 ---
  
@@ -16,171 +16,92 @@ nav_order: 13
    <p></p>
  
  
-Die folgende Checkliste basiert auf Auführungen des Nationalen
-Pandemieplan Teil I
-([https://edoc.rki.de/handle/176904/187](https://edoc.rki.de/handle/176904/187 "https://edoc.rki.de/handle/176904/187"))
-
-|                |       |       |
-| -------------- | ----- | ----- |
-| Worum geht es? | Titel |       |
-| Addressaten    |       | Datum |
-
-# Hintergrund
-
-Bei einer ausgeweiteten Epidemie/Pandemie ist davon auszugehen, dass im
-Vergleich zu einem begrenzten Ausbruch Anzahl der Erkrankten insgesamt
-als auch der Anteil schwer erkrankter Patienten deutlich erhöht ist.
-Daher ist mit einer erhöhten Belastung, ggf. Überlastung der
-Kapazitäten, in der stationären Krankenhausversorgung zu rechnen.
-
-***CAVE: Das (medizinische, pflegerische, u.a.) Personal kann selbst von
-krankheitsbedingten Ausfällen betroffen sein und bestehenden Kapazitäten
-können so eingeschränkt sein.***
-
-Der massenhafte Anfall von stationär behandlungsbedürftigen Patienten,
-die teilweise intensiv-/beatmungspflichtig sind, erfordert in den
-Krankenhäusern klare Festlegungen bezüglich der organisatorischen
-Umsetzung.
-
-Die Planungen und Vorbereitungen auf kommunaler Ebene (z.B. Kreisebene)
-erfordern die Einbeziehung aller Krisen- und
-Katastrophenreaktionsstrukturen.
-
-## Vorbereitende Maßnahmen
-
-▶ Impfung des Personals gegen saisonale Influenza
-
-▶ Anpassung der Notfallpläne, insbesondere Krankenhäuser,
-Gesundheitsämter an Pandemieplanung
-
-▶ Information und Schulung des Personals über Notfallpläne und
-Hygienemanagement
-
-## Organisatorische Maßnahmen zur Sicherstellung der stationären Versorgung
-
-▶ Schaffung/Erhöhung der Bettenkapazitäten für zusätzliche Patienten
-
-▶ Aussetzen elektiver Aufnahmen
-
-▶ Entlassung von Patienten zum frühest möglichen Zeitpunkt
-
-▶ Einbeziehung anderer Stationen (z. B. Haut, Augen – unter
-Berücksichtigung der pandemiespezifischen Anforderungen)
-
-## Personalmanagement
-
-▶ Verstärkung der Personalressourcen (z. B. Umschichtung aus Bereichen,
-die auf Grund des Aussetzens elektiver Aufnahmen weniger Personal
-binden; Berücksichtigung von Medizinstudenten im letzten
-Ausbildungsjahr etc.)
-
-▶ erkranktes Personal mit Symptomen aus der Patientenversorgung
-ausschließen
-
-## Bevorratung bzw. Managementkonzept für rasche Beschaffung im Ereignisfall
-
-▶ Antibiotika, Schmerzmittel, Sedativa
-
-▶ Desinfektionsmittel
-
-▶ Persönliche Schutzausrüstung:
-
-▶▶Einmalhandschuhe
-
-▶▶ Mund-Nasen-Schutz
-
-▶▶ FFP2-Masken/FFP3-Masken
-
-## Information und Schulung des Personals
+|                    |             |                                    |
+| ------------------ | ----------- | ---------------------------------- |
+| **Worum geht es?** | ** Titel:** | **Planungshilfe Gesundheitsämter** |
+| Addressaten:       |             | Datum:                             |
 
 ## 
 
-▶ Regelmäßige Auffrischung des Informationsstands des Personals:
+## Koordination
 
-▶ ▶ organisatorische Vorbereitungen
+☐ Lageabhängige Entscheidung über interne Führungsorganisation
 
-▶ ▶ Ablaufpläne
+☐ Koordinierung der Maßnahmen
 
-▶ ▶ Hygienemanagement
+☐ Dokumentation und Evaluierung
 
-▶ Spezifisches Schulungsangebot zur Behandlung und Pflege von Patienten
-für Personal, das aus anderen Bereichen umgeschichtet wird
+☐ Kontinuierliche Evaluierung des Ereignisses
 
-## Maßnahmen zum Personalschutz
+☐ Demobilisierung
 
-▶ ggf. Antivirale Prophylaxe
+## Risikomanagment
 
-▶ ggf. Impfung
+☐ Risikobewertung
 
-## Ausstattung der Behandlungseinheiten
+## Kommunikation
 
-▶ Kohortenisolierung muss möglich sein; d.h. „Stationsschleuse“ bzw.
-Schleuse im Eingangsbereich eines komplett als Behandlungseinheit
-genutzten Gebäudes
+☐ Risiko- und Krisenkommunikation
 
-▶ Raumlufttechnische Anlage ist dahingehend zu überprüfen, durch
-welche Maßnahmen eine Weiterverbreitung in andere Krankenhausbereiche
-verhindert werden kann
+☐ Kommunale interne Kommunikation
 
-▶ Möglichkeit der Sauerstoffversorgung (möglichst zentral)
+☐ Aufklärung der Bevölkerung
 
-▶ Beatmungsplätze
+☐ Fachliche Vorbereitung der Pressearbeit, ggf. Hotline einrichten
 
-▶ medizintechnische Ausrüstung (z. B. Katheder, Infusionsgeräte,
-Medikamente)
+## Ausbruchuntersuchung
 
-▶ Röntgengeräte (z. B. auch mobile Röntgengeräte)
+☐ Arbeitsschutz, Sicherstellung der Versorgung mit persönlicher
+Schutzausrüstung
 
-▶ Ultraschall, EKG, Defibrillatoreinheit, Pulsoxymetrie
+☐ infektionsepidemiologische Routine-Erfassung
 
-## Ablauforganisation
+☐ Ermittlung von Kontaktpersonen, Kategorisierung von Kontaktpersonen
 
-▶ Gesonderter Aufnahmebereich für infektiöse Patienten
+☐ Festlegen von antiepidemischen Maßnahmen nach IfSG
 
-▶ Aufnahme-Indikation prüfen
+☐ Anordnung von diagnostischen Maßnahmen & Entscheidung über das
+Untersuchungsspektrum
 
-▶ Behandlungsbereich von der übrigen Versorgung abgetrennt, nach
-Möglichkeit auch Röntgenbereich einbeziehen
+☐ Regelung der Probenahme und des Probentransports
 
-▶ Dem Behandlungsbereich sollte ein Intensivbereich zugeordnet werden
+☐ Schutzmaßnahmen zur Kontaktreduzierung
 
-▶ Management der Bettenkapazitäten
+☐ Organisation und Überwachung des Patienten
 
-## Krankenhaushygienische Maßnahmen
+☐ Festlegen und Überwachen von Absonderungen
 
-Wichtige fachliche Empfehlungen enthalten folgende Quellen:
+☐ Entscheidung über Art & Umfang der Desinfektionsmaßnahmen und deren
+Überwachung
 
-▶ RKI: Empfehlung des RKI für die Hygienemaßnahmen bei Patienten mit
-Verdacht auf bzw. nachgewiesener Influenza
+☐ ggf. Entscheidung über Dekontaminationsmaßnahmen
 
-▶ BAuA: Beschluss 609 – Arbeitsschutz beim Auftreten von Influenza unter
-besonderer Berücksichtigung des Atemschutzes
+## Beratung
 
-Darüber hinaus sind die Hygienepläne zu überprüfen.
+☐ Hinweise zu Verhaltensmaßnahmen für Betroffene
 
-▶ Persönliche Schutzmaßnahmen des medizinischen Personals
+☐ Wahrnehmung der Informations- und Beratungsaufgaben für andere
+Behörden, Einrichtungen und für die Bevölkerung
 
-▶ Entsorgung von Abfall nach Abfallschlüssel AS 180104 gem.. LAGA
+# ORDNUNGSRECHTLICHE AUFGABEN
 
-▶ Interner Patiententransport
+☐ Amtsärztliche Veranlassung der Absonderung
 
-Der Patient trägt nach Möglichkeit Mund-Nasen-Schutz, das Personal
-Schutzkleidung und Atemschutzmaske. Kontaktflächen und Transportmittel
-sind unmittelbar nach dem Transport zu desinfizieren.
+☐ Anordnung der Leichenschau, Beurkundung eines Sterbefalles,
+Überwachung des Leichentransports und der Kremierung
 
-▶ Umgang mit Verstorbenen
+☐ Anordnung von Tätigkeits-, Teilnahme- und Besuchsverboten
 
-Der Umgang mit an COVID-19 Verstorbenen erfordert (bisher: Stand
-04-März) kein spezielles Containment wie bei hochkontagiösen
-Infektionskrankheiten anderer Genese; vom Umgang mit infektiös
-Verstorbenen geht bei Einhaltung üblicher Hygieneregeln keine besondere
-Infektionsgefahr aus. Der ungeschützte Kontakt mit erregerhaltigen
-Sekreten ist generell zu vermeiden.
+☐ Entsorgungmanagement
 
-|               |  |         |
-| ------------- |  | ------- |
-| Einrichtung   |  | Version |
-| Bearbeiter/in |  | Ablage  |
+☐ ggf. Koordination von Impfungen
+
+☐ ggf. Organisationen der Postexpositionsprophylaxe
+
+|                |  |          |
+| -------------- |  | -------- |
+| Einrichtung :  |  | Version: |
+| Bearbeiter/in: |  | Ablage:  |
 
 <div class="section fnlist" data-role="doc-footnotes">
 

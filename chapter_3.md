@@ -23,14 +23,13 @@ eingeführt.
 Die Erstellung von Einsatzplänen für infektiologische Gefahrenlagen ist
 Aufgabe von Bund, Ländern und Kommunen. Einheitliche Vorgaben für die
 Erstellung der Pläne gibt es nicht. Allerdings existieren teilweise
-Rahmenpläne auf Bundesebene, wie z.B. für die Influenza-Pandemieplanung
-([https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplanung\_Node.html](https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplanung_Node.html "https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplanung_Node.html")),
-sowie Ergänzungen zum Nationalen Pandemieplan - COVID 19 - neuartige
-Coronaviruserkrankung
-([https://www.rki.de/DE/Content/InfAZ/N/Neuartiges\_Coronavirus/Ergaenzung\_Pandemieplan\_Covid.html](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ergaenzung_Pandemieplan_Covid.html "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ergaenzung_Pandemieplan_Covid.html"))
-oder für den Ebolaverdachtsfall
-([https://www.rki.de/DE/Content/InfAZ/E/Ebola/Rahmenkonzept\_Ebola.pdf](https://www.rki.de/DE/Content/InfAZ/E/Ebola/Rahmenkonzept_Ebola.pdf "https://www.rki.de/DE/Content/InfAZ/E/Ebola/Rahmenkonzept_Ebola.pdf"),
-die koordinierend vom Robert Koch-Institut erstellt worden sind.
+Rahmenpläne auf Bundesebene, wie z.B. für die
+**[Influenza-Pandemieplanung](https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplanung_Node.html "https://www.rki.de/DE/Content/InfAZ/I/Influenza/Pandemieplanung/Pandemieplanung_Node.html")**,
+sowie **[Ergänzungen zum Nationalen Pandemieplan - COVID 19 - neuartige
+Coronaviruserkrankung](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ergaenzung_Pandemieplan_Covid.html "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Ergaenzung_Pandemieplan_Covid.html")**
+oder für den
+**[Ebolaverdachtsfall](https://www.rki.de/DE/Content/InfAZ/E/Ebola/Rahmenkonzept_Ebola.pdf "https://www.rki.de/DE/Content/InfAZ/E/Ebola/Rahmenkonzept_Ebola.pdf")**,
+die koordinierend vom RKI erstellt worden sind.
 
 Daneben sind in einigen Bundesländern durch die obersten
 Landesgesundheitsbehörden Pläne für Virale hämorrhagische Fieber
@@ -57,7 +56,7 @@ erprobt werden.
 ***MERKE: Pläne werden nur dann erfolgreich umgesetzt, wenn Inhalte
 regelmäßig aktualisiert und Nutzern in Schulungen vermittelt werden.***
 
-# Ziele einer erfolgreichen Einsatzplanung
+## Ziele einer erfolgreichen Einsatzplanung
 
 In einem Einsatzplan werden mögliche Maßnahme beschrieben, die in einer
 besonderen Situation, z.B. Gefahrenlage bei einer Epidemie, durch die
@@ -72,23 +71,25 @@ ermöglichen eine schnelle Orientierung im Einsatzfall.
 Für Einsatzpläne hat sich folgende Strukturierung
 bewährt:
 
-![<span class="figure-cat-figure">Figure</span><span data-caption="Struktur eines Einsatzplanes">Struktur
+![<span class="figure-cat-figure">Abbildung</span><span data-caption="Struktur eines Einsatzplanes">Struktur
 eines Einsatzplanes</span>](8b61e4e6-c138-486a-a508-066aafcec607.jpg)
 
-In Abbildung 1 sind einzelne Punkte eines Einsatzplans in Form eines
+In der Abbildung sind einzelne Punkte eines Einsatzplans in Form eines
 Ablaufschemas dargestellt. Sie können als Gliederung für einen
 Einsatzplan verwendet werden.
 
 Im Folgenden werden die einzelnen Unterpunkte eines Einsatzplans
 erläutert.
 
-# Risikobewertung
+## Risikobewertung
 
 Neben der allgemeinen Risikobewertung zum Bevölkerungsschutz, die die
 Landkreise/kreisfreien Städte bzw. Länder durchführen müssen, sollten
 die verantwortlichen Gesundheitsbehörden für ihre Region eine
-fachspezifische Risikobewertung vorbereitend durchführen (mehr:
-[https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis\_Bevoelkerungsschutz/PiB\_16\_Risikoanalyse\_im\_Bevoelkerungsschutz.pdf](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/PiB_16_Risikoanalyse_im_Bevoelkerungsschutz.pdf "Risikoanalyse im Bevölkerungsschutz")).
+fachspezifische **[Risikobewertung im
+Bevölkerungsschutz](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/PiB_16_Risikoanalyse_im_Bevoelkerungsschutz.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/PiB_16_Risikoanalyse_im_Bevoelkerungsschutz.pdf")**
+[](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/PiB_16_Risikoanalyse_im_Bevoelkerungsschutz.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/PiB_16_Risikoanalyse_im_Bevoelkerungsschutz.pdf")
+vorbereitend durchführen.
 
 Auf Basis dieser Risikobewertung ist im Einsatzfall von der
 Gesundheitsbehörde eine ereignisspezifische Analyse durchzuführen, bevor
@@ -108,7 +109,7 @@ folgende Faktoren berücksichtigt werden:
 
 6.  Art des Agens ( biologisch, chemisch, ....)
 
-# Szenarienspezifische Kommunikation
+## Szenarienspezifische Kommunikation
 
 Für die Kommunikation mit Partnern, der Bevölkerung oder der Presse muss
 in besonderen Gefahrenszenarien jeweils spezifisch festgelegt werden,
@@ -124,7 +125,7 @@ wird. Im Krisengeschehen sollten alle ausreichend informiert sein, um in
 angespannten Arbeitssituation Verständnis für die besondere Lage zu
 haben.
 
-# Alarmierung
+## Alarmierung
 
 Die regionalen Gesundheitsbehörden erhalten im Einsatzfall in der Regel
 ihre Alarmierung über verantwortliche Leitstellen, obere und oberste
@@ -143,26 +144,28 @@ Benachrichtigungslisten sind regelmäßig zu aktualisieren.
 Alarmierungsübungen können genutzt werden, um die Aktualität der
 professionellen und privaten Kontaktdaten zu überprüfen.
 
-# Meldewege
+## Meldewege
 
 In Ereignissen mit krisenhaftem Charakter ist das frühzeitige Erkennen,
 Validieren und Bewerten einer Lage Voraussetzung für die schnelle
 Einleitung von spezifischen Kontroll- und Präventionsmaßnahmen. Gemäß
-Art. 6 der Internationalen Gesundheitsvorschriften (2005)
-([https://www.rki.de/DE/Content/Infekt/IGV/Gesetz\_IGV\_de-en.pdf](https://www.rki.de/DE/Content/Infekt/IGV/Gesetz_IGV_de-en.pdf "Internationale Gesundheitsvorschriften"))
-(IGV (2005)) und gemäß Art. 9 des Beschlusses Nr. 1082/2013/EU des
+Art. 6 der **[Internationalen
+Gesundheitsvorschriften](https://www.rki.de/DE/Content/Infekt/IGV/Gesetz_IGV_de-en.pdf "https://www.rki.de/DE/Content/Infekt/IGV/Gesetz_IGV_de-en.pdf")**
+(IGV) und gemäß Art. 9 des **[Beschlusses Nr. 1082/2013/EU des
 Europäischen Parlaments und des Rates zu schwerwiegenden
-grenzüberschreitenden Gesundheitsgefahren vom 22. Oktober 2013
-([https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082\&from=DE](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE"))
-ist Deutschland rechtlich verpflichtet, unverzüglich Ereignisse
-international zu melden, die eine gesundheitliche Notlage von
-internationaler Tragweite darstellen können oder die des eine
-schwerwiegende grenzüberschreitende Gesundheitsgefahr darstellen. Die
-Übermittlung dient der Frühwarnung, der Bereitstellung von
-Informationen für eine rasche Bewertung, der frühzeitigen Information
-aller Akteure und ggf. einer gemeinsamen Koordinierung. Sie erfolgt vom
-Gesundheitsamt über die zuständige Landesbehörde an die nationale
-Bundesbehörde. Dies ist für
+grenzüberschreitenden
+Gesundheitsgefahren](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE")**
+vom 22. Oktober 2013 ist Deutschland rechtlich verpflichtet,
+unverzüglich Ereignisse international zu melden, die eine
+gesundheitliche Notlage von internationaler Tragweite darstellen können
+oder die des eine schwerwiegende grenzüberschreitende Gesundheitsgefahr
+darstellen. Die Übermittlung dient der Frühwarnung, der Bereitstellung
+von Informationen für eine rasche Bewertung, der frühzeitigen
+Information aller Akteure und ggf. einer gemeinsamen Koordinierung. Sie
+erfolgt vom Gesundheitsamt über die zuständige Landesbehörde an die
+nationale Bundesbehörde.
+
+Dies ist für
 
   - biologischer Ereignisse das RKI
 
@@ -170,27 +173,25 @@ Bundesbehörde. Dies ist für
 
   - für radiologisch-nukleare Ereignisse das BMU.
 
-Für **Übermittlungen im biologischen Bereich** stellt das RKI einen
-Übermittlungsbogen
-([https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung\_12/meldung\_12\_node.html](https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html "https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html"))
-zur Verfügung; eine Vorlage für einen **Übermittlungen von Gefahren im
-chemischen Bereich** gibt es vom BBK
-([https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV\_Meldebogen\_Info\_WHO\_Chemie.html](https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV_Meldebogen_Info_WHO_Chemie.html "https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV_Meldebogen_Info_WHO_Chemie.html")).
+Für **[Übermittlungen im biologischen
+Bereich](https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html "https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html")**
+stellt das RKI einen Übermittlungsbogen zur Verfügung; eine Vorlage für
+einen **[Übermittlungen von Gefahren im chemischen
+Bereich](https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV_Meldebogen_Info_WHO_Chemie.html "https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV_Meldebogen_Info_WHO_Chemie.html")**
+gibt es vom BBK.
 
 Gemäß IGV Anlage 2 (siehe Abbildung 2) sind das Auftreten von Pocken,
 Poliomyelitis (verursacht durch den Wildtyp), humaner Influenza
 (verursacht durch ein neuartiges Virus) und des Schweren Akuten
 Respiratorischen Syndroms (SARS) auf jeden Fall zu melden.
 
-*"Am 30.01.2020 hat die WHO den Ausbruch (von COVID-19) zur
-gesundheitlichen Notlage von internationaler Tragweite erklärt und eine
-koordinierte und intensivierte internationale Ausbruchsbekämpfung
-entsprechend den Internationalen Gesundheitsvorschriften (IGV/IHR) als
-zwingend notwendig erachtet, auch um Länder mit schwächerem
-Gesundheitssystem besser zu unterstützen."*
-
-*(COVID-19, Informationen für Beschäftigte und Reisende, Auswärtiges
-Amt, Stand 28.02.2020)*
+> *"Am 30.01.2020 hat die WHO den Ausbruch (von COVID-19) zur
+> gesundheitlichen Notlage von internationaler Tragweite erklärt und
+> eine koordinierte und intensivierte internationale Ausbruchsbekämpfung
+> entsprechend den Internationalen Gesundheitsvorschriften (IGV/IHR) als
+> zwingend notwendig erachtet, auch um Länder mit schwächerem
+> Gesundheitssystem besser zu unterstützen." (COVID-19, Informationen
+> für Beschäftigte und Reisende, Auswärtiges Amt, Stand 28.02.2020)*
 
 Das Auftreten von Cholera, Gelbfieber, Lungenpest, viralem
 hämorrhagischen Fieber oder West-Nil-Fieber sowie andere Ereignisse,
@@ -198,7 +199,7 @@ die von internationaler Tragweite für die öffentliche Gesundheit sein
 können, sind unter bestimmten Umständen an die WHO zu
 melden.
 
-![<span data-caption="Entscheidungsschema zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle: BKK)">Entscheidungsschema
+![<span class="figure-cat-figure">Abbildung</span><span data-caption="Entscheidungsschema zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle: BKK)">Entscheidungsschema
 zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle:
 BKK)</span>](bcd98565-cc3f-4c18-b2a4-86b4ede57839.png)
 
@@ -212,12 +213,11 @@ Weltgesundheitsorganisation oder die verantwortlichen Behörden der
 Europäischen Union zu melden ist, erfolgt durch die jeweilige
 Bundesbehörde.
 
-# Führungsorganisation
+## Führungsorganisation
 
 Mitarbeitende der Gesundheitsbehörden müssen über die allgemeine
 Führungsorganisationen für Großschadenslagen und Katastrophen
-informiert sein. (***siehe: Kapitel Stabsarbeit im Öffentlichen
-Gesundheitsdienst***)
+informiert sein. (***siehe: Kapitel Stabsarbeit***)
 
 In Einsatzplänen der involvierten Gesundheitsbehörden muss die
 Führungsverantwortung für spezielle Szenarien festgelegt werden. Diese
@@ -228,7 +228,7 @@ Dabei ist es bei einem Einsatz an Ereignisorten sinnvoll, dass die
 Führungskraft des Gesundheitsamtes, optisch für alle Beteiligten, z.B.
 durch eine Weste, erkennbar gekennzeichnet ist.
 
-# Akteure und Aufgaben
+## Akteure und Aufgaben
 
 Abhängig vom Szenario werden unterschiedliche Akteure, wie Individuen
 und Institutionen, mit unterschiedlichen Zuständigkeiten im Ereignisfall
@@ -237,11 +237,11 @@ welche Aufgaben verantwortlich bzw. zuständig ist. Dabei ist auch zu
 festzulegen, wer die Federführung bei bestimmten Aufgaben hat und wer
 mitwirkt.
 
-# Einsatzmaßnahmen
+## Einsatzmaßnahmen
 
 Die Einsatzmaßnahmen sind abhängig vom jeweils vorliegenden Szenario. In
 der Toolbox dieses Handbuches sind eine Reihe von Handlungsempfehlungen
-dargestellt (**Link Kapitel: Toolbox**).
+dargestellt (**siehe Kapitel: Toolbox**).
 
 Einsatzmaßnahmen können durch gesetzliche Regelungen bedingt sein. Im
 Bereich des Öffentlichen Gesundheitsdienstes ergeben sie sich z.B. aus
@@ -260,7 +260,7 @@ Einsatzmaßnahmen, die nicht beschrieben sind, müssen von der
 verantwortlichen Stabsorganisation flexibel organisiert und angewendet
 werden.
 
-# Logistik und Koordination
+## Logistik und Koordination
 
 Die Koordination logistischer Maßnahmen kann im Einsatzfall viel
 Personal binden. Proben- und Entsorgungsmanagement können beispielhaft
@@ -268,7 +268,7 @@ als Aufgaben im Bereich der Logistik benannt werden. Deshalb sollte der
 Schwerpunkt einer gute Einsatzplanung in diesem Bereich liegen, um im
 Krisengeschehen eine Entlastung zu erfahren.
 
-# Ressourcen
+## Ressourcen
 
 In machen Situation werden die benötigten Ressourcen von Dritten
 bereitgestellt. Hierzu gehören u.a Versorgungsmöglichkeiten im
@@ -282,7 +282,7 @@ lieferbar sind, bzw. schnell zur Engpassressource werden, in den
 Gesundheitsbehörden vorgehalten werden. Ein wichtiges Beispiel ist hier
 die sogenannte Persönliche Schutzausrüstung (PSA).
 
-# Checklisten für den Einsatz
+## Checklisten für den Einsatz
 
 Eine sinnvolle und wichtige Maßnahme für einen geordneten Betrieb sind
 Checklisten, in denen schriftlich fixiert ist, welche Informationen wann

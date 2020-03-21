@@ -20,7 +20,7 @@ In der Toolbox (Werkzeugkasten) werden fachliche und logistische
 Maßnahmen näher beschrieben, die bei infektiologischen Gefahrenlagen
 ggf. notwendig werden.
 
-Zu den fachlichen Maßnahmen gehören
+Zu den **fachlichen Maßnahmen** gehören
 
   - Diagnostik
 
@@ -34,7 +34,7 @@ Zu den fachlichen Maßnahmen gehören
 
   - Isolierung
 
-Den logistischen Maßnahmen können folgende Themen zugeordnet werden:
+Den **logistischen Maßnahmen** können folgende Themen zugeordnet werden:
 
   - Patiententransport
 
@@ -47,11 +47,13 @@ Den logistischen Maßnahmen können folgende Themen zugeordnet werden:
   - Entsorgungsmanagement
 
 Hier dargestellt, sind generische Hinweise. Für zahlreiche Erreger gibt
-es spezielle Empfehlungen, z.B. auf den Seiten des Robert Koch-Instiuts
-unter "Infektionskrankheiten A-Z", auf den Ländern der Landesbehörden
-oder ggf. der jeweils zuständigen Behörden.
+es spezielle Empfehlungen, z.B. auf den Seiten des RKI unter
+**[Infektionskrankheiten
+A-Z](https://www.rki.de/DE/Content/InfAZ/InfAZ_marginal_node.html "https://www.rki.de/DE/Content/InfAZ/InfAZ_marginal_node.html")**,
+auf den Ländern der Landesbehörden oder ggf. der jeweils zuständigen
+Behörden.
 
-# Fachliche Maßnahmen
+## Fachliche Maßnahmen
 
 ## Diagnostik
 
@@ -99,22 +101,21 @@ Erstellung von Diagnosen auf Falldefinitionen zurückzugreifen, die
 eigentlich zum Ziel haben, bundesweit einheitliche Kriterien im Rahmen
 der Überwachung von Infektionskrankheiten sicherzustellen.
 
-## Arbeitsschutz / Persönliche Schutzausrüstung
+## Arbeitsschutz / Schutzausrüstung
 
 ### Grundlagen
 
 Die Grundlage für Tätigkeiten mit Biologischen Arbeitsstoffen bildet die
-**Biostoffverordnung (BioStoffV)**
-(<https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html>)
+**[Biostoffverordnung
+(BioStoffV)](https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html "https://www.gesetze-im-internet.de/biostoffv_2013/BJNR251410013.html")**
 mit dem Ziel, die Sicherheit und Gesundheit der Beschäftigten und
 anderer Personen zu schützen. Der beim Bundesministerium für Arbeit und
-Soziales gebildete Ausschuss für Biologische Arbeitsstoffe (ABAS)
-(<https://www.baua.de/DE/Aufgaben/Geschaeftsfuehrung-von-Ausschuessen/ABAS/ABAS_node.html>)
+Soziales gebildete **[Ausschuss für Biologische Arbeitsstoffe
+(ABAS)](https://www.baua.de/DE/Aufgaben/Geschaeftsfuehrung-von-Ausschuessen/ABAS/ABAS_node.html "https://www.baua.de/DE/Aufgaben/Geschaeftsfuehrung-von-Ausschuessen/ABAS/ABAS_node.html")**
 ermittelt auf Grundlage der Biostoffverordnung den Stand der
 Wissenschaft, Technik, Arbeitsmedizin und Arbeitshygiene und stellt
-diese in Form von **Technischen Regeln für Biologische Arbeitsstoffe
-(TRBA)**
-(<https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/TRBA.html>)
+diese in Form von **[Technischen Regeln für Biologische Arbeitsstoffe
+(TRBA)](https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/TRBA.html "https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/TRBA.html")**
 zur Verfügung.
 
 Sie decken die folgenden Themengebiete ab:
@@ -132,106 +133,102 @@ Sie decken die folgenden Themengebiete ab:
   - Beschlüsse des ABAS zu Anforderungen bei Tätigkeiten mit
     biologischen Arbeitsstoffen in besonderen Fällen (z.B. Tuberkulose,
     Polio, Influenza, hochpathogene Krankheitserreger)
-    
-    TRBAs sollen dabei unterstützen, die bestmöglichen
-    Arbeitsschutzmaßnahmen umzusetzen. Sie haben keinen
-    Gesetzescharakter. Es ist daher möglich, andere Maßnahmen
-    anzuwenden, die die gleiche Schutzwirkung haben.
-    
-    Der Arbeitsschutz arbeitet nach dem Prinzip, dass bauliche Maßnahmen
-    vor organisatorichen Maßnahmen und diese wiederum vor persönlichen
-    Maßnahmen zu prüfen sind. Dementsprechend ist vor jedem Einsatz eine
-    Gefährdungsbewertung durchzuführen und angemessene Schutzmaßnahmen
-    festzulegen. Es sollte nicht grundsätzlich der höchstmögliche Schutz
-    angewendet werden, da dieser einerseits den Träger unnötig belastet
-    und im ungünstigens Fall sogar dazu beitragen kann, dass Patienten
-    nicht optimal versorgt werden.
-    
-    ## Persönliche Schutzausrüstung
-    
-    In den TRBAs werden die Anforderungen an die Persönliche
-    Schutzausrüstung (PSA) beschrieben, z.B. innerhalb von
-    **Einrichtungen des Gesundheitswesens (TRBA 250)**
-    (<https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/TRBA-250.html>)
-    oder für die **Versorgung von Patienten mit hochkontagiösen
-    Erkrankungen außerhalb von Sonderisolierstationen (Beschluss 610)**
-    (<https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/Beschluss-610.html>).
-    In den TRBAs werden zahlreiche Normen aufgeführt, die die PSA
-    erfüllen muss. Für die Beschaffung von PSA ist es hilfreich, die
-    Erfüllung der genannten Normen vom Hersteller zu fordern, da dadurch
-    gewährleistet ist, dass der Stand der Wissenschaft eingehalten wird.
-    
-    Schutzausrüstungen werden auf der Grundlage der **Richtlinie
-    89/686/EWG** (Richtlinie des Rates vom 21. Dezember 1989 zur
-    Angleichung der Rechtsvorschriften der Mitgliedstaaten für
-    persönliche Schutzausrüstungen)
-    (<https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A31989L0686>)
-    hergestellt und klassifiziert. Im Einsatz gegen tödliche Gefahren
-    oder bei schwerwiegenden gesundheitlichen Folgeschäden kommt die
-    Kategorie III zum Einsatz.
-    
-    Bei der Auswahl von PSA kann grundsätzlich unterschieden werden
-    zwischen dem sogenannten Infektionsschutzset, das aus verschiedenen
-    Komponenten zusammengesetzt wird, und dem Gebläseanzug, der häufig
-    aus einem Einteiler mit einem externen Gebläse besteht.
-    
-    **FOTO: Infektionsschutzset vs. Gebläseschutz**
-    
-    Als Vorteil des Infektionsschutzsets werden der geringere Preis pro
-    Set und der niedrigere Wartungsaufwand aufgeführt. Die Vorteile des
-    Gebläseanzugs sind der höhere Tragekomfort, längere Tragezeiten,
-    bessere Kommunikationsmöglichkeiten bei Verwendung eines Headsets,
-    keine Geruchsbelästigung bei der Dekontamination (bei der Nutzung
-    von ABEK P3-Filtern). Auch wenn beim Infektionsschutzset die
-    Fehlerquote beim Anlegen höher ist als beim Gebläseschutz, benötigen
-    beide Systeme regelmäßiges Training. Insbesondere beim Ablegen der
-    PSA treten regelmäßig Fehler auf, die im Ernstfall lebensbedrohliche
-    Folgen haben können.
-    
-    Im Folgenden wird daher auf diese Komponenten in Auszügen gesondert
-    eingegangen, bezüglich der vollständigen Beschreibung wird auf die
-    TRBA 250 und den Beschluss 610 verwiesen.
-    
-    ### **Atemschutz**
-    
-    Die Atemwege werden durch partikelfiltierende Masken geschützt
-    (Filtering Face Piece, FFP). Die Dichtigkeit wird nach DIN EN
-    149:2001 auf Feinstäube und flüssige Aerosole geprüft. Die Klasse
-    gibt die Filterleistung an:
+
+TRBAs sollen dabei unterstützen, die bestmöglichen
+Arbeitsschutzmaßnahmen umzusetzen. Sie haben keinen Gesetzescharakter.
+Es ist daher möglich, andere Maßnahmen anzuwenden, die die gleiche
+Schutzwirkung haben.
+
+Der Arbeitsschutz arbeitet nach dem Prinzip, dass bauliche Maßnahmen vor
+organisatorichen Maßnahmen und diese wiederum vor persönlichen Maßnahmen
+zu prüfen sind. Dementsprechend ist vor jedem Einsatz eine
+Gefährdungsbewertung durchzuführen und angemessene Schutzmaßnahmen
+festzulegen. Es sollte nicht grundsätzlich der höchstmögliche Schutz
+angewendet werden, da dieser einerseits den Träger unnötig belastet und
+im ungünstigens Fall sogar dazu beitragen kann, dass Patienten nicht
+optimal versorgt werden.
+
+### **Persönliche Schutzausrüstung**
+
+In den TRBAs werden die Anforderungen an die Persönliche
+Schutzausrüstung (PSA) beschrieben, z.B. innerhalb von **[Einrichtungen
+des Gesundheitswesens (TRBA
+250)](https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/TRBA-250.html "https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/TRBA-250.html")**
+oder für die **[Versorgung von Patienten mit hochkontagiösen
+Erkrankungen außerhalb von Sonderisolierstationen (Beschluss
+610)](https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/Beschluss-610.html "https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/Beschluss-610.html")**.
+In den TRBAs werden zahlreiche Normen aufgeführt, die die PSA erfüllen
+muss. Für die Beschaffung von PSA ist es hilfreich, die Erfüllung der
+genannten Normen vom Hersteller zu fordern, da dadurch gewährleistet
+ist, dass der Stand der Wissenschaft eingehalten wird.
+
+Schutzausrüstungen werden auf der Grundlage der **[Richtlinie
+89/686/EWG](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A31989L0686 "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A31989L0686")**
+(Richtlinie des Rates vom 21. Dezember 1989 zur Angleichung der
+Rechtsvorschriften der Mitgliedstaaten für persönliche
+Schutzausrüstungen) hergestellt und klassifiziert. Im Einsatz gegen
+tödliche Gefahren oder bei schwerwiegenden gesundheitlichen
+Folgeschäden kommt die Kategorie III zum Einsatz.
+
+Bei der Auswahl von PSA kann grundsätzlich unterschieden werden zwischen
+dem sogenannten Infektionsschutzset, das aus verschiedenen Komponenten
+zusammengesetzt wird, und dem Gebläseanzug, der häufig aus einem
+Einteiler mit einem externen Gebläse besteht.
+
+Als Vorteil des Infektionsschutzsets werden der geringere Preis pro Set
+und der niedrigere Wartungsaufwand aufgeführt. Die Vorteile des
+Gebläseanzugs sind der höhere Tragekomfort, längere Tragezeiten,
+bessere Kommunikationsmöglichkeiten bei Verwendung eines Headsets, keine
+Geruchsbelästigung bei der Dekontamination (bei der Nutzung von ABEK
+P3-Filtern). Auch wenn beim Infektionsschutzset die Fehlerquote beim
+Anlegen höher ist als beim Gebläseschutz, benötigen beide Systeme
+regelmäßiges Training. Insbesondere beim Ablegen der PSA treten
+regelmäßig Fehler auf, die im Ernstfall lebensbedrohliche Folgen haben
+können.
+
+Im Folgenden wird daher auf diese Komponenten in Auszügen gesondert
+eingegangen, bezüglich der vollständigen Beschreibung wird auf die TRBA
+250 und den Beschluss 610 verwiesen.
+
+### Atemschutz
+
+Die Atemwege werden durch partikelfiltierende Masken geschützt
+(Filtering Face Piece, FFP). Die Dichtigkeit wird nach DIN EN 149:2001
+auf Feinstäube und flüssige Aerosole geprüft. Die Klasse gibt die
+Filterleistung an:
 
   - FFP-1 höchstens 22%,
 
   - FFP-2 höchstens 8% und
 
   - FFP-3 höchstnes 2% Gesamtleckage
-    
-    Mit Abnahme der Leckage steigt die Schutzwirkung, aber auch die
-    Belastung durch erschwertes Atmen. Ein Ausatemventil trägt im
-    Gegenzug zur Reduzierung der Belastung bei und sollte daher
-    insbesondere bei FFP-3 Masken gewählt werden. Zusätzlich wird die
-    Schutzwirkung durch den korrekten Sitz beeinflusst. Aufgrund
-    unterschiedlicher Kopfformen muss individuell getestet werden,
-    welche Maske für wen am besten geeignet ist. Hierzu ist ein
-    sogenannter FIT-Test durchzuführen. Bei Bartträgern oder stark
-    vernarbter Haut im Bereich der Dichtlippe ist davon auszugehen, dass
-    kein Dichtsitz erreicht wird. Um einen zusätzlichen Spritzschutz zu
-    gewährleisten, sollte das Filterflies zusätzlich nach DIN EN 14683
-    (Spritzschutz IIR) geprüft sein.
-    
-    Der häufig verwendete Mund-Nasen-Schutz ("OP-Maske") stellt keinen
-    Atemschutz dar. Er ist in erster Linie bei erkrankten Personen
-    einzusetzen, die gesundheitlich in der Lage sind, ihn zu nutzen, um
-    die Verteilung von Erregern zu verringern. Eine Atemschutzmaske mit
-    Ausatemventil darf hingegen bei Erkrankten nicht angewendet werden,
-    da sie einerseits beim Einatmen einen hohen Atemwiderstand aufweist,
-    andererseits beim Ausatmen keine Filterwirkung hat.
-    
-    Bei Verwendung einer Vollmaske oder eines Gebläseschutzanzugs können
-    Filter gewählt werden, die zusätzlich gegen Gase / Chemikalien
-    schützen. Die Deutsche Gesetzliche Unfallversicherung (DGUV) hat
-    wichtige **Hinweise zur Benutzung von Atemschutzgeräten**
-    (<https://publikationen.dguv.de/regelwerk/regeln/1011/benutzung-von-atemschutzgeraeten>)
-    zusammengestellt.
+
+Mit Abnahme der Leckage steigt die Schutzwirkung, aber auch die
+Belastung durch erschwertes Atmen. Ein Ausatemventil trägt im Gegenzug
+zur Reduzierung der Belastung bei und sollte daher insbesondere bei
+FFP-3 Masken gewählt werden. Zusätzlich wird die Schutzwirkung durch den
+korrekten Sitz beeinflusst. Aufgrund unterschiedlicher Kopfformen muss
+individuell getestet werden, welche Maske für wen am besten geeignet
+ist. Hierzu ist ein sogenannter FIT-Test durchzuführen. Bei Bartträgern
+oder stark vernarbter Haut im Bereich der Dichtlippe ist davon
+auszugehen, dass kein Dichtsitz erreicht wird. Um einen zusätzlichen
+Spritzschutz zu gewährleisten, sollte das Filterflies zusätzlich nach
+DIN EN 14683 (Spritzschutz IIR) geprüft sein.
+
+Der häufig verwendete Mund-Nasen-Schutz ("OP-Maske") stellt keinen
+Atemschutz dar. Er ist in erster Linie bei erkrankten Personen
+einzusetzen, die gesundheitlich in der Lage sind, ihn zu nutzen, um die
+Verteilung von Erregern zu verringern. Eine Atemschutzmaske mit
+Ausatemventil darf hingegen bei Erkrankten nicht angewendet werden, da
+sie einerseits beim Einatmen einen hohen Atemwiderstand aufweist,
+andererseits beim Ausatmen keine Filterwirkung hat.
+
+Bei Verwendung einer Vollmaske oder eines Gebläseschutzanzugs können
+Filter gewählt werden, die zusätzlich gegen Gase / Chemikalien schützen.
+Die Deutsche Gesetzliche Unfallversicherung (DGUV) hat wichtige
+**[Hinweise zur Benutzung von
+Atemschutzgeräten](https://publikationen.dguv.de/regelwerk/regeln/1011/benutzung-von-atemschutzgeraeten "https://publikationen.dguv.de/regelwerk/regeln/1011/benutzung-von-atemschutzgeraeten")**
+zusammengestellt.
 
 ### Augenschutz
 
@@ -245,7 +242,7 @@ Aerosolbildung besteht, kann auch Gesichtsvisier genutzt werden. Die
 Prüfkriterien sind in der EN 166 festgelegt. Entsprechend dieser Norm
 sollte die Schutzbrille die Rahmenkennzeichnung 5 aufweisen.
 
-### **Handhygiene**
+### Handhygiene
 
 Da die meisten Erreger über Hände übertragen werden, kommt auch dem
 Handschutz eine besondere Bedeutung zu. Hierbei ist zu betonen, dass
@@ -264,11 +261,11 @@ Um den Verbrauch an PSA kalkulieren zu können, ist sowohl die Art als
 auch die Schwere der Erkrankung zu berücksichtigen, da von ihr
 einerseits die Art der PSA, andererseits die Häufigkeit der Kontakte mit
 den unterschiedlichen Berufsgruppen abhängt. Eine übersichtliche
-Kalkulationshilfe haben die Centers of Disease Control and Prevention
-auf ihrer Internetseite publiziert. Anhand von fünf unterschiedlichen
-Szenarien wird der Bedarf beispielhaft dargestellt: "**Estimated
-Personal Protective Equipment (PPE) Needed for Healthcare Facility**"
-(<https://www.cdc.gov/vhf/ebola/healthcare-us/ppe/calculator.html>).
+Kalkulationshilfe hat das amerikanische Centers of Disease Control and
+Prevention auf ihrer Internetseite publiziert. Anhand von fünf
+unterschiedlichen Szenarien wird der Bedarf beispielhaft dargestellt in
+**[Estimated Personal Protective Equipment (PPE) Needed for Healthcare
+Facility](https://www.cdc.gov/vhf/ebola/healthcare-us/ppe/calculator.html "https://www.cdc.gov/vhf/ebola/healthcare-us/ppe/calculator.html")**.
 
 **MERKE: Der wichtigste persönliche Schutz ist die Inanspruchnahme der
 möglichen Schutzimpfungen\!\! Mit dem Betriebsarzt muss eine
@@ -276,23 +273,26 @@ Gefährdungsanalyse erstellt werden.**
 
 ## Surveillance
 
-Unter epidemiologischer Überwachung / Surveillane wird "die fortlaufende
-systematische Sammlung, Analyse, Bewertung und Verbreitung von
-Gesundheitsdaten zum Zweck der Planung, Durchführung und Bewertung von
-Maßnahmen zur Krankheitsbekämpfung verstanden"
-<span class="citation">RKI, 2020 (n.d.)</span>. Die Surveillance dient
-der Früherkennung und Verhinderung der Weiterverbreitung von Infektionen
+Unter epidemiologischer Überwachung (Surveillane) wird
 
-Im Dritten Abschnitt es [Infektionsschutzgesetzes
-(IfSG)](https://www.gesetze-im-internet.de/ifsg/ "https://www.gesetze-im-internet.de/ifsg/")
+> > *"die fortlaufende systematische Sammlung, Analyse, Bewertung und
+> > Verbreitung von Gesundheitsdaten zum Zweck der Planung, Durchführung
+> > und Bewertung von Maßnahmen zur Krankheitsbekämpfung verstanden"*
+> > <span class="citation">RKI, 2020 (n.d.)</span>.
+
+Die Surveillance dient der Früherkennung und Verhinderung der
+Weiterverbreitung von Infektionen
+
+Im Dritten Abschnitt es
+[Infektionsschutzgesetzes](https://www.gesetze-im-internet.de/ifsg/ "https://www.gesetze-im-internet.de/ifsg/")
 sind die gesetzlichen Grundlagen für das Meldewesen in Deutschland
 festgeschrieben. Dort sind festgelegt die meldepflichtigen Krankheiten,
 Krankheitserreger sowie zur Meldung verpflichtete Personen sowie die
 Meldewege vom Gesundheitsamt über Landesbehörden bis zur Bundesbehörde
-und der Weltgesunheitsorgansiation. In Krisenfällen ist das BMG durch
-§15 ermächtigt, mittels Rechtsverordnung entsprechend der
-epideiologischen Lage, die Meldepflichten aufzuheben, einzuschränken
-oder zu erweitern.
+und der Weltgesunheitsorgansiation. In Krisenfällen ist das
+Bundesministerium für Gesundheit (BMG) durch §15 ermächtigt, mittels
+Rechtsverordnung entsprechend der epidemiologischen Lage, die
+Meldepflichten aufzuheben, einzuschränken oder zu erweitern.
 
 ## Desinfektionsschutzmaßnahmen
 
@@ -339,19 +339,15 @@ C - zur Abtötung von Sporen des Erregers des Milzbrandes
 D- zur Abtötung von Sporen der Erreger von Gasödem und Wundstarrkrampf
 geeignet
 
-Hier ist die **Liste der vom Robert Koch-Institut geprüften und
-anerkannten Desinfektionsmittel und -verfahren**
-[Desinfektionsmittelliste](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste_node.html "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste_node.html")
-einsehbar
-([https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste\_node.html](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste_node.html "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste_node.html")).
-
+Das RKI veröffentlicht eine **[Liste der geprüften und anerkannten
+Desinfektionsmittel und
+-verfahren](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste_node.html "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Desinfektionsmittel/Desinfektionsmittellist/Desinfektionsmittelliste_node.html").**
 Da eine fachgereche Desinfektion hohe Fachkompetenz und Erfahrung
-voraussetzt, beschreibt die **Kommission für Krankenhaushygiene und
-Infektionsprävention**
-([https://www.rki.de/DE/Content/Kommissionen/KRINKO/krinko\_node.html](https://www.rki.de/DE/Content/Kommissionen/KRINKO/krinko_node.html "https://www.rki.de/DE/Content/Kommissionen/KRINKO/krinko_node.html")),
-in einer **Empfehlung: Personelle und organisatorische Voraussetzungen
-zur Prävention nosokomialer Infektionen**
-([https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili\_Hygmanagement.pdf](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili_Hygmanagement.pdf "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili_Hygmanagement.pdf")).
+voraussetzt, beschreibt die **[Kommission für Krankenhaushygiene und
+Infektionsprävention](https://www.rki.de/DE/Content/Kommissionen/KRINKO/krinko_node.html "https://www.rki.de/DE/Content/Kommissionen/KRINKO/krinko_node.html")**,
+in einer **[Empfehlung: Personelle und organisatorische Voraussetzungen
+zur Prävention nosokomialer
+Infektionen](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili_Hygmanagement.pdf "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili_Hygmanagement.pdf")**.
 
 Während unter Dekontamination üblicherweise die Reduktion von
 schädlichen Agentien auf ein gesundheitsunschägliches Maß verstanden
@@ -430,27 +426,27 @@ Risikobewertungen vornehmen. Dazu gehört die folgenden Fragen zu klären:
   - Ist Informations- und Dokumentationsmaterial für den Fall einer
     postexpositionellen Impfung vorbereitet?
 
-## Isolierung/Absonderung/Quarantäne
+### Isolierung/Absonderung/Quarantäne
 
 Das Ziel von Isolierung/Absonderung/Quarantäne ist, eine
 Weiterverbreitung von Krankheitserregern zu reduzieren oder möglichst zu
-verhindern (siehe:
-[https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch\_Infektionsschutz.pdf](https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch_Infektionsschutz.pdf "Fachwörterbuch Infektionsschutz")).
+verhindern. Siehe dazu auch das [Fachwörterbuch
+Infektionsschutz](https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch_Infektionsschutz.pdf "https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch_Infektionsschutz.pdf").
 
 Das IfSG beschreibt die Maßnahmen hierzu in gestufter Weise in §§28 und
 30.
 
-Im Sinne des §30 IfSG ist die Absonderung/Quarantäne eine
+Im Sinne des **§30 IfSG** ist die Absonderung/Quarantäne eine
 Isolierungsmaßnahme für Kranke, Krankheitsverdächtige,
 Ansteckungsverdächtige und Ausscheider. Diese kann in einem geeigneten
 Krankenhaus oder in sonst geeigneter Weise erfolgen. Für Ausscheider
 sind Ausnahmen möglich wenn andere Schutzmaßnamen befolgt werden.
 
 In Abgrenzung zur Absonderung/Quarantäne sind auch Isolierungsmaßnamen
-nach §28 möglich, bei denen Personen verpflichtet werden den Ort an dem
-sie sich befinden nicht zu verlassen oder bestimmte Orte nicht zu
-betreten. Hierzu könnte beispielsweise auch die häusliche Isolierung
-gezählt werden.
+nach **§28 IfSG** möglich, bei denen Personen verpflichtet werden den
+Ort nicht zu verlassen an dem sie sich befinden oder bestimmte Orte
+nicht zu betreten. Hierzu könnte beispielsweise auch die häusliche
+Isolierung gezählt werden.
 
 ### Praktische Aspekte von Isolierungsmaßnahmen
 
@@ -458,8 +454,8 @@ Erfahrungen von Ausbrüchen in den letzten Jahren, bei denen z.B. eine
 häusliche Isolierungs angeordnet wurde, zeigen, dass den Betroffenen
 häufig der Hintergrund für die Sinnhaftigkeit der Maßnahme fehlte und
 sie teilweise lediglich als „Arbeitsverbot“ verstanden wurde oder dass
-sie zwar die Wohnung nicht verlassen sollten und im Gegenzug Besuch
-eingeladen hatten.
+sie zwar die Wohnung nicht verlassen sollten, dann im Gegenzug aber
+Besuch eingeladen hatten.
 
 Entsprechend empfiehlt es sich, die Anordnung schriftlich an die
 Betroffenen auszugeben und auf die Folgen bei Nichteinhaltung aufmerksam
@@ -486,29 +482,26 @@ Informieren Sie daher die Betroffenen über Möglichkeiten, wie sie sich
 beschäftigen und fit halten können, wie sie weiterhin mit der Umwelt in
 Verbindung bleiben können und an wen sie sich im Notfall werden können.
 
-# 
+## Logistische Maßnahmen
 
-# Logistische Maßnahmen
-
-## Rettungsdienstlicher Patiententransport
+### Rettungsdienstlicher Patiententransport
 
 Der Patiententransport in B-Lagen stellt den Rettungsdienst vor
 besondere Herausforderungen.
 
 In der Regel ist der Transport dekontaminierter Patienten anzustreben.
-Die **Feuerwehr-Dienstvorschrift „Einheiten im ABC – Einsatz“** (FwDV
-500)
-([https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext\_Fw\_Dv/FwDV%20500-2012,1.pdf](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/FwDV%20500-2012,1.pdf;jsessionid=3BA3A43E8BA30225A703411AEEE48E8A.1_cid320?__blob=publicationFile))
+Die **[Feuerwehr-Dienstvorschrift „Einheiten im ABC – Einsatz“ (FwDV
+500)](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/FwDV%20500-2012,1.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/FwDV%20500-2012,1.pdf")**
 führt dazu aus:
 
-*"Kontaminierte Verletzte sind - soweit medizinisch vertretbar - unter
-Verantwortung und Anleitung durch den Rettungsdienst (Notarzt) zu
-dekontaminieren. (...) Bei einigen ABC-Gefahrstoffen, die bei
-Kontaminationsverschleppung eine erhebliche Schadenausweitung
-hervorrufen würden (z. B. Kampfstoffe, besonders B-Kampfstoffe und
-ansteckungsgefährliche Stoffe), ist eine Dekontamination/ Desinfektion
-an der Einsatzstelle erforderlich." <span class="citation">(AFKzV,
-2012)</span>*
+> > *"Kontaminierte Verletzte sind - soweit medizinisch vertretbar -
+> > unter Verantwortung und Anleitung durch den Rettungsdienst (Notarzt)
+> > zu dekontaminieren. (...) Bei einigen ABC-Gefahrstoffen, die bei
+> > Kontaminationsverschleppung eine erhebliche Schadenausweitung
+> > hervorrufen würden (z. B. Kampfstoffe, besonders B-Kampfstoffe und
+> > ansteckungsgefährliche Stoffe), ist eine Dekontamination/
+> > Desinfektion an der Einsatzstelle erforderlich."
+> > <span class="citation">(AFKzV 2012)</span>*
 
 Der Transport nicht dekontaminierter Patienten in C-, R- und N-Lagen
 kann im Nachgang zu schwerwiegenden Problemen führen. Neben der
@@ -517,7 +510,7 @@ Kontaminationsverschleppung in Transportmittel und im Weiteren auch in
 Einrichtungen der Gesundheitsversorgung kommen. Im Verlauf einer Krise
 führt dies im ungünstigsten Fall zu einem Ausfall dieser Infrastruktur.
 
-## B-Lagen
+### Transport infektiöser Personen
 
 Der Transport infektiöser Patienten durch den Rettungsdienst folgt meist
 einer anderen Logik als bei C- und RN-Lagen. Da der Patient den Erreger
@@ -528,13 +521,12 @@ Zusammenarbeit und in Abstimmung mit den verantwortlichen Personen im
 Gesundheitsamt erarbeitet werden.
 
 Der Umfang der notwendigen Schutzmaßnahmen muss sich an einer Einstufung
-des Patienten orientieren. Hierzu sei an dieser Stelle auf die
-Informationen des Landesinstitut für Arbeitsgestaltung NRW:
-Infektionsgefährdung im Rettungsdienst
-(<https://www.lia.nrw.de/themengebiete/Arbeitsschutz-und-Gesundheit/Biostoffe/Infektionsgefaehrdung-im-Rettungsdienst/index.html>)
-verwiesen.
+des Patienten orientieren. Das Landesinstitut für Arbeitsgestaltung in
+Nordrhein-Westfalen hat hier Informationen veröffentlicht zu
+**[Infektionsgefährdung im
+Rettungsdienst](https://www.lia.nrw.de/themengebiete/Arbeitsschutz-und-Gesundheit/Biostoffe/Infektionsgefaehrdung-im-Rettungsdienst/index.html "https://www.lia.nrw.de/themengebiete/Arbeitsschutz-und-Gesundheit/Biostoffe/Infektionsgefaehrdung-im-Rettungsdienst/index.html").**
 
-## Dekontamination kontaminierter Personen
+### Dekontamination kontaminierter Personen
 
 Bei Personen, die äußerlich mit Erregern kontaminiert wurden, ist eine
 Dekontamination vor einem Transport hingegen sinnvoll, um eine
@@ -549,11 +541,11 @@ Dekontamination zugeführt werden (z.B. chemisch oder thermisch). Eine
 dekontaminierte Person gilt trotzdem weiterhin als
 ansteckungsverdächtig.
 
-Hierzu sei an dieser Stelle auf die Informationen des RKI zum Thema
-"**Pulverfund**" verwiesen
-([https://www.rki.de/DE/Content/Infekt/Biosicherheit/Poststellen/Pulverfund.pdf](https://www.rki.de/DE/Content/Infekt/Biosicherheit/Poststellen/Pulverfund.pdf "Pulverfund")).
+Spezifische Informationen hat das RKI hier zum Thema
+"**[Pulverfund](https://www.rki.de/DE/Content/Infekt/Biosicherheit/Poststellen/Pulverfund.pdf "https://www.rki.de/DE/Content/Infekt/Biosicherheit/Poststellen/Pulverfund.pdf")**"
+veröffentlicht.
 
-## Transportkapazitäten in der Krise
+### Transportkapazitäten in der Krise
 
 In Vorbereitung auf eine Krise ist es notwendig, sich im zuständigen
 Rettungsdienst zu informieren, welche Schutzmaßnahmen umgesetzt werden
@@ -572,7 +564,7 @@ von Ausbruchgeschehen sollte bedacht werden.
 
   - Sind Meldewege und Zuständigkeiten geklärt?
 
-## Sonderisolier- oder Hochinfektionstranssport
+### Sonderisolier- oder Hochinfektionstranssport
 
 Regelmäßig wird es auf lokaler Ebene nicht möglich sein, Patienten mit
 lebensbedrohlichen hochansteckenden Erkrankungen sicher zu
@@ -608,22 +600,22 @@ arbeiten.
 Die Durchführung von SIT/HIT ist logistisch sehr aufwendig und es wird
 ein erheblicher zeitlicher Vorlauf benötigt. Die Menge an durchführbaren
 SIT/HIT ist in ihrer Anzahl sehr begrenzt. Die Standorte der verfügbaren
-SIT/HIT sind entsprechend in dem **Ständigen Arbeitskreis der Kompetenz-
-und Behand­lungs­zentren für Krankheiten durch hoch­patho­gene Erreger
-(STAKOB)**
-(<https://www.rki.de/DE/Content/Kommissionen/Stakob/Stakob_node.html>)
+SIT/HIT sind entsprechend in dem **[Ständigen Arbeitskreis der
+Kompetenz- und Behand­lungs­zentren für Krankheiten durch
+hoch­patho­gene Erreger
+(STAKOB)](https://www.rki.de/DE/Content/Kommissionen/Stakob/Stakob_node.html "https://www.rki.de/DE/Content/Kommissionen/Stakob/Stakob_node.html")**
 bekannt.
 
-# Proben
+## Proben
 
-## Probenahme
+### Probenahme
 
 Grundsätzlich sind die klinische Probenentnahme und die Umweltprobenahme
 zu unterscheiden. Auf die klinische Probenahme wird im Folgenden nicht
 weiter eingegangen, da sie zur täglichen Routine gehört. Sollte sich ein
 ungewöhnlicher klinischer Fall ergeben, der eine besondere Probenahme
 erforderlich macht, besteht die Möglichkeit, sich von Experten des
-STAKOB beim Robert Koch-Institut beraten zu lassen.
+STAKOB beim RKI beraten zu lassen.
 
 Auch bei Umweltkontamination ist eine qualifizierte Probenahme die
 Voraussetzung für eine erfolgreiche Probenuntersuchung. Im Vorfeld
@@ -644,48 +636,50 @@ weisen, auch wenn sie sich stetig verbessern, momentan noch eine zu hohe
 Anzahl an falsch positiven und falsch negativen Ergebnissen auf.
 
 Da die Probennahme in einem kontaminierten Umfeld erfolgt, ist
-Selbstschutz notwendig (s. Arbeitsschutz/PSA) sowie **TRBA 130**
-([https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/pdf/TRBA-130.pdf](https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/pdf/TRBA-130.pdf?__blob=publicationFile&v=2)).
+Selbstschutz notwendig (s. Arbeitsschutz/PSA) sowie **[TRBA
+130](https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/pdf/TRBA-130.pdf "https://www.baua.de/DE/Angebote/Rechtstexte-und-Technische-Regeln/Regelwerk/TRBA/pdf/TRBA-130.pdf")**.
 Auch die anschließende Dekontamination beim Verlassen des
 Probenahmeortes muss vor Betreten des kontaminierten Bereichs geklärt
 werden. Hierzu sollte das Gesundheitsamt, sofern es die Probennahme
 nicht selber durchführen will oder kann, mit den örtlichen Feuerwehren
 im Vorfeld Absprachen treffen. Weitere Informationen hat das BBK
-veröffentlicht mit den **Empfehlungen für die Probenahme zur
-Gefahrenabwehr im Bevölkerungsschutz**
-([https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/PublikationenForschung/Fib\_Band5\_2teAuflage.pdf](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/PublikationenForschung/Fib_Band5_2teAuflage.pdf?__blob=publicationFile)).
+veröffentlicht mit den **[Empfehlungen für die Probenahme zur
+Gefahrenabwehr im
+Bevölkerungsschutz](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/PublikationenForschung/Fib_Band5_2teAuflage.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/PublikationenForschung/Fib_Band5_2teAuflage.pdf")**.
 In ihm wird die Probenahme bei chemischen, biologischen und radioaktiven
 Kontaminationen beschrieben. Die Europäische Kommission hat zu dem Thema
-den **Leitfaden Biological Incident Response & Environmental Sampling**
-(<https://ec.europa.eu/health/ph_threats/com/preparedness/docs/biological.pdf>)
+den **[Leitfaden Biological Incident Response & Environmental
+Sampling](https://ec.europa.eu/health/ph_threats/com/preparedness/docs/biological.pdf "https://ec.europa.eu/health/ph_threats/com/preparedness/docs/biological.pdf")**
 zur biologischen Probenahme publiziert.
 
-## Probentransport
-
-### **Verantwortlichkeiten und Klassifizierung**
+### Probentransport ****
 
 Der Transport von Gefahrgut - darunter fallen auch CBRN-Proben - wird im
-**Europäische Übereinkommen zur internationalen Beförderung gefährlicher
-Güter auf der Straße** (Accord européen relatif au transport
-international des marchandises Dangereuses par Route, ADR;
-<https://www.unece.org/fileadmin/DAM/trans/danger/publi/adr/ADRaccord_f.pdf>)
+**[Europäische Übereinkommen zur internationalen Beförderung
+gefährlicher Güter auf der
+Straße](https://www.unece.org/fileadmin/DAM/trans/danger/publi/adr/ADRaccord_f.pdf "https://www.unece.org/fileadmin/DAM/trans/danger/publi/adr/ADRaccord_f.pdf")**
+[(Accord européen relatif au transport international des marchandises
+Dangereuses par Route,
+ADR)](https://www.unece.org/fileadmin/DAM/trans/danger/publi/adr/ADRaccord_f.pdf "https://www.unece.org/fileadmin/DAM/trans/danger/publi/adr/ADRaccord_f.pdf")
 geregelt. Das ADR wird alle 2 Jahre überarbeitet, daher ist darauf zu
 achten, die aktuellste Ausgabe zu verwenden.
 
+#### **Verantwortlichkeiten**
+
 Gefahrstoffe werden verschiedenen Gefahrgutklassen zugeordnet, für die
 konkrete Kennzeichnungs-, Verpackungs- und Beförderungsrichtlinien
-vorgeschrieben sind. Der Absender ist nach §18 der **Gefahrgutverordnung
-Straße, Eisenbahn und Binnenschifffahrt** (GGVSEB)
-(<https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html>)
+vorgeschrieben sind. Der Absender ist nach §18 der
+**[Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt
+(GGVSEB)](https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html "https://www.gesetze-im-internet.de/ggvseb/BJNR138900009.html")**
 verantwortlich für die ordnungsgemäße Klassifizierung und die Einhaltung
 der dazu gehörenden Transportvorschriften. Im Zweifelsfall ist dies der
 Leitung der versendenden Institution und damit z.B. der/die Leiter/in
 des Gesundheitsamtes.
 
 Ausführliche Erläuterung zum korrekten Versand werden dargestellt imt im
-Weltgesundheitsorgansiation Leitfaden "**Guidance on regulations for the
-Transport of Infectious Substances**"
-(<https://www.who.int/csr/resources/publications/biosafety/WHO_HSE_EPR_2008_10.pdf?ua=1>):
+Weltgesundheitsorgansiation Leitfaden **[Guidance on regulations for the
+Transport of Infectious
+Substances](https://www.who.int/csr/resources/publications/biosafety/WHO_HSE_EPR_2008_10.pdf "https://www.who.int/csr/resources/publications/biosafety/WHO_HSE_EPR_2008_10.pdf")**:
 
   - Klassifizierung der Sendung
 
@@ -703,6 +697,8 @@ Transport of Infectious Substances**"
     zu gewährleisten, dass die Sendung für den Transport akzeptiert
     wird, sowie die Beförderung auf der direkten bzw. schnellsten Route
     erfolgt.
+
+#### **Klassifizierung**
 
 Für **chemische Stoffe** gelten, je nach Beschaffenheit des Stoffes, die
 Gefahrgutklassen (teilweise mit Unterklassen):
@@ -734,9 +730,8 @@ Biologische Proben werden noch einmal unterteilt in:
     sonst gesunden Menschen oder Tieren eine dauerhafte Behinderung oder
     eine lebensbedrohende oder tödliche Krankheit hervorrufen kann. Eine
     Liste der Erreger ist im Annex 2 der Weltgesundheitsorganisation
-    "**Guidance on regulations for the Transport of Infectious
-    Substances**"
-    ([https://www.who.int/csr/resources/publications/biosafety/WHO\_HSE\_EPR\_2008\_10.pdf](https://www.who.int/csr/resources/publications/biosafety/WHO_HSE_EPR_2008_10.pdf?ua=1))
+    **[Guidance on regulations for the Transport of Infectious
+    Substances](https://www.who.int/csr/resources/publications/biosafety/WHO_HSE_EPR_2008_10.pdf "https://www.who.int/csr/resources/publications/biosafety/WHO_HSE_EPR_2008_10.pdf")**
     zu finden. Bei Erregern der Kategorie A fallen auch
     Krankenhausabfälle unter die Klassifizierung (UN 2814 oder UN 2900)
     und die Verpackungsvorschrift (Verpackung: P 620).
@@ -745,21 +740,20 @@ Biologische Proben werden noch einmal unterteilt in:
     Kriterien für eine Aufnahme in Kategorie A nicht entspricht.
     (Klassifizierung: UN 3373; Verpackung: P 650)
 
-  - Freigestelle medizinische Probe: Stoffe, die keine
-    ansteckungsgefährlichen Stoffe enthalten, oder Stoffe, bei denen es
-    unwahrscheinlich ist, dass sie bei Menschen oder Tieren Krankheiten
-    hervorrufen, unterliegen nicht den Vorschriften des ADR, es sei
-    denn, sie entsprechen den Kriterien für die Aufnahme in eine andere
-    Klasse. Hierbei handelt es sich z.B. um nicht-pathogene oder
-    inaktiviere Mikroorganismen oder um Proben mit Erregern in
-    Konzentrationen, wie sie in der Natur vorkommen. (ohne UN-Nummer;
-    Verpackung: auf Basis P 650)
-    
-    ### **Verpackungsvorschriften**
-    
-    Die Verpackungen sind grundsätzlich 3-teilig. Die hauptsächlichen
-    Unterschiede liegen in den unterschiedlichen Prüfanforderungen, die
-    die Verpackungen erfüllen müssen.
+Freigestelle medizinische Probe: Stoffe, die keine
+ansteckungsgefährlichen Stoffe enthalten, oder Stoffe, bei denen es
+unwahrscheinlich ist, dass sie bei Menschen oder Tieren Krankheiten
+hervorrufen, unterliegen nicht den Vorschriften des ADR, es sei denn,
+sie entsprechen den Kriterien für die Aufnahme in eine andere Klasse.
+Hierbei handelt es sich z.B. um nicht-pathogene oder inaktiviere
+Mikroorganismen oder um Proben mit Erregern in Konzentrationen, wie sie
+in der Natur vorkommen. (ohne UN-Nummer; Verpackung: auf Basis P 650)
+
+### **Verpackungsvorschriften**
+
+Die Verpackungen sind grundsätzlich 3-teilig. Die hauptsächlichen
+Unterschiede liegen in den unterschiedlichen Prüfanforderungen, die die
+Verpackungen erfüllen müssen.
 
   - (einem) flüssigkeitsdichten Primärgefäß(en); umgeben von saugfähigem
     Material in einer für die Aufnahme des gesamten Inhalts
@@ -771,18 +765,19 @@ Biologische Proben werden noch einmal unterteilt in:
   - einer starren
 Außenverpackung
 
-![<span class="figure-cat-figure">Figure</span><span data-caption="Probenmaterial klassifizieren nach Verpackungsvorschrift (Quelle: RKI) ">Probenmaterial
+![<span class="figure-cat-figure">Abbildung</span><span data-caption="Probenmaterial klassifizieren nach Verpackungsvorschrift (Quelle: RKI) ">Probenmaterial
 klassifizieren nach Verpackungsvorschrift (Quelle: RKI)
 </span>](39f56377-8b88-4c46-90f3-a82b00972190.jpg)
 
 ### **Notfallbeförderung**
 
 Eine Freistellung von den Vorschriften des ADR ist bei einer
-Notfallbeförderung möglich (Unterabschnitt 1.1.3.1e ADR):
+Notfallbeförderung möglich :
 
-*"Notfallbeförderungen zur Rettung menschlichen Lebens oder zum Schutz
-der Umwelt, vorausgesetzt es werden alle Maßnahmen zur völlig sicheren
-Durchführung dieser Beförderungen getroffen."*
+> *"Notfallbeförderungen zur Rettung menschlichen Lebens oder zum Schutz
+> der Umwelt, vorausgesetzt es werden alle Maßnahmen zur völlig sicheren
+> Durchführung dieser Beförderungen getroffen."* (Unterabschnitt
+> 1.1.3.1e ADR)
 
 Die Notfallbeförderung befreit daher nicht von einer sicheren
 Verpackung. Einige Transportunternehmen bieten an, die Verpackungen
@@ -796,7 +791,7 @@ entsprechend geschulten Fahrer zurückgegriffen werden kann, ist eine
 Notfallbeförderung mit einem Einsatzfahrzeug von Rettungsdienst,
 Feuerwehr oder Polizei möglich.
 
-### Kontaktminimierende Maßnahmen
+## Kontaktminimierende Maßnahmen
 
 Bei Infektionskrankheiten, die über Tröpfchen und/oder Schmierinfektion
 übertragen werden, kann durch kontaktminimierende Maßnahmen die
@@ -805,9 +800,10 @@ Händehygiene, eine Husten- und Nies-Etikette sowie Abstand (1-2m)
 halten.
 
 Um kontaktminimierende Maßnahmen zielgerichtet anzuwenden, empfiehlt es
-sich, relevante Einrichtungen und Veranstaltungen zu identifizieren. Je
-nach Erreger und besonders empfänglicher Gruppe können diese variieren,
-typische Einrichtungen sind z.B.:
+sich, relevante Einrichtungen und Veranstaltungen zu identifizieren.
+
+Je nach Erreger und besonders empfänglicher Gruppe können diese
+variieren, typische Einrichtungen sind z.B.:
 
   - Schulen / Kindergärten
 
@@ -831,14 +827,12 @@ dieses möglich wird?
 
   - Kann die Veranstaltung verschoben werden?
 
-Das Robert Koch-Institut hat dazu die **Allgemeine Prinzipien der
-Risikoeinschätzung und Handlungsempfehlung für Großveranstaltungen
-veröffentlicht** (
-[https://www.rki.de/DE/Content/InfAZ/N/Neuartiges\_Coronavirus/Risiko\_Grossveranstaltungen.pdf](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risiko_Grossveranstaltungen.pdf?__blob=publicationFile))
+Das RKI hat dazu die **[Allgemeine Prinzipien der Risikoeinschätzung
+und Handlungsempfehlung für
+Großveranstaltungen](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risiko_Grossveranstaltungen.pdf "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risiko_Grossveranstaltungen.pdf")**
+veröffentlicht.
 
-# 
-
-# Therapie und Impfkonzept
+## Therapie und Impfkonzept
 
 Zu den wichtigsten präventiven Maß­nah­men, die es im medizischen
 Bereicht gibt, gehören Impfungen. Da moderne Impfstoffe sehr risikoarm
@@ -879,7 +873,7 @@ und sichersten der Bevölkerung zu Verfügung gestellt werden können.
 Konozepte hierzu wurden beispielsweise im Rahmen der Vorsorge eines
 Ausbruchs von humanen Pockenviren deutschlandweit erstellt.
 
-# Umgang mit Leichen
+## Umgang mit Leichen
 
 Leider wird es sich auch in einer Krisensistuation nicht verhindern
 lassen, dass Menschen sterben werden werden. Dies kann in zweierlei
@@ -889,7 +883,7 @@ Leichname. Für beide Notfallsituationen sollten entsprechende
 Krisenpläne erarbeitet werden. Landesrechtliche Bestimmungen sind zu
 beachten.
 
-## Hohe Anzahl von Verstorbenen
+### Hohe Anzahl von Verstorbenen
 
 Um eine angenessene Aufbewahrung und Bestattung auch bei einer hohen
 Anzahl von Verstorbenen gewährleisten zu können, sollte eruiert werden,
@@ -898,7 +892,7 @@ Verstorbene bis zur Beisetzung so aufzubewahren, dass es möglichst
 ethisch ist, von den Verstorbenen aber auch keine Gefahr für die
 Allgemeinbevölkerung ausgeht.
 
-## Kontagiöse Leichname
+### Kontagiöse Leichname
 
 In manchen Krankheiten ist bekannt, dass die Leichname noch eine hohe
 Erregeranzahl aufweisen und somit zur Gefahr für alle Personen werden,
@@ -936,7 +930,7 @@ zuzuführen. Eine zweite Leichenschau sollte möglichst unterlassen oder
 bereits bei der Einsargung unter entsprechenden Sicherheitsmaßnahmen
 durchgeführt werden.
 
-# Entsorgungsmanagement
+## Entsorgungsmanagement
 
 Die entstehenden Abfälle sollten möglichst in unmittelbarer Nähe des
 Anfallortes der Abfälle desinfiziert werden. Gegenstände, die mit
@@ -950,11 +944,10 @@ entsprechend dem ADR der mit L4-Erregern kontaminierte Abfall
 grundsätzlich nach der Verpackungsvorschrift P620 mit der Kennzeichnung
 UN 2814 verpackt werden. Da in der Praxis hierzu aktuell nicht
 ausreichend große Behältnisse zur Verfügung stehen, kann der Abfall
-entsprechend der **multilateralen Vereinbarung M315**
-([https://www.rki.de/DE/Content/InfAZ/E/Ebola/Muster\_Verpackungsanleitung.pdf](https://www.rki.de/DE/Content/InfAZ/E/Ebola/Muster_Verpackungsanleitung.pdf?__blob=publicationFile))
-verpacktt werden. Der Transport von ansteckungsgefährlichen Stoffen ist
-im Wesentlichen durch das ADR geregeltund erfolgt als Klasse 6.2,
-Kategorie A.
+verpackt werden entsprechend der **[multilateralen Vereinbarung
+M315](https://www.rki.de/DE/Content/InfAZ/E/Ebola/Muster_Verpackungsanleitung.pdf "https://www.rki.de/DE/Content/InfAZ/E/Ebola/Muster_Verpackungsanleitung.pdf")**.
+Der Transport von ansteckungsgefährlichen Stoffen ist im Wesentlichen
+durch das ADR geregeltund erfolgt als Klasse 6.2, Kategorie A.
 
 Für die Verbrennung von Abfällen aus Gesundheitseinrichtungen, die mit
 Erregern der Risikogruppe 4 kontaminiert sind, sind in SAV zusätzlich zu
@@ -963,22 +956,21 @@ Aus bestehenden Verträgen oder Andienungsverpflichtungen zu diesem
 Abfallschlüssel leitet sich für den Betreiber der SAV eine
 Entsorgungsverpflichtung ab.
 
-Bei Erregern, die nicht unter die **ADR Klasse 6.2 Kat. A Infectious
-Substances**
-([https://adrbook.com/en/2017/ADR/2.2.62](https://adrbook.com/en/2017/ADR/2.2.62 "https://adrbook.com/en/2017/ADR/2.2.62"))
+Bei Erregern, die nicht unter die **[ADR Klasse 6.2 Kat. A Infectious
+Substances](https://adrbook.com/en/2017/ADR/2.2.62 "https://adrbook.com/en/2017/ADR/2.2.62")**
 fallen bzw. bei denen ausschliesslich Kulturen unter die Kat. A fallen,
 kann der Krankenhausabfall wie anderer infektiöser Abfall nach der
 Verpackungsvorschrift UN 3291 verpackt und entsprechend der Mitteilung
-der Bund/Länder-Arbeitsgemeinschaft Abfall (LAGA) 18 zu "**Vollzugshilfe
-zur Entsorgung von Abfällen aus Einrichtungen des Gesundheitsdienstes**"
-([https://www.laga-online.de/documents/m\_2\_3\_1517834373.pdf](https://www.laga-online.de/documents/m_2_3_1517834373.pdf "https://www.laga-online.de/documents/m_2_3_1517834373.pdf"))
+der Bund/Länder-Arbeitsgemeinschaft Abfall (LAGA) 18 zu **[Vollzugshilfe
+zur Entsorgung von Abfällen aus Einrichtungen des
+Gesundheitsdienstes](https://www.laga-online.de/documents/m_2_3_1517834373.pdf "https://www.laga-online.de/documents/m_2_3_1517834373.pdf")**
 der Entsorgung zugeführt werden.
 
 Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver
 Sicht keine besonderen Anforderungen gestellt werden, können nach AS 18
 01 04 entsorgt werden.
 
-# Bibliography
+# Literaturverzeichnis
 
 <div class="csl-bib-body">
 
