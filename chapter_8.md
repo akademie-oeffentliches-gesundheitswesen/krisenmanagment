@@ -501,7 +501,7 @@ führt dazu aus:
 > > hervorrufen würden (z. B. Kampfstoffe, besonders B-Kampfstoffe und
 > > ansteckungsgefährliche Stoffe), ist eine Dekontamination/
 > > Desinfektion an der Einsatzstelle erforderlich."
-> > <span class="citation">(AFKzV 2012)</span>*
+> > <span class="citation">(AFKzV, 2012)</span>*
 
 Der Transport nicht dekontaminierter Patienten in C-, R- und N-Lagen
 kann im Nachgang zu schwerwiegenden Problemen führen. Neben der
@@ -762,8 +762,7 @@ Verpackungen erfüllen müssen.
   - einer flüssigkeitsdichten Sekundärverpackung (außer bei festen
     Stoffen)
 
-  - einer starren
-Außenverpackung
+  - einer starren Außenverpackung
 
 ![<span class="figure-cat-figure">Abbildung</span><span data-caption="Probenmaterial klassifizieren nach Verpackungsvorschrift (Quelle: RKI) ">Probenmaterial
 klassifizieren nach Verpackungsvorschrift (Quelle: RKI)

@@ -58,8 +58,7 @@ relevante Komponenten der Führung:
   - die administrativ-organisatorische Komponente.
 
 Diese Strukturen finden sich weigehend gleichartig auf Ebene der
-Landkreise und kreisfreien Städte in Deutschland
-wieder.
+Landkreise und kreisfreien Städte in Deutschland wieder.
 
 ![<span class="figure-cat-figure">Abbildung</span><span data-caption="Komponenten der Führung">Komponenten
 der Führung</span>](b1c6adc6-40ab-49ab-878a-1edadaecc784.jpg)
@@ -110,8 +109,7 @@ eine einheitliche Führung eingebunden.
 Ein Führungs- bzw. Katastrophenschutzstab **** beschäftigt sich mit
 allen anfallenden operativ-taktischen Maßnahmen z.B. Abschnittsbildung,
 Bereitstellen von Einsatzkräften und Reserven oder dem Aufbau und
-Betrieb einer
-Kommunikationsstruktur.
+Betrieb einer Kommunikationsstruktur.
 
 ![<span class="figure-cat-figure">Abbildung</span><span data-caption="Aufbau und Gliederung eines Führungsstab">Aufbau
 und Gliederung eines
@@ -234,8 +232,7 @@ und müssen nicht ständig im Verwaltungsstab anwesend sein.
 ## Zusammenarbeit der Stäbe
 
 Einen Überblick über die Zusammenarbeit in Krisenfällen zeigt die
-nachfolgende
-Abbildung:
+nachfolgende Abbildung:
 
 ![<span class="figure-cat-figure">Abbildung</span><span data-caption="Grafik Stäbe">Grafik
 Stäbe</span>](9cf983fb-6e98-4dc9-b8c2-d07fa2165195.jpg)

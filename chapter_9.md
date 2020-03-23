@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 11. Annex-Abkürzungen
+title: 11. Annex-Checkliste: Gesundheitsamt im Krisenmodus
 nav_order: 9
 ---
  
@@ -16,61 +16,123 @@ nav_order: 9
    <p></p>
  
  
-## Akürzungen
+|                     |             |                                   |
+| ------------------- | ----------- | --------------------------------- |
+| **Worum geht es?:** | ** Titel:** | **Gesundheitsamt im Krisenmodus** |
+| Addressaten:        |             | Datum:                            |
 
-**ABAS** Bundesministerium für Arbeit und Soziales gebildete Ausschuss
-für Biologische Arbeitsstoffe
+## Alarmierung
 
-**ADR** Accord européen relatif au transport international des
-marchandises Dangereuses par Route (Europäische Übereinkommen zur
-internationalen Beförderung gefährlicher Güter auf der Straße )
+☐ Regelung zum Eingang von Alarmmeldungen (über Rufbereitschaft?)
 
-**AFT** Analytische Task Force
+☐ Checkliste für den ersten Alarmempfänger/Rufbereitschaftsdienst
 
-**BBK** Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
-([https://www.bbk.bund.de](https://www.bbk.bund.de/DE/Home/home_node.html "https://www.bbk.bund.de/DE/Home/home_node.html"))
+☐ Alarmierungsliste (szenarienabhängig)
 
-**BMG** Bundesministerium für Gesundheit
-([https://www.bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/ "https://www.bundesgesundheitsministerium.de/"))
+☐ interne Alarmierungsliste Gesundheitsamt
 
-**BMI** Bundesministerium des Innern, für Bau und Heimat
-([https://www.bmi.bund.de](https://www.bmi.bund.de/DE/startseite/startseite-node.html "https://www.bmi.bund.de/DE/startseite/startseite-node.html"))
+☐ Benachrichtungsliste externe Ansprechpartner/-innen
 
-**BMU** Bundesministeriums für Umwelt, Naturschutz und nukleare
-Sicherheit
-([https://www.bmu.de](https://www.bmu.de "https://www.bmu.de"))
+## Zugangsregelung Gesundheitsamt
 
-**CBRN** chemisch, biologisch, radiologisch und nuklear
+☐ Zugangsberechtigte Personen
 
-**HCID** High Consequence Infectious Diseases (Infektionskrankheiten mit
-starken Konsequenzen)
+☐ Organisatorische Zugangsregelung (welche Zugänge, Ort Schlüsselkasten
+etc.)
 
-**FFP** Filtering Face Piece (partikelfiltierende Masken geschützt)
+## Organisation
 
-**GGVSEB** Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt
+☐ Struktur und Umfang der Funktionen festlegen.
 
-**IfSG** Infektionsschutzgesetz
+☐ Einbindung des Arbeits-/Krisenstabes in die Krisenstabsstrukturen der
+Region beachten
 
-**IGV** Internationalen Gesundheitsvorschriften
+☐ Aufwachsen einer Lage bei der Einrichtung des Stabes berücksichtigen.
 
-**MANV** Massenanfall von Verletzten
+☐ Arbeitsauftrag bestimmen und mit Behördenleitung abstimmen.
 
-**PEP** Postexpositionsprophylaxe
+☐ Prozessabläufe/Kommunikationwege bestimmen.
 
-**PPE** Personal Protective Equipment
+☐ Regelmäßige Abläufe z.B. für Lagebesprechungen festlegen
+(Termintafel).
 
-**PSA** Persönliche Schutzausrüstung
+☐ Fachliche Arbeitsschwerpunkte festsetzen, Personal zuordnen und
+Verantwortlichkeiten festlegen.
 
-**RKI** Robert Koch-Institut
-([https://www.rki.de](https://www.rki.de "https://www.rki.de"))
+## Personelle Vorsorge
 
-**SARS** Schweren Akuten Respiratorischen Syndroms
+☐ Übersicht der zu besetzenden Funktionen
 
-**STAKOB** Ständiger Arbeitskreis der Kompetenz- und Behandlungszentren
+☐ Übersicht verfügbarer Mitarbeiterinnen und Mitarbeiter
 
-**TRBA** Technischen Regeln für Biologische Arbeitsstoffe
+☐ Personalplanungsübersicht
 
-**VHF** Virale hämorrhagische Fieber
+☐ Muster für Dienstplan
+
+☐ Personalanwesenheitsübersicht
+
+☐ Beteiligung Personalrat
+
+☐ Überstundenanordnungen, Urlaubssperre
+
+☐ Fremdsprachenkenntnisse des Personals
+
+☐ ggf. personelle Besetzung Bürgertelefon
+
+☐ Unterstützung Verwaltung (Personaleinsatz, Dienstplanung)
+
+☐ Externe Fachberater/-innen aus anderen Behörden und Einrichtungen
+
+## Leitung des Stabes
+
+☐ Personen auswählen, Stellvertretung bedenken.
+
+☐ Checkliste für die Aufgaben erstellen.
+
+☐ Wie wird die Auftragskontrolle durchgeführt?
+
+## Lagedarstellung
+
+☐ Geeignetes Personal bestimmen und ausbilden.
+
+☐ Verfügbare Daten aus vorhandenen Quellen
+
+☐ Muster Einsatztagebuch (Link Vorlage)
+
+☐ Muster Lagebericht
+
+## Infrastruktur (Räume, Technik)
+
+**Details siehe gesonderte Checkliste**
+
+☐ Raumplan
+
+☐ Technische Ausstattung
+
+☐ Ausweichstandort
+
+## Organisation
+
+### Fachliche Inhalte, FAQ
+
+☐ Zuständigkeit für die Erarbeitung
+
+☐ Quellen (RKI, BMG, WHO etc.)
+
+☐ Erstellung von Handunterlagen für die Arbeitsplätze/Aktualisierung
+
+### Personelle Besetzung Bürgertelefon
+
+☐ Fachliche Betreuung (möglichst externe Kräfte, Honorarverträge)
+
+☐ Besetzung der Hotline (Schichtwechsel alle 4 -6 Stunden)
+
+☐ Dienstplan
+
+|                |  |          |
+| -------------- |  | -------- |
+| Einrichtung:   |  | Version: |
+| Bearbeiter/in: |  | Ablage:  |
 
 <div class="section fnlist" data-role="doc-footnotes">
 

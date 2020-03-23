@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Startseite
+title: 00-Startseite
 nav_order: 1
 ---
  

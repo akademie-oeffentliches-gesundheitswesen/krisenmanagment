@@ -65,7 +65,7 @@ sie ansehen und nutzen als
 > > *„Austausch von Informationen und Meinungen über Risiken zur
 > > Risikovermeidung, Risikominimierung und Risikoakzeptanz“*
 > > <span class="citation">(Bundesamt für Bevölkerungsschutz und
-> > Katastrophenhilfe 2011)</span>,
+> > Katastrophenhilfe, 2011)</span>,
 
 bei der alle Beteiligten einbezogen werden sollten.
 
@@ -77,7 +77,7 @@ Notsituationen](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikatione
 in der wichtige Informationen und Checklisten "*zu allen wichtigen
 Themen – vom Lebensmittelvorrat bis zum Notgepäck – um persönlich für
 den Notfall gerüstet zu sein*" <span class="citation">(Bundesamt für
-Bevölkerungsschutz und Katastrophenhilfe 2018)</span> zusammengestellt
+Bevölkerungsschutz und Katastrophenhilfe, 2018)</span> zusammengestellt
 sind. Nur durch präventive Kommunikation ist es möglich, dass im
 Krisenfall auf die getroffe Vorsorge zurückgegriffen und das Wissen
 unverzüglich abgerufen werden kann.
@@ -111,7 +111,7 @@ bestimmtes Risiko wahrgenommen wird. So deuten verschiedenen Studien
 darauf hin, dass bezüglich der Eintrittswahrscheinlichkeit, relative
 Zahlen - im Vergleich zu absoluten Zahlen- häufig zu einer zu hohen
 Risikobewertung führen <span class="citation">(Wegwarth, Odette;
-Gigerenzer, Gerd 2011)</span>. Auch kann die Art der Darstellung dazu
+Gigerenzer, Gerd, 2011)</span>. Auch kann die Art der Darstellung dazu
 führen, dass das Schadensausmaß falsch eingeschätzt wird. Dies spielt
 insbesondere bei biologischen Gefahrenlagen, bei denen das
 Schadensausmaß von so vielen Faktoren abhängt, dass eine Abschätzung
@@ -146,7 +146,7 @@ die Krise dient, bedeutet Krisenkommunikation den
 > > "*Austausch von Informationen und Meinungen während einer Krise zur
 > > Verhinderung oder Begrenzung von Schäden an einem Schutzgut*"
 > > <span class="citation">(Bundesamt für Bevölkerungsschutz und
-> > Katastrophenhilfe 2011)</span>.
+> > Katastrophenhilfe, 2011)</span>.
 
 Krisenkommunikation muss sicherstellen, dass alle Verantwortlichen den
 gleichen Informations- und Wissensstand haben. Ebenso müssen Medien und

@@ -68,8 +68,7 @@ unübersichtliche Pläne sind nicht zielführend. Checklisten und
 graphische Prozessdarstellungen erleichtern das Verständnis und
 ermöglichen eine schnelle Orientierung im Einsatzfall.
 
-Für Einsatzpläne hat sich folgende Strukturierung
-bewährt:
+Für Einsatzpläne hat sich folgende Strukturierung bewährt:
 
 ![<span class="figure-cat-figure">Abbildung</span><span data-caption="Struktur eines Einsatzplanes">Struktur
 eines Einsatzplanes</span>](8b61e4e6-c138-486a-a508-066aafcec607.jpg)
@@ -196,8 +195,7 @@ Respiratorischen Syndroms (SARS) auf jeden Fall zu melden.
 Das Auftreten von Cholera, Gelbfieber, Lungenpest, viralem
 hämorrhagischen Fieber oder West-Nil-Fieber sowie andere Ereignisse,
 die von internationaler Tragweite für die öffentliche Gesundheit sein
-können, sind unter bestimmten Umständen an die WHO zu
-melden.
+können, sind unter bestimmten Umständen an die WHO zu melden.
 
 ![<span class="figure-cat-figure">Abbildung</span><span data-caption="Entscheidungsschema zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle: BKK)">Entscheidungsschema
 zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle:
