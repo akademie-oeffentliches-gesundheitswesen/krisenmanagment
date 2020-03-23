@@ -15,7 +15,7 @@ nav_order: 1
 
    <p></p>
 
-![<div style="float:right; margin: 0 0 20px  20px;"><span class="figure-cat-figure">Krisenmanagement Buch</span><span data-caption="Krisenmanagement Buch, Lehrbuch für den Öffentlichen Gesundheitsdienst">Krisenmanagement Buch, Lehrbuch für den Öffentlichen Gesundheitsdienst</span>](krisenmanagementbook.png)</div>
+<div style="float: right; margin: 0 0 20px 20px;">![<span class="figure-cat-figure">Krisenmanagement Buch</span><span data-caption="Krisenmanagement Buch, Lehrbuch für den Öffentlichen Gesundheitsdienst">Krisenmanagement Buch, Lehrbuch für den Öffentlichen Gesundheitsdienst</span>](krisenmanagementbook.png)</div>
 Das Management von Krisen hat in den letzten Jahren erheblich an
 Bedeutung gewonnen, insbesondere auch im Öffentlichen Gesundheitsdienst
 (ÖGD). Grundsätzlich liegt die Entscheidungshoheit im Rahmen des
