@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 11. Annex-Checkliste&#58; Kommunikation
+title: 11. Annex-Checkliste: Kommunikation
 nav_order: 10
 ---
-
-<details markdown="block">
-  <summary>
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
+ 
+<details markdown="block"> 
+  <summary> 
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
   </summary>
-
+ 
 1. TOC
 {:toc}
  </details>
-
+ 
    <p></p>
-
-
+ 
+ 
 |                    |             |                    |
 | ------------------ | ----------- | ------------------ |
 | **Worum geht es?** | ** Titel:** | ** Kommunikation** |

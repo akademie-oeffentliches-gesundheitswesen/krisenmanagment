@@ -4,18 +4,7 @@ title: Startseite
 nav_order: 1
 ---
 
-<details markdown="block">
-  <summary>
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
-  </summary>
-
-1. TOC
-{:toc}
- </details>
-
-   <p></p>
-
-![krisenmanagement Buch](krisenmanagement.png)
+<div style="float: right; margin: 0 0 20px 20px; width: 200px;" markdown="1">![krisenmanagement Buch](krisenmanagementbook.png)</div>
 Das Management von Krisen hat in den letzten Jahren erheblich an
 Bedeutung gewonnen, insbesondere auch im Öffentlichen Gesundheitsdienst
 (ÖGD). Grundsätzlich liegt die Entscheidungshoheit im Rahmen des
@@ -51,6 +40,9 @@ Autorinnen.**
 Es wird zukünftig aktualisiert und erweitert werden. Wir freuen uns
 daher wenn Sie uns Ihre Anregungen, Kommentare und Ergänzungen
 mitteilen. Schicken Sie diese bitte an Lehrbuch@akademie-oegw.de
+
+Für Kommentare und Ergänzungen unseres Pre-release v1.0 nutzten Sie
+bitte diese link zu **Hyothes.is**
 
 <div class="section fnlist" data-role="doc-footnotes">
 

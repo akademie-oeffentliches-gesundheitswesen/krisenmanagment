@@ -112,6 +112,10 @@ Umsetzung auf GitHub.
 **Bernd Schiller** für die sorgfältige Durchsicht und umsichtigen
 Korrekturen des gesamten Werkes.
 
+**Johannes Wilm**, und das **[FidusWriter.org
+Team](https://www.fiduswriter.org/who-we-are/ "https://www.fiduswriter.org/who-we-are/")**,
+für die Unterstützung.
+
 <div class="section fnlist" data-role="doc-footnotes">
 
 </div>
