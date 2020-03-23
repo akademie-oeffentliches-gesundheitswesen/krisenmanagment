@@ -148,7 +148,7 @@ angewendet werden, da dieser einerseits den Träger unnötig belastet und
 im ungünstigens Fall sogar dazu beitragen kann, dass Patienten nicht
 optimal versorgt werden.
 
-### **Persönliche Schutzausrüstung**
+### Persönliche Schutzausrüstung
 
 In den TRBAs werden die Anforderungen an die Persönliche
 Schutzausrüstung (PSA) beschrieben, z.B. innerhalb von **[Einrichtungen
@@ -664,7 +664,7 @@ ADR)](https://www.unece.org/fileadmin/DAM/trans/danger/publi/adr/ADRaccord_f.pdf
 geregelt. Das ADR wird alle 2 Jahre überarbeitet, daher ist darauf zu
 achten, die aktuellste Ausgabe zu verwenden.
 
-#### **Verantwortlichkeiten**
+#### Verantwortlichkeiten
 
 Gefahrstoffe werden verschiedenen Gefahrgutklassen zugeordnet, für die
 konkrete Kennzeichnungs-, Verpackungs- und Beförderungsrichtlinien
@@ -698,7 +698,7 @@ Substances](https://www.who.int/csr/resources/publications/biosafety/WHO_HSE_EPR
     wird, sowie die Beförderung auf der direkten bzw. schnellsten Route
     erfolgt.
 
-#### **Klassifizierung**
+#### Klassifizierung
 
 Für **chemische Stoffe** gelten, je nach Beschaffenheit des Stoffes, die
 Gefahrgutklassen (teilweise mit Unterklassen):
@@ -749,7 +749,7 @@ Hierbei handelt es sich z.B. um nicht-pathogene oder inaktiviere
 Mikroorganismen oder um Proben mit Erregern in Konzentrationen, wie sie
 in der Natur vorkommen. (ohne UN-Nummer; Verpackung: auf Basis P 650)
 
-### **Verpackungsvorschriften**
+### Verpackungsvorschriften
 
 Die Verpackungen sind grundsätzlich 3-teilig. Die hauptsächlichen
 Unterschiede liegen in den unterschiedlichen Prüfanforderungen, die die
@@ -768,7 +768,7 @@ Verpackungen erfüllen müssen.
 klassifizieren nach Verpackungsvorschrift (Quelle: RKI)
 </span>](39f56377-8b88-4c46-90f3-a82b00972190.jpg)
 
-### **Notfallbeförderung**
+### Notfallbeförderung
 
 Eine Freistellung von den Vorschriften des ADR ist bei einer
 Notfallbeförderung möglich :

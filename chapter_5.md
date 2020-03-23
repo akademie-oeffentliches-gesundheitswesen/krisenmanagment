@@ -176,7 +176,7 @@ erläutern**
 
 **3. Kontakt halten und ansprechbar sein**
 
-## **Presse- und Medienarbeit**
+## Presse- und Medienarbeit
 
 Im Krisenfall muss die Kommunikation nach außen eindeutig geregelt
 werden. Presse und Medien benötigen feste Ansprechpartner. Informationen
