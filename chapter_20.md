@@ -1,7 +1,7 @@
 ---
 layout: page
 title: c. Impressum
-nav_order: 20
+nav_order: 21
 ---
 
 <details markdown="block">
