@@ -4,6 +4,7 @@ title: Startseite
 nav_order: 1
 ---
 
+![krisenmanagement Buch](krisenmanagementbook.png){:width="300px" align="right"}
 Das Management von Krisen hat in den letzten Jahren erheblich an
 Bedeutung gewonnen, insbesondere auch im Öffentlichen Gesundheitsdienst
 (ÖGD). Grundsätzlich liegt die Entscheidungshoheit im Rahmen des
