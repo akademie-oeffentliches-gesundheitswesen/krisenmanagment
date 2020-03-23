@@ -42,7 +42,7 @@ daher wenn Sie uns Ihre Anregungen, Kommentare und Ergänzungen
 mitteilen. Schicken Sie diese bitte an Lehrbuch@akademie-oegw.de
 
 Für Kommentare und Ergänzungen unseres Pre-release v1.0 nutzten Sie
-bitte diese link zu **Hyothes.is**
+bitte diese link zu **Hypothes.is**
 
 <div class="section fnlist" data-role="doc-footnotes">
 
