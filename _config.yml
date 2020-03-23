@@ -21,6 +21,8 @@ aux_links:
   "Web-Buch":
     - ""
 
+logo: "akademie.jpeg"
+
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 1971 – 2019. Akademie für Öffentliches Gesundheitswesen in Düsseldorf. All rights reserved.  <br>
 All contents of this site constitute the property of Akademie and may not be copied, reproduced without prior written permission."
