@@ -21,7 +21,7 @@ nav_order: 11
 | **Worum geht es?** | ** Titel:** | ** Kommunikation** |
 | Addressaten:       |             | Datum:             |
 
-## **Auswahl der Kommunikationsform**
+## Auswahl der Kommunikationsform
 
 ☐ Presse-Erklärung
 
@@ -78,7 +78,7 @@ Kontaktdaten
 ☐ andere kompetente Ansprechpartner, wie z.B. Feuerwehr, Polizei, Obere
 Gesundheitsbehörden, Ministerien/Senatsverwaltung
 
-## **Checklist Pressekonferenz**
+## Checklist Pressekonferenz
 
 ☐ (auf der Basis von Vorarbeiten von Christoph Lang, ehemals Leiter
 Pressestelle, Senatsverwaltung für Gesundheit, Pflege und
