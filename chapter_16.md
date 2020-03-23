@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Annex-Abkürzungen
-nav_order: 16
+nav_order: 9
 ---
 
 <details markdown="block">
