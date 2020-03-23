@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 11. Annex-Abkürzungen
+title: Annex-Abkürzungen
 nav_order: 16
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Akürzungen
 
 **ABAS** Bundesministerium für Arbeit und Soziales gebildete Ausschuss

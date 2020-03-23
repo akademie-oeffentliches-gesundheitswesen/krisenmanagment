@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 06. Stabsarbeit
+title: Stabsarbeit
 nav_order: 4
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Relevanz eines Arbeits-/ Krisenstabes
 
 Die etablierten Verwaltungsstrukturen der Gesundheitsämter, aber auch

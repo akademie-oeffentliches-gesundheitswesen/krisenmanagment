@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 11. Annex-Vorlage: Format Checklisten
+title: Annex-Vorlage&#58; Format Checklisten
 nav_order: 15
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Im Folgenden stellen wir eine Checklistvorlage zur Verfügung für die
 Entwicklung eigener Checklisten.
 

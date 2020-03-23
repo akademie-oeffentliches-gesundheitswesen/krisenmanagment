@@ -1,27 +1,27 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Planungshilfe Gesundheitsämter
+title: Annex-Checkliste&#58; Planungshilfe Gesundheitsämter
 nav_order: 12
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 |                    |             |                                    |
 | ------------------ | ----------- | ---------------------------------- |
 | **Worum geht es?** | ** Titel:** | **Planungshilfe Gesundheitsämter** |
 | Addressaten:       |             | Datum:                             |
 
-## 
+##
 
 ## Koordination
 

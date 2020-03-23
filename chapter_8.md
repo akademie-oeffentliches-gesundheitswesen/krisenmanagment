@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 10. Toolbox
+title: Toolbox
 nav_order: 8
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 In der Toolbox (Werkzeugkasten) werden fachliche und logistische
 Maßnahmen näher beschrieben, die bei infektiologischen Gefahrenlagen
 ggf. notwendig werden.

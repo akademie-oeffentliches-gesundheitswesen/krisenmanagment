@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 07. Kommunikation
+title: Kommunikation
 nav_order: 5
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Eine gute Kommunikation ist ein wesentlicher Bestandteil zur
 erfolgreichen Bewältigung einer Krise. Man unterscheidet (1) die
 "interne" Kommunikation innerhalb des Verwaltungs- bzw. Krisenstabes,

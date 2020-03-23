@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 05. Einsatzplanung
+title: Einsatzplanung
 nav_order: 3
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Im Folgenden wird die spezifische Einsatzplanung für Gesundheitsbehörden
 in infektiologischen Gefahrenlagen vorgestellt und Prinzipien
 eingeführt.

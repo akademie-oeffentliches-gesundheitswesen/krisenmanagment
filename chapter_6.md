@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 09.1. Szenarien: CBRN
+title: Szenarien&#58; CBRN
 nav_order: 6
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Einleitung
 
 Das Kürzel CBRN leitet sich ab von von chemisch, biologisch,
