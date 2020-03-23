@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Planungshilfe Krankenhäuser
+title: 11. Annex-Checkliste&#58; Planungshilfe Krankenhäuser
 nav_order: 13
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Die folgende Checkliste basiert auf Auführungen des Nationalen
 Pandemieplan Teil I
 ([https://edoc.rki.de/handle/176904/187](https://edoc.rki.de/handle/176904/187 "https://edoc.rki.de/handle/176904/187"))

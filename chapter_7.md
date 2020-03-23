@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 09.1. Szenarien: B-Lage
+title: 09.1. Szenarien&#58; B-Lage
 nav_order: 7
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Unterschiedliche B-Lagen
 
 Hier werden zunächst die biologischen Gefahrenlagen betrachtet, die auch
