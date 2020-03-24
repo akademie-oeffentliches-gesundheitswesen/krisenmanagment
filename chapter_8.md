@@ -370,8 +370,6 @@ Postexpositionsprophylaxe (PEP) verhindert werden können sind z.B.:
 
   - Meningokokken-Meningitis
 
-<!-- end list -->
-
   - Milzbrand
 
   - Tularämie
@@ -764,9 +762,8 @@ Verpackungen erfüllen müssen.
 
   - einer starren Außenverpackung
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Probenmaterial klassifizieren nach Verpackungsvorschrift (Quelle: RKI) ">Probenmaterial
-klassifizieren nach Verpackungsvorschrift (Quelle: RKI)
-</span>](39f56377-8b88-4c46-90f3-a82b00972190.jpg)
+{% include image.html url="images/39f56377-8b88-4c46-90f3-a82b00972190.jpg" description="Abbildung 9: Probenmaterial klassifizieren nach Verpackungsvorschrift (Quelle: RKI)" %}
+
 
 ### Notfallbeförderung
 
