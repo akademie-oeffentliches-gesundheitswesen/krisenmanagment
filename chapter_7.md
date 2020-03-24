@@ -84,9 +84,8 @@ Szenarien; Version 2.0 | Senatsverwaltung für Gesundheit und Soziales -
 Abbildung modifiziert in Szenario 5 und
 6)<span class="comment" data-id="1920806625">.</span>
 
-{% include image.html url="images/12b7df8f-4ecc-43bd-8832-72c24096aef7.png" description="Abbildung 8: Überblick verschiedene Szenarien">Überblick
+{% include image.html url="images/12b7df8f-4ecc-43bd-8832-72c24096aef7.png" description="Abbildung 8: Überblick
 verschiedene Szenarien" %}
-
 
 Für eine Risikobewertung ist es darüber hinaus notwendig, das Ziel zu
 definieren, das in der jeweiligen Situation erreichbar ist. So kann zu
@@ -441,3 +440,7 @@ So führt der Pandemieplan des RKI aus:
 Zum Bedarf an persönlicher Schutzausrüstung verweisen wir an dieser
 Stelle auf das **Kapitel "Toolbox"**. Auch an den erhöhten Bedarf z.B.
 von Medikamenten muss gedacht werden.
+
+<div class="section fnlist" data-role="doc-footnotes">
+
+</div>
