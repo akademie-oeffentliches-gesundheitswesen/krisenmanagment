@@ -70,9 +70,6 @@ ermöglichen eine schnelle Orientierung im Einsatzfall.
 
 Für Einsatzpläne hat sich folgende Strukturierung bewährt:
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Struktur eines Einsatzplanes">Struktur
-eines Einsatzplanes</span>](images/8b61e4e6-c138-486a-a508-066aafcec607.jpg)
-
 {% include image.html url="images/8b61e4e6-c138-486a-a508-066aafcec607.jpg" description="Abbildung 1: Struktur
 eines Einsatzplanes" %}
 
@@ -199,9 +196,7 @@ hämorrhagischen Fieber oder West-Nil-Fieber sowie andere Ereignisse,
 die von internationaler Tragweite für die öffentliche Gesundheit sein
 können, sind unter bestimmten Umständen an die WHO zu melden.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Entscheidungsschema zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle: BKK)">Entscheidungsschema
-zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle:
-BKK)</span>](bcd98565-cc3f-4c18-b2a4-86b4ede57839.png)
+{% include image.html url="images/bcd98565-cc3f-4c18-b2a4-86b4ede57839.png" description="Abbildung 2: Entscheidungsschema zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle: BKK)" %}
 
 Das Gesundheitsamt unterrichtet über die zuständige Landesbehörde die
 nationale Ebene, wenn die bloße Möglichkeit besteht, dass ein Ereignis
