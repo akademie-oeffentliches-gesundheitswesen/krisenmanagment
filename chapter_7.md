@@ -441,7 +441,3 @@ So führt der Pandemieplan des RKI aus:
 Zum Bedarf an persönlicher Schutzausrüstung verweisen wir an dieser
 Stelle auf das **Kapitel "Toolbox"**. Auch an den erhöhten Bedarf z.B.
 von Medikamenten muss gedacht werden.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
