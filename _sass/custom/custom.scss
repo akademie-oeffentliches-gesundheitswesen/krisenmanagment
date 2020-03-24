@@ -58,7 +58,10 @@ a.navigation-list-link.active {
     text-decoration: none;
 }
 
-.page-content a {overflow-wrap: break-word;}
+.page-content a {
+  overflow-wrap: break-word;
+ white-space: normal;
+}
 
 summary {
     color: $blue-300;
