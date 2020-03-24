@@ -10,17 +10,18 @@ search_tokenizer_separator: /[\s/]+/
 plugins:
   - jekyll-seo-tag
 
-title: Krisenmanagment ÖGD
+title: Krisenmanagement - Lehrbuch für den Öffentlichen Gesundheitsdienst
 
 # Aux links for the upper right navigation
 aux_links:
   "Lehrbuch auf GitHub":
     - "https://github.com/akademie-oeffentliches-gesundheitswesen/lehrbuch-krisenmanagment"
   "PDF":
-    - ""
+    - "pdf/Krisenmanagement-pre-release-v1.pdf"
   "Web-Buch":
-    - ""
+    - "https://akademie-oeffentliches-gesundheitswesen.github.io/vivliostyle/vivliostyle-js-2019.8.101/viewer/vivliostyle-viewer.html#b=https://consortium.github.io/lehrbuch-krisenmanagment/netbuch/krisenmanagement-netbuch.xhtml&renderAllPages=true"
+
+logo: "akademie.png"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 1971 – 2019. Akademie für Öffentliches Gesundheitswesen in Düsseldorf. All rights reserved.  <br>
-All contents of this site constitute the property of Akademie and may not be copied, reproduced without prior written permission."
+footer_content: "Copyright &copy; 2020 die Autoren. Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.de | DOI 10.25815/h0ec-f967"

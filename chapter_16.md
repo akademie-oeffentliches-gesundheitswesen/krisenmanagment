@@ -1,93 +1,64 @@
 ---
 layout: page
-title: 11. Annex-Vorlage: Format Checklisten
-nav_order: 16
+title: Annex-Abkürzungen
+nav_order: 9
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
-Im Folgenden stellen wir eine Checklistvorlage zur Verfügung für die
-Entwicklung eigener
-Checklisten.
 
-## Checkliste – TITEL (Vorlage für Format einer Checkliste)
+## Akürzungen
 
-**Kopfzeile** 
+**ABAS** Bundesministerium für Arbeit und Soziales gebildete Ausschuss
+für Biologische Arbeitsstoffe
 
-|                                                                                                 |             |                                    |
-| ----------------------------------------------------------------------------------------------- | ----------- | ---------------------------------- |
-| **Worum geht es? (TITEL, Diese Formatinformation sollte eine Checkliste mindestens enthalten)** | ** Titel:** | ** Kurz\&Knapp**                   |
-| Addressaten (z.B. Alle Ersteller/innen der Checkliste)                                          |             | Datum (TAG.MONAT.JAHR, 04.03.2020) |
+**ADR** Accord européen relatif au transport international des
+marchandises Dangereuses par Route (Europäische Übereinkommen zur
+internationalen Beförderung gefährlicher Güter auf der Straße )
 
- 
+**AFT** Analytische Task Force
 
-Checklisten sind kein Allheilmittel. Sie ersetzen prinzipiell nicht Ihr
-besonderes Wissen und Ihre kreativen Lösungen für ein/das Problem. Sie
-können Sie aber sehr gut bei wiederkehrenden Aufgaben im Arbeitsalltag
-unterstützen und entlasten.
+**BBK** Bundesamt für Bevölkerungsschutz und Katastrophenhilfe
+([https://www.bbk.bund.de](https://www.bbk.bund.de/DE/Home/home_node.html "https://www.bbk.bund.de/DE/Home/home_node.html"))
 
-**CAVE: Ein Nachteil von Checklisten ist, dass bei der Abarbeitung der
-Checkliste die Gefahr besteht, etwas zu übersehen, was in der Checkliste
-nicht abgefragt wird**.
+**BMG** Bundesministerium für Gesundheit
+([https://www.bundesgesundheitsministerium.de](https://www.bundesgesundheitsministerium.de/ "https://www.bundesgesundheitsministerium.de/"))
 
-## Wozu brauche ich eine Checkliste?
+**BMI** Bundesministerium des Innern, für Bau und Heimat
+([https://www.bmi.bund.de](https://www.bmi.bund.de/DE/startseite/startseite-node.html "https://www.bmi.bund.de/DE/startseite/startseite-node.html"))
 
-☐ vermeiden, dass Sie etwas vergessen
+**BMU** Bundesministeriums für Umwelt, Naturschutz und nukleare
+Sicherheit
+([https://www.bmu.de](https://www.bmu.de "https://www.bmu.de"))
 
-☐ erlauben Überblick über komplext Sachverhalte
+**CBRN** chemisch, biologisch, radiologisch und nuklear
 
-☐ dienen zur strukturierten Bearbeitung und Abarbeitung von
-Sachverhalten
+**HCID** High Consequence Infectious Diseases (Infektionskrankheiten mit
+starken Konsequenzen)
 
-☐ unterteilen komplexe Aufgaben in überschaubare Portionen
+**FFP** Filtering Face Piece (partikelfiltierende Masken geschützt)
 
-☐ erlauben Arbeitsabläufe zu standardisieren und damit effizientes
-Arbeiten
+**GGVSEB** Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt
 
-☐ durch "abhaken" von erledigten Aufgaben schaffen sie Überblick,
-Kontrolle und Dokumentation von Arbeitsabläufen
+**IfSG** Infektionsschutzgesetz
 
-☐ sind wertvolle Arbeitshilfen, um Aufgaben an Vertretung zu übergeben
+**IGV** Internationalen Gesundheitsvorschriften
 
-## Wie erstelle ich eine Checkliste?
+**MANV** Massenanfall von Verletzten
 
-☐ Erstellen Sie Ihre spezifische Vorlage, in der immer der Titel der
-jeweiligen Checkliste, der Name der Einrichtung und des/r Bearbeiters/in
-und das Datum bzw. die Version dokumentiert sind. Zusätzlich können Sie
-noch eintragen, wo sie die Checkliste abgelegt/gespeichert haben.
+**PEP** Postexpositionsprophylaxe
 
-☐ Aufgabenliste erstellen:
+**PPE** Personal Protective Equipment
 
-1\. alle relevanten Punkte /Arbeitsschritte aufschreiben
+**PSA** Persönliche Schutzausrüstung
 
-2\. mit Kollegen/Vorgesetzten besprechen und auf Vollständigkeit prüfen
+**RKI** Robert Koch-Institut
+([https://www.rki.de](https://www.rki.de "https://www.rki.de"))
 
-3\. Themen chronologisch / ordnen
+**SARS** Schweren Akuten Respiratorischen Syndroms
 
-☐ Ihre Liste lässt sich am besten in der praktischen Arbeit testen. Wenn
-Sie in einem speziellen Fall das ersten Mal bearbeiten, wird es
-wahrscheinlich noch nicht perfekt laufen – eine Chance, die Checkliste
-zu
-überarbeiten.
+**STAKOB** Ständiger Arbeitskreis der Kompetenz- und Behandlungszentren
 
- **FUSSZEILE**
+**TRBA** Technischen Regeln für Biologische Arbeitsstoffe
 
-|                                            |  |                                             |
-| ------------------------------------------ |  | ------------------------------------------- |
-| Einrichtung: (z.B. GESUNDHEITSAMT LEIPZIG) |  | Version: (REV\_01)                          |
-| Bearbeiter/in: (MAXIMA MUSTERFRAU          |  | Ablage: (c:ordnerX/ordner/xY/dateiname.doc) |
-
- 
+**VHF** Virale hämorrhagische Fieber
 
 <div class="section fnlist" data-role="doc-footnotes">
 

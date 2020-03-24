@@ -1,133 +1,139 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Gesundheitsamt im Krisenmodus
-nav_order: 10
+title: Annex-Checkliste&#58; Kommunikation
+nav_order: 11
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
-|                     |             |                                   |
-| ------------------- | ----------- | --------------------------------- |
-| **Worum geht es?:** | ** Titel:** | **Gesundheitsamt im Krisenmodus** |
-| Addressaten:        |             | Datum:                            |
 
-## Alarmierung
 
-☐ Regelung zum Eingang von Alarmmeldungen (über Rufbereitschaft?)
+|                    |             |                    |
+| ------------------ | ----------- | ------------------ |
+| **Worum geht es?** | ** Titel:** | ** Kommunikation** |
+| Addressaten:       |             | Datum:             |
 
-☐ Checkliste für den ersten Alarmempfänger/Rufbereitschaftsdienst
+## Auswahl der Kommunikationsform
 
-☐ Alarmierungsliste (szenarienabhängig)
+☐ Presse-Erklärung
 
-☐ interne Alarmierungsliste Gesundheitsamt
+☐ Pressekonferenz/Experteninterview
 
-☐ Benachrichtungsliste externe Ansprechpartner/-innen
+☐ Bürgertelefon
 
-## Zugangsregelung Gesundheitsamt
+☐ Häufige Fragen (frequently asked questions/FAQ)-Listen
 
-☐ Zugangsberechtigte Personen
+☐ Internetauftritt der Verwaltungseinheit
 
-☐ Organisatorische Zugangsregelung (welche Zugänge, Ort Schlüsselkasten
-etc.)
+☐ Soziale Medien (z-B. Twitter, Instagram)
 
-## Organisation
+## Inhaltliche Vorbereitung
 
-☐ Struktur und Umfang der Funktionen festlegen.
+☐ Was ist die derzeitige Situation?
 
-☐ Einbindung des Arbeits-/Krisenstabes in die Krisenstabsstrukturen der
-Region beachten
+☐ Was ist wann und wo passiert?
 
-☐ Aufwachsen einer Lage bei der Einrichtung des Stabes berücksichtigen.
+☐ Welche Schäden liegen vor
 
-☐ Arbeitsauftrag bestimmen und mit Behördenleitung abstimmen.
+☐ Wieviel Personen (Anzahl) sind betroffen?
 
-☐ Prozessabläufe/Kommunikationwege bestimmen.
+☐ Was zeichnet sich ab? best-case vs. worst-case Entwicklungen
 
-☐ Regelmäßige Abläufe z.B. für Lagebesprechungen festlegen
-(Termintafel).
+☐ Was wurde bisher von den Behörden unternommen
 
-☐ Fachliche Arbeitsschwerpunkte festsetzen, Personal zuordnen und
-Verantwortlichkeiten festlegen.
+☐ Was ist von den Behörden geplant? Aktivitäten?
 
-## Personelle Vorsorge
+☐ Wer wird betroffen sein? Welche (Verhaltens-)Regeln ergeben sich aus
+dem Ereignis?
 
-☐ Übersicht der zu besetzenden Funktionen
+☐ Welche Fachinformationen sind relevant?
 
-☐ Übersicht verfügbarer Mitarbeiterinnen und Mitarbeiter
+☐ Welche Informationen halten Landes-/Bundeseinrichtungen vor?
 
-☐ Personalplanungsübersicht
+☐ Welche allgemeinverständlichen Informationen sind relevant?
 
-☐ Muster für Dienstplan
+☐ Was ist die Hauptnachricht für die Allgemeinbevölkerung?
 
-☐ Personalanwesenheitsübersicht
+## Pressemitteilung
 
-☐ Beteiligung Personalrat
+☐ Was? Wann? Wo? Wer?
 
-☐ Überstundenanordnungen, Urlaubssperre
+☐ Anspechpartner/in
 
-☐ Fremdsprachenkenntnisse des Personals
+☐ Datum, ggf. Uhrzeit
 
-☐ ggf. personelle Besetzung Bürgertelefon
+☐ Webseite, Soziale Medien, ggf. weiterführende Informationen und
+Kontaktdaten
 
-☐ Unterstützung Verwaltung (Personaleinsatz, Dienstplanung)
+☐ Pressesprecher
 
-☐ Externe Fachberater/-innen aus anderen Behörden und Einrichtungen
+☐ andere kompetente Ansprechpartner, wie z.B. Feuerwehr, Polizei, Obere
+Gesundheitsbehörden, Ministerien/Senatsverwaltung
 
-## Leitung des Stabes
+## Checklist Pressekonferenz
 
-☐ Personen auswählen, Stellvertretung bedenken.
+☐ (auf der Basis von Vorarbeiten von Christoph Lang, ehemals Leiter
+Pressestelle, Senatsverwaltung für Gesundheit, Pflege und
+Gleichstellung)
 
-☐ Checkliste für die Aufgaben erstellen.
+### Einladung
 
-☐ Wie wird die Auftragskontrolle durchgeführt?
+☐ Zeitpunkt, Ort & Dauer festlegen
 
-## Lagedarstellung
+☐ Begleitung Presse (ggf. vor Ort)
 
-☐ Geeignetes Personal bestimmen und ausbilden.
+☐ Raum für Einzelinterview (Radio, Podcasts, Fernsehen) festlegen
 
-☐ Verfügbare Daten aus vorhandenen Quellen
+☐ Pressemappe vorbereiten
 
-☐ Muster Einsatztagebuch (Link Vorlage)
+☐ vorbereitete Interviewpartner festlegen
 
-☐ Muster Lagebericht
+☐ Telefonische Erreichbarkeit festlegen
 
-## Infrastruktur (Räume, Technik)
+### Absperrung/Zugangsbeschränkung
 
-**Details siehe gesonderte Checkliste**
+☐ Briefing für Sicherheitsdienst
 
-☐ Raumplan
+### Presseraum
 
-☐ Technische Ausstattung
+☐ Catering (z.B. Getränke, einfacher Imbiss, wie z.B. belegte Brötchen)
 
-☐ Ausweichstandort
+☐ Arbeitsmöglichkeit: Stühle und Tische
 
-## Organisation
+☐ ausreichend Steckdosen (evtl. Mehrfachsteckdosen bereit halten) für
+Aufladen von Smartphones und Notebooks
 
-### Fachliche Inhalte, FAQ
+☐ idealerweise auch W-LAN (evtl. Zugangscode hinterlegen\!)
 
-☐ Zuständigkeit für die Erarbeitung
+☐ Stellwände, Flipcharts vorbereiten
 
-☐ Quellen (RKI, BMG, WHO etc.)
+☐ Fernsehtauglichen Hintergrund festlegen für Interviews
 
-☐ Erstellung von Handunterlagen für die Arbeitsplätze/Aktualisierung
+### Journalistenbegleitung/-betreuung
 
-### Personelle Besetzung Bürgertelefon
+☐ ständig anwesende, geschulte Person (Pressesprecher/in)
 
-☐ Fachliche Betreuung (möglichst externe Kräfte, Honorarverträge)
+☐ alternativ durch ständige Erreichbarkeit?
 
-☐ Besetzung der Hotline (Schichtwechsel alle 4 -6 Stunden)
+☐ Telefonische Erreichbarkeit festlegen, ggf. Hotline
 
-☐ Dienstplan
+### Regelmäßige Pressebriefings
+
+☐ wer spricht?
+
+☐ betroffene Person/en informiert?
+
+☐ Medientraining absolviert?
+
+☐ Experten vor Ort? In Kontakt mit Medienvertretern?
 
 |                |  |          |
 | -------------- |  | -------- |

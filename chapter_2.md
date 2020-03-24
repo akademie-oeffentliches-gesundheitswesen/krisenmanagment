@@ -1,21 +1,9 @@
 ---
 layout: page
-title: 01. Definitionen
+title: Definitionen
 nav_order: 2
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
 ## Definitionen
 
 Im Infektionschutz und im Bevölkerungsschutz werden viele

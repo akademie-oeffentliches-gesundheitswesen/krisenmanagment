@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 05. Einsatzplanung
+title: Einsatzplanung
 nav_order: 3
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Im Folgenden wird die spezifische Einsatzplanung für Gesundheitsbehörden
 in infektiologischen Gefahrenlagen vorgestellt und Prinzipien
 eingeführt.
@@ -68,11 +68,11 @@ unübersichtliche Pläne sind nicht zielführend. Checklisten und
 graphische Prozessdarstellungen erleichtern das Verständnis und
 ermöglichen eine schnelle Orientierung im Einsatzfall.
 
-Für Einsatzpläne hat sich folgende Strukturierung
-bewährt:
+Für Einsatzpläne hat sich folgende Strukturierung bewährt:
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Struktur eines Einsatzplanes">Struktur
-eines Einsatzplanes</span>](8b61e4e6-c138-486a-a508-066aafcec607.jpg)
+{% include image.html url="images/8b61e4e6-c138-486a-a508-066aafcec607.jpg" description="Abbildung 1: Struktur
+eines Einsatzplanes" %}
+
 
 In der Abbildung sind einzelne Punkte eines Einsatzplans in Form eines
 Ablaufschemas dargestellt. Sie können als Gliederung für einen
@@ -151,10 +151,9 @@ Validieren und Bewerten einer Lage Voraussetzung für die schnelle
 Einleitung von spezifischen Kontroll- und Präventionsmaßnahmen. Gemäß
 Art. 6 der **[Internationalen
 Gesundheitsvorschriften](https://www.rki.de/DE/Content/Infekt/IGV/Gesetz_IGV_de-en.pdf "https://www.rki.de/DE/Content/Infekt/IGV/Gesetz_IGV_de-en.pdf")**
-(IGV) und gemäß Art. 9 des **[Beschlusses Nr. 1082/2013/EU des
-Europäischen Parlaments und des Rates zu schwerwiegenden
-grenzüberschreitenden
-Gesundheitsgefahren](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE")**
+(IGV) und gemäß Art. 9 des **Beschlusses [Nr. 1082/2013/EU](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE") des
+Europäischen Parlaments und des Rates zu schwerwiegenden grenzüberschreitenden
+Gesundheitsgefahren**
 vom 22. Oktober 2013 ist Deutschland rechtlich verpflichtet,
 unverzüglich Ereignisse international zu melden, die eine
 gesundheitliche Notlage von internationaler Tragweite darstellen können
@@ -196,12 +195,10 @@ Respiratorischen Syndroms (SARS) auf jeden Fall zu melden.
 Das Auftreten von Cholera, Gelbfieber, Lungenpest, viralem
 hämorrhagischen Fieber oder West-Nil-Fieber sowie andere Ereignisse,
 die von internationaler Tragweite für die öffentliche Gesundheit sein
-können, sind unter bestimmten Umständen an die WHO zu
-melden.
+können, sind unter bestimmten Umständen an die WHO zu melden.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Entscheidungsschema zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle: BKK)">Entscheidungsschema
-zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle:
-BKK)</span>](bcd98565-cc3f-4c18-b2a4-86b4ede57839.png)
+{% include image.html url="images/bcd98565-cc3f-4c18-b2a4-86b4ede57839.png" description="Abbildung 2: Entscheidungsschema zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle: BKK)" %}
+
 
 Das Gesundheitsamt unterrichtet über die zuständige Landesbehörde die
 nationale Ebene, wenn die bloße Möglichkeit besteht, dass ein Ereignis

@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 09.1. Szenarien: CBRN
+title: Szenarien&#58; CBRN
 nav_order: 6
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Einleitung
 
 Das Kürzel CBRN leitet sich ab von von chemisch, biologisch,
@@ -35,8 +35,7 @@ biologischen Lagen die Mitarbeiterinnen und Mitarbeiter des ÖGD in der
 Regel die federführende Verantwortung in der primären und sekundären
 Phase eines Einsatzes haben, tragen, sind sie bei den C- und RN-Lagen
 eher eine fachliche Verantwortung in der sekundären Phase, in der es
-dann insbesondere um die Nachsorge nach einem Ereignis
-geht.
+dann insbesondere um die Nachsorge nach einem Ereignis geht.
 
 ## B-Lagen (syn. biologische Gefahrenlagen, B-Szenarien, infektiologische Gefahrenlagen)
 

@@ -1,118 +1,106 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Infrastruktur und Ausstattung im Krisenstab
-nav_order: 12
+title: Annex-Checkliste&#58; Planungshilfe Gesundheitsämter
+nav_order: 13
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
-|                    |             |                                                 |
-| ------------------ | ----------- | ----------------------------------------------- |
-| **Worum geht es?** | ** Titel:** | **Infrastruktur und Ausstattung im Krisenstab** |
-| Addressaten:       |             | Datum:                                          |
 
-## Räume
 
-☐ Raum für die Stabsarbeit vorbereiten.
+|                    |             |                                    |
+| ------------------ | ----------- | ---------------------------------- |
+| **Worum geht es?** | ** Titel:** | **Planungshilfe Gesundheitsämter** |
+| Addressaten:       |             | Datum:                             |
 
-☐ Raum für die Lagebesprechungen auswählen.
+##
 
-☐ IT-Technik vorbereiten.
+## Koordination
 
-☐ Schlüsselorganisation
+☐ Lageabhängige Entscheidung über interne Führungsorganisation
 
-## IT-Ausstattung
+☐ Koordinierung der Maßnahmen
 
-☐ Bereitstellung zusätzlicher I-Arbeitsplätze (Notebooks)
+☐ Dokumentation und Evaluierung
 
-☐ Kopiergerät und Drucker in der Nähe des Stabsraumes installieren.☐
-Kopiergerät und Drucker in der Nähe des Stabsraumes installieren.
+☐ Kontinuierliche Evaluierung des Ereignisses
 
-☐ Beamer bereithalten.
+☐ Demobilisierung
 
-☐ Zentrales Gruppenpostfach für den Stab einrichten.
+## Risikomanagment
 
-☐ Zentrales Datenverzeichnis anlegen.
+☐ Risikobewertung
 
-☐ Funktionsbezogenen Accounts einrichten lassen.
+## Kommunikation
 
-☐ Zugang Twitter und Facebook einrichten und Verfügbarkeit am
-Arbeitsplatz prüfen.
+☐ Risiko- und Krisenkommunikation
 
-☐ Redundanter IT-Anschluss unabhängig vom Hausnetz
+☐ Kommunale interne Kommunikation
 
-## Telefon und Telefax
+☐ Aufklärung der Bevölkerung
 
-☐ Besondere Telefonanschlüsse für Krisensituationen bereithalten.
+☐ Fachliche Vorbereitung der Pressearbeit, ggf. Hotline einrichten
 
-☐ Besondere Telefaxanschlüsse für Krisensituationen bereithalten.
+## Ausbruchuntersuchung
 
-☐ Zentrale Erreichbarkeit des Stabes festlegen und kommunizieren.
+☐ Arbeitsschutz, Sicherstellung der Versorgung mit persönlicher
+Schutzausrüstung
 
-☐ Personelle Besetzung der zentrale Erreichbarkeit des Stabes
-sicherstellen.
+☐ infektionsepidemiologische Routine-Erfassung
 
-☐ Anrufbeantworter für die zentrale Erreichbarkeit des Stabes
-einrichten.
+☐ Ermittlung von Kontaktpersonen, Kategorisierung von Kontaktpersonen
 
-☐ Sammelrufnummer für ein Bürgertelefon einrichten (mit
-Anrufbeantworter).
+☐ Festlegen von antiepidemischen Maßnahmen nach IfSG
 
-☐ Rufumleitungen technisch vorbereiten (Handlungsanweisung).
+☐ Anordnung von diagnostischen Maßnahmen & Entscheidung über das
+Untersuchungsspektrum
 
-☐ Fernsprechapparat für Telefonkonferenzen vorhalten.
+☐ Regelung der Probenahme und des Probentransports
 
-☐ Redundante Telefonmöglichkeit schaffen (Festnetz unabhängig vom
-Hausnetz und/oder zusätzlich Mobiltelefone - prepaid mit Aktivierung im
-Einsatzfall)
+☐ Schutzmaßnahmen zur Kontaktreduzierung
 
-## Büroausstattung/Technik
+☐ Organisation und Überwachung des Patienten
 
-☐ Tafel, Flipchart für Lagedarstellung
+☐ Festlegen und Überwachen von Absonderungen
 
-☐ Whiteboard für den Stabsraum
+☐ Entscheidung über Art & Umfang der Desinfektionsmaßnahmen und deren
+Überwachung
 
-☐ Tafel für die Dokumentation der Aufgaben
+☐ ggf. Entscheidung über Dekontaminationsmaßnahmen
 
-☐ Kopiergerät und Drucker in der Nähe des Stabsraumes installieren.
+## Beratung
 
-☐ Garderobenschränke für Fremdpersonal
+☐ Hinweise zu Verhaltensmaßnahmen für Betroffene
 
-☐ Uhren im Stabsraum aufhängen.
+☐ Wahrnehmung der Informations- und Beratungsaufgaben für andere
+Behörden, Einrichtungen und für die Bevölkerung
 
-## Material
+# ORDNUNGSRECHTLICHE AUFGABEN
 
-☐ Grundausstattung an Büromaterial bereitstellen
+☐ Amtsärztliche Veranlassung der Absonderung
 
-☐ Moderationskoffer
+☐ Anordnung der Leichenschau, Beurkundung eines Sterbefalles,
+Überwachung des Leichentransports und der Kremierung
 
-☐ Geschirr, Gläser, Kaffeemaschine
+☐ Anordnung von Tätigkeits-, Teilnahme- und Besuchsverboten
 
-☐ Landkarten (ggf. elektronisch)
+☐ Entsorgungmanagement
 
-## Vorlagen
+☐ ggf. Koordination von Impfungen
 
-☐ Verteilerlisten vorbereiten und im Einsatz aktualisieren.
-
-☐ Mustervordruck für Gesprächnotizen
-
-☐ Muster für Einsatztagebuch
-
-☐ Muster für Protokolle
+☐ ggf. Organisationen der Postexpositionsprophylaxe
 
 |                |  |          |
 | -------------- |  | -------- |
-| Einrichtung:   |  | Version: |
+| Einrichtung :  |  | Version: |
 | Bearbeiter/in: |  | Ablage:  |
 
 <div class="section fnlist" data-role="doc-footnotes">

@@ -2,7 +2,7 @@
 # Über das Lehrbuch
 
 Das vorliegende Buch ist ein kostenfrei zugängliches Hand- und Lehrbuch
-(CC BY-NC 4.0). Es ist für Mitarbeiterinnen und Mitarbeiter im
+(CC BY-SA 4.0). Es ist für Mitarbeiterinnen und Mitarbeiter im
 Öffentlichen Gesundheitsdienst (ÖGD), Interessierte und lebenslang
 Lernenden ein Lehrbuch zum Thema Öffentliche Gesundheit, ein Handbuch
 für die praktische Arbeit im Öffentlichen Gesundheitsdienst und
@@ -93,17 +93,16 @@ entsprechende Informationen dazu hier einfügen.
 ## Copyright statement
 
 Das Lehrbuch ist eine Open Educational Resource (OER), daher verfügbar
-unter der Creative Commons Namensnennung-Nicht kommerziell 4.0
-International (CC BY-NC 4.0) (mehr:
-<https://creativecommons.org/licenses/by-nc/4.0/>). Sie dürfen das
+unter der Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) (mehr:
+<https://creativecommons.org/licenses/by-sa/4.0/deed.de>). Sie dürfen das
 Material in jedwedem Format oder Medium vervielfältigen und
 weiterverbreiten, es remixen, verändern und darauf aufbauen. Der
 Lizenzgeber behält sich vor diese Freiheiten nicht zu widerrufen solange
 Sie sich an die folgenden Lizenzbedingungen halten: Sie müssen
 [angemessene Urheber- und Rechteangaben
-machen](https://creativecommons.org/licenses/by-nc/4.0/deed.de), einen
+machen](https://creativecommons.org/licenses/by-sa/4.0/deed.de), einen
 Link zur Lizenz beifügen und angeben, ob [Änderungen
-vorgenommen](https://creativecommons.org/licenses/by-nc/4.0/deed.de)
+vorgenommen](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
 unterstütze gerade Sie oder Ihre Nutzung besonders. Sie dürfen das

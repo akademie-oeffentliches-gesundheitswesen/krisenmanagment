@@ -1,0 +1,62 @@
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+  {% if site.plugins.jekyll-seo == nil %}
+    <title>{{ site.title }}</title>
+
+    {% if page.description %}
+      <meta name="Description" content="{{ page.description }}">
+    {% endif %}
+  {% endif %}
+  <!-- Metatags -->
+  <meta charset="utf-8" />
+  <META NAME="keywords" CONTENT="Öffentlicher Gesundheitsdienst, Krisenmanagement, Risiko, Einsatzplanung, Infektionsschutz, Stabsarbeit, Kommunikation, Szenarien: CBRN, Szenarien: CBRN (B-Lagen), Toolbox, Lehrbuch ">
+  <META NAME="description" CONTENT="Krisenmanagement - Lehrbuch für den Öffentlichen Gesundheitsdienst">
+  <!-- Dublin Core -->
+  <META NAME="DC.title" CONTENT="Krisenmanagement - Lehrbuch für den Öffentlichen Gesundheitsdienst">
+  <META NAME="DC.creator" CONTENT="Akademie für Öffentliches Gesundheitswesen in Düsseldorf">
+  <META NAME="DC.subject" CONTENT="Öffentlicher Gesundheitsdienst, Krisenmanagement, Risiko, Einsatzplanung, Infektionsschutz, Stabsarbeit, Kommunikation, Szenarien: CBRN, Szenarien: CBRN (B-Lagen), Toolbox, Lehrbuch">
+  <META NAME="DC.description.abstract" CONTENT="Krisenmanagement - Lehrbuch für den Öffentlichen Gesundheitsdienst">
+  <META NAME="DC.date" CONTENT="2020-03-23">
+  <META NAME="DC.type" CONTENT="Book">
+  <META NAME="DC.format" CONTENT="text/html">
+  <META NAME="DC.language" CONTENT="de">
+  <META NAME="DC.identifier.URL" CONTENT="https://doi.org/10.25815/h0ec-f967">
+  <META NAME="DC.rights" CONTENT="https://creativecommons.org/licenses/by-sa/4.0/deed.de">
+  <META NAME="DC.identifier" CONTENT="ISBN 978-3-9812871-2-7">
+  <META NAME="DC.contributor" CONTENT="Böhm, Heidrun; Cwojdzinski, Detlef; Grote, Ulrike; Heitkötter, Kalle; Knauer, Christine; Möller, Ingrid; Pukropski, Guido; Sasse, Julia; Schmidt, Tanja; Siering, Ute; Stark, Karlin; Steul, Katrin; Tinnemann, Peter ">
+  <META NAME="DC.publisher" CONTENT="Akademie für Öffentliches Gesundheitswesen in Düsseldorf">
+  <META NAME="DC.bibliographicCitation" CONTENT="Tinnemann, Peter, Böhm Heidrun, Cwojdzinski Detlef, and Grote Ulrike., et al Krisenmanagement. Lehrbuch für den Öffentlichen Gesundheitsdienst 1. Berlin, 2020. https://doi.org/10.25815/h0ec-f967.">
+  <LINK REL="SCHEMA.DC" HREF="http://purl.org/dc/elements/1.1/">
+
+  <link rel="shortcut icon" href="{{ 'favicon.ico' | absolute_url }}" type="image/x-icon">
+
+  <link rel="stylesheet" href="{{ '/assets/css/just-the-docs.css' | absolute_url }}">
+
+  <script src="https://hypothes.is/embed.js" async></script>
+
+  {% if site.ga_tracking != nil %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_tracking }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', "{{ site.ga_tracking }}");
+    </script>
+
+  {% endif %}
+
+  {% if site.search_enabled != false %}
+    <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.min.js' | absolute_url }}"></script>
+  {% endif %}
+  <script type="text/javascript" src="{{ '/assets/js/just-the-docs.js' | absolute_url }}"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% seo %}
+
+  {% include head_custom.html %}
+
+</head>

@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 10. Toolbox
+title: Toolbox
 nav_order: 8
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 In der Toolbox (Werkzeugkasten) werden fachliche und logistische
 Maßnahmen näher beschrieben, die bei infektiologischen Gefahrenlagen
 ggf. notwendig werden.
@@ -148,7 +148,7 @@ angewendet werden, da dieser einerseits den Träger unnötig belastet und
 im ungünstigens Fall sogar dazu beitragen kann, dass Patienten nicht
 optimal versorgt werden.
 
-### **Persönliche Schutzausrüstung**
+### Persönliche Schutzausrüstung
 
 In den TRBAs werden die Anforderungen an die Persönliche
 Schutzausrüstung (PSA) beschrieben, z.B. innerhalb von **[Einrichtungen
@@ -370,8 +370,6 @@ Postexpositionsprophylaxe (PEP) verhindert werden können sind z.B.:
 
   - Meningokokken-Meningitis
 
-<!-- end list -->
-
   - Milzbrand
 
   - Tularämie
@@ -501,7 +499,7 @@ führt dazu aus:
 > > hervorrufen würden (z. B. Kampfstoffe, besonders B-Kampfstoffe und
 > > ansteckungsgefährliche Stoffe), ist eine Dekontamination/
 > > Desinfektion an der Einsatzstelle erforderlich."
-> > <span class="citation">(AFKzV 2012)</span>*
+> > <span class="citation">(AFKzV, 2012)</span>*
 
 Der Transport nicht dekontaminierter Patienten in C-, R- und N-Lagen
 kann im Nachgang zu schwerwiegenden Problemen führen. Neben der
@@ -664,7 +662,7 @@ ADR)](https://www.unece.org/fileadmin/DAM/trans/danger/publi/adr/ADRaccord_f.pdf
 geregelt. Das ADR wird alle 2 Jahre überarbeitet, daher ist darauf zu
 achten, die aktuellste Ausgabe zu verwenden.
 
-#### **Verantwortlichkeiten**
+#### Verantwortlichkeiten
 
 Gefahrstoffe werden verschiedenen Gefahrgutklassen zugeordnet, für die
 konkrete Kennzeichnungs-, Verpackungs- und Beförderungsrichtlinien
@@ -698,7 +696,7 @@ Substances](https://www.who.int/csr/resources/publications/biosafety/WHO_HSE_EPR
     wird, sowie die Beförderung auf der direkten bzw. schnellsten Route
     erfolgt.
 
-#### **Klassifizierung**
+#### Klassifizierung
 
 Für **chemische Stoffe** gelten, je nach Beschaffenheit des Stoffes, die
 Gefahrgutklassen (teilweise mit Unterklassen):
@@ -749,7 +747,7 @@ Hierbei handelt es sich z.B. um nicht-pathogene oder inaktiviere
 Mikroorganismen oder um Proben mit Erregern in Konzentrationen, wie sie
 in der Natur vorkommen. (ohne UN-Nummer; Verpackung: auf Basis P 650)
 
-### **Verpackungsvorschriften**
+### Verpackungsvorschriften
 
 Die Verpackungen sind grundsätzlich 3-teilig. Die hauptsächlichen
 Unterschiede liegen in den unterschiedlichen Prüfanforderungen, die die
@@ -762,14 +760,12 @@ Verpackungen erfüllen müssen.
   - einer flüssigkeitsdichten Sekundärverpackung (außer bei festen
     Stoffen)
 
-  - einer starren
-Außenverpackung
+  - einer starren Außenverpackung
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Probenmaterial klassifizieren nach Verpackungsvorschrift (Quelle: RKI) ">Probenmaterial
-klassifizieren nach Verpackungsvorschrift (Quelle: RKI)
-</span>](39f56377-8b88-4c46-90f3-a82b00972190.jpg)
+{% include image.html url="images/39f56377-8b88-4c46-90f3-a82b00972190.jpg" description="Abbildung 9: Probenmaterial klassifizieren nach Verpackungsvorschrift (Quelle: RKI)" %}
 
-### **Notfallbeförderung**
+
+### Notfallbeförderung
 
 Eine Freistellung von den Vorschriften des ADR ist bei einer
 Notfallbeförderung möglich :
@@ -969,8 +965,6 @@ der Entsorgung zugeführt werden.
 Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver
 Sicht keine besonderen Anforderungen gestellt werden, können nach AS 18
 01 04 entsorgt werden.
-
-# Literaturverzeichnis
 
 <div class="csl-bib-body">
 

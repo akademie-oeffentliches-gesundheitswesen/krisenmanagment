@@ -1,106 +1,183 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Planungshilfe Gesundheitsämter
-nav_order: 13
+title: Annex-Checkliste&#58; Planungshilfe Krankenhäuser
+nav_order: 14
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
-|                    |             |                                    |
-| ------------------ | ----------- | ---------------------------------- |
-| **Worum geht es?** | ** Titel:** | **Planungshilfe Gesundheitsämter** |
-| Addressaten:       |             | Datum:                             |
 
-## 
 
-## Koordination
+Die folgende Checkliste basiert auf Auführungen des Nationalen
+Pandemieplan Teil I
+([https://edoc.rki.de/handle/176904/187](https://edoc.rki.de/handle/176904/187 "https://edoc.rki.de/handle/176904/187"))
 
-☐ Lageabhängige Entscheidung über interne Führungsorganisation
+|                    |             |                                 |
+| ------------------ | ----------- | ------------------------------- |
+| **Worum geht es?** | ** Titel:** | **Planungshilfe Krankenhäuser** |
+| Addressaten        |             | Datum                           |
 
-☐ Koordinierung der Maßnahmen
+## Hintergrund
 
-☐ Dokumentation und Evaluierung
+Bei einer ausgeweiteten Epidemie/Pandemie ist davon auszugehen, dass im
+Vergleich zu einem begrenzten Ausbruch Anzahl der Erkrankten insgesamt
+als auch der Anteil schwer erkrankter Patienten deutlich erhöht ist.
+Daher ist mit einer erhöhten Belastung, ggf. Überlastung der
+Kapazitäten, in der stationären Krankenhausversorgung zu rechnen.
 
-☐ Kontinuierliche Evaluierung des Ereignisses
+***CAVE: Das (medizinische, pflegerische, u.a.) Personal kann selbst von
+krankheitsbedingten Ausfällen betroffen sein und bestehenden Kapazitäten
+können so eingeschränkt sein.***
 
-☐ Demobilisierung
+Der massenhafte Anfall von stationär behandlungsbedürftigen Patienten,
+die teilweise intensiv-/beatmungspflichtig sind, erfordert in den
+Krankenhäusern klare Festlegungen bezüglich der organisatorischen
+Umsetzung.
 
-## Risikomanagment
+Die Planungen und Vorbereitungen auf kommunaler Ebene (z.B. Kreisebene)
+erfordern die Einbeziehung aller Krisen- und
+Katastrophenreaktionsstrukturen.
 
-☐ Risikobewertung
+## Vorbereitende Maßnahmen
 
-## Kommunikation
+☐ Impfung des Personals gegen saisonale Influenza
 
-☐ Risiko- und Krisenkommunikation
+☐ Anpassung der Notfallpläne, insbesondere Krankenhäuser,
+Gesundheitsämter an Pandemieplanung
 
-☐ Kommunale interne Kommunikation
+☐ Information und Schulung des Personals über Notfallpläne und
+Hygienemanagement
 
-☐ Aufklärung der Bevölkerung
+## Organisatorische Maßnahmen zur Sicherstellung der stationären Versorgung
 
-☐ Fachliche Vorbereitung der Pressearbeit, ggf. Hotline einrichten
+☐ Schaffung/Erhöhung der Bettenkapazitäten für zusätzliche Patienten
 
-## Ausbruchuntersuchung
+☐ Aussetzen elektiver Aufnahmen
 
-☐ Arbeitsschutz, Sicherstellung der Versorgung mit persönlicher
-Schutzausrüstung
+☐ Entlassung von Patienten zum frühest möglichen Zeitpunkt
 
-☐ infektionsepidemiologische Routine-Erfassung
+☐ Einbeziehung anderer Stationen (z. B. Haut, Augen – unter
+Berücksichtigung der pandemiespezifischen Anforderungen)
 
-☐ Ermittlung von Kontaktpersonen, Kategorisierung von Kontaktpersonen
+## Personalmanagement
 
-☐ Festlegen von antiepidemischen Maßnahmen nach IfSG
+☐ Verstärkung der Personalressourcen (z. B. Umschichtung aus Bereichen,
+die auf Grund des Aussetzens elektiver Aufnahmen weniger Personal
+binden; Berücksichtigung von Medizinstudenten im letzten
+Ausbildungsjahr etc.)
 
-☐ Anordnung von diagnostischen Maßnahmen & Entscheidung über das
-Untersuchungsspektrum
+☐ erkranktes Personal mit Symptomen aus der Patientenversorgung
+ausschließen
 
-☐ Regelung der Probenahme und des Probentransports
+## Bevorratung bzw. Managementkonzept für rasche Beschaffung im Ereignisfall
 
-☐ Schutzmaßnahmen zur Kontaktreduzierung
+☐ Antibiotika, Schmerzmittel, Sedativa
 
-☐ Organisation und Überwachung des Patienten
+☐ Desinfektionsmittel
 
-☐ Festlegen und Überwachen von Absonderungen
+☐ Persönliche Schutzausrüstung:
 
-☐ Entscheidung über Art & Umfang der Desinfektionsmaßnahmen und deren
-Überwachung
+☐ ☐ Einmalhandschuhe
 
-☐ ggf. Entscheidung über Dekontaminationsmaßnahmen
+☐ ☐ Mund-Nasen-Schutz
 
-## Beratung
+☐ ☐ FFP2-Masken/FFP3-Masken
 
-☐ Hinweise zu Verhaltensmaßnahmen für Betroffene
+## Information und Schulung des Personals
 
-☐ Wahrnehmung der Informations- und Beratungsaufgaben für andere
-Behörden, Einrichtungen und für die Bevölkerung
+☐ Regelmäßige Auffrischung des Informationsstands des Personals:
 
-# ORDNUNGSRECHTLICHE AUFGABEN
+☐ ☐ organisatorische Vorbereitungen
 
-☐ Amtsärztliche Veranlassung der Absonderung
+☐ ☐ Ablaufpläne
 
-☐ Anordnung der Leichenschau, Beurkundung eines Sterbefalles,
-Überwachung des Leichentransports und der Kremierung
+☐ ☐ Hygienemanagement
 
-☐ Anordnung von Tätigkeits-, Teilnahme- und Besuchsverboten
+☐ Spezifisches Schulungsangebot zur Behandlung und Pflege von Patienten
+für Personal, das aus anderen Bereichen umgeschichtet wird
 
-☐ Entsorgungmanagement
+## Maßnahmen zum Personalschutz
 
-☐ ggf. Koordination von Impfungen
+☐ ggf. Antivirale Prophylaxe
 
-☐ ggf. Organisationen der Postexpositionsprophylaxe
+☐ ggf. Impfung
+
+## Ausstattung der Behandlungseinheiten
+
+☐ Kohortenisolierung muss möglich sein; d.h. „Stationsschleuse“ bzw.
+Schleuse im Eingangsbereich eines komplett als Behandlungseinheit
+genutzten Gebäudes
+
+☐ Raumlufttechnische Anlage ist dahingehend zu überprüfen, durch
+welche Maßnahmen eine Weiterverbreitung in andere Krankenhausbereiche
+verhindert werden kann
+
+☐ Möglichkeit der Sauerstoffversorgung (möglichst zentral)
+
+☐ Beatmungsplätze
+
+☐ medizintechnische Ausrüstung (z. B. Katheder, Infusionsgeräte,
+Medikamente)
+
+☐ Röntgengeräte (z. B. auch mobile Röntgengeräte)
+
+☐ Ultraschall, EKG, Defibrillatoreinheit, Pulsoxymetrie
+
+## Ablauforganisation
+
+☐ Gesonderter Aufnahmebereich für infektiöse Patienten
+
+☐ Aufnahme-Indikation prüfen
+
+☐ Behandlungsbereich von der übrigen Versorgung abgetrennt, nach
+Möglichkeit auch Röntgenbereich einbeziehen
+
+☐ Dem Behandlungsbereich sollte ein Intensivbereich zugeordnet werden
+
+☐ Management der Bettenkapazitäten
+
+## Krankenhaushygienische Maßnahmen
+
+Wichtige fachliche Empfehlungen enthalten folgende Quellen:
+
+☐ RKI: Empfehlung des RKI für die Hygienemaßnahmen bei Patienten mit
+Verdacht auf bzw. nachgewiesener Influenza
+
+☐ BAuA: Beschluss 609 – Arbeitsschutz beim Auftreten von Influenza unter
+besonderer Berücksichtigung des Atemschutzes
+
+Darüber hinaus sind die Hygienepläne zu überprüfen.
+
+☐ Persönliche Schutzmaßnahmen des medizinischen Personals
+
+☐ Entsorgung von Abfall nach Abfallschlüssel AS 180104 gem.. LAGA
+
+☐ Interner Patiententransport
+
+Der Patient trägt nach Möglichkeit Mund-Nasen-Schutz, das Personal
+Schutzkleidung und Atemschutzmaske. Kontaktflächen und Transportmittel
+sind unmittelbar nach dem Transport zu desinfizieren.
+
+☐ Umgang mit Verstorbenen
+
+Der Umgang mit an COVID-19 Verstorbenen erfordert (bisher: Stand
+04-März) kein spezielles Containment wie bei hochkontagiösen
+Infektionskrankheiten anderer Genese; vom Umgang mit infektiös
+Verstorbenen geht bei Einhaltung üblicher Hygieneregeln keine besondere
+Infektionsgefahr aus. Der ungeschützte Kontakt mit erregerhaltigen
+Sekreten ist generell zu vermeiden.
 
 |                |  |          |
 | -------------- |  | -------- |
-| Einrichtung :  |  | Version: |
+| Einrichtung :  |  | Version. |
 | Bearbeiter/in: |  | Ablage:  |
 
 <div class="section fnlist" data-role="doc-footnotes">
