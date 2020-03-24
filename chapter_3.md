@@ -71,7 +71,7 @@ ermöglichen eine schnelle Orientierung im Einsatzfall.
 Für Einsatzpläne hat sich folgende Strukturierung bewährt:
 
 ![<span class="figure-cat-figure">Abbildung</span><span data-caption="Struktur eines Einsatzplanes">Struktur
-eines Einsatzplanes</span>](8b61e4e6-c138-486a-a508-066aafcec607.jpg)
+eines Einsatzplanes</span>](images/8b61e4e6-c138-486a-a508-066aafcec607.jpg)
 
 {% include image.html url="8b61e4e6-c138-486a-a508-066aafcec607.jpg" description="Abbildung 1: Struktur
 eines Einsatzplanes" %}
