@@ -830,7 +830,7 @@ section[data-type="toc"] h1.toc {
 
 section[data-type="toc"] h4 {
   color: black;
-  margin-top: 1.2em;
+  margin-top: 1em;
   margin-bottom: 0em;
   letter-spacing: 0.2pt;
   word-spacing: 1px;
@@ -869,7 +869,7 @@ section[data-type="toc"] a:after {
   content: "123";
   font-weight: 500;
   /*font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;*/
-  margin-left: 2.5em;
+  margin-left: 2em;
   content: target-counter(attr(href, url), page);
   display: inline-block;
   float: right;
