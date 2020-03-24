@@ -23,6 +23,30 @@ $nav-child-link-color: $blue-300;
 // Layout override
 //
 
+.image figcaption {
+  font-size: 9pt;
+  font-style: normal;
+  text-align: center;
+  display: block;
+}
+
+.side-bar .navigation {
+    padding-top: 0rem;
+}
+
+.title-name {
+ padding-top: 0;
+ padding-bottom: 0;
+ color: #27262b;
+ font-size: 14px;
+ font-weight: 600;
+}
+
+.navigation .navigation-list-link {
+  padding-top: 0rem;
+  padding-bottom: .12rem;
+}
+
 .page-wrap {
   border-top: 15px solid $blue-300;
 }
