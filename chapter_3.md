@@ -73,6 +73,7 @@ Für Einsatzpläne hat sich folgende Strukturierung bewährt:
 {% include image.html url="images/8b61e4e6-c138-486a-a508-066aafcec607.jpg" description="Abbildung 1: Struktur
 eines Einsatzplanes" %}
 
+
 In der Abbildung sind einzelne Punkte eines Einsatzplans in Form eines
 Ablaufschemas dargestellt. Sie können als Gliederung für einen
 Einsatzplan verwendet werden.
@@ -197,6 +198,7 @@ die von internationaler Tragweite für die öffentliche Gesundheit sein
 können, sind unter bestimmten Umständen an die WHO zu melden.
 
 {% include image.html url="images/bcd98565-cc3f-4c18-b2a4-86b4ede57839.png" description="Abbildung 2: Entscheidungsschema zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle: BKK)" %}
+
 
 Das Gesundheitsamt unterrichtet über die zuständige Landesbehörde die
 nationale Ebene, wenn die bloße Möglichkeit besteht, dass ein Ereignis
