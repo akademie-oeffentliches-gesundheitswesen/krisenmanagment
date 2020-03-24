@@ -966,8 +966,6 @@ Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver
 Sicht keine besonderen Anforderungen gestellt werden, können nach AS 18
 01 04 entsorgt werden.
 
-# Literaturverzeichnis
-
 <div class="csl-bib-body">
 
 </div>
