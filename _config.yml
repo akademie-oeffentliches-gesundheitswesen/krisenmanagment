@@ -10,7 +10,7 @@ search_tokenizer_separator: /[\s/]+/
 plugins:
   - jekyll-seo-tag
 
-title: Krisenmanagement
+title: Krisenmanagement - Lehrbuch für den Öffentlichen Gesundheitsdienst
 
 # Aux links for the upper right navigation
 aux_links:
