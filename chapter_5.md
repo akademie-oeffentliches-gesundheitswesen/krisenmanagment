@@ -284,8 +284,6 @@ ausführenden Stellen muss hierbei ebenso bedacht werden, wie die
 Information der nicht beteiligten Verwaltungsbereiche und der
 Bevölkerung.
 
-# Literaturverzeichnis
-
 <div class="csl-bib-body">
 
 </div>
