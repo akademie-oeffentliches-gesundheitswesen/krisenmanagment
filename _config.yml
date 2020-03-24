@@ -10,7 +10,7 @@ search_tokenizer_separator: /[\s/]+/
 plugins:
   - jekyll-seo-tag
 
-title: Krisenmanagment
+title: Krisenmanagement
 
 # Aux links for the upper right navigation
 aux_links:
