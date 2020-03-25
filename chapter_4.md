@@ -229,7 +229,7 @@ und müssen nicht ständig im Verwaltungsstab anwesend sein.
 Einen Überblick über die Zusammenarbeit in Krisenfällen zeigt die
 nachfolgende Abbildung:
 
-{% include image.html url="images/9cf983fb-6e98-4dc9-b8c2-d07fa2165195.jpg" description="Abbildung 5: Grafik Stäbe" %}
+{% include image.html url="images/9cf983fb-6e98-4dc9-b8c2-d07fa2165195.jpg" description="Abbildung 6: Grafik Stäbe" %}
 
 ## Krisenstab im Gesundheitsamt
 
