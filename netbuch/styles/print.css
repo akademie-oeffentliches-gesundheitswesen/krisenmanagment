@@ -728,10 +728,6 @@ table + p + p {
   margin-top: 18pt;
 }
 
-.csl-entry p + p {
-  text-indent: 0;
-}
-
 .pagination-header:nth-of-type(odd) {
   text-align: right;
 }
