@@ -60,8 +60,7 @@ relevante Komponenten der Führung:
 Diese Strukturen finden sich weigehend gleichartig auf Ebene der
 Landkreise und kreisfreien Städte in Deutschland wieder.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Komponenten der Führung">Komponenten
-der Führung</span>](b1c6adc6-40ab-49ab-878a-1edadaecc784.jpg)
+{% include image.html url="images/b1c6adc6-40ab-49ab-878a-1edadaecc784.jpg" description="Abbildung 3: Komponenten der Führung" %}
 
 ### Politisch gesamtverantwortliche Komponente
 
