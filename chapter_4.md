@@ -230,8 +230,7 @@ und müssen nicht ständig im Verwaltungsstab anwesend sein.
 Einen Überblick über die Zusammenarbeit in Krisenfällen zeigt die
 nachfolgende Abbildung:
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Grafik Stäbe">Grafik
-Stäbe</span>](9cf983fb-6e98-4dc9-b8c2-d07fa2165195.jpg)
+{% include image.html url="images/9cf983fb-6e98-4dc9-b8c2-d07fa2165195.jpg" description="Abbildung 5: Grafik Stäbe" %}
 
 ## Krisenstab im Gesundheitsamt
 
