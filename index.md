@@ -46,5 +46,3 @@ mitteilen. Schicken Sie diese bitte an Lehrbuch@akademie-oegw.de
 Für Kommentare und Ergänzungen unseres Pre-release v1.0 nutzen Sie bitte
 diesen Link zu
 **[Hypothes.is](https://doi.org/10.25815/h0ec-f967 "https://doi.org/10.25815/h0ec-f967")**
-
-</div>

@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Gesundheitsamt im Krisenmodus
-nav_order: 9
+title: Annex-Checkliste: Gesundheitsamt im Krisenmodus
+nav_order: 10
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
  
    <p></p>
- 
- 
+
+
 |                     |             |                                   |
 | ------------------- | ----------- | --------------------------------- |
 | **Worum geht es?:** | ** Titel:** | **Gesundheitsamt im Krisenmodus** |

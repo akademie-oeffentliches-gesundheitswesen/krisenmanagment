@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 09.1. Szenarien: B-Lage
+title: Szenarien&#58; B-Lage
 nav_order: 7
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Unterschiedliche B-Lagen
 
 Hier werden zunächst die biologischen Gefahrenlagen betrachtet, die auch
@@ -84,8 +84,8 @@ Szenarien; Version 2.0 | Senatsverwaltung für Gesundheit und Soziales -
 Abbildung modifiziert in Szenario 5 und
 6)<span class="comment" data-id="1920806625">.</span>
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Überblick verschiedene Szenarien">Überblick
-verschiedene Szenarien</span>](12b7df8f-4ecc-43bd-8832-72c24096aef7.png)
+{% include image.html url="images/12b7df8f-4ecc-43bd-8832-72c24096aef7.png" description="Abbildung 8: Überblick
+verschiedene Szenarien" %}
 
 Für eine Risikobewertung ist es darüber hinaus notwendig, das Ziel zu
 definieren, das in der jeweiligen Situation erreichbar ist. So kann zu

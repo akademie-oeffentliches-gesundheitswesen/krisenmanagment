@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 06. Stabsarbeit
+title: Stabsarbeit
 nav_order: 4
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Relevanz eines Arbeits-/ Krisenstabes
 
 Die etablierten Verwaltungsstrukturen der Gesundheitsämter, aber auch
@@ -111,9 +111,7 @@ allen anfallenden operativ-taktischen Maßnahmen, z.B. Abschnittsbildung,
 Bereitstellen von Einsatzkräften und Reserven oder dem Aufbau und
 Betrieb einer Kommunikationsstruktur.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Aufbau und Gliederung eines Führungsstabs">Aufbau
-und Gliederung eines
-Führungsstabs</span>](aacd8b75-22dc-4975-8657-87812430b3ed.jpg)
+{% include image.html url="images/aacd8b75-22dc-4975-8657-87812430b3ed.jpg" description="Abbildung 4: Aufbau und Gliederung eines Führungsstabs" %}
 
 Generell sind in beiden Stäben folgende Sachgebiete (S) zu besetzen:
 
@@ -178,9 +176,7 @@ nicht-regierungs Akteure (z.B. Stromanbeiter bei einem Stromausfall)
 sein. Abbildung 3 gibt einen Überblick über die Zusammensetzung eines
 Verwaltungstabs:
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Struktur eines Verwaltungsstabes">Struktur
-eines
-Verwaltungsstabes</span>](1d4083da-3db7-4899-8c50-b4d87d249840.jpg)
+{% include image.html url="images/1d4083da-3db7-4899-8c50-b4d87d249840.jpg" description="Abbildung 5: Struktur eines Verwaltungsstabes" %}
 
 Die „Leitung des Stabes“ ist verantwortlich für die Leitung und die
 Koordinierung des Verwaltungsstabes, trifft Entscheidungen über die zu
@@ -300,8 +296,7 @@ in sich geschlossener Denk- und Handlungsablauf. Durch das wiederholte
 Durchlaufen wird die notwendige Lagebeurteilung und Beschlussfassung
 sichergestellt.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Arbeitsweise im Krisenstab">Arbeitsweise
-im Krisenstab</span>](2b9be091-dd4a-40e0-9d5e-2847433c369d.jpg)
+{% include image.html url="images/2b9be091-dd4a-40e0-9d5e-2847433c369d.jpg" description="Abbildung 7: Arbeitsweise im Krisenstab" %}
 
 ## Aufgaben der Stabsfunktionen
 
@@ -399,7 +394,3 @@ in der nachfolgenden Tabelle dargestellt:
 </tr>
 </tbody>
 </table>
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

@@ -1,21 +1,21 @@
 ---
 layout: page
-title: a. Beteiligte 
-nav_order: 18
+title: a. Beteiligte
+nav_order: 19
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Autoren/innen
 
  

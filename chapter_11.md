@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Infrastruktur und Ausstattung im Krisenstab
-nav_order: 11
+title: Annex-Checkliste: Infrastruktur und Ausstattung im Krisenstab
+nav_order: 12
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 |                    |             |                                                 |
 | ------------------ | ----------- | ----------------------------------------------- |
 | **Worum geht es?** | ** Titel:** | **Infrastruktur und Ausstattung im Krisenstab** |

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 01. Definitionen
+title: Definitionen
 nav_order: 2
 ---
 

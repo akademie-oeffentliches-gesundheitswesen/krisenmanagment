@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 10. Toolbox
+title: Toolbox
 nav_order: 8
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 In der Toolbox (Werkzeugkasten) werden fachliche und logistische
 Maßnahmen näher beschrieben, die bei infektiologischen Gefahrenlagen
 ggf. notwendig werden.
@@ -764,11 +764,9 @@ Verpackungen erfüllen müssen.
 
   - einer starren Außenverpackung
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Probenmaterial klassifizieren nach Verpackungsvorschrift (Quelle: RKI) ">Probenmaterial
-klassifizieren nach Verpackungsvorschrift (Quelle: RKI)
-</span>](39f56377-8b88-4c46-90f3-a82b00972190.jpg)
+{% include image.html url="images/39f56377-8b88-4c46-90f3-a82b00972190.jpg" description="Abbildung 9: Probenmaterial klassifizieren nach Verpackungsvorschrift (Quelle: RKI)" %}
 
-### **Notfallbeförderung**
+### Notfallbeförderung
 
 Eine Freistellung von den Vorschriften des ADR ist bei einer
 Notfallbeförderung möglich :
