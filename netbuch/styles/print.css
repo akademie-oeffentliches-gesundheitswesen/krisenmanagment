@@ -1154,17 +1154,6 @@ h2 {
   background-size: cover;
 }
 
-@-epubx-page-master second-page-backcover {
-  -epubx-page: 123;
-  background: url("../images/blank.jpg");
-  background-size: cover;
-}
-@-epubx-page-master second-page-backcover {
-  -epubx-page: 124;
-  background: url("../images/back-cover.jpg");
-  background-size: cover;
-}
-
 @-epubx-page-master titlepagepage {
   @-epubx-partition body {
     -epubx-flow-from: titlepage;
