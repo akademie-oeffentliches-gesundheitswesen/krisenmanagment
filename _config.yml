@@ -21,7 +21,7 @@ aux_links:
   "Web-Buch":
     - "https://akademie-oeffentliches-gesundheitswesen.github.io/vivliostyle/vivliostyle-js-2019.8.101/viewer/vivliostyle-viewer.html#b=https://consortium.github.io/lehrbuch-krisenmanagment/netbuch/krisenmanagement-netbuch.xhtml&renderAllPages=true"
 
-logo: "akademie.png"
+logo: "/images/akademie.png"
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 die Autoren. Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.de | DOI 10.25815/h0ec-f967"
