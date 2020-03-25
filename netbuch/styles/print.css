@@ -728,14 +728,8 @@ table + p + p {
   margin-top: 18pt;
 }
 
-.csl-bib-body {
-  border-top: 1px solid rgb(15,100,167);
-}
-
-.csl-bib-body .csl-entry {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
-  font-size:8pt;
-  padding-bottom: 10px;
+.csl-entry p + p {
+  text-indent: 0;
 }
 
 .pagination-header:nth-of-type(odd) {
