@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annex-Checkliste: Infrastruktur und Ausstattung im Krisenstab
+title: Annex-Checkliste&#58; Infrastruktur und Ausstattung im Krisenstab
 nav_order: 12
 ---
 

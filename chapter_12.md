@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annex-Checkliste: Planungshilfe Gesundheitsämter
+title: Annex-Checkliste&#58; Planungshilfe Gesundheitsämter
 nav_order: 13
 ---
 

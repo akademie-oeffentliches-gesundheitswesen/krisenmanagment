@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annex-Checkliste: Gesundheitsamt im Krisenmodus
+title: Annex-Checkliste&#58; Gesundheitsamt im Krisenmodus
 nav_order: 10
 ---
 
@@ -12,7 +12,7 @@ nav_order: 10
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
 
 

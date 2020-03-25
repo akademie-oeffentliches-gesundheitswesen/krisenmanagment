@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Annex-Vorlage: Format Checklisten
+title: Annex-Vorlage&#58; Format Checklisten
 nav_order: 16
 ---
 
