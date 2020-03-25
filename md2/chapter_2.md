@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 01. Definitionen
+title: Definitionen
 nav_order: 2
 ---
 
@@ -22,3 +22,7 @@ Maßnahmen der Kommunen und der Länder im Katastrophenschutz sowie des
 Bundes im Zivilschutz. In einem Praxis Glossar definiert das BBK
 "**[Aus­ge­wähl­te zen­tra­le Be­grif­fe des
 Be­völ­ke­rungs­schut­zes](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/Glossar_2018.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Praxis_Bevoelkerungsschutz/Glossar_2018.pdf")**".
+
+<div class="section fnlist" data-role="doc-footnotes">
+
+</div>

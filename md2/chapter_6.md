@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 09.1. Szenarien: CBRN
+title: Szenarien&#58; CBRN
 nav_order: 6
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Einleitung
 
 Das Kürzel CBRN leitet sich ab von von chemisch, biologisch,
@@ -27,7 +27,7 @@ traditionell als Gefahrgut bezeichnet und können auch kontaminierte
 Lebensmittel, Vieh und Pflanzen umfassen.
 
 Es existieren viele Bedrohungen, dabei geht es nicht nur um die
-absichtliche Freisetzung von Erregern, die eine Bedrohung darstellen,
+absichtliche Freisetzung von Erregern die eine Bedrohung darstellen,
 sondern dass es gibt auch Umweltfaktoren, die eine wichtige Rolle
 spielen. In allen CBRN-Lagen können die Gesundheitsämter auf
 unterschiedliche Art und Weise gefordert sein. Während bei den

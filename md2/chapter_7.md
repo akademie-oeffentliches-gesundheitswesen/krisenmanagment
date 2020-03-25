@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 09.1. Szenarien: B-Lage
+title: Szenarien&#58; B-Lage
 nav_order: 7
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Unterschiedliche B-Lagen
 
 Hier werden zunächst die biologischen Gefahrenlagen betrachtet, die auch
@@ -84,8 +84,8 @@ Szenarien; Version 2.0 | Senatsverwaltung für Gesundheit und Soziales -
 Abbildung modifiziert in Szenario 5 und
 6)<span class="comment" data-id="1920806625">.</span>
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Überblick verschiedene Szenarien">Überblick
-verschiedene Szenarien</span>](12b7df8f-4ecc-43bd-8832-72c24096aef7.png)
+{% include image.html url="images/12b7df8f-4ecc-43bd-8832-72c24096aef7.png" description="Abbildung 8: Überblick
+verschiedene Szenarien" %}
 
 Für eine Risikobewertung ist es darüber hinaus notwendig, das Ziel zu
 definieren, das in der jeweiligen Situation erreichbar ist. So kann zu
@@ -134,7 +134,7 @@ zielen die Maßnahmen stärker auf die Minderung weiterer negativer
 Auswirkungen auf die Bevölkerung und darauf, die Folgen für das soziale
 Leben möglichst gering zu halten.
 
-## Lagenspezifische Kommunikation
+## Lagenenspezifische Kommunikation
 
 Insbesondere zu Beginn einer biologischen Lage muss davon ausgegangen
 werden, dass nicht bekannt ist, welche Eigenschaften der Erreger hat
@@ -170,10 +170,10 @@ Verhinderung der Ausbreitung fest (Tätigkeits-/ Besuchsverbote,
 Beobachtung, häusliche Isolierung, Absonderung in einem entsprechenden
 Krankenhaus - z. B. Sonderisolierstation gemäß § 30 (6) IfSG....).
 
-Mit der behandelnden Einrichtung, der Pressestelle und der obersten
+Mit der behandelnden Einrichtung , der Pressestelle und der obersten
 Landesbehörde ist gemeinsam festzulegen, wie und wann die Öffentlichkeit
 zu informieren ist. Dafür ist eine zeitnahe Pressekonferenz
-einzuberufen. Vorher sind Verantwortlichkeiten festzulegen: Wer leitet
+einzuberufen. Vorher sind Verantwortlichkeiten festzulegen: wer leitet
 die Pressekonferenz, wer sagt was zu welchem Thema.
 
 Weitere Hinweise zur Alarmierung und zum Meldeverfahren ergeben sich aus
@@ -305,7 +305,7 @@ weitere Akteure beteiligt:
 
   - die Feuerwehr im Rahmen der Gefahrenabwehr, um eine weitere
     Ausbreitung der biologischen Agenzien zu verhindern. Die Feuerwehr
-    übernimmt auch häufig in Amtshilfe für den Amtsarzt die Probenahme.
+    übernimmt auch häufig in Amthilfe für den Amtsarzt die Probenahme.
 
   - die **[Analytische Task Force
     (ATF)](https://www.bbk.bund.de/DE/AufgabenundAusstattung/CBRNSchutz/ATF/ATF_node.html "https://www.bbk.bund.de/DE/AufgabenundAusstattung/CBRNSchutz/ATF/ATF_node.html")** ist
@@ -352,9 +352,9 @@ Um in einer biologischen Krisensituation Proben schnell und sicher
 versenden zu können, ist ausreichend Verpackungsmaterial (P620)
 vorzuhalten. Falsches Verpackungsmaterial kann dazu führen, dass
 Probematerial aus der Verpackung austritt und damit Personen
-kontaminiert werden. Zudem können "improvisierte" Verpackungen das
-Personal im Labor vor Herausforderungen beim Öffnen der Verpackung
-stellen, wodurch wertvolle Zeit verschwendet wird.
+kontaminiert. Zudem können "improvisierte" Verpackungen das Personal im
+Labor vor Herausforderungen beim Öffnen der Verpackung stellen, wodurch
+wertvolle Zeit verschwendet wird.
 
 ### Sonstige Ressourcen
 
@@ -398,8 +398,8 @@ sollten im Vorfeld einer Krise geplant werden.
 
 Zur Sicherstellung der Qualität in der ambulanten Versorgung ist es
 dringend notwendig, niedergelassenen Ärztinnen und Ärzten speziell auf
-ihre Tätigkeit ausgerichtete Informationsmaterialien zur Verfügung zu
-stellen, die praktische Handreichungen sind, z.B. zur Anamnese-Erhebung,
+Ihre Tätigkeit ausgerichtete Informationsmaterialien zur Verfügung zu
+stellen, die ihnen praktische Handreichungen z.B. zur Anamnese-Erhebung,
 für Beratungsgespräche, zur Probenahme, zu Diagnostiklaboren und mit
 Schutzmaßnahmen für sich, ihr Personal sowie die anderen Patienten. Die
 Empfehlungen der Bundesärztekammer und der Berufsgenossenschaft für
@@ -417,7 +417,7 @@ weitere Hinweise geben.
 
 Welche Systeme der Klinikzuweisung im Regelbetrieb des Rettungsdienstes
 genutzt werden, ist regional unterschiedlich. In welchen
-infektiologischen Lagen die Zuweisungssysteme für den Regelbetrieb/MANV
+infektiologischen Lagen die Zuweisungssysteme für Regelbetrieb/MANV
 geeignet erscheinen oder ob abweichende Zuweisungssysteme zu nutzen
 sind, muss festgelegt werden.
 

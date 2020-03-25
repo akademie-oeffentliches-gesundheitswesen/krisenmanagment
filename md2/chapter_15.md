@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 11. Annex-Vorlage: Format Checklisten
-nav_order: 15
+title: Annex-Vorlage&#58; Format Checklisten
+nav_order: 16
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Im Folgenden stellen wir eine Checklistvorlage zur Verfügung für die
 Entwicklung eigener Checklisten.
 
@@ -43,7 +43,7 @@ nicht abgefragt wird**.
 
 ☐ vermeiden, dass Sie etwas vergessen
 
-☐ erlauben Überblick über komplexe Sachverhalte
+☐ erlauben Überblick über komplext Sachverhalte
 
 ☐ dienen zur strukturierten Bearbeitung und Abarbeitung von
 Sachverhalten
@@ -53,18 +53,17 @@ Sachverhalten
 ☐ erlauben Arbeitsabläufe zu standardisieren und damit effizientes
 Arbeiten
 
-☐ durch "Abhaken" von erledigten Aufgaben schaffen sie Überblick,
+☐ durch "abhaken" von erledigten Aufgaben schaffen sie Überblick,
 Kontrolle und Dokumentation von Arbeitsabläufen
 
-☐ sind wertvolle Arbeitshilfen, um Aufgaben an eine Vertretung zu
-übergeben
+☐ sind wertvolle Arbeitshilfen, um Aufgaben an Vertretung zu übergeben
 
 ## Wie erstelle ich eine Checkliste?
 
 ☐ Erstellen Sie Ihre spezifische Vorlage, in der immer der Titel der
 jeweiligen Checkliste, der Name der Einrichtung und des/r Bearbeiters/in
 und das Datum bzw. die Version dokumentiert sind. Zusätzlich können Sie
-noch eintragen, wo Sie die Checkliste abgelegt/gespeichert haben.
+noch eintragen, wo sie die Checkliste abgelegt/gespeichert haben.
 
 ☐ Aufgabenliste erstellen:
 
@@ -75,7 +74,7 @@ noch eintragen, wo Sie die Checkliste abgelegt/gespeichert haben.
 3\. Themen chronologisch / ordnen
 
 ☐ Ihre Liste lässt sich am besten in der praktischen Arbeit testen. Wenn
-Sie einen speziellen Fall das ersten Mal bearbeiten, wird es
+Sie in einem speziellen Fall das ersten Mal bearbeiten, wird es
 wahrscheinlich noch nicht perfekt laufen – eine Chance, die Checkliste
 zu überarbeiten.
 

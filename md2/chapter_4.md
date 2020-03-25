@@ -1,26 +1,26 @@
 ---
 layout: page
-title: 06. Stabsarbeit
+title: Stabsarbeit
 nav_order: 4
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 ## Relevanz eines Arbeits-/ Krisenstabes
 
 Die etablierten Verwaltungsstrukturen der Gesundheitsämter, aber auch
 der anderen Einrichtungen des Öffentlichen Gesundheitsdienstes, sind in
-der Regel nicht vorbereite,t um die Herausforderungen z.B. einer
+der Regel nicht darauf vorbereitet um die Herausforderungen z.B. einer
 infektiologischer Gefahrenlage bzw. Krisensituation unverzüglich,
 fehlerfrei und in einer einheitlichen Führung zu bewältigen. Um den
 Anforderungen gerecht zu werden, bietet es sich auch für die Behörden
@@ -32,12 +32,12 @@ Entscheidungen sind zu dokumentieren.
 
 Neben den Maßnahmen zur (Krisen-)Bewältigung der dringlichen Aufgaben,
 die sich z.B. aus einer akuten infektiologischen Gefahrenlage ergeben,
-muss gewährleistet sein, dass auch alle anderen unverzichtbaren
+muss auch gewährleistet sein, dass auch alle anderen unverzichtbaren
 hoheitlichen Aufgaben (Ausbruchsmanagement, Leichenschau, Meldewesen
-u.ä.) ggf. mit reduziertem Personal/Ressourcen sichergestellt werden
+u.ä.) ggf. mit reduziert Personal/Ressourcen sichergestellt werden
 können. Dazu ist eine Aufgabenpriorisierung unverzichtbar.
 
-Bei einer stabsmäßigen Arbeit im Gesundheitsamt bzw. anderer Behörden im
+Bei einer stabsmäßigen Arbeit im Gesundheitsamt bzw. andere Behörden im
 ÖGD sollten die Strukturen berücksichtigt werden, die im Kreis, in der
 Stadt bzw. im Land für die Gefahrenabwehr und den Katastrophenschutz
 vorhanden sind. Es ist zu klären, ob in einer Gesundheitslage die
@@ -60,15 +60,15 @@ relevante Komponenten der Führung:
 Diese Strukturen finden sich weigehend gleichartig auf Ebene der
 Landkreise und kreisfreien Städte in Deutschland wieder.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Komponenten der Führung">Komponenten
-der Führung</span>](b1c6adc6-40ab-49ab-878a-1edadaecc784.jpg)
+{% include image.html url="images/b1c6adc6-40ab-49ab-878a-1edadaecc784.jpg" description="Abbildung 3: Komponenten der Führung" %}
+
 
 ### Politisch gesamtverantwortliche Komponente
 
 Die politisch-gesamtverantwortliche Leitung (z.B. Bürgermeister/in,
 Landrät/in, Minister/in) wird insbesondere bei weiträumigen und länger
-andauernden Großschadensereignissen oder in Katastrophenfällen, aber
-auch bei infektiologischen Gefahrenlagen nötig. In diesem Rahmen hat die
+andauernden Großschadenereignissen oder in Katastrophenfällen, aber auch
+bei infektiologischen Gefahrenlagen nötig. In diesem Rahmen hat die
 politischen Gesamtverantwortung die Aufgabe zur Veranlassung und
 Verantwortung sowohl von Einsatzmaßnahmen (operativ-taktisch) als auch
 Verwaltungsmaßnahmen (administrativ-organisatorisch). Zur Erledigung der
@@ -91,12 +91,12 @@ auf.
 
 Alle Katastrophenschutzorganisationen (Feuerwehr, Rettungsdienst,
 Polizei/ Ordnungsbehörden und Hilfsorganisationen) in Deutschland
-arbeiten im Einsatz, also auch im Stab, nach einer gleichartigen
+arbeiten im Einsatz also auch im Stab nach einer gleichartigen
 Dienstvorschrift (z. B. **[Feuerwehr-Dienstvorschrift „Führung und
 Leitung im
 Einsatz](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/FwDV%20100.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/FIS/DownloadsRechtundVorschriften/Volltext_Fw_Dv/FwDV%20100.pdf")“**
 (FwDV 100). Damit sich die Gesundheitsbehörden in diesem System der
-Führungstruktur zurechtfinden, ist eine frühzeitige Einbindung in das
+Führungstruktur zu Recht finden, ist eine frühzeitige Einbindung in das
 Gefahrenabwehrsystem sinnvoll.
 
 Die jeweilige Dienstvorschrift ist für alle Gefahrenabwehrbehörden das
@@ -107,13 +107,12 @@ Gefahrenabwehr und Gesundheitsvorsorge gleichermaßen verantwortlich in
 eine einheitliche Führung eingebunden.
 
 Ein Führungs- bzw. Katastrophenschutzstab **** beschäftigt sich mit
-allen anfallenden operativ-taktischen Maßnahmen, z.B. Abschnittsbildung,
+allen anfallenden operativ-taktischen Maßnahmen z.B. Abschnittsbildung,
 Bereitstellen von Einsatzkräften und Reserven oder dem Aufbau und
 Betrieb einer Kommunikationsstruktur.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Aufbau und Gliederung eines Führungsstabs">Aufbau
-und Gliederung eines
-Führungsstabs</span>](aacd8b75-22dc-4975-8657-87812430b3ed.jpg)
+{% include image.html url="images/aacd8b75-22dc-4975-8657-87812430b3ed.jpg" description="Abbildung 4: Aufbau und Gliederung eines Führungsstab" %}
+
 
 Generell sind in beiden Stäben folgende Sachgebiete (S) zu besetzen:
 
@@ -168,19 +167,18 @@ Großschadenereignissen als auch für Katastrophenfälle. Einige Länder
 setzen diese Komponente bereits für Ereignisse unterhalb der Schwelle
 eines Großschadensereignisses ein.
 
-Gemäß den Hinweisen sitzen im Verwaltungsstab alle zur Bewältigung der
+Gemäß den Hinweise sitzen im Verwaltungsstab alle zur Bewältigung der
 Schadenlage notwendigen beziehungsweise zuständigen Ämter der eigenen
 Verwaltung, anderer Behörden und Dritte mit relevanten Kenntnissen.
 Neben ständigen Mitgliedern des Stabes (SMS), zu denen u.a. auch das
-Gesundheitsamt- bzw. die Gesundheitsbehörde als Fachberater gehört, gibt
-es ereignisspezifische Mitglieder des Stabes. Dieses können auch
+Gesundheitsamt- bzw. Gesundheitsbehörde als Fachberater gehört, gibt es
+ereignisspezifische Mitglieder des Stabes. Dieses können auch
 nicht-regierungs Akteure (z.B. Stromanbeiter bei einem Stromausfall)
 sein. Abbildung 3 gibt einen Überblick über die Zusammensetzung eines
 Verwaltungstabs:
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Struktur eines Verwaltungsstabes">Struktur
-eines
-Verwaltungsstabes</span>](1d4083da-3db7-4899-8c50-b4d87d249840.jpg)
+{% include image.html url="images/1d4083da-3db7-4899-8c50-b4d87d249840.jpg" description="Abbildung 5: Struktur eines Verwaltungsstabes" %}
+
 
 Die „Leitung des Stabes“ ist verantwortlich für die Leitung und die
 Koordinierung des Verwaltungsstabes, trifft Entscheidungen über die zu
@@ -195,7 +193,7 @@ Die **Koordinierungsgruppe Verwaltungsstab (KGS)** setzt sich aus dem
 Bereichen **„Innerer Dienst“** und **„Lage und Dokumentation“**
 zusammen. Der **„Innere Dienst“** alarmiert Stabsmitglieder, erstellt
 und aktualisiert ggf. die Stabsdienstordnung, Alarmierungs-und
-Erreichbarkeitslisten und stellt die Arbeitsfähigkeit des Stabs sicher,
+Ereichbarkeitslisten und stellt die Arbeitsfähigkeit des Stabs sicher,
 d.h. Versorgung, Nachbestellung von Materialien, Organisation von Räumen
 und Besprechungen. Der KGS-Bereich **„Lage und Dokumentation“**
 beschäftigt sich u.a. mit dem Anfordern, Sammeln, Auswerten, der
@@ -204,7 +202,7 @@ des Einsatztagebuchs und der Darstellung der Lage und von Prognosen zur
 voraussichtlichen Lageentwicklung.
 
 Die Funktion **„Bevölkerungsinformation und Medienarbeit (BuMA)“**
-koordiniert, betreut und informiert die Presse und andere Medien, z.B.
+koordiniert, betreut und informiert die Presse und andere Medien z.B.
 durch die Erstellung von Presseinformationen, Auswertung von
 Pressemiteilungen oder Einrichten eines Bürgertelefons.
 
@@ -215,7 +213,7 @@ Maßnahmen. Die SMS sind entscheidungsbefugte Vertreter aus notwendigen
 Ämtern, Behörden oder von Dritten. In der Regel sind die Bereiche
 Sicherheit und Ordnung, Katastrophenschutz, Gesundheit, Umwelt, Polizei
 und Soziales vertreten. Je nach Lage können weitere Fachbereiche
-einbezogen werden, wie Bau- und Wohnungsaufsicht (z.B. bei Bränden),
+einbezogen werden wie Bau- und Wohnungsaufsicht (z.B. bei Bränden),
 Schulamt etc. Darüber hinaus gibt es eine Verbindungsperson zum
 Führungsstab.
 
@@ -223,7 +221,7 @@ Genauso wie die SMS bringen **„Ereignisspezifische Mitglieder des Stabes
 (EMS)“** ihre spezifischen Kenntnisse in die Lagebewertung und
 Lagebewältigung mit ein. Sie werden je nach Lage ausgesucht und
 bestehen aus entscheidungsbefugten Vertretern von Ämter der eigenen
-Verwaltung, Behörden, Gemeinden oder fachkundigen Dritten. Zu letzteren
+Verwaltung, Behörden, Gemeinden oder fachkundige Dritten. Zu letzteren
 zählen zum Beispiel Feuerwehr; Hilfsorganisationen, THW, Bundeswehr,
 Energieversorger und Verkehrsunternehmen. Die EMS-Vertreter können ihre
 Aufgabe teilweise innerhalb ihres normalen Arbeitsbereiches erledigen
@@ -234,15 +232,15 @@ und müssen nicht ständig im Verwaltungsstab anwesend sein.
 Einen Überblick über die Zusammenarbeit in Krisenfällen zeigt die
 nachfolgende Abbildung:
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Grafik Stäbe">Grafik
-Stäbe</span>](9cf983fb-6e98-4dc9-b8c2-d07fa2165195.jpg)
+{% include image.html url="images/9cf983fb-6e98-4dc9-b8c2-d07fa2165195.jpg" description="Abbildung 6: Grafik Stäbe" %}
+
 
 ## Krisenstab im Gesundheitsamt
 
 Der Arbeitsstab bzw. Krisenstab des Gesundheitsamtes ist im Krisenfall
 grundsätzlich eine ergänzende und unterstützende amtsinterne
 Organisationsstruktur für die Amtsleitung, die in der Regel als
-Fachvertretung des Gesundheitsamtes im Führungs- oder
+Fachvertreter des Gesundheitsamtes im Führungs- oder
 Katastrophenschutzstab tätig sein wird.
 
 Der Stab des Gesundheitsamtes selbst übernimmt in der Regel nicht die
@@ -285,7 +283,7 @@ Vorsorge gegen infektiologische Gefahrenlagen kann bei drohenden
 Gefahren, bei eingetretenen Schadenslagen sowie bei Katastrophen der
 Stab dieser Gesundheitsbehörden aufgerufen werden.
 
-Teilweise werden diese Stäbe im Rahmen des Ressortprinzips federführend
+Teilweise werden diese Stäbe im Rahmen des Ressortprinzps federführend
 tätig, teilweise werden gemeinsame Stäbe von Gesundheits- und
 Innenressorts gebildet. Die Gesundheitsministerien können in der Regel
 bei gesundheitsbezogenen Lagen die Aufrufung des Stabes der
@@ -300,8 +298,8 @@ in sich geschlossener Denk- und Handlungsablauf. Durch das wiederholte
 Durchlaufen wird die notwendige Lagebeurteilung und Beschlussfassung
 sichergestellt.
 
-![<span class="figure-cat-figure">Abbildung</span><span data-caption="Arbeitsweise im Krisenstab">Arbeitsweise
-im Krisenstab</span>](2b9be091-dd4a-40e0-9d5e-2847433c369d.jpg)
+{% include image.html url="images/2b9be091-dd4a-40e0-9d5e-2847433c369d.jpg" description="Abbildung 7: Arbeitsweise im Krisenstab" %}
+
 
 ## Aufgaben der Stabsfunktionen
 
@@ -321,7 +319,7 @@ in der nachfolgenden Tabelle dargestellt:
 <tr class="even">
 <td><p>S 1 (Personal)</p></td>
 <td><ul>
-<li><p>Alarmierung von im Dienst befindlichen Personals</p></li>
+<li><p>Alarmierung von im Dienst befindlichen Personal</p></li>
 <li><p>Alarmierung von Personal aus der Freizeit</p></li>
 <li><p>Überwachung der Alarmierung</p></li>
 <li><p>Führen von Personalübersichten, Überwachung der Arbeitszeiten</p></li>
@@ -338,7 +336,7 @@ in der nachfolgenden Tabelle dargestellt:
 <li><p>Unterrichten anderer Stellen</p>
 <p><strong>Einsatzdokumentation</strong></p></li>
 <li><p>Führen des Einsatztagebuches</p></li>
-<li><p>Sammeln, Sichern und Registrieren des Informationsmaterials</p></li>
+<li><p>Sammeln, das Sichern und das Registrieren des Informationsmaterials</p></li>
 <li><p>Erstellen eines Abschlussberichtes</p></li>
 </ul></td>
 </tr>
@@ -347,7 +345,7 @@ in der nachfolgenden Tabelle dargestellt:
 <td><ul>
 <li><p>Beurteilen der Lage</p></li>
 <li><p>Einsatzdurchführung, z.B. Festlegen von Einsatzschwerpunkten,</p></li>
-<li><p>Festlegen der erforderlichen Einsatzkräfte, Einsatzmittel und Reserven</p></li>
+<li><p>Festlegen der erforderlicher Einsatzkräfte, Einsatzmittel und Reserven</p></li>
 <li><p>Sicherstellung der Führung im Rahmen des Einsatzplanes (Führungsorganisation)</p></li>
 <li><p>Durchführen von Lagebesprechungen</p></li>
 <li><p>Erteilen und Überwachen von Aufträgen</p></li>

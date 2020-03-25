@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 07. Kommunikation
+title: Kommunikation
 nav_order: 5
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Eine gute Kommunikation ist ein wesentlicher Bestandteil zur
 erfolgreichen Bewältigung einer Krise. Man unterscheidet (1) die
 "interne" Kommunikation innerhalb des Verwaltungs- bzw. Krisenstabes,
@@ -65,7 +65,7 @@ sie ansehen und nutzen als
 > > *„Austausch von Informationen und Meinungen über Risiken zur
 > > Risikovermeidung, Risikominimierung und Risikoakzeptanz“*
 > > <span class="citation">(Bundesamt für Bevölkerungsschutz und
-> > Katastrophenhilfe 2011)</span>,
+> > Katastrophenhilfe, 2011)</span>,
 
 bei der alle Beteiligten einbezogen werden sollten.
 
@@ -74,20 +74,17 @@ werden soll, selber Vorsorge zu betreiben. Ein Beispiel für die
 Krisenvorsorge ist die Broschüre des BBK **[Ratgeber für Notfallvorsorge
 und richtiges Handeln in
 Notsituationen](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Buergerinformationen_A4/Ratgeber_Brosch.pdf "https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE/Publikationen/Broschueren_Flyer/Buergerinformationen_A4/Ratgeber_Brosch.pdf")**,
-in der wichtige Informationen und Checklisten zusammengestellt sind
-
-> "*zu allen wichtigen Themen – vom Lebensmittelvorrat bis zum Notgepäck
-> – um persönlich für den Notfall gerüstet zu sein*"
-> <span class="citation">(Bundesamt für Bevölkerungsschutz und
-> Katastrophenhilfe 2018)</span> .
-
-Nur durch präventive Kommunikation ist es möglich, dass im Krisenfall
-auf die getroffe Vorsorge zurückgegriffen und das Wissen unverzüglich
-abgerufen werden kann.
+in der wichtige Informationen und Checklisten "*zu allen wichtigen
+Themen – vom Lebensmittelvorrat bis zum Notgepäck – um persönlich für
+den Notfall gerüstet zu sein*" <span class="citation">(Bundesamt für
+Bevölkerungsschutz und Katastrophenhilfe, 2018)</span> zusammengestellt
+sind. Nur durch präventive Kommunikation ist es möglich, dass im
+Krisenfall auf die getroffe Vorsorge zurückgegriffen und das Wissen
+unverzüglich abgerufen werden kann.
 
 Ein Beispiel für die Notwendigkeit einer Risikokommunikation ist die in
 diesem Handbuch dargestellte Ressourcenknappheit, hier am Beispiel der
-Verteilung von Medikamenten herausgegriffen. Solange keine
+Verteilung von Medikamenten herausgegriffen. Solang keine
 gesundheitlichen Gefahren drohen, wird jede Person dafür Verständnis
 aufbringen, dass medizinisches Personal, das sich um die ersten
 Patienten kümmern muss, bevorzugt geschützt werden muss. Ebenso Kräfte,
@@ -98,24 +95,23 @@ geklärt wird, welche Aufgaben, die im Regelbetrieb eine hohe
 Wichtigkeit haben, in der Krise zurückstehen müssen.
 
 Herausforderung der Risikokommunikation ist, dass eine Vielzahl von
-Faktoren darüber entscheidet, wie ein Risiko wahrgenommen wird. Dies
-kann dazu führen, dass hohe Risiken unter- und geringe Risiken
-überschätzt werden, wodurch im Rückschluss die Maßnahmen der
-Gesundheitsbehörden als überzogen oder als unzureichend empfunden
-werden. Ein typisches Beispiel hierfür ist, eine Impfung aus Angst vor
-den sehr seltenen Nebenwirkungen abzulehnen und dafür das wesentlich
-höhere Risiko eines schwerwiegenden Erkrankungsverlaufs bei einer
-Infektion in Kauf zu nehmen. Treten gefährliche Erkrankungen aufgrund
-hoher Impfraten nur noch selten auf, ist eine besondere Herausforderung,
-persönliche und gesellschaftliche Nutzen-Risiko-Erwägungen voneinander
-getrennt darzustellen.
+Faktoren darüber entscheidet wie ein Risiko wahrgenommen wird. Dies kann
+dazu führen, dass hohe Risiken unter- und geringe Risiken überschätzt
+werden, wodurch im Rückschluss die Maßnahmen der Gesundheitsbehörden als
+überzogen oder als unzureichend empfunden werden. Ein typisches Beispiel
+hierfür ist, eine Impfung aus Angst vor den sehr seltenen Nebenwirkungen
+abzulehnen und dafür das wesentlich höhere Risiko eines schwerwiegenden
+Erkrankungsverlaufs bei einer Infektion in Kauf zu nehmen. Treten
+gefährliche Erkrankungen aufgrund hoher Impfraten nur noch selten auf,
+ist eine besondere Herausforderung persönliche und gesellschaftliche
+Nutzen-Risiko-Erwägungen voneinander getrennt darzustellen.
 
 Die Art der Kommunikation trägt entscheidend dazu bei, wie ein
 bestimmtes Risiko wahrgenommen wird. So deuten verschiedenen Studien
 darauf hin, dass bezüglich der Eintrittswahrscheinlichkeit, relative
 Zahlen - im Vergleich zu absoluten Zahlen- häufig zu einer zu hohen
 Risikobewertung führen <span class="citation">(Wegwarth, Odette;
-Gigerenzer, Gerd 2011)</span>. Auch kann die Art der Darstellung dazu
+Gigerenzer, Gerd, 2011)</span>. Auch kann die Art der Darstellung dazu
 führen, dass das Schadensausmaß falsch eingeschätzt wird. Dies spielt
 insbesondere bei biologischen Gefahrenlagen, bei denen das
 Schadensausmaß von so vielen Faktoren abhängt, dass eine Abschätzung
@@ -150,7 +146,7 @@ die Krise dient, bedeutet Krisenkommunikation den
 > > "*Austausch von Informationen und Meinungen während einer Krise zur
 > > Verhinderung oder Begrenzung von Schäden an einem Schutzgut*"
 > > <span class="citation">(Bundesamt für Bevölkerungsschutz und
-> > Katastrophenhilfe 2011)</span>.
+> > Katastrophenhilfe, 2011)</span>.
 
 Krisenkommunikation muss sicherstellen, dass alle Verantwortlichen den
 gleichen Informations- und Wissensstand haben. Ebenso müssen Medien und
@@ -180,7 +176,7 @@ erläutern**
 
 **3. Kontakt halten und ansprechbar sein**
 
-## **Presse- und Medienarbeit**
+## Presse- und Medienarbeit
 
 Im Krisenfall muss die Kommunikation nach außen eindeutig geregelt
 werden. Presse und Medien benötigen feste Ansprechpartner. Informationen
@@ -189,7 +185,7 @@ werden, die für diese Aufgabe besonders ausgebildet sind. Anfragende
 müssen an Autorisierte verwiesen werden. Fach-Expertise bedeutet nicht
 automatisch, dass diese auch verständlich vermittelt werden kann.
 
-Da die Bevölkerung erwartet, dass die Behörden zeitnah Hilfe leisten,
+Da die Bevölkerung erwartet, dass die Behörden zeitnahHilfe leisten,
 Sicherheit geben und effizient funktionieren, ist der Umgang mit
 Unsicherheiten, wie er häufig zu Beginn einer Krise besteht, eine
 besondere Herausforderung. Um Vertrauen zu erhalten, muss die
@@ -288,7 +284,7 @@ ausführenden Stellen muss hierbei ebenso bedacht werden, wie die
 Information der nicht beteiligten Verwaltungsbereiche und der
 Bevölkerung.
 
-# Literaturverzeichnis
+
 
 <div class="csl-bib-body">
 

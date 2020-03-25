@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Infrastruktur und Ausstattung im Krisenstab
-nav_order: 11
+title: Annex-Checkliste&#58; Infrastruktur und Ausstattung im Krisenstab
+nav_order: 12
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 |                    |             |                                                 |
 | ------------------ | ----------- | ----------------------------------------------- |
 | **Worum geht es?** | ** Titel:** | **Infrastruktur und Ausstattung im Krisenstab** |
@@ -35,7 +35,8 @@ nav_order: 11
 
 ☐ Bereitstellung zusätzlicher I-Arbeitsplätze (Notebooks)
 
-☐ Kopiergerät und Drucker in der Nähe des Stabsraumes installieren.
+☐ Kopiergerät und Drucker in der Nähe des Stabsraumes installieren.☐
+Kopiergerät und Drucker in der Nähe des Stabsraumes installieren.
 
 ☐ Beamer bereithalten.
 
@@ -58,8 +59,8 @@ Arbeitsplatz prüfen.
 
 ☐ Zentrale Erreichbarkeit des Stabes festlegen und kommunizieren.
 
-☐ Personelle Besetzung um zentrale Erreichbarkeit des Stabes
-sicherzustellen.
+☐ Personelle Besetzung der zentrale Erreichbarkeit des Stabes
+sicherstellen.
 
 ☐ Anrufbeantworter für die zentrale Erreichbarkeit des Stabes
 einrichten.

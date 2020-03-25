@@ -1,21 +1,21 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Gesundheitsamt im Krisenmodus
-nav_order: 9
+title: Annex-Checkliste&#58; Gesundheitsamt im Krisenmodus
+nav_order: 10
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 |                     |             |                                   |
 | ------------------- | ----------- | --------------------------------- |
 | **Worum geht es?:** | ** Titel:** | **Gesundheitsamt im Krisenmodus** |
@@ -51,7 +51,7 @@ Region beachten
 
 ☐ Arbeitsauftrag bestimmen und mit Behördenleitung abstimmen.
 
-☐ Prozessabläufe/Kommunikationswege bestimmen.
+☐ Prozessabläufe/Kommunikationwege bestimmen.
 
 ☐ Regelmäßige Abläufe z.B. für Lagebesprechungen festlegen
 (Termintafel).

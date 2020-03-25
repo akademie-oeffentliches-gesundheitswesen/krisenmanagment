@@ -1,23 +1,23 @@
 ---
 layout: page
-title: 11. Annex-Checkliste: Planungshilfe Krankenhäuser
-nav_order: 13
+title: Annex-Checkliste&#58; Planungshilfe Krankenhäuser
+nav_order: 14
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
+
+<details markdown="block">
+  <summary>
+      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar)
   </summary>
- 
+
 1. TOC
 {:toc}
  </details>
- 
+
    <p></p>
- 
- 
+
+
 Die folgende Checkliste basiert auf Auführungen des Nationalen
-Pandemieplans Teil I
+Pandemieplan Teil I
 ([https://edoc.rki.de/handle/176904/187](https://edoc.rki.de/handle/176904/187 "https://edoc.rki.de/handle/176904/187"))
 
 |                    |             |                                 |
@@ -28,10 +28,10 @@ Pandemieplans Teil I
 ## Hintergrund
 
 Bei einer ausgeweiteten Epidemie/Pandemie ist davon auszugehen, dass im
-Vergleich zu einem begrenzten Ausbruch die Anzahl der Erkrankten
-insgesamt als auch der Anteil schwer erkrankter Patienten deutlich
-erhöht ist. Daher ist mit einer erhöhten Belastung, ggf. Überlastung
-der Kapazitäten, in der stationären Krankenhausversorgung zu rechnen.
+Vergleich zu einem begrenzten Ausbruch Anzahl der Erkrankten insgesamt
+als auch der Anteil schwer erkrankter Patienten deutlich erhöht ist.
+Daher ist mit einer erhöhten Belastung, ggf. Überlastung der
+Kapazitäten, in der stationären Krankenhausversorgung zu rechnen.
 
 ***CAVE: Das (medizinische, pflegerische, u.a.) Personal kann selbst von
 krankheitsbedingten Ausfällen betroffen sein und bestehenden Kapazitäten
@@ -62,7 +62,7 @@ Hygienemanagement
 
 ☐ Aussetzen elektiver Aufnahmen
 
-☐ Entlassung von Patienten zum frühestmöglichen Zeitpunkt
+☐ Entlassung von Patienten zum frühest möglichen Zeitpunkt
 
 ☐ Einbeziehung anderer Stationen (z. B. Haut, Augen – unter
 Berücksichtigung der pandemiespezifischen Anforderungen)
@@ -101,8 +101,8 @@ ausschließen
 
 ☐ ☐ Hygienemanagement
 
-☐ Spezifisches Schulungsangebot für Personal, das aus anderen Bereichen
-umgeschichtet wird, zur Behandlung und Pflege von Patienten 
+☐ Spezifisches Schulungsangebot zur Behandlung und Pflege von Patienten
+für Personal, das aus anderen Bereichen umgeschichtet wird
 
 ## Maßnahmen zum Personalschutz
 
@@ -168,8 +168,8 @@ sind unmittelbar nach dem Transport zu desinfizieren.
 
 ☐ Umgang mit Verstorbenen
 
-Der Umgang mit an COVID-19 Verstorbenen erfordert (bisher: Stand 04-März
-2020) kein spezielles Containment wie bei hochkontagiösen
+Der Umgang mit an COVID-19 Verstorbenen erfordert (bisher: Stand
+04-März) kein spezielles Containment wie bei hochkontagiösen
 Infektionskrankheiten anderer Genese; vom Umgang mit infektiös
 Verstorbenen geht bei Einhaltung üblicher Hygieneregeln keine besondere
 Infektionsgefahr aus. Der ungeschützte Kontakt mit erregerhaltigen

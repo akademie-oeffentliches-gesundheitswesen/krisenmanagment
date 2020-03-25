@@ -1,21 +1,9 @@
 ---
 layout: page
-title: 11. Annex-Websites
+title: Annex-Websites
 nav_order: 17
 ---
- 
-<details markdown="block"> 
-  <summary> 
-      &#9658; Inhaltsverzeichnis Kapitel (ausklappbar) 
-  </summary>
- 
-1. TOC
-{:toc}
- </details>
- 
-   <p></p>
- 
- 
+
 ## Webseiten A-Z
 
 **Allgemeine Prinzipien der Risikoeinschätzung und Handlungsempfehlung
