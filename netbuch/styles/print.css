@@ -916,7 +916,7 @@ section[data-type="toc"] a:after {
   margin-left: 0em;
 }
 
-[data-name="cokoflow_colour_big"] {
+/*[data-name="cokoflow_colour_big"] {
   break-after: page;
   text-align: center;
   margin: 0;
@@ -957,7 +957,7 @@ section[data-type="toc"] a:after {
   text-align: center;
   margin: 0 !important;
   margin-left: 1em;
-}
+}*/
 
 h2 + p {
   margin-top: -5pt;
