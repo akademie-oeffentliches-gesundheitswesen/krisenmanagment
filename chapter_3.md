@@ -50,7 +50,7 @@ Pflege ist aufwendig. Deshalb ist der Aufwand der Aktualisierung
 erheblich. Dies führt dazu, dass Pläne nicht immer aktuell sind.
 
 Die Inhalte der Pläne müssen vor einem Einsatz den Mitarbeiterinnen und
-Mitarbeiter in Schulungen vermittelt und möglichst in Übungen mit ihnen
+Mitarbeitern in Schulungen vermittelt und möglichst in Übungen mit ihnen
 erprobt werden.
 
 ***MERKE: Pläne werden nur dann erfolgreich umgesetzt, wenn Inhalte
@@ -58,7 +58,7 @@ regelmäßig aktualisiert und Nutzern in Schulungen vermittelt werden.***
 
 ## Ziele einer erfolgreichen Einsatzplanung
 
-In einem Einsatzplan werden mögliche Maßnahme beschrieben, die in einer
+In einem Einsatzplan werden mögliche Maßnahmen beschrieben, die in einer
 besonderen Situation, z.B. Gefahrenlage bei einer Epidemie, durch die
 Mitarbeitenden einer Behörde umgesetzt werden müssen.
 
@@ -72,7 +72,6 @@ Für Einsatzpläne hat sich folgende Strukturierung bewährt:
 
 {% include image.html url="images/8b61e4e6-c138-486a-a508-066aafcec607.jpg" description="Abbildung 1: Struktur
 eines Einsatzplanes" %}
-
 
 In der Abbildung sind einzelne Punkte eines Einsatzplans in Form eines
 Ablaufschemas dargestellt. Sie können als Gliederung für einen
@@ -116,13 +115,13 @@ in besonderen Gefahrenszenarien jeweils spezifisch festgelegt werden,
 wer die Federführung hat und verantwortlich ist, welche Strategie
 eingesetzt wird und welche anderen Behörden und Einrichtungen beteiligt
 werden müssen. Ferner sind die grundsätzlichen Ziele der Kommunikation,
-die konkreten Inhalte sowie Instumente der Pressarbeit und die
+die konkreten Inhalte sowie Instrumente der Pressarbeit und die
 Zielgruppen zu bestimmen. (*siehe Kapitel: Kommunikation*)
 
 Neben der Kommunikation mit externen Partnern ist auch zu beachten, dass
 innerhalb einer Behörde die Mitarbeiterinnen und Mitarbeiter informiert
 wird. Im Krisengeschehen sollten alle ausreichend informiert sein, um in
-angespannten Arbeitssituation Verständnis für die besondere Lage zu
+angespannten Arbeitssituationen Verständnis für die besondere Lage zu
 haben.
 
 ## Alarmierung
@@ -151,9 +150,10 @@ Validieren und Bewerten einer Lage Voraussetzung für die schnelle
 Einleitung von spezifischen Kontroll- und Präventionsmaßnahmen. Gemäß
 Art. 6 der **[Internationalen
 Gesundheitsvorschriften](https://www.rki.de/DE/Content/Infekt/IGV/Gesetz_IGV_de-en.pdf "https://www.rki.de/DE/Content/Infekt/IGV/Gesetz_IGV_de-en.pdf")**
-(IGV) und gemäß Art. 9 des **Beschlusses [Nr. 1082/2013/EU](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE") des
-Europäischen Parlaments und des Rates zu schwerwiegenden grenzüberschreitenden
-Gesundheitsgefahren**
+(IGV) und gemäß Art. 9 des **[Beschlusses Nr. 1082/2013/EU des
+Europäischen Parlaments und des Rates zu schwerwiegenden
+grenzüberschreitenden
+Gesundheitsgefahren](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE")**
 vom 22. Oktober 2013 ist Deutschland rechtlich verpflichtet,
 unverzüglich Ereignisse international zu melden, die eine
 gesundheitliche Notlage von internationaler Tragweite darstellen können
@@ -199,7 +199,6 @@ können, sind unter bestimmten Umständen an die WHO zu melden.
 
 {% include image.html url="images/bcd98565-cc3f-4c18-b2a4-86b4ede57839.png" description="Abbildung 2: Entscheidungsschema zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle: BKK)" %}
 
-
 Das Gesundheitsamt unterrichtet über die zuständige Landesbehörde die
 nationale Ebene, wenn die bloße Möglichkeit besteht, dass ein Ereignis
 nach den Kriterien der Anlage 2 der IGV eine gesundheitliche Notlage von
@@ -213,8 +212,8 @@ Bundesbehörde.
 ## Führungsorganisation
 
 Mitarbeitende der Gesundheitsbehörden müssen über die allgemeine
-Führungsorganisationen für Großschadenslagen und Katastrophen
-informiert sein. (***siehe: Kapitel Stabsarbeit***)
+Führungsorganisation für Großschadenslagen und Katastrophen informiert
+sein. (***siehe: Kapitel Stabsarbeit***)
 
 In Einsatzplänen der involvierten Gesundheitsbehörden muss die
 Führungsverantwortung für spezielle Szenarien festgelegt werden. Diese
@@ -267,10 +266,10 @@ Krisengeschehen eine Entlastung zu erfahren.
 
 ## Ressourcen
 
-In machen Situation werden die benötigten Ressourcen von Dritten
+In manchen Situation werden die benötigten Ressourcen von Dritten
 bereitgestellt. Hierzu gehören u.a Versorgungsmöglichkeiten im
 Krankenhaus, die Verfügbarkeit von Impfstoffen und Antidota. Wer, was,
-wann bereitstellt sollte als Information in Einsatzplänen aufgenommen
+wann bereitstellt, sollte als Information in Einsatzplänen aufgenommen
 sein, da eine Abfrage im Einsatzfall viel Zeit kostet und daher
 unbedingt vermieden werden muss.
 
@@ -288,11 +287,7 @@ Checklisten in der Luftfahrt, die Piloten vor Abflug eines Flugzeuges
 durchgehen.
 
 Im Krisenfall geben Checklisten eine wichtige Handlungssicherheit. Sie
-schaffen die Möglichkeit intuitives Handeln und die Vollständigkeit von
+schaffen die Möglichkeit, intuitives Handeln und die Vollständigkeit von
 getroffenen Maßnahmen zu überprüfen. Im Handbuch werden Checklisten an
 verschiedenen Stellen zur Unterstützung für die handelnden
 Gesundheitsbehörden zur Verfügung gestellt.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

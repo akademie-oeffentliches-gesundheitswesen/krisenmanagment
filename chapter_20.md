@@ -16,7 +16,7 @@ nav_order: 21
    <p></p>
 
 
-## Kontaktangaben
+## **Kontaktangaben**
 
 Akademie für Öffentliches Gesundheitswesen in Düsseldorf
 
@@ -51,7 +51,7 @@ Telefon: +49 (0) 211 - 310 96 20
 
 E-Mail: teichert@akademie-oegw.de
 
-## Haftung für Inhalte
+## **Haftung für Inhalte**
 
 Die Betreiberin dieser Webseite übernehmen keine Gewähr für die
 Aktualität, Richtigkeit oder Vollständigkeit der von ihnen
@@ -80,7 +80,7 @@ Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von
 entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend
 entfernen.
 
-## Haftung für Links
+## **Haftung für Links**
 
 Unser Angebot enthält Links zu externen Websites Dritter, auf deren
 Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden

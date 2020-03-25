@@ -27,7 +27,7 @@ traditionell als Gefahrgut bezeichnet und können auch kontaminierte
 Lebensmittel, Vieh und Pflanzen umfassen.
 
 Es existieren viele Bedrohungen, dabei geht es nicht nur um die
-absichtliche Freisetzung von Erregern die eine Bedrohung darstellen,
+absichtliche Freisetzung von Erregern, die eine Bedrohung darstellen,
 sondern dass es gibt auch Umweltfaktoren, die eine wichtige Rolle
 spielen. In allen CBRN-Lagen können die Gesundheitsämter auf
 unterschiedliche Art und Weise gefordert sein. Während bei den

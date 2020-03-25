@@ -21,7 +21,7 @@ nav_order: 11
 | **Worum geht es?** | ** Titel:** | ** Kommunikation** |
 | Addressaten:       |             | Datum:             |
 
-## Auswahl der Kommunikationsform
+## **Auswahl der Kommunikationsform**
 
 ☐ Presse-Erklärung
 
@@ -41,13 +41,13 @@ nav_order: 11
 
 ☐ Was ist wann und wo passiert?
 
-☐ Welche Schäden liegen vor
+☐ Welche Schäden liegen vor?
 
 ☐ Wieviel Personen (Anzahl) sind betroffen?
 
 ☐ Was zeichnet sich ab? best-case vs. worst-case Entwicklungen
 
-☐ Was wurde bisher von den Behörden unternommen
+☐ Was wurde bisher von den Behörden unternommen?
 
 ☐ Was ist von den Behörden geplant? Aktivitäten?
 
@@ -78,7 +78,7 @@ Kontaktdaten
 ☐ andere kompetente Ansprechpartner, wie z.B. Feuerwehr, Polizei, Obere
 Gesundheitsbehörden, Ministerien/Senatsverwaltung
 
-## Checklist Pressekonferenz
+## **Checklist Pressekonferenz**
 
 ☐ (auf der Basis von Vorarbeiten von Christoph Lang, ehemals Leiter
 Pressestelle, Senatsverwaltung für Gesundheit, Pflege und

@@ -51,7 +51,7 @@ Region beachten
 
 ☐ Arbeitsauftrag bestimmen und mit Behördenleitung abstimmen.
 
-☐ Prozessabläufe/Kommunikationwege bestimmen.
+☐ Prozessabläufe/Kommunikationswege bestimmen.
 
 ☐ Regelmäßige Abläufe z.B. für Lagebesprechungen festlegen
 (Termintafel).

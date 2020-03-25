@@ -4,6 +4,7 @@ title: Annex-Abkürzungen
 nav_order: 9
 ---
 
+
 ## Akürzungen
 
 **ABAS** Bundesministerium für Arbeit und Soziales gebildete Ausschuss

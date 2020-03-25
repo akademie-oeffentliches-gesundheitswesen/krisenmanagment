@@ -17,7 +17,7 @@ nav_order: 14
 
 
 Die folgende Checkliste basiert auf Auführungen des Nationalen
-Pandemieplan Teil I
+Pandemieplans Teil I
 ([https://edoc.rki.de/handle/176904/187](https://edoc.rki.de/handle/176904/187 "https://edoc.rki.de/handle/176904/187"))
 
 |                    |             |                                 |
@@ -28,10 +28,10 @@ Pandemieplan Teil I
 ## Hintergrund
 
 Bei einer ausgeweiteten Epidemie/Pandemie ist davon auszugehen, dass im
-Vergleich zu einem begrenzten Ausbruch Anzahl der Erkrankten insgesamt
-als auch der Anteil schwer erkrankter Patienten deutlich erhöht ist.
-Daher ist mit einer erhöhten Belastung, ggf. Überlastung der
-Kapazitäten, in der stationären Krankenhausversorgung zu rechnen.
+Vergleich zu einem begrenzten Ausbruch die Anzahl der Erkrankten
+insgesamt als auch der Anteil schwer erkrankter Patienten deutlich
+erhöht ist. Daher ist mit einer erhöhten Belastung, ggf. Überlastung
+der Kapazitäten, in der stationären Krankenhausversorgung zu rechnen.
 
 ***CAVE: Das (medizinische, pflegerische, u.a.) Personal kann selbst von
 krankheitsbedingten Ausfällen betroffen sein und bestehenden Kapazitäten
@@ -62,7 +62,7 @@ Hygienemanagement
 
 ☐ Aussetzen elektiver Aufnahmen
 
-☐ Entlassung von Patienten zum frühest möglichen Zeitpunkt
+☐ Entlassung von Patienten zum frühestmöglichen Zeitpunkt
 
 ☐ Einbeziehung anderer Stationen (z. B. Haut, Augen – unter
 Berücksichtigung der pandemiespezifischen Anforderungen)
@@ -101,8 +101,8 @@ ausschließen
 
 ☐ ☐ Hygienemanagement
 
-☐ Spezifisches Schulungsangebot zur Behandlung und Pflege von Patienten
-für Personal, das aus anderen Bereichen umgeschichtet wird
+☐ Spezifisches Schulungsangebot für Personal, das aus anderen Bereichen
+umgeschichtet wird, zur Behandlung und Pflege von Patienten 
 
 ## Maßnahmen zum Personalschutz
 
@@ -168,8 +168,8 @@ sind unmittelbar nach dem Transport zu desinfizieren.
 
 ☐ Umgang mit Verstorbenen
 
-Der Umgang mit an COVID-19 Verstorbenen erfordert (bisher: Stand
-04-März) kein spezielles Containment wie bei hochkontagiösen
+Der Umgang mit an COVID-19 Verstorbenen erfordert (bisher: Stand 04-März
+2020) kein spezielles Containment wie bei hochkontagiösen
 Infektionskrankheiten anderer Genese; vom Umgang mit infektiös
 Verstorbenen geht bei Einhaltung üblicher Hygieneregeln keine besondere
 Infektionsgefahr aus. Der ungeschützte Kontakt mit erregerhaltigen

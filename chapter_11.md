@@ -35,8 +35,7 @@ nav_order: 12
 
 ☐ Bereitstellung zusätzlicher I-Arbeitsplätze (Notebooks)
 
-☐ Kopiergerät und Drucker in der Nähe des Stabsraumes installieren.☐
-Kopiergerät und Drucker in der Nähe des Stabsraumes installieren.
+☐ Kopiergerät und Drucker in der Nähe des Stabsraumes installieren.
 
 ☐ Beamer bereithalten.
 
@@ -59,8 +58,8 @@ Arbeitsplatz prüfen.
 
 ☐ Zentrale Erreichbarkeit des Stabes festlegen und kommunizieren.
 
-☐ Personelle Besetzung der zentrale Erreichbarkeit des Stabes
-sicherstellen.
+☐ Personelle Besetzung um zentrale Erreichbarkeit des Stabes
+sicherzustellen.
 
 ☐ Anrufbeantworter für die zentrale Erreichbarkeit des Stabes
 einrichten.

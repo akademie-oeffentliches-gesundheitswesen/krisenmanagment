@@ -26,15 +26,15 @@ angepasst werden. Bei begrenztem Fachpersonal müssen Kompetenzen deshalb
 zentral gebündelt und bereitgestellt werden. Das Lehrbuch soll
 Mitarbeitern/innen in Gesundheitsämtern, aber auch aus anderen
 Einrichtungen des ÖGD, praktische Hinweise geben, wie sie sich
-zielgerichtet auf die Gefahrenabwehr in Krisensituationen vorbereiten
-können und Grundlagen des Krisenmanagements vermitteln. Neben
+zielgerecht auf die Gefahrenabwehr in Krisensituationen vorbereiten
+können, und Grundlagen des Krisenmanagements vermitteln. Neben
 fachlichen Gesichtspunkten werden insbesondere Handlungsempfehlungen für
 die Einsatzplanung und Stabsarbeit gegeben, Checklisten ergänzen das
 Lehrbuch als praktische Hilfsmittel.
 
 Die in diesem einzigartigen Lehrbuch zusammengefassten Inhalte beruhen
 auf jahrelanger theoretischer Auseinandersetzung und praktischer
-Erfahrung der Autoren/innen im ÖGD. **Das vorliegend Lehrbuch ist ein
+Erfahrung der Autoren/innen im ÖGD. **Das vorliegende Lehrbuch ist ein
 Gemeinschaftswerk aller beteiligten Autorinnen und Autoren und ist nicht
 die Meinung einzelner Institutionen oder einzelner Autoren und
 Autorinnen.**
@@ -43,9 +43,6 @@ Es wird zukünftig aktualisiert und erweitert werden. Wir freuen uns
 daher wenn Sie uns Ihre Anregungen, Kommentare und Ergänzungen
 mitteilen. Schicken Sie diese bitte an Lehrbuch@akademie-oegw.de
 
-Für Kommentare und Ergänzungen unseres Pre-release v1.0 nutzten Sie
-bitte diese link zu **Hypothes.is**
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
+Für Kommentare und Ergänzungen unseres Pre-release v1.0 nutzen Sie bitte
+diesen Link zu
+**[Hypothes.is](https://doi.org/10.25815/h0ec-f967 "https://doi.org/10.25815/h0ec-f967")**

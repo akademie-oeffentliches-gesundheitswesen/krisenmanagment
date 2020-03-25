@@ -21,7 +21,6 @@ nav_order: 13
 | **Worum geht es?** | ** Titel:** | **Planungshilfe Gesundheitsämter** |
 | Addressaten:       |             | Datum:                             |
 
-##
 
 ## Koordination
 
