@@ -4,7 +4,7 @@ title: Startseite
 nav_order: 1
 ---
 
-![Krisenmanagement Buch](/images/krisenmanagment.png "Krisenmanagement Buch"){:.imgcover}
+![Krisenmanagement Buch](images/krisenmanagment.png "Krisenmanagement Buch"){:.imgcover}
 *Krisenmanagement - Lehrbuch für den Öffentlichen Gesundheitsdienst*
 
 Das Management von Krisen hat in den letzten Jahren erheblich an
