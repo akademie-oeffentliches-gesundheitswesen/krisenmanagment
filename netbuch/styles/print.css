@@ -1120,6 +1120,11 @@ h2 {
 }
 
 @-epubx-page-master second-page-backcover {
+  -epubx-page: 24;
+  background-size: cover;
+}
+
+@-epubx-page-master second-page-backcover {
   -epubx-page: 60;
   background-size: cover;
 }
