@@ -24,5 +24,7 @@ aux_links:
 
 logo: "/images/akademie.png"
 
+google_analytics: UA-161871347-1
+
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 die Autoren. Creative Commons: Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) https://creativecommons.org/licenses/by-sa/4.0/deed.de | DOI 10.25815/h0ec-f967"
