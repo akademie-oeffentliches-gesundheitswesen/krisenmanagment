@@ -84,17 +84,19 @@ p.titlepageSub {
   line-height: 20pt;
   margin-bottom: 30pt;
 }
-
+/*
 #ReproducingAutonomy {
   font-size: 26pt !important;
   margin-bottom: 10pt !important;
   margin-top: 0pt;
 }
+*/
+/*
 #ack {
   margin-bottom: 10pt !important;
   margin-top: 0pt;
 }
-
+*/
 .logo img {
 /*  width: 24mm;*/
   align: center;
@@ -865,18 +867,19 @@ section[data-type="toc"] a:after {
   float: right;
   font-size: 10pt;
 }
-
+  /*
 [data-name="cabbagetree"] {
   width: 117%;
   margin-left: -2em;
   margin-bottom: 23pt;
 }
-
+*/
+/*
 [data-name="cyclesOfCtm"] {
   width: 90%;
   margin-left: 0;
 }
-
+*/
 [data-name="bookintro1"] {
   margin-bottom: 12pt;
 }
@@ -884,26 +887,26 @@ section[data-type="toc"] a:after {
 [data-name="bookintro2"] {
   margin-bottom: 22pt;
 }
-
+/*
 [data-name="designsessions_colour_big"] {
   width: 80%;
   text-align: center;
   margin-left: 10%;
 }
-
+*/
 [data-name="1phase_colour_big"] {
   width: 100%;
   text-align: center;
   margin-bottom: 12pt;
   margin-top: 12pt;
 }
-
+/*
 [data-name="2phase_colour_icon"] {
   width: 110pt !important;
   text-align: center;
   margin: 0 !important;
 }
-
+*/
 [data-name="akademie-logo"] {
   width: 40%;
   margin-top: 17em !important;
@@ -962,13 +965,13 @@ section[data-type="toc"] a:after {
 h2 + p {
   margin-top: -5pt;
 }
-
+/*
 [data-name="2phase_lines_icon"] {
   width: 80pt !important;
   text-align: center;
   margin: 0 !important;
 }
-
+*/
 section[data-type="chapter"] {
  /* break-before: page; */
 }
