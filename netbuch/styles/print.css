@@ -976,18 +976,6 @@ section[data-type="chapter"] {
  /* break-before: page; */
 }
 
-@page:blank {
-    background: blue;
-
-    @bottom-center {
-        content: "";
-    }
-
-    @top-center {
-        content: "";
-    }
-}
-
 section[data-type="chaptertitle"] {
  break-before: right;
 }
