@@ -19,7 +19,7 @@ aux_links:
   "PDF":
     - "pdf/Krisenmanagement-pre-release-v1.pdf"
   "Web-Buch":
-    - "https://consortium.github.io/lehrbuch-krisenmanagment/vivliostyle-viewer-2.0.0-pre.10/viewer/index.html#src=https://consortium.github.io/lehrbuch-krisenmanagment/netbuch/krisenmanagement-netbuch.xhtml&renderAllPages=true&bookMode=true"
+    - "https://vivliostyle.github.io/vivliostyle.js/viewer/vivliostyle-viewer.html#b=https://consortium.github.io/lehrbuch-krisenmanagment/netbuch/krisenmanagement-netbuch.xhtml&renderAllPages=true"
 
 logo: "/images/akademie.png"
 
