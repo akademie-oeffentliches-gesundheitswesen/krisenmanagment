@@ -985,7 +985,7 @@ section[data-type="chapter"] {
 }
 
 section[data-type="frontmatter"] {
- page-break-before: always;
+ break-after: always;
 }
 
 section[data-type="fm"] {
