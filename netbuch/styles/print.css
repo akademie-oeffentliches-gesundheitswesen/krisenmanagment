@@ -894,12 +894,15 @@ section[data-type="toc"] a:after {
   margin-left: 10%;
 }
 */
-[data-name="1phase_colour_big"] {
+
+
+[data-name="image-full100"] {
   width: 100%;
   text-align: center;
   margin-bottom: 12pt;
   margin-top: 12pt;
 }
+
 /*
 [data-name="2phase_colour_icon"] {
   width: 110pt !important;
