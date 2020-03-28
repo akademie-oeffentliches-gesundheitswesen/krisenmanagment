@@ -861,7 +861,7 @@ section[data-type="toc"] a:after {
   content: "123";
   font-weight: 500;
   /*font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;*/
-  margin-left: 2em;
+  margin-left: 1em;
   content: target-counter(attr(href, url), page);
   display: inline-block;
   float: right;
@@ -990,6 +990,29 @@ section[data-type="frontmatter"] {
 
 section[data-type="fm"] {
     page-break-before: always;
+}
+
+section[data-type="fm2"] {
+    page-break-before: always;
+}
+
+section[data-type="fm2"] p {
+  letter-spacing: 0pt;
+  word-spacing: 0pt;
+}
+
+section[data-type="fm2"] h2.part, section[data-type="fm2"] h3, section[data-type="fm2"] table {
+  margin-top: 0;
+}
+
+section[data-type="fm2"] table td {
+  padding: 0.5em 0;
+}
+
+section[data-type="fm2"] table + p {
+  width: 99% !important;
+  letter-spacing: 0.2pt;
+  word-spacing: 0.2pt;
 }
 
 h2 {
