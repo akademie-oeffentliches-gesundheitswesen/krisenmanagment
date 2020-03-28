@@ -109,13 +109,13 @@ Entwicklung des Projektes und der Durchführung der Book Sprints.
 Unterstützung bei der Umsetzung des Projektes und die technische
 Umsetzung auf GitHub.
 
-**Bernd Schiller** für die sorgfältige Durchsicht und umsichtigen
-Korrekturen des gesamten Werkes.
+**Bernd Schiller** und **Petra Münstedt** für die sorgfältige Durchsicht und umsichtigen
+Korrekturen des Textes im gesamten Werkes.
+
+**Dr. med. Claudia Kaufhold** und **André Riffer** für die Durchsicht auf thematische und inhaltliche Konsistenz und Korrektheit. 
 
 **Johannes Wilm**, und das **[FidusWriter.org
 Team](https://www.fiduswriter.org/who-we-are/ "https://www.fiduswriter.org/who-we-are/")**,
-für die Unterstützung.
+für die technische Unterstützung.
 
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
+**Dr.med. Ute Teichert** für den Enthusiasmus und die tatkräftige Unterstützung des Projektes.
