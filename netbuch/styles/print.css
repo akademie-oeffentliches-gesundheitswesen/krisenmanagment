@@ -208,8 +208,8 @@ p {
   line-height: 14pt;
   /*text-align: justify;*/
   margin-bottom: 0pt;
-  letter-spacing: 0pt;
-  word-spacing: 0pt;
+  letter-spacing: 0.2pt;
+  word-spacing: 0.2pt;
   orphans: 2;
   widows: 2;
 }
