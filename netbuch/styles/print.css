@@ -989,7 +989,7 @@ section[data-type="frontmatter"] {
 }
 
 section[data-type="fm"] {
- page-break-before: always;
+    page-break-before: always;
 }
 
 h2 {
@@ -1153,7 +1153,7 @@ h2 {
   background-size: cover;
 }
 
-@-epubx-page-master titlepage {
+@-epubx-page-master titlepagepage {
   @-epubx-partition body {
     -epubx-flow-from: titlepage;
     -epubx-required: true;
