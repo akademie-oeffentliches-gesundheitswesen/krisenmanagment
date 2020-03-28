@@ -33,7 +33,7 @@ Wissen im Krisenfall aufzubauen.
 
 Der **[Leitfaden
 Krisenkommunikation](https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bevoelkerungsschutz/leitfaden-krisenkommunikation.pdf "https://www.bmi.bund.de/SharedDocs/downloads/DE/publikationen/themen/bevoelkerungsschutz/leitfaden-krisenkommunikation.pdf")**
-des Bundesministerium des Innern, für Bau und Heimat (BMI) stellt in
+des Bundesministeriums des Innern, für Bau und Heimat (BMI) stellt in
 übersichtlicher Weise die folgenden Themen für eine erfolgreiche
 Kommunikation dar:
 
@@ -54,8 +54,7 @@ werden.
 ## Risikokommunikation
 
 Ziel der Risikokommunikation ist es, das gegenseitige Vertrauen aller
-Beteiligten zu stärken. Dies gelingt am besten dadurch, eine
-langfristige Beziehung aufzubauen. Diese stellt die Grundlage für
+Beteiligten zu stärken. Dies gelingt am besten durch den Aufbau einer langfristigen Beziehung. Diese stellt die Grundlage für
 Glaubwürdigkeit dar, die im Krisenfall unverzichtbar ist.
 Risikokommunikation setzt daher Transparenz, Verlässlichkeit und
 größtmögliche Ehrlichkeit voraus. Entsprechend stellt
@@ -111,7 +110,7 @@ persönliche und gesellschaftliche Nutzen-Risiko-Erwägungen voneinander
 getrennt darzustellen.
 
 Die Art der Kommunikation trägt entscheidend dazu bei, wie ein
-bestimmtes Risiko wahrgenommen wird. So deuten verschiedenen Studien
+bestimmtes Risiko wahrgenommen wird. So deuten verschieden Studien
 darauf hin, dass bezüglich der Eintrittswahrscheinlichkeit, relative
 Zahlen - im Vergleich zu absoluten Zahlen- häufig zu einer zu hohen
 Risikobewertung führen <span class="citation">(Wegwarth, Odette;
@@ -127,7 +126,7 @@ Auffassung festgesetzt hat, dass bei jeder Pandemie ca. 30% erkranken.
 Auch der Zeitpunkt der Risikokommunikation kann einen Einfluss darauf
 haben, wie sie wahrgenommen wird. Die Veröffentlichung von diesen
 Notfall-Informationen muss daher so in eine Risikobewertung
-eingebettetet werden, dass für den Adressaten deutlich wird, ob dies
+eingebettet werden, dass für den Adressaten deutlich wird, ob dies
 eine allgemeine Information ohne aktuellen Anlass ist oder auf ein in
 Kürze zu erwartendes Ereignis vorbereiten soll. Neben dem langfristigen
 Aufbau von Vertrauen, kann die Risikokommunikation auch kurzfristig bei
@@ -173,9 +172,9 @@ Krisenverlauf für die Organisation außer Kontrolle gerät.
 **MERKE: Um die Kontrolle über die Kommunikation zu behalten, gelten
 daher folgende Grundsätze:**
 
-**1. agieren statt reagieren**
+**1. Agieren statt reagieren**
 
-**2. nur gesicherte Informationen herausgeben, ggf. Unsicherheiten
+**2. Nur gesicherte Informationen herausgeben, ggf. Unsicherheiten
 erläutern**
 
 **3. Kontakt halten und ansprechbar sein**
@@ -245,7 +244,7 @@ Speziell für die schnelle Warnung vor Gefahrenlagen wurde die
 Notfall-Informations- und Nachrichten-App des Bundes, kurz **[Warn-App
 NINA](https://www.bbk.bund.de/DE/NINA/Warn-App_NINA.html "https://www.bbk.bund.de/DE/NINA/Warn-App_NINA.html")**,
 entwickelt. Wichtige Warnmeldungen für unterschiedliche Gefahrenlagen
-wie zum Beispiel Gefahrstoffausbreitung oder einem Großbrand werden
+wie zum Beispiel zu einer Gefahrstoffausbreitung oder einem Großbrand werden
 direkt auf die Mobiltelefone der Bevölkerung gesendet. Auch hierbei ist
 die Risikokommunikation im Vorfeld notwendig, um die App bekannt zu
 machen.
@@ -261,7 +260,7 @@ andererseits sind sie wichtige Multiplikatoren, die ein hohes Vertrauen
 in der Bevölkerung besitzen.
 
 Aufgrund ihrer Ausbildung kann bei medizinisches Fachpersonal fachliches
-Wissen vorausgestzt werden, dass für die Kommunikation mit der
+Wissen vorausgesetzt werden, dass für die Kommunikation mit der
 Bevölkerung entsprechend die eigenen fachspezifische Sprache anwenden
 und nutzen kann.
 

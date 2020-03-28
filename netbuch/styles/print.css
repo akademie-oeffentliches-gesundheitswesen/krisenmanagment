@@ -1,54 +1,54 @@
 @font-face {
-    font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
     font-weight : normal;
     font-style: normal;
     src : url(../fonts/NotoSans-Regular.ttf);
 }
 @font-face {
-    font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
     font-weight : bold;
     font-style: normal;
     src : url(../fonts/NotoSans-Bold.ttf);
 }
 @font-face {
-    font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
     font-weight : normal;
     font-style: italic;
     src : url(../fonts/NotoSans-Italic.ttf);
 }
 @font-face {
-    font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
     font-weight : bold;
     font-style: italic;
     src : url(../fonts/NotoSans-BoldItalic.ttf);
 }
 -@font-face {
-    font-family : -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-family : -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
     font-weight : normal;
     font-style: normal;
     src : url(../fonts/NotoSans-Medium.ttf);
 }
 -@font-face {
-    font-family : -apple-system,BlinkMacSystemFont,"noto serif",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-family : -apple-system,BlinkMacSystemFont,"noto serif",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
     font-weight : normal;
     font-style: normal;
     src : url(../fonts/NotoSerif-Regular.ttf);
 }
 -@font-face {
-    font-family : -apple-system,BlinkMacSystemFont,"noto sans medium",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-family : -apple-system,BlinkMacSystemFont,"noto sans medium",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
     font-weight : normal;
     font-style: normal;
     src : url(../fonts/NotoSans-Medium.ttf);
 }
 -@font-face {
-    font-family : -apple-system,BlinkMacSystemFont,"noto serif",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-family : -apple-system,BlinkMacSystemFont,"noto serif",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
     font-weight : normal;
     font-style: normal;
     src : url(../fonts/NotoSerif-Regular.ttf);
 }
 
 -@font-face {
-    font-family : -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+    font-family : -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
     font-weight : 800;
     font-style: normal;
     src : url(../fonts/NotoSans-ExtraBold.ttf);
@@ -72,7 +72,7 @@ h3.titlepageSub {
 }
 
 p.titlepagePar {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
 }
 
 p.titlepageSub {
@@ -105,7 +105,7 @@ p.titlepageSub {
 
 .logo p {
  color: black;
- font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+ font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-size: 9pt;
   font-weight: 300;
   margin-top: 24pt;
@@ -195,7 +195,7 @@ video {
 }
 
 html {
-  font-family: -apple-system,BlinkMacSystemFont,"noto serif",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto serif",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-weight: normal;
   font-size: 10.75pt;
   color: black;
@@ -203,7 +203,7 @@ html {
 }
 
 p {
-  font-family: -apple-system,BlinkMacSystemFont,"noto serif",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto serif",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-size: 9pt;
   line-height: 14pt;
   /*text-align: justify;*/
@@ -223,7 +223,7 @@ p:first-of-type {
 }
 
 .Kolophon p {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-size:8pt;
 }
 
@@ -268,7 +268,7 @@ table li strong,
 table li .bold,
 table li .Bold,
 table li b {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-weight: 700;
 }
 
@@ -299,7 +299,7 @@ strong em {
 }
 
 var {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-weight: normal;
 }
 
@@ -326,7 +326,7 @@ blockquote {
   display: block;
   width: 80%;
   position: relative;
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-size: 11pt;
   vertical-align: baseline;
   margin-top: 9pt;
@@ -337,7 +337,7 @@ blockquote {
 }
 
 blockquote:before {
-  font-family: -apple-system,BlinkMacSystemFont,"noto serif",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto serif",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   content: "“";
   font-size: 4em;
   left: -45px;
@@ -349,7 +349,7 @@ blockquote:before {
 }
 
 /*blockquote:after {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   content: close-quote;
   font-size: 1em;
   bottom: -15pt;
@@ -372,14 +372,14 @@ h3, h3 strong,
 h4, h4 strong,
 h5,
 h6 {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans medium",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans medium",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   margin-top: 1.5em;
   color: rgb(15,100,167);
   font-weight: normal;
 }
 
 h1 {
-  font-family : -apple-system,BlinkMacSystemFont,"noto serif medium",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family : -apple-system,BlinkMacSystemFont,"noto serif",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-size: 24pt;
   color: rgb(58,172,196);
   margin-bottom: 2em;
@@ -400,7 +400,7 @@ h1 strong { font-weight: normal;}
 
 h2 {
   font-size: 15pt;
-  font-family: "noto sans medium", helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: "noto sans medium", helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   text-transform: none;
   font-weight: normal;
   /*margin: 1.5em 0 1.2em 0;*/
@@ -429,7 +429,7 @@ h4 {
 }
 
 h5 {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-size: 10pt;
   margin-top: 0;
   margin-bottom: 0;
@@ -505,7 +505,7 @@ figure img {
 
 
 figure figcaption {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   margin-top: 0;
   font-style: normal;
   color: black;
@@ -600,7 +600,7 @@ a {
 table {
   margin: 0 auto;
   width: 99% !important;
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   background-size: 8pt;
   page-break-inside: avoid;
   margin-top: 9pt;
@@ -662,7 +662,7 @@ table li,
 table ol {
   font-size: 8pt;
   margin: 0;
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   text-align: left;
   text-indent: 0;
 }
@@ -739,7 +739,7 @@ table + p + p {
 }
 
 .pagination-header-chapter {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   text-transform: lowercase;
   letter-spacing: 1.5pt;
 }
@@ -747,19 +747,19 @@ table + p + p {
 .pagination-header-chapter em,
 .pagination-header-chapter .italic,
 .pagination-header-chapter .Italic {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
 }
 
 .pagination-header-section {
   color: black;
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-size: 9pt;
   text-transform: lowercase;
   letter-spacing: 1.5pt;
 }
 
 .pagination-page {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-size: 9pt;
 }
 
@@ -854,14 +854,14 @@ section[data-type="toc"] a {
   border-bottom: 0px solid transparent;
   background: none;
   text-shadow: none;
-  /*font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;*/
+  /*font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;*/
 }
 
 section[data-type="toc"] a:after {
   content: "123";
   font-weight: 500;
-  /*font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;*/
-  margin-left: 2em;
+  /*font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;*/
+  margin-left: 1em;
   content: target-counter(attr(href, url), page);
   display: inline-block;
   float: right;
@@ -894,12 +894,15 @@ section[data-type="toc"] a:after {
   margin-left: 10%;
 }
 */
-[data-name="1phase_colour_big"] {
+
+
+[data-name="image-full100"] {
   width: 100%;
   text-align: center;
   margin-bottom: 12pt;
   margin-top: 12pt;
 }
+
 /*
 [data-name="2phase_colour_icon"] {
   width: 110pt !important;
@@ -992,6 +995,29 @@ section[data-type="fm"] {
     page-break-before: always;
 }
 
+section[data-type="fm2"] {
+    page-break-before: always;
+}
+
+section[data-type="fm2"] p {
+  letter-spacing: 0pt;
+  word-spacing: 0pt;
+}
+
+section[data-type="fm2"] h2.part, section[data-type="fm2"] h3, section[data-type="fm2"] table {
+  margin-top: 0;
+}
+
+section[data-type="fm2"] table td {
+  padding: 0.5em 0;
+}
+
+section[data-type="fm2"] table + p {
+  width: 99% !important;
+  letter-spacing: 0.2pt;
+  word-spacing: 0.2pt;
+}
+
 h2 {
   /* break-before: page; */
 }
@@ -1002,7 +1028,7 @@ h2 {
   -epubx-flow-into: header;
   -epubx-flow-options: exclusive static last;
   text-transform: none;
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-weight: normal;
   font-style: italic;
   /* text-align: right; */
@@ -1018,7 +1044,7 @@ h2 {
   -epubx-flow-into: booktitle;
   -epubx-flow-options: exclusive static last;
   text-transform: none;
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-weight: normal;
   font-style: italic;
   /* text-transform: uppercase !important; */
@@ -1035,7 +1061,7 @@ h2 {
   position: absolute;
   bottom: 8mm;
   text-align: center;
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-size: 9pt;
   font-style: italic;
 }
@@ -1055,7 +1081,7 @@ h2 {
   content: "Kommentar mit hypothes.is DOI https://doi.org/10.25815/h0ec-f967";
   bottom: 7.25mm;
   text-align: center;
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-size: 7.5pt;
   font-style: normal;
 }
@@ -1066,7 +1092,7 @@ h2 {
   content: "Pre-release v1.0";
   bottom: 7.25mm;
   text-align: center;
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,"segoe ui",arial,sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   font-size: 7.5pt;
   font-style: normal;
 }

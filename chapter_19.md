@@ -32,14 +32,14 @@ Gesundheit](https://www.bundesgesundheitsministerium.de/ "Bundesministerium für
 
 ## Open Access
 
-Das Anliegen öffentliche finanzierte Forschung und Lehre zur
-Verbesserung der Öffentlichen Gesundheit zu fördern ist die Grundlage
+Das Anliegen, öffentliche finanzierte Forschung und Lehre zur
+Verbesserung der Öffentlichen Gesundheit zu fördern, ist die Grundlage
 für dieses online kostenfrei zugängliche Lehr-und Handbuch. Zentral ist
-dabei, dass alle Mitarbeiterinnen und Mitarbeiter im ÖGD, interessierte
+dabei, dass alle Mitarbeiterinnen und Mitarbeiter im ÖGD, die interessierte
 Fachöffentlichkeit und die Öffentlichkeit insgesamt jederzeit Zugang zu
 dem besten verfügbaren Wissen zum Thema Öffentliche Gesundheit haben.
 
-Wir arbeiten daran, das Sie die aktuellsten Version des Lehr-und
+Wir arbeiten daran, dass Sie die aktuellste Version des Lehr-und
 Handbuchs on-demand gedruckt erhalten können und werden alsbald
 entsprechende Informationen dazu hier einfügen.
 
@@ -47,22 +47,22 @@ entsprechende Informationen dazu hier einfügen.
 
 Das Lehrbuch ist eine **Open Educational Resource (OER)**, daher
 verfügbar unter der Lizenz Creative Commons Namensnennung 4.0
-International  (CC BY 4.0) (mehr:
-[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/ "https://creativecommons.org/licenses/by/4.0/")).
+International (CC BY-SA 4.0) (mehr:
+[https://creativecommons.org/licenses/by-sa/4.0/deed.de](https://creativecommons.org/licenses/by-sa/4.0/deed.de "https://creativecommons.org/licenses/by-sa/4.0/deed.de")).
 Sie dürfen das Material in jedwedem Format oder Medium vervielfältigen
 und weiterverbreiten, es remixen, verändern und darauf aufbauen, und
-zwar für beliebige Zwecke, sogar kommerziell. Der Lizenzgeber kann diese
-diese Freiheiten nicht widerrufen solange Sie sich an die
+zwar für beliebige Zwecke, sogar kommerziell. Der Lizenzgeber kann
+diese Freiheiten nicht widerrufen, solange Sie sich an die
 Lizenzbedingungen halten: Sie müssen [angemessene Urheber- und
 Rechteangaben
-machen](https://creativecommons.org/licenses/by-nc/4.0/deed.de), einen
+machen](https://creativecommons.org/licenses/by-sa/4.0/deed.de), einen
 Link zur Lizenz beifügen und angeben, ob [Änderungen
-vorgenommen](https://creativecommons.org/licenses/by-nc/4.0/deed.de)
+vorgenommen](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht
 werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber
 unterstütze gerade Sie oder Ihre Nutzung besonders. Sie dürfen keine
-zusätzlichen Klauseln oder [technische
-Verfahren](https://creativecommons.org/licenses/by-nc/4.0/deed.de)
+zusätzlichen Klauseln oder [technischen
+Verfahren](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz
 erlaubt.
 
@@ -70,22 +70,22 @@ Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
 
 Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die
 Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere
-Rechte wie [Persönlichkeits- und
-Datenschutzrechte](https://creativecommons.org/licenses/by-nc/4.0/deed.de)
+Rechte, wie [Persönlichkeits- und
+Datenschutzrechte](https://creativecommons.org/licenses/by-sa/4.0/deed.de),
 zu beachten sein, die Ihre Nutzung des Materials entsprechend
 beschränken.
 
 ## Helfen Sie uns, das Lehrbuch zu verbessern
 
 Wir freuen uns über Kommentare und Feedback von allen, unabhängig von
-ihrem Fachwissen oder Hintergrund. Schreiben Sie eine Email an
+ihrem Fachwissen oder Hintergrund. Schreiben Sie eine E-mail an
 [lehrbuch@akademie-oegw.de](mailto:Tinnemann@akademie-oegw.de)
 
 Das Lehrbuch wird als GitHub-Repository zur Verfügung gestellt. 
 
 ## Nachhaltigkeit und Weiterentwicklung
 
-Das Ergebnis des gemeinsame Schreibprozesses wurde und wird
+Das Ergebnis des gemeinsamen Schreibprozesses wurde und wird
 kontinuierlich ergänzt und verbessert. Hierbei können auch Leserinnen
 und Leser selbst durch Feedback und Ergänzungen aktiv werden. Den
 Autorinnen und Autoren aller Texte ist bewusst, dass mit den bisher
@@ -120,13 +120,13 @@ orientiert.
 
 Autorinnen und Autoren schreiben unter Nutzung digitaler Technologien.
 Diese ermöglichen einen gemeinsamen, parallelen Schreibprozess an
-Texten, die in vollem Umfang und bis zum Endergebnis, als gemeinsames
+Texten, die in vollem Umfang und bis zum Endergebnis als gemeinsames
 Produkt konzipiert und verstanden werden. Auf diese Weise entstehen
 Buchkapitel oder ganze Bücher. Wir haben in intensiven dreitägigen
-BookSprints mit bis zehn Fachleute zu einem ausgewählten Thema
+Book Sprints mit bis zehn Fachleute zu einem ausgewählten Thema
 gearbeitet. Dabei entwickeln die Teilnehmenden unter moderierter
-Anleitung eines/einer medienpädagogisch erfahrenen BookSprint
-Moderator/-in gemeinsam Inhalte zu ausgewählten Themen die relevant für
+Anleitung eines/einer medienpädagogisch erfahrenen Book Sprint
+Moderators/-in gemeinsam Inhalte zu ausgewählten Themen, die relevant für
 die Arbeit im ÖGD sind.
 
 ## Entstehungsprozess
@@ -143,20 +143,20 @@ gemeinsamer Autorenschaft Texte für diese Lehrbuchreihe verfasst.
 
 Auf die Phase des initialen kollaborativen Schreibprozesses folgte eine
 Lektoratsphase, wobei inhaltliche Ergänzungen und Überarbeitungen
-kontinuierlich durch- und eingeführt werden. Die Texteiträge beruhen auf
+kontinuierlich durch- und eingefügt werden. Die Texteiträge beruhen auf
 breiter einschlägiger Literatur, praktischen Erfahrungen langjähriger
-ÖGD-Mitarbeiterinnen und Mitarbeiter, sowie Erfahrungen und Anregungen
+ÖGD-Mitarbeiterinnen und Mitarbeiter sowie Erfahrungen und Anregungen
 von Nachwuchs Fachkräften mit Interesse an Öffentlicher Gesundheit.
 
 In allen Lehrbüchern werden gemeinsam festgelegte Kapitel zu u.a.
-Geschichte, Zielen, Aufgaben und Strukturen, sowie Begriffsdefinitionen
+Geschichte, Zielen, Aufgaben und Strukturen sowie Begriffsdefinitionen
 umfangreich beschrieben. Jedes Buch wurde als umfassende und in sich
 geschlossene Abhandlung aufgebaut und kann sowohl in Ergänzung zu den
 anderen Büchern gelesen als auch isoliert als Nachschlagewerk behandelt
 werden.
 
 Die gesamte Lehrbuchreihe ist als Open Educational Resource (OER)
-angelegt und sind unter einer offenen Lizenz veröffentlich, die
+angelegt und ist unter einer offenen Lizenz veröffentlich, die
 kostenlosen Zugang sowie die kostenlose Nutzung, Bearbeitung und
 Weiterverarbeitung durch Andere ohne oder mit geringfügigen
 Einschränkungen ermöglichen.
@@ -179,13 +179,13 @@ für die die beteiligten Autoren/innen arbeiten.**
 Die Autoren/innen, Herausgeber/innen und die Akademie für Öffentlichs
 Gesundheitswesen bemühen sich nach bestem Wissen und Gewissen, dass die
 über dieses Buch zugänglichen Informationen korrekt, vollständig oder
-aktuell sind aber übernehmen hierfür keine Gewähr. Sie stellen dieses
+aktuell sind, aber übernehmen hierfür keine Gewähr. Sie stellen dieses
 Lehrbuch und seinen Inhalt ohne Mängelgewähr zur Verfügung und machen
 keine Zusicherungen oder Garantien jeglicher Art in Bezug auf dieses
 Buch oder seinen Inhalt.
 
 Weder haften die Autoren/innen, die Herausgeber/innen, die Akademie für
-Öffentliches Gesundheitswesen noch oder Andere Mitwirkenden für
+Öffentliches Gesundheitswesen noch andere Mitwirkenden für
 Schäden, die sich aus oder im Zusammenhang mit der Verwendung dieses
 Buches ergeben. Dies ist eine umfassende Haftungsbeschränkung, die für
 alle Schäden jeglicher Art gilt, einschließlich (ohne Einschränkung)

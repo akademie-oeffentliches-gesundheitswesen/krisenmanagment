@@ -20,7 +20,7 @@ nav_order: 4
 
 Die etablierten Verwaltungsstrukturen der Gesundheitsämter, aber auch
 der anderen Einrichtungen des Öffentlichen Gesundheitsdienstes, sind in
-der Regel nicht vorbereite,t um die Herausforderungen z.B. einer
+der Regel nicht vorbereitet, um die Herausforderungen z.B. einer
 infektiologischer Gefahrenlage bzw. Krisensituation unverzüglich,
 fehlerfrei und in einer einheitlichen Führung zu bewältigen. Um den
 Anforderungen gerecht zu werden, bietet es sich auch für die Behörden
@@ -62,13 +62,13 @@ Landkreise und kreisfreien Städte in Deutschland wieder.
 
 {% include image.html url="images/b1c6adc6-40ab-49ab-878a-1edadaecc784.jpg" description="Abbildung 3: Komponenten der Führung" %}
 
-### Politisch gesamtverantwortliche Komponente
+### Politisch-gesamtverantwortliche Komponente
 
 Die politisch-gesamtverantwortliche Leitung (z.B. Bürgermeister/in,
 Landrät/in, Minister/in) wird insbesondere bei weiträumigen und länger
 andauernden Großschadensereignissen oder in Katastrophenfällen, aber
 auch bei infektiologischen Gefahrenlagen nötig. In diesem Rahmen hat die
-politischen Gesamtverantwortung die Aufgabe zur Veranlassung und
+politische Gesamtverantwortung die Aufgabe zur Veranlassung und
 Verantwortung sowohl von Einsatzmaßnahmen (operativ-taktisch) als auch
 Verwaltungsmaßnahmen (administrativ-organisatorisch). Zur Erledigung der
 Maßnahmen dienen – je nach Landesregelung - entweder zwei getrennte
@@ -125,13 +125,13 @@ Generell sind in beiden Stäben folgende Sachgebiete (S) zu besetzen:
     zugewiesen.
 
   - **S 4 (Logistik)** steuert die gesamte Logistik und das benötigte
-    Material
+    Material.
 
   - **S 5 (Presse- und Medienarbeit)** koordiniert die Presse- und
-    Medienarbeit mit allen Beteiligten
+    Medienarbeit mit allen Beteiligten.
 
   - **S 6 (IT und Kommunikation)** stellt die IT und die gesamte
-    Kommunikationtechnik bereit
+    Kommunikationtechnik bereit.
 
 Das Gesundheitsamt kann in Ereignissen (z.B. Austritt einer chemischen
 Substanz) als Fachberatung und Verbindungsperson in dem Führungsstab
@@ -171,8 +171,8 @@ Verwaltung, anderer Behörden und Dritte mit relevanten Kenntnissen.
 Neben ständigen Mitgliedern des Stabes (SMS), zu denen u.a. auch das
 Gesundheitsamt- bzw. die Gesundheitsbehörde als Fachberater gehört, gibt
 es ereignisspezifische Mitglieder des Stabes. Dieses können auch
-nicht-regierungs Akteure (z.B. Stromanbeiter bei einem Stromausfall)
-sein. Abbildung 3 gibt einen Überblick über die Zusammensetzung eines
+Nicht-Regierungs-Akteure (z.B. Stromanbeiter bei einem Stromausfall)
+sein. Abbildung "Struktur eines Verwaltungsstab" gibt einen Überblick über die Zusammensetzung eines
 Verwaltungstabs:
 
 {% include image.html url="images/1d4083da-3db7-4899-8c50-b4d87d249840.jpg" description="Abbildung 5: Struktur eines Verwaltungsstabes" %}
@@ -217,7 +217,7 @@ Führungsstab.
 Genauso wie die SMS bringen **„Ereignisspezifische Mitglieder des Stabes
 (EMS)“** ihre spezifischen Kenntnisse in die Lagebewertung und
 Lagebewältigung mit ein. Sie werden je nach Lage ausgesucht und
-bestehen aus entscheidungsbefugten Vertretern von Ämter der eigenen
+bestehen aus entscheidungsbefugten Vertretern von Ämtern der eigenen
 Verwaltung, Behörden, Gemeinden oder fachkundigen Dritten. Zu letzteren
 zählen zum Beispiel Feuerwehr; Hilfsorganisationen, THW, Bundeswehr,
 Energieversorger und Verkehrsunternehmen. Die EMS-Vertreter können ihre
@@ -314,7 +314,7 @@ in der nachfolgenden Tabelle dargestellt:
 <tr class="even">
 <td><p>S 1 (Personal)</p></td>
 <td><ul>
-<li><p>Alarmierung von im Dienst befindlichen Personals</p></li>
+<li><p>Alarmierung des im Dienst befindlichen Personals</p></li>
 <li><p>Alarmierung von Personal aus der Freizeit</p></li>
 <li><p>Überwachung der Alarmierung</p></li>
 <li><p>Führen von Personalübersichten, Überwachung der Arbeitszeiten</p></li>
