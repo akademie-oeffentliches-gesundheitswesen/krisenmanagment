@@ -120,7 +120,7 @@ Zielgruppen zu bestimmen. (*siehe Kapitel: Kommunikation*)
 
 Neben der Kommunikation mit externen Partnern ist auch zu beachten, dass
 innerhalb einer Behörde die Mitarbeiterinnen und Mitarbeiter informiert
-wird. Im Krisengeschehen sollten alle ausreichend informiert sein, um in
+werden. Im Krisengeschehen sollten alle ausreichend informiert sein, um in
 angespannten Arbeitssituationen Verständnis für die besondere Lage zu
 haben.
 
@@ -157,7 +157,7 @@ Gesundheitsgefahren](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CE
 vom 22. Oktober 2013 ist Deutschland rechtlich verpflichtet,
 unverzüglich Ereignisse international zu melden, die eine
 gesundheitliche Notlage von internationaler Tragweite darstellen können
-oder die des eine schwerwiegende grenzüberschreitende Gesundheitsgefahr
+oder die eine schwerwiegende grenzüberschreitende Gesundheitsgefahr
 darstellen. Die Übermittlung dient der Frühwarnung, der Bereitstellung
 von Informationen für eine rasche Bewertung, der frühzeitigen
 Information aller Akteure und ggf. einer gemeinsamen Koordinierung. Sie
@@ -166,7 +166,7 @@ nationale Bundesbehörde.
 
 Dies ist für
 
-  - biologischer Ereignisse das RKI
+  - biologische Ereignisse das RKI
 
   - für chemische Ereignisse das BBK und
 
@@ -174,8 +174,7 @@ Dies ist für
 
 Für **[Übermittlungen im biologischen
 Bereich](https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html "https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html")**
-stellt das RKI einen Übermittlungsbogen zur Verfügung; eine Vorlage für
-einen **[Übermittlungen von Gefahren im chemischen
+stellt das RKI einen Übermittlungsbogen zur Verfügung; eine Vorlage für **[Übermittlungen von Gefahren im chemischen
 Bereich](https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV_Meldebogen_Info_WHO_Chemie.html "https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/BBK/DE/2017/IGV_Meldebogen_Info_WHO_Chemie.html")**
 gibt es vom BBK.
 
@@ -213,7 +212,7 @@ Bundesbehörde.
 
 Mitarbeitende der Gesundheitsbehörden müssen über die allgemeine
 Führungsorganisation für Großschadenslagen und Katastrophen informiert
-sein. (***siehe: Kapitel Stabsarbeit***)
+sein (***siehe: Kapitel Stabsarbeit***).
 
 In Einsatzplänen der involvierten Gesundheitsbehörden muss die
 Führungsverantwortung für spezielle Szenarien festgelegt werden. Diese
@@ -229,8 +228,7 @@ durch eine Weste, erkennbar gekennzeichnet ist.
 Abhängig vom Szenario werden unterschiedliche Akteure, wie Individuen
 und Institutionen, mit unterschiedlichen Zuständigkeiten im Ereignisfall
 tätig. In dem Einsatzplan muss ersichtlich sein, welcher Akteure für
-welche Aufgaben verantwortlich bzw. zuständig ist. Dabei ist auch zu
-festzulegen, wer die Federführung bei bestimmten Aufgaben hat und wer
+welche Aufgaben verantwortlich bzw. zuständig ist. Dabei ist auch festzulegen, wer die Federführung bei bestimmten Aufgaben hat und wer
 mitwirkt.
 
 ## Einsatzmaßnahmen
