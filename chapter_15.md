@@ -39,7 +39,7 @@ unterstützen und entlasten.
 Checkliste die Gefahr besteht, etwas zu übersehen, was in der Checkliste
 nicht abgefragt wird**.
 
-## Wozu brauche ich eine Checkliste?
+## Wozu brauche ich Checklisten?
 
 ☐ vermeiden, dass Sie etwas vergessen
 
@@ -53,15 +53,14 @@ Sachverhalten
 ☐ erlauben Arbeitsabläufe zu standardisieren und damit effizientes
 Arbeiten
 
-☐ durch "Abhaken" von erledigten Aufgaben schaffen sie Überblick,
-Kontrolle und Dokumentation von Arbeitsabläufen
+☐ schaffen Überblick, Kontrolle und Dokumentation von Arbeitsabläufen durch "Abhaken" von erledigten Aufgaben
 
 ☐ sind wertvolle Arbeitshilfen, um Aufgaben an eine Vertretung zu
 übergeben
 
 ## Wie erstelle ich eine Checkliste?
 
-☐ Erstellen Sie Ihre spezifische Vorlage, in der immer der Titel der
+☐ Erstellen Sie Ihre spezifische Vorlage, in der immer der Titel der
 jeweiligen Checkliste, der Name der Einrichtung und des/r Bearbeiters/in
 und das Datum bzw. die Version dokumentiert sind. Zusätzlich können Sie
 noch eintragen, wo Sie die Checkliste abgelegt/gespeichert haben.
@@ -75,7 +74,7 @@ noch eintragen, wo Sie die Checkliste abgelegt/gespeichert haben.
 3\. Themen chronologisch / ordnen
 
 ☐ Ihre Liste lässt sich am besten in der praktischen Arbeit testen. Wenn
-Sie einen speziellen Fall das ersten Mal bearbeiten, wird es
+Sie einen speziellen Fall das erste Mal bearbeiten, wird es
 wahrscheinlich noch nicht perfekt laufen – eine Chance, die Checkliste
 zu überarbeiten.
 

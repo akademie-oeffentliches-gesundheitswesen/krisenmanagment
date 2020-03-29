@@ -72,7 +72,7 @@ Anrufbeantworter).
 ☐ Fernsprechapparat für Telefonkonferenzen vorhalten.
 
 ☐ Redundante Telefonmöglichkeit schaffen (Festnetz unabhängig vom
-Hausnetz und/oder zusätzlich Mobiltelefone - prepaid mit Aktivierung im
+Hausnetz und/oder zusätzlich Mobiltelefone - Prepaid mit Aktivierung im
 Einsatzfall)
 
 ## Büroausstattung/Technik

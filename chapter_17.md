@@ -32,7 +32,7 @@ BBK.**
 **Ausschuss für Biologische Arbeitsstoffe (ABAS), BAuA.**
 <https://www.baua.de/DE/Aufgaben/Geschaeftsfuehrung-von-Ausschuessen/ABAS/ABAS_node.html>
 
-**Beschlusses Nr. 1082/2013/EU des Europäischen Parlaments und des Rates
+**Beschluss Nr. 1082/2013/EU des Europäischen Parlaments und des Rates
 zu schwerwiegenden grenzüberschreitenden Gesundheitsgefahren, EU.**
 [https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082\&from=DE](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE")
 
@@ -58,15 +58,15 @@ Prävention nosokomialer Infektionen, RKI**.
 [https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili\_Hygmanagement.pdf](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili_Hygmanagement.pdf "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili_Hygmanagement.pdf")
 
 **Estimated Personal Protective Equipment (PPE) Needed for Healthcare
-Facility, CDC.**
+Facilities, CDC.**
 <https://www.cdc.gov/vhf/ebola/healthcare-us/ppe/calculator.html>
 
-**Europäische Übereinkommen zur internationalen Beförderung gefährlicher
+**Europäisches Übereinkommen zur internationalen Beförderung gefährlicher
 Güter auf der Straße (Accord européen relatif au transport international
 des marchandises Dangereuses par Route, ADR), UNECE**.
 <https://www.unece.org/fileadmin/DAM/trans/danger/publi/adr/ADRaccord_f.pdf>
 
-**Fachwörtern zum Infektionsschutz und zur Infektionsepidemiologie,
+**Fachwörter zum Infektionsschutz und zur Infektionsepidemiologie,
 RKI.**
 [https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch\_Infektionsschutz.pdf](https://www.rki.de/DE/Content/Service/Publikationen/Fachwoerterbuch_Infektionsschutz.pdf?__blob=publicationFile)
 
@@ -106,7 +106,7 @@ Komponente, BKK**.
 **Infektionskrankheiten A-Z, RKI.**
 [https://www.rki.de/DE/Content/InfAZ/InfAZ\_marginal\_node.html](https://www.rki.de/DE/Content/InfAZ/InfAZ_marginal_node.html "https://www.rki.de/DE/Content/InfAZ/InfAZ_marginal_node.html")
 
-**Internationalen Gesundheitsvorschriften, RKI.**
+**Internationale Gesundheitsvorschriften, RKI.**
 [https://www.rki.de/DE/Content/Infekt/IGV/Gesetz\_IGV\_de-en.pdf](https://www.rki.de/DE/Content/Infekt/IGV/Gesetz_IGV_de-en.pdf "Internationale Gesundheitsvorschriften")
 
 **Infectious Substances, Klasse 6.2 Kat. A, ADR.**
@@ -182,7 +182,7 @@ Gesundheitsdienstes, LAGA.**
 **Warn-App NINA, BBK.**
 [https://www.bbk.bund.de/DE/NINA/Warn-App\_NINA.html](https://www.bbk.bund.de/DE/NINA/Warn-App_NINA.html "https://www.bbk.bund.de/DE/NINA/Warn-App_NINA.html")
 
-**Zielen von Infektionsschutzmaßnahmen, RKI.**
+**Ziele von Infektionsschutzmaßnahmen, RKI.**
 [https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/07\_20.pdf](https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/07_20.pdf "https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/07_20.pdf")
 
 <div class="section fnlist" data-role="doc-footnotes">

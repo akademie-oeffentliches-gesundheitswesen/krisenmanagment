@@ -386,9 +386,9 @@ in der nachfolgenden Tabelle dargestellt:
 <li><p>Gewährleisten der Kommunikationssicherheit (Redundanz)</p></li>
 </ul>
 <ul>
-<li><p>Überwachen des Kommunikationsbetriebes</p>
-<p><strong>Ausstattung der Einsatzleitung mit Bürokommunikation</strong></p></li>
-</ul></td>
+<li><p>Überwachen des Kommunikationsbetriebes</p></li>
+</ul>
+<p><strong>Ausstattung der Einsatzleitung mit Bürokommunikation</strong></p></td>
 </tr>
 </tbody>
 </table>

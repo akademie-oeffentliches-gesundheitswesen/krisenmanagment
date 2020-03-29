@@ -95,13 +95,9 @@ Behörden, Einrichtungen und für die Bevölkerung
 
 ☐ ggf. Koordination von Impfungen
 
-☐ ggf. Organisationen der Postexpositionsprophylaxe
+☐ ggf. Organisation der Postexpositionsprophylaxe
 
 |                |  |          |
 | -------------- |  | -------- |
 | Einrichtung :  |  | Version: |
 | Bearbeiter/in: |  | Ablage:  |
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

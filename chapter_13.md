@@ -16,7 +16,7 @@ nav_order: 14
    <p></p>
 
 
-Die folgende Checkliste basiert auf Auführungen des Nationalen
+Die folgende Checkliste basiert auf Ausführungen des Nationalen
 Pandemieplans Teil I
 ([https://edoc.rki.de/handle/176904/187](https://edoc.rki.de/handle/176904/187 "https://edoc.rki.de/handle/176904/187"))
 
@@ -158,7 +158,7 @@ Darüber hinaus sind die Hygienepläne zu überprüfen.
 
 ☐ Persönliche Schutzmaßnahmen des medizinischen Personals
 
-☐ Entsorgung von Abfall nach Abfallschlüssel AS 180104 gem.. LAGA
+☐ Entsorgung von Abfall nach Abfallschlüssel AS 180104 gem. LAGA
 
 ☐ Interner Patiententransport
 

@@ -28,12 +28,12 @@ Lebensmittel, Vieh und Pflanzen umfassen.
 
 Es existieren viele Bedrohungen, dabei geht es nicht nur um die
 absichtliche Freisetzung von Erregern, die eine Bedrohung darstellen,
-sondern dass es gibt auch Umweltfaktoren, die eine wichtige Rolle
+sondern es gibt auch Umweltfaktoren, die eine wichtige Rolle
 spielen. In allen CBRN-Lagen können die Gesundheitsämter auf
 unterschiedliche Art und Weise gefordert sein. Während bei den
 biologischen Lagen die Mitarbeiterinnen und Mitarbeiter des ÖGD in der
 Regel die federführende Verantwortung in der primären und sekundären
-Phase eines Einsatzes haben, tragen, sind sie bei den C- und RN-Lagen
+Phase eines Einsatzes haben, tragen, sie bei den C- und RN-Lagen
 eher eine fachliche Verantwortung in der sekundären Phase, in der es
 dann insbesondere um die Nachsorge nach einem Ereignis geht.
 

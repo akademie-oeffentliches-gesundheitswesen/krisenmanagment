@@ -45,12 +45,11 @@ biologische Agens zu kennen. Es ist die Unterscheidung zu treffen, ob es
 sich um die Ausbruchssituation in beispielsweise einer Klinik handelt,
 wo das Agens/die Infektionsgefahr meist bekannt ist; oder ob es sich um
 das gehäufte Auftreten von Erkrankungen des gleichen Formenkreises und
-unklarem Erreger handelt (beides am ehesten entsprechend Szenario 2,
-Abbildung 1). Dieses wäre einerseits zum Beispiel in einer
+unklarem Erreger handelt (beides am ehesten entsprechend Szenario 2, in der Abbildung "Überblick verschiedene Szenarien"). Dieses wäre einerseits zum Beispiel in einer
 Pflegeeinrichtung bei dem gehäuften Auftreten von gastroenteritischen
 Symptomen denkbar. Möglich ist in diesem Zusammenhang aber andererseits
 auch die Gefährdung durch "Bioterrorismus"  bei (noch) unbekanntem
-Status an Betroffenen (am ehesten Szenario 5; Abbildung 1). Hier kommt
+Status an Betroffenen (am ehesten Szenario 5; in der Abbildung "Überblick verschiedene Szenarien"). Hier kommt
 es auch darauf an labortechnisch entsprechende Testungen zur Verfügung
 zu haben. Existierende Schnelltests sind insbesondere bei Umweltproben
 nur bedingt zuverlässig und können sowohl zu falsch positiven als auch
@@ -78,7 +77,7 @@ Eintrittswahrscheinlichkeit](https://www.bbk.bund.de/SharedDocs/Downloads/BBK/DE
 an.
 
 Eine Risikomatrix kann helfen, das zu erwartende Schadensausmaß
-einzuschätzen, wie der Szenarienüberblick in Abbildung 1 zeigt (Quelle:
+einzuschätzen, wie der Szenarienüberblick in der Abbildung "Überblick verschiedene Szenarien" zeigt (Quelle:
 **Generischer Plan für biologische Gefahrenlagen** - Anhand von 5
 Szenarien; Version 2.0 | Senatsverwaltung für Gesundheit und Soziales -
 Abbildung modifiziert in Szenario 5 und
@@ -95,7 +94,7 @@ Epidemie die Aufrechterhaltung des sozialen Lebens im Vordergrund steht.
 
 ## Maßnahmen
 
-Der Übergang zwischen den drei Phasen, im Folgenden dargestellten, ist
+Der Übergang zwischen den drei im Folgenden dargestellten Phasen ist
 fließend, so dass im Rahmen der Risikobewertung eine schrittweise
 Anpassung der eingesetzten Maßnahmen notwendig ist. Siehe dazu die im
 Epidemologischen Bulletin 7/2020 des RKI veröffentlichten Informationen
@@ -129,7 +128,7 @@ Krankheitsverläufe besteht.
 ### Folgenminderungs-Strategie (Mitigation)
 
 Sollte die Ausbreitung der Erkrankung so groß geworden sein, dass die
-Schutz-Strategie besonders vulnerablen Gruppen nicht mehr möglich ist,
+Schutz-Strategie besonders vulnerabler Gruppen nicht mehr möglich ist,
 zielen die Maßnahmen stärker auf die Minderung weiterer negativer
 Auswirkungen auf die Bevölkerung und darauf, die Folgen für das soziale
 Leben möglichst gering zu halten.
@@ -150,7 +149,7 @@ von Schutzmitteln ist zudem damit zu rechnen, dass eine Priorisierung
 vorgenommen werden muss. Diese muss sehr sorgfältig abgewogen und klar
 kommuniziert werden - möglichst auch schon im Vorfeld einer Krise. In
 "Ruhezeiten" ist es für fast alle nachvollziehbar, dass in einer
-medizinischen Krise das medizinische Personal, dass sich um die
+medizinischen Krise das medizinische Personal, das sich um die
 Erkrankten kümmern soll, bevorzugt eine Prophylaxe bekommen muss.
 
 Zur Risiko- und Krisenkommunikation wird verwiesen auf das **Kapitel
@@ -159,7 +158,7 @@ Zur Risiko- und Krisenkommunikation wird verwiesen auf das **Kapitel
 ## Alarmierung, Meldewege
 
 Nach dem Infektionsschutzgesetz (IfSG) besteht u.a. eine unverzügliche
-Meldepflicht für Ärzte, Leiter von Einrichtungen und Laboren an das
+Meldepflicht für Ärzte/innen, Leitungen von Einrichtungen und Laboren an das
 zuständige Gesundheitsamt. Die Gesundheitsämter haben eine
 unverzügliche Übermittlungspflicht an die oberste
 Landesgesundheitsbehörde, diese wiederum übermittelt an das RKI.
@@ -174,7 +173,7 @@ Mit der behandelnden Einrichtung, der Pressestelle und der obersten
 Landesbehörde ist gemeinsam festzulegen, wie und wann die Öffentlichkeit
 zu informieren ist. Dafür ist eine zeitnahe Pressekonferenz
 einzuberufen. Vorher sind Verantwortlichkeiten festzulegen: Wer leitet
-die Pressekonferenz, wer sagt was zu welchem Thema.
+die Pressekonferenz, wer sagt was zu welchem Thema?
 
 Weitere Hinweise zur Alarmierung und zum Meldeverfahren ergeben sich aus
 dem Kapitel Einsatzplanung in den Unterpunkten Alarmierung und
@@ -230,7 +229,7 @@ Folgende Aufgaben können beispielhaft benannt werden:
   - Festlegen und Überwachen von Absonderungen
 
   - Entscheidung über Art und Umfang der Desinfektionsmaßnahmen und
-    deren Überwachung, sowie fachlicher Beratung
+    deren Überwachung sowie fachlicher Beratung
 
   - ggf. Entscheidung über Dekontaminationsmaßnahmen
 
@@ -265,7 +264,7 @@ absichtliche Freisetzung von Krankheitserregern. Das RKI berät aufgrund
 der gesetzlichen Vorgaben primär die Fachöffentlichkeit und die Politik.
 Dennoch gehört es zum Selbstverständnis, über relevante
 Infektionsrisiken und Gesundheitstrends auch Bürger und Patienten zu
-informieren, oder auf Informationsmöglichkeiten hinzuweisen. Möglichst
+informieren oder auf Informationsmöglichkeiten hinzuweisen. Möglichst
 viele Interessierte sollen sich ein eigenes Urteil bilden können, um in
 einer bedrohlichen oder als bedrohlich empfundenen Situation angemessen
 zu reagieren und ihre eigene gesundheitliche Situation zu verbessern.
@@ -273,7 +272,7 @@ Dazu hat das RKI 2016 weitere Informationen veröffentlicht in der
 Broschüre **[Gesundheit schützen, Risiken
 erforschen](https://www.rki.de/DE/Content/Institut/OrgEinheiten/Institutsbroschuere.html "https://www.rki.de/DE/Content/Institut/OrgEinheiten/Institutsbroschuere.html").**
 
-Der **[ständige Arbeitskreis der Kompetenz- und Behandlungszentren
+Der **[Ständige Arbeitskreis der Kompetenz- und Behandlungszentren
 (STAKOB)](https://www.rki.de/DE/Content/Kommissionen/Stakob/Stakob_node.html "https://www.rki.de/DE/Content/Kommissionen/Stakob/Stakob_node.html")**
 ist bei infektiologischen Lagen ein weiterer wichtiger Akteur. Die
 STAKOB ist ein bundesweites Expertennetzwerk für das Management und die
@@ -286,7 +285,7 @@ spezialisiert sind. Auch zur telefonischen Beratung kann der STAKOB
 kontaktiert werden.
 
 Weitere Akteure sind die medizischen Versorgungseinrichtungen. Hierzu
-gehören Arztpraxen (ambulante Versorgung) und Krankenhäuser (statiönre
+gehören Arztpraxen (ambulante Versorgung) und Krankenhäuser (statioäre
 Versorgung). Labore und Apotheken wirken ebenfalls mit.
 
 Letztendlich haben insbesondere in einer Epidemie - und in einer
@@ -299,7 +298,7 @@ weitere Akteure beteiligt:
   - die Polizei, um abzuklären, ob es sich um einen begründeten Verdacht
     handelt. Sie wird entsprechend eine Ernsthaftigkeitsprüfung
     durchführen. Sollte diese positiv ausfallen, sind weitere Maßnahmen
-    notwendig, wie z.B. der Ausschluß von Sprengstoffen. Auf die Polizei
+    notwendig, wie z.B. der Ausschluss von Sprengstoffen. Auf die Polizei
     kommt im weiteren Verlauf die Absperrung des Tatortes sowie die
     Ermittlung der Täter zu.
 
@@ -358,19 +357,19 @@ stellen, wodurch wertvolle Zeit verschwendet wird.
 
 ### Sonstige Ressourcen
 
-Auf die weiteren Ressourcen, wie Medikamente für PEP und Therapie , die
+Auf die weiteren Ressourcen, wie Medikamente für PEP und Therapie, die
 Absonderungseinrichtungen bzw. das Personal zur Überwachung von
 häuslicher Quarantäne und die Versorgungskapazitäten im Krankenhaus,
-insbesondere Beatmungsbetten und Isolierbetten wird im Kapitel "Toolbox"
+insbesondere Beatmungsbetten und Isolierbetten, wird im Kapitel "Toolbox"
 eingegangen.
 
 ## Ambulante Versorgung
 
 Sowohl im Rahmen der Influenza-Pandemieplanung als auch der Planungen im
-Rahmen von COVID-19 spielt die ambulanten Patientenversorgung eine große
+Rahmen von COVID-19 spielt die ambulante Patientenversorgung eine große
 Rolle. Der Pandemieplan des RKI führt dazu aus
 
-> *"zur Sicherstellung der notwendigen stationären Behandlungsressourcen
+> *"Zur Sicherstellung der notwendigen stationären Behandlungsressourcen
 > für schwer erkrankte Fälle soll die Patientenversorgung so lange wie
 > möglich ambulant erfolgen."* (**[Strukturen und Maßnahmen, Nationaler
 > Pandemieplan](https://edoc.rki.de/handle/176904/187 "https://edoc.rki.de/handle/176904/187")**,
@@ -378,7 +377,7 @@ Rolle. Der Pandemieplan des RKI führt dazu aus
 
 Zur Abklärung von COVID-19 Verdachtsfällen schreibt das RKI
 
-> *"in bestimmten Situationen, in denen eine stationäre Aufnahme unter
+> *"In bestimmten Situationen, in denen eine stationäre Aufnahme unter
 > klinischen Gesichtspunkten nicht notwendig ist, kann bei Erfüllung
 > gewisser Voraussetzungen (siehe Tabelle) dies in der ambulanten
 > Betreuung erfolgen."*(**[Hinweise zum ambulanten Management von
@@ -400,7 +399,7 @@ Zur Sicherstellung der Qualität in der ambulanten Versorgung ist es
 dringend notwendig, niedergelassenen Ärztinnen und Ärzten speziell auf
 ihre Tätigkeit ausgerichtete Informationsmaterialien zur Verfügung zu
 stellen, die praktische Handreichungen sind, z.B. zur Anamnese-Erhebung,
-für Beratungsgespräche, zur Probenahme, zu Diagnostiklaboren und mit
+für Beratungsgespräche, zur Probenahme, zu Diagnostiklaboren und zu
 Schutzmaßnahmen für sich, ihr Personal sowie die anderen Patienten. Die
 Empfehlungen der Bundesärztekammer und der Berufsgenossenschaft für
 Gesundheitsdienst und Wohlfahrtspflege haben besondere Hinweise

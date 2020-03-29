@@ -42,22 +42,22 @@ etc.)
 
 ## Organisation
 
-☐ Struktur und Umfang der Funktionen festlegen.
+☐ Struktur und Umfang der Funktionen festlegen
 
 ☐ Einbindung des Arbeits-/Krisenstabes in die Krisenstabsstrukturen der
 Region beachten
 
-☐ Aufwachsen einer Lage bei der Einrichtung des Stabes berücksichtigen.
+☐ Aufwachsen einer Lage bei der Einrichtung des Stabes berücksichtigen
 
-☐ Arbeitsauftrag bestimmen und mit Behördenleitung abstimmen.
+☐ Arbeitsauftrag bestimmen und mit Behördenleitung abstimmen
 
-☐ Prozessabläufe/Kommunikationswege bestimmen.
+☐ Prozessabläufe/Kommunikationswege bestimmen
 
 ☐ Regelmäßige Abläufe z.B. für Lagebesprechungen festlegen
-(Termintafel).
+(Termintafel)
 
 ☐ Fachliche Arbeitsschwerpunkte festsetzen, Personal zuordnen und
-Verantwortlichkeiten festlegen.
+Verantwortlichkeiten festlegen
 
 ## Personelle Vorsorge
 
@@ -85,15 +85,15 @@ Verantwortlichkeiten festlegen.
 
 ## Leitung des Stabes
 
-☐ Personen auswählen, Stellvertretung bedenken.
+☐ Personen auswählen, Stellvertretung bedenken
 
-☐ Checkliste für die Aufgaben erstellen.
+☐ Checkliste für die Aufgaben erstellen
 
 ☐ Wie wird die Auftragskontrolle durchgeführt?
 
 ## Lagedarstellung
 
-☐ Geeignetes Personal bestimmen und ausbilden.
+☐ Geeignetes Personal bestimmen und ausbilden
 
 ☐ Verfügbare Daten aus vorhandenen Quellen
 
