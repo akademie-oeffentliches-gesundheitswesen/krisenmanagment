@@ -78,9 +78,9 @@ Kontaktdaten
 ☐ andere kompetente Ansprechpartner, wie z.B. Feuerwehr, Polizei, Obere
 Gesundheitsbehörden, Ministerien/Senatsverwaltung
 
-## **Checklist Pressekonferenz**
+## Checkliste Pressekonferenz
 
-☐ (auf der Basis von Vorarbeiten von Christoph Lang, ehemals Leiter
+(auf der Basis von Vorarbeiten von Christoph Lang, ehemals Leiter
 Pressestelle, Senatsverwaltung für Gesundheit, Pflege und
 Gleichstellung)
 
