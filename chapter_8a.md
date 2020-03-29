@@ -60,7 +60,3 @@ starken Konsequenzen)
 **TRBA** Technische Regeln für Biologische Arbeitsstoffe
 
 **VHF** Virales hämorrhagisches Fieber
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

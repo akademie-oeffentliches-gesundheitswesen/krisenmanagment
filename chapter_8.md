@@ -50,7 +50,7 @@ Hier dargestellt, sind generische Hinweise. Für zahlreiche Erreger gibt
 es spezielle Empfehlungen, z.B. auf den Seiten des RKI unter
 **[Infektionskrankheiten
 A-Z](https://www.rki.de/DE/Content/InfAZ/InfAZ_marginal_node.html "https://www.rki.de/DE/Content/InfAZ/InfAZ_marginal_node.html")**,
-auf den Ländern der Landesbehörden oder ggf. der jeweils zuständigen
+auf den Internetseiten Landesbehörden oder ggf. der jeweils zuständigen
 Behörden.
 
 ## Fachliche Maßnahmen
@@ -84,17 +84,17 @@ Die Anforderung an die Labor-Diagnostik sind dementsprechend:
 
 Zur Optimierung der Diagnostik sind eine korrekte Probenahme sowie
 richtige Verpackung und Versand (ebenfalls in dieser Toolbox
-dargestellt) notwendige Voraussetzungen. Um in Krisenfall keine unnötige
+dargestellt) notwendige Voraussetzungen. Um im Krisenfall keine unnötige
 Zeit zu verlieren, sollten entsprechende Labore im Zuständigkeitsbereich
-bekannt sein, deren Diagnostiksprektrum bekannt sein und die
+bekannt sein, deren Diagnostikspektrum bekannt sein und die
 Kontaktinformationen vorliegen. Zum reibungslosen Ablauf trägt bei, mit
-dem Labor die Probennahme abzustimmen - insbesondere, welche Art von
+dem Labor die Probenahme abzustimmen - insbesondere, welche Art von
 Proben am besten geeignet sind - und das Labor vorab zu informieren,
 damit es mit vorbereitenden Maßnahmen beginnen kann, solange die Probe
 noch unterwegs ist.
 
 Während es zu Beginn eines Ausbruchs oder bei Erkrankungen mit hoher
-Letatlität notwendig ist, jeden einzelnen Fall zu diagnostizieren, kann
+Letalität notwendig ist, jeden einzelnen Fall zu diagnostizieren, kann
 es im Verlauf einer Epidemie aufgrund von Laborüberlastung oder
 eindeutigen epidemiologischen Zusammenhängen notwendig werden, bei der
 Erstellung von Diagnosen auf Falldefinitionen zurückzugreifen, die
@@ -145,7 +145,7 @@ Maßnahmen zu prüfen sind. Dementsprechend ist vor jedem Einsatz eine
 Gefährdungsbewertung durchzuführen und angemessene Schutzmaßnahmen
 festzulegen. Es sollte nicht grundsätzlich der höchstmögliche Schutz
 angewendet werden, da dieser einerseits den Träger unnötig belastet und
-im ungünstigens Fall sogar dazu beitragen kann, dass Patienten nicht
+im ungünstiens Fall sogar dazu beitragen kann, dass Patienten nicht
 optimal versorgt werden.
 
 ### **Persönliche Schutzausrüstung**
@@ -232,7 +232,7 @@ zusammengestellt.
 
 ### Augenschutz
 
-Bei der Auswahl von Augenschutz im Rahmen eines Infektionsschutzsetzs
+Bei der Auswahl von Augenschutz im Rahmen eines Infektionsschutzsets
 ist darauf zu achten, dass er mit den anderen Komponenten zusammenpasst.
 Besonders kritisch ist der Übergang von Atemschutzmaske und
 Schutzbrille. Bei Gebläseschutzanzügen ist der Augenschutz integriert.
@@ -265,7 +265,7 @@ Kalkulationshilfe hat das amerikanische Centers of Disease Control and
 Prevention auf ihrer Internetseite publiziert. Anhand von fünf
 unterschiedlichen Szenarien wird der Bedarf beispielhaft dargestellt in
 **[Estimated Personal Protective Equipment (PPE) Needed for Healthcare
-Facility](https://www.cdc.gov/vhf/ebola/healthcare-us/ppe/calculator.html "https://www.cdc.gov/vhf/ebola/healthcare-us/ppe/calculator.html")**.
+Facilities](https://www.cdc.gov/vhf/ebola/healthcare-us/ppe/calculator.html "https://www.cdc.gov/vhf/ebola/healthcare-us/ppe/calculator.html")**.
 
 **MERKE: Der wichtigste persönliche Schutz ist die Inanspruchnahme der
 möglichen Schutzimpfungen\!\! Mit dem Betriebsarzt muss eine
@@ -289,7 +289,7 @@ sind die gesetzlichen Grundlagen für das Meldewesen in Deutschland
 festgeschrieben. Dort sind festgelegt: die meldepflichtigen Krankheiten,
 Krankheitserreger sowie zur Meldung verpflichtete Personen sowie die
 Meldewege vom Gesundheitsamt über Landesbehörden bis zur Bundesbehörde
-und der Weltgesunheitsorganisation. In Krisenfällen ist das
+und der Weltgesundheitsorganisation. In Krisenfällen ist das
 Bundesministerium für Gesundheit (BMG) durch §15 ermächtigt, mittels
 Rechtsverordnung entsprechend der epidemiologischen Lage, die
 Meldepflichten aufzuheben, einzuschränken oder zu erweitern.
@@ -318,11 +318,11 @@ Besucher in Bereichen mit gefährlichen Krankheitserregern, wie z.B. im
 medizischen Bereich und in Diagnostiklaboren, vorgeschrieben, die Hände
 zu desinfizieren.
 
-Im §18 des IfSG ist festgeschrieben, dass bei behördlich angeordnenten
-Desinfektionsmaßnahmen ein Desinfektionmittel und eine -methode
+Im §18 des IfSG ist festgeschrieben, dass bei behördlich angeordneten
+Desinfektionsmaßnahmen ein Desinfektionsmittel und eine -methode
 angewendet werden dürfen, die von der zuständigen Bundesoberbehörde, in
 diesem Fall dem Robert Koch-Institut, im Bundesgesundheitsblatt bekannt
-gemacht wurde. Bei der Desinfektion werden thermische, chemische und
+gemacht wurden. Bei der Desinfektion werden thermische, chemische und
 sonstige Verfahren unterschieden. Bei der Auswahl eines geeigneten
 Desinfektionsmittels ist es notwendig, die Wirkungsbereiche zu beachten.
 Diese sind in der Desinfektionsmittelliste - hier vereinfacht
@@ -334,9 +334,9 @@ B - zur Inaktivierung von Viren, wobei „viruzid“ sowohl gegen behüllte
 als auch gegen unbehüllte Viren wirksam ist, während „begrenzt viruzid“
 vorzugsweise gegen behüllte Viren wirkt,
 
-C - zur Abtötung von Sporen des Erregers des Milzbrandes und
+C - zur Abtötung von Sporen des Erregers des Milzbrandes und,
 
-D- zur Abtötung von Sporen der Erreger von Gasödem und Wundstarrkrampf
+D - zur Abtötung von Sporen der Erreger von Gasödem und Wundstarrkrampf
 geeignet.
 
 Das RKI veröffentlicht eine **[Liste der geprüften und anerkannten
@@ -353,7 +353,7 @@ Während unter Dekontamination üblicherweise die Reduktion von
 schädlichen Agentien auf ein gesundheitsunschägliches Maß verstanden
 wird, bedeutet Desinfektion, die Abtötung bzw. irreversible
 Inaktivierung von Krankheitserregern. Eine Dekontamination kann daher,
-in Gegensatzh zur Desinfektion, ausschliessliche eine mechanische
+in Gegensatz zur Desinfektion, ausschließliche eine mechanische
 Entfernung ohne Inaktivierung/Abtötung darstellen (**siehe dazu auch:
 Dekontamination betroffener Personen**).
 
@@ -366,7 +366,7 @@ dass durch eine unmittelbar nach einer Exposition / möglichen Infektion
 eingeleitete Prophylaxe der Ausbruch einer Krankheit verhindert wird.
 
 Beispiele für Krankheiten, die mit antibiotischer
-Postexpositionsprophylaxe (PEP) verhindert werden können sind z.B.:
+Postexpositionsprophylaxe (PEP) verhindert werden können, sind z.B.:
 
   - Meningokokken-Meningitis
 
@@ -443,14 +443,14 @@ sind Ausnahmen möglich, wenn andere Schutzmaßnahmen befolgt werden.
 
 In Abgrenzung zur Absonderung/Quarantäne sind auch Isolierungsmaßnahmen
 nach **§28 IfSG** möglich, bei denen Personen verpflichtet werden, den
-Ort nicht zu verlassen an dem sie sich befinden, oder bestimmte Orte
+Ort nicht zu verlassen, an dem sie sich befinden, oder bestimmte Orte
 nicht zu betreten. Hierzu könnte beispielsweise auch die häusliche
 Isolierung gezählt werden.
 
 ### Praktische Aspekte von Isolierungsmaßnahmen
 
 Erfahrungen von Ausbrüchen in den letzten Jahren, bei denen z.B. eine
-häusliche Isolierungs angeordnet wurde, zeigen, dass den Betroffenen
+häusliche Isolierung angeordnet wurde, zeigen, dass den Betroffenen
 häufig der Hintergrund für die Sinnhaftigkeit der Maßnahme fehlte und
 sie teilweise lediglich als „Arbeitsverbot“ verstanden wurde, oder dass
 sie zwar die Wohnung nicht verlassen sollten, dann im Gegenzug aber
@@ -464,7 +464,7 @@ werden.
 Es ist wichtig, den Betroffenen Empfehlungen zu geben, wie sie sich im
 häuslichen Umfeld verhalten sollen, insbesondere wenn sich weitere
 Personen in derselben Wohnung aufhalten, für die keine
-Isolierungsmaßnahmen fesgelegt wurden. Hierzu gehören die Händehygiene
+Isolierungsmaßnahmen festgelegt wurden. Hierzu gehören die Händehygiene
 sowie das gegenseitige Abstandhalten. Insbesondere bei Familien mit
 kleinen Kindern kann dies eine große Herausforderung darstellen.
 
@@ -520,7 +520,7 @@ Zusammenarbeit und in Abstimmung mit den verantwortlichen Personen im
 Gesundheitsamt erarbeitet werden.
 
 Der Umfang der notwendigen Schutzmaßnahmen muss sich an einer Einstufung
-des Patienten orientieren. Das Landesinstituts für Arbeitsgestaltung in
+des Patienten orientieren. Das Landesinstitut für Arbeitsgestaltung in
 Nordrhein-Westfalen hat hier Informationen veröffentlicht zu
 **[Infektionsgefährdung im
 Rettungsdienst](https://www.lia.nrw.de/themengebiete/Arbeitsschutz-und-Gesundheit/Biostoffe/Infektionsgefaehrdung-im-Rettungsdienst/index.html "https://www.lia.nrw.de/themengebiete/Arbeitsschutz-und-Gesundheit/Biostoffe/Infektionsgefaehrdung-im-Rettungsdienst/index.html").**
@@ -563,7 +563,7 @@ von Ausbruchsgeschehen sollte bedacht werden.
 
   - Sind Meldewege und Zuständigkeiten geklärt?
 
-### Sonderisolier- oder Hochinfektionstranssport
+### Sonderisolier- oder Hochinfektionstransport
 
 Regelmäßig wird es auf lokaler Ebene nicht möglich sein, Patienten mit
 lebensbedrohlichen hochansteckenden Erkrankungen sicher zu
@@ -582,7 +582,7 @@ Transporte ist in der Regel eine Sonderisolierstationen (SIS).
 Für diese sogenannten Sonderisoliertransporte (SIT) oder
 Hochinfektionstransporte (HIT) werden an einzelnen Standorten in
 Deutschland Sonderfahrzeuge (Infektionsrettungswagen), speziell
-geschultes Personal und besondere Schutzausrüstung vorgehalten. Es gibt
+geschultes Personal und besondere Schutzausrüstungen vorgehalten. Es gibt
 allerdings keinen einheitlichen Standard. Aufgrund häufiger Anfragen
 beim Robert Koch-Institut wird an dieser Stelle darauf hingewiesen, dass
 für den primären Schutz des Personals in erster Linie die Einhaltung von
@@ -651,9 +651,9 @@ den **[Leitfaden Biological Incident Response & Environmental
 Sampling](https://ec.europa.eu/health/ph_threats/com/preparedness/docs/biological.pdf "https://ec.europa.eu/health/ph_threats/com/preparedness/docs/biological.pdf")**
 zur biologischen Probenahme publiziert.
 
-### Probentransport ****
+### Probentransport
 
-Der Transport von Gefahrgut - darunter fallen auch CBRN-Proben - wird im
+Der Transport von Gefahrgut - darunter fallen auch CBRN-Proben - wird durch das
 **[Europäische Übereinkommen zur internationalen Beförderung
 gefährlicher Güter auf der
 Straße](https://www.unece.org/fileadmin/DAM/trans/danger/publi/adr/ADRaccord_f.pdf "https://www.unece.org/fileadmin/DAM/trans/danger/publi/adr/ADRaccord_f.pdf")**
@@ -675,8 +675,8 @@ der dazu gehörenden Transportvorschriften. Im Zweifelsfall ist dies die
 Leitung der versendenden Institution und damit z.B. der/die Leiter/in
 des Gesundheitsamtes.
 
-Ausführliche Erläuterung zum korrekten Versand werden dargestellt im
-Weltgesundheitsorgansiation Leitfaden **[Guidance on regulations for the
+Ausführliche Erläuterung zum korrekten Versand werden dargestellt im Leitfaden der
+Weltgesundheitsorganisation **[Guidance on regulations for the
 Transport of Infectious
 Substances](https://www.who.int/csr/resources/publications/biosafety/WHO_HSE_EPR_2008_10.pdf "https://www.who.int/csr/resources/publications/biosafety/WHO_HSE_EPR_2008_10.pdf")**:
 
@@ -747,11 +747,11 @@ Hierbei handelt es sich z.B. um nicht-pathogene oder inaktivierte
 Mikroorganismen oder um Proben mit Erregern in Konzentrationen, wie sie
 in der Natur vorkommen. (ohne UN-Nummer; Verpackung: auf Basis P 650)
 
-### **Verpackungsvorschriften**
+### Verpackungsvorschriften
 
 Die Verpackungen sind grundsätzlich 3-teilig. Die hauptsächlichen
 Unterschiede liegen in den unterschiedlichen Prüfanforderungen, die die
-Verpackungen erfüllen müssen.
+Verpackungen erfüllen müssen. Sie liegen vor in:
 
   - (einem) flüssigkeitsdichten Primärgefäß(en); umgeben von saugfähigem
     Material in einer für die Aufnahme des gesamten Inhalts
@@ -809,7 +809,7 @@ variieren, typische Einrichtungen sind z.B.:
 Bei Großveranstaltungen wie Messen, Konzerten, Sportveranstaltungen
 können als Kriterien für die Beschränkung herangezogen werden:
 
-Besteht die Möglichkeit Abstandsregelungen und sonstige Hygienemaßnahmen
+  - Besteht die Möglichkeit Abstandsregelungen und sonstige Hygienemaßnahmen
 einzuführen, oder kann die Teilnehmerzahl so reduziert werden, dass
 dieses möglich wird?
 
@@ -822,7 +822,7 @@ dieses möglich wird?
 
   - Kann die Veranstaltung verschoben werden?
 
-Das RKI hat dazu die **[Allgemeine Prinzipien der Risikoeinschätzung
+Das RKI hat dazu **[Allgemeine Prinzipien der Risikoeinschätzung
 und Handlungsempfehlung für
 Großveranstaltungen](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risiko_Grossveranstaltungen.pdf "https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risiko_Grossveranstaltungen.pdf")**
 veröffentlicht.
@@ -835,7 +835,7 @@ sind und einen sehr hohen Schutz bewirken, ist es inbesondere für
 medizinisches Personal sinnvoll, Impfangebote anzunehmen, um im Falle
 eines Krankheitsausbruchs geschützt zu sein. Auch die Impfung gegen
 andere Krankheiten kann sinnvoll sein, um nicht aufgrund ähnlicher
-Krankheitssymptomatik als Krankheitsverdächtig zu gelten. Für den Schutz
+Krankheitssymptomatik als krankheitsverdächtig zu gelten. Für den Schutz
 der Bevölkerung sind hohe Impfquoten anzustreben, da diese es
 verhindern, dass sich Krankheitserreger ausbreiten. Bei den humanen
 Pocken ist es durch sehr hohe Impfquoten sogar gelungen, die Krankheit
@@ -856,7 +856,7 @@ hier ist damit zu rechnen, dass bei neu auftretenden oder bei sehr
 selten auftretenden Krankheiten keine Therapieoptionen bekannt sind und
 erst im Laufe der Erkrankungen in Studien entwickelt werden können. Die
 ersten Patienten können daher nur mittels supportiver Therapie und in
-Einzelfällen im Rahmen eines individuellen Heilsversuchs therapiert
+Einzelfällen im Rahmen eines individuellen Heilversuchs therapiert
 werden.
 
 Ziel zu Beginn eines Ausbruchs einer Krankheit, für die kein Impfstoff
@@ -870,7 +870,7 @@ eines Ausbruchs von humanen Pockenviren deutschlandweit erstellt.
 
 ## Umgang mit Leichen
 
-Leider wird es sich auch in einer Krisensistuation nicht verhindern
+Leider wird es sich auch in einer Krisensituation nicht verhindern
 lassen, dass Menschen sterben werden. Dies kann in zweierlei Hinsicht
 eine Herausforderung für den Öffentlichen Gesundheitsdienst darstellen:
 durch eine hohe Anzahl sowie durch eine Kontagiosität der Leichname. Für
@@ -904,7 +904,7 @@ respektieren. Bei einem hochpathogenen Erreger ist jedoch von einer
 rituellen Waschung, einer Aufbahrung des Verstorbenen, dem
 Abschiednehmen am offenen Sarg und von einer Erdbestattung generell
 abzuraten. Ebenso sollten eventuell vorhandene Implantate wie
-Herzschrittmacher, nicht entfernt werden, müssen aber bei der
+Herzschrittmacher nicht entfernt werden, müssen aber bei der
 Feuerbestattung berücksichtigt werden.
 
 Der Verstorbene sollte vollständig mit einem speziellen Absorbens
@@ -928,7 +928,7 @@ durchgeführt werden.
 
 Die entstehenden Abfälle sollten möglichst in unmittelbarer Nähe des
 Anfallortes der Abfälle desinfiziert werden. Gegenstände, die mit
-Erregern, an die auch  aufgrund §17  Infektionsschutzgesetz
+Erregern, die auch  aufgrund §17  Infektionsschutzgesetz
 besondere Beachtung erfordern, kontaminiert sind und die nicht sicher
 desinfiziert werden können, sind gemeinsam mit der benutzten und
 dekontaminierten PSA nach Abfallschlüssel 180103\* zu entsorgen.
@@ -955,7 +955,7 @@ Substances](https://adrbook.com/en/2017/ADR/2.2.62 "https://adrbook.com/en/2017/
 fallen bzw. bei denen ausschließlich Kulturen unter die Kat. A fallen,
 kann der Krankenhausabfall wie anderer infektiöser Abfall nach der
 Verpackungsvorschrift UN 3291 verpackt und entsprechend der Mitteilung
-der Bund/Länder-Arbeitsgemeinschaft Abfall (LAGA) 18 zu **[Vollzugshilfe
+der Bund/Länder-Arbeitsgemeinschaft Abfall (LAGA) 18 zur **[Vollzugshilfe
 zur Entsorgung von Abfällen aus Einrichtungen des
 Gesundheitsdienstes](https://www.laga-online.de/documents/m_2_3_1517834373.pdf "https://www.laga-online.de/documents/m_2_3_1517834373.pdf")**
 der Entsorgung zugeführt werden.
