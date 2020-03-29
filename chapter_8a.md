@@ -34,7 +34,7 @@ Sicherheit
 **HCID** High Consequence Infectious Diseases (Infektionskrankheiten mit
 starken Konsequenzen)
 
-**FFP** Filtering Face Piece (partikelfiltierende Masken geschützt)
+**FFP** Filtering Face Piece (partikelfiltierende Gesichtsmasken)
 
 **GGVSEB** Gefahrgutverordnung Straße, Eisenbahn und Binnenschifffahrt
 
@@ -53,13 +53,13 @@ starken Konsequenzen)
 **RKI** Robert Koch-Institut
 ([https://www.rki.de](https://www.rki.de "https://www.rki.de"))
 
-**SARS** Schweren Akuten Respiratorischen Syndroms
+**SARS** Schweres Akutes Respiratorisches Syndrom
 
 **STAKOB** Ständiger Arbeitskreis der Kompetenz- und Behandlungszentren
 
-**TRBA** Technischen Regeln für Biologische Arbeitsstoffe
+**TRBA** Technische Regeln für Biologische Arbeitsstoffe
 
-**VHF** Virale hämorrhagische Fieber
+**VHF** Virales hämorrhagisches Fieber
 
 <div class="section fnlist" data-role="doc-footnotes">
 
