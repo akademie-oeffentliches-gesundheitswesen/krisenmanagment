@@ -370,8 +370,6 @@ Postexpositionsprophylaxe (PEP) verhindert werden können sind z.B.:
 
   - Meningokokken-Meningitis
 
-<!-- end list -->
-
   - Milzbrand
 
   - Tularämie
