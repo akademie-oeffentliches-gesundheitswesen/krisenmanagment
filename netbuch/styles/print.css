@@ -84,19 +84,7 @@ p.titlepageSub {
   line-height: 20pt;
   margin-bottom: 30pt;
 }
-/*
-#ReproducingAutonomy {
-  font-size: 26pt !important;
-  margin-bottom: 10pt !important;
-  margin-top: 0pt;
-}
-*/
-/*
-#ack {
-  margin-bottom: 10pt !important;
-  margin-top: 0pt;
-}
-*/
+
 .logo img {
 /*  width: 24mm;*/
   align: center;
@@ -348,17 +336,6 @@ blockquote:before {
   opacity: 0.8;
 }
 
-/*blockquote:after {
-  font-family: -apple-system,BlinkMacSystemFont,"noto sans",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
-  content: close-quote;
-  font-size: 1em;
-  bottom: -15pt;
-  right: -0.8pc;
-  position: absolute;
-  color: #7089ab;
-  opacity: 0.6;
-}*/
-
 blockquote p {
   font-family: inherit;
   text-align: left;
@@ -593,10 +570,6 @@ a {
   text-decoration: none;
 }
 
-
-/*styles IMG TABLES*/
-
-
 table {
   margin: 0 auto;
   width: 99% !important;
@@ -708,13 +681,6 @@ th {
 tr:first-of-type {
     font-weight: normal;
 }
-
-/*tr:first-of-type td {
-  font-style: italic;
-  font-weight: bold;
-  backgroung-color: rgb(215,238,243);
-  border-bottom: 2px solid #435772;
-}*/
 
 tr.head + tr td {
   padding-top: 0.8em;
@@ -867,19 +833,7 @@ section[data-type="toc"] a:after {
   float: right;
   font-size: 10pt;
 }
-  /*
-[data-name="cabbagetree"] {
-  width: 117%;
-  margin-left: -2em;
-  margin-bottom: 23pt;
-}
-*/
-/*
-[data-name="cyclesOfCtm"] {
-  width: 90%;
-  margin-left: 0;
-}
-*/
+
 [data-name="bookintro1"] {
   margin-bottom: 12pt;
 }
@@ -887,14 +841,6 @@ section[data-type="toc"] a:after {
 [data-name="bookintro2"] {
   margin-bottom: 22pt;
 }
-/*
-[data-name="designsessions_colour_big"] {
-  width: 80%;
-  text-align: center;
-  margin-left: 10%;
-}
-*/
-
 
 [data-name="image-full100"] {
   width: 100%;
@@ -903,13 +849,6 @@ section[data-type="toc"] a:after {
   margin-top: 12pt;
 }
 
-/*
-[data-name="2phase_colour_icon"] {
-  width: 110pt !important;
-  text-align: center;
-  margin: 0 !important;
-}
-*/
 [data-name="akademie-logo"] {
   width: 40%;
   margin-top: 17em !important;
@@ -922,59 +861,10 @@ section[data-type="toc"] a:after {
   margin-left: 0em;
 }
 
-/*[data-name="cokoflow_colour_big"] {
-  break-after: page;
-  text-align: center;
-  margin: 0;
-  transform: rotate(90deg) translateX(160pt) scale(1.7);
-}
-
-[data-name="cokoflow_colour_big"] figcaption {
-  transform: scale(0.6);
-}
-
-[data-name="cokoflow_lines_big"] {
-  break-after: page;
-  text-align: center;
-  margin: 0;
-  transform: rotate(90deg) translateX(136pt) scale(1.6);
-}
-
-[data-name="cokoflow_lines_big"] figcaption {
-  transform: scale(0.6);
-}
-
-[data-name="cabbage-tree"] {
-  width: 110pt !important;
-  text-align: center;
-  margin: 0 !important;
-  margin-right: 1em;
-}
-
-[data-name="adoption_lines_big"] {
-  width: 90% !important;
-  text-align: center;
-  margin: 0 !important;
-  margin-left: 1em;
-}
-
-[data-name="adoption_colour_big"] {
-  width: 90% !important;
-  text-align: center;
-  margin: 0 !important;
-  margin-left: 1em;
-}*/
-
 h2 + p {
   margin-top: -5pt;
 }
-/*
-[data-name="2phase_lines_icon"] {
-  width: 80pt !important;
-  text-align: center;
-  margin: 0 !important;
-}
-*/
+
 section[data-type="chapter"] {
  /* break-before: page; */
 }
@@ -1261,16 +1151,6 @@ ol.upper-latin {
 @-epubx-page-master chapter {
   -epubx-utilization: 0;
 
-/* guide - turn off at end */
-
-  /*  @-epubx-partition grid {
-      position: absolute;
-      top: 26mm;
-      right: 20mm;
-      left: 15mm;
-      bottom: 26mm;
-      border: 1pt solid magenta;
-  }  */
 
   @-epubx-partition body {
     -epubx-flow-from: chapter;
@@ -1316,33 +1196,6 @@ ol.upper-latin {
       left: 34mm;
     }
 
-  /* vertical ok */
-  /*   @-epubx-partition headervertical {
-    -epubx-flow-from: header;
-    -epubx-enabled: -epubx-expr( page-number % 2== 1 ? 1 : 0);
-    transform: rotate(90deg) translateX(25pt) translateY(-705px);
-    transform-origin: 0 100%;
-    right: 0;
-    top: 0;
-    width: 200mm;
-  } */
-
-    /*   @-epubx-partition booktitleVertical {
-    -epubx-flow-from: booktitle;
-    -epubx-enabled: -epubx-expr( page-number % 2==0 ? 1 : 0);
-    width: 200mm;
-    transform: rotate(90deg) translateX(25pt) translateY(-239pt);
-    transform-origin: 0 100%;
-    right: 0;
-    top: 0;
-    } */
-
-/* guide - turn off at end */
-
-/* baseline test
-    background: linear-gradient(white 11pt , cyan 1pt);
-    background-size: 100% 13.5pt;
-    background-position: 0 13.5pt;
-    */
+  
 
 }
