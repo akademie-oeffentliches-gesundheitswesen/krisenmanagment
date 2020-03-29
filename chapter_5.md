@@ -172,12 +172,12 @@ Krisenverlauf für die Organisation außer Kontrolle gerät.
 **MERKE: Um die Kontrolle über die Kommunikation zu behalten, gelten
 daher folgende Grundsätze:**
 
-**1. Agieren statt reagieren**
+1. **Agieren statt reagieren**
 
-**2. Nur gesicherte Informationen herausgeben, ggf. Unsicherheiten
+2. **Nur gesicherte Informationen herausgeben, ggf. Unsicherheiten
 erläutern**
 
-**3. Kontakt halten und ansprechbar sein**
+3. **Kontakt halten und ansprechbar sein**
 
 ## **Presse- und Medienarbeit**
 
