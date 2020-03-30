@@ -61,6 +61,12 @@
   text-indent: 1.5em;
 }
 
+.txtspace p  {
+  letter-spacing: 0.3pt !important;
+  word-spacing: 0.3pt !important;
+  line-height: 16pt;
+}
+
 h3.titlepageSub {
   color: black;
   font-size: 14pt;
@@ -908,6 +914,11 @@ section[data-type="fm2"] table + p {
   word-spacing: 0.2pt;
 }
 
+.txtnospace p {
+  letter-spacing: 0.1pt !important;
+  word-spacing: 0.2pt !important;
+}
+
 h2 {
   /* break-before: page; */
 }
@@ -1196,6 +1207,6 @@ ol.upper-latin {
       left: 34mm;
     }
 
-  
+
 
 }

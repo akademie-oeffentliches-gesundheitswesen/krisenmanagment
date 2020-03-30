@@ -43,6 +43,4 @@ Es wird zukünftig aktualisiert und erweitert werden. Wir freuen uns
 daher, wenn Sie uns Ihre Anregungen, Kommentare und Ergänzungen
 mitteilen. Schicken Sie diese bitte an lehrbuch@akademie-oegw.de
 
-Für Kommentare und Ergänzungen unseres Pre-release v1.0 nutzen Sie bitte
-diesen Link zu
-**[Hypothes.is](https://hypothes.is/ "https://hypothes.is/")**
+Wir nutzen **[Hypothes.is](https://hypothes.is/ "https://hypothes.is/")** für Ihre Kommentare und Ergänzungen unseres Lehrbuches.

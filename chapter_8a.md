@@ -7,12 +7,9 @@ nav_order: 9
 
 ## Akürzungen
 
-**ABAS** Bundesministerium für Arbeit und Soziales gebildete Ausschuss
-für Biologische Arbeitsstoffe
+**ABAS** Ausschuss für Biologische Arbeitsstoffe beim Bundesministerium für Arbeit und Soziales
 
-**ADR** Accord européen relatif au transport international des
-marchandises Dangereuses par Route (Europäische Übereinkommen zur
-internationalen Beförderung gefährlicher Güter auf der Straße )
+**ADR** Accord européen relatif au transport international des marchandises Dangereuses par Route (Europäische Übereinkommen zur internationalen Beförderung gefährlicher Güter auf der Straße)
 
 **AFT** Analytische Task Force
 
@@ -25,8 +22,7 @@ internationalen Beförderung gefährlicher Güter auf der Straße )
 **BMI** Bundesministerium des Innern, für Bau und Heimat
 ([https://www.bmi.bund.de](https://www.bmi.bund.de/DE/startseite/startseite-node.html "https://www.bmi.bund.de/DE/startseite/startseite-node.html"))
 
-**BMU** Bundesministeriums für Umwelt, Naturschutz und nukleare
-Sicherheit
+**BMU** Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit
 ([https://www.bmu.de](https://www.bmu.de "https://www.bmu.de"))
 
 **CBRN** chemisch, biologisch, radiologisch und nuklear

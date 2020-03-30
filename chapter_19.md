@@ -46,8 +46,7 @@ entsprechende Informationen dazu hier einfügen.
 ## Urheberrechtserklärung & Lizenz
 
 Das Lehrbuch ist eine **Open Educational Resource (OER)**, daher
-verfügbar unter der Lizenz Creative Commons Namensnennung 4.0
-International (CC BY-SA 4.0) (mehr:
+verfügbar unter der Lizenz Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0) (mehr:
 [https://creativecommons.org/licenses/by-sa/4.0/deed.de](https://creativecommons.org/licenses/by-sa/4.0/deed.de "https://creativecommons.org/licenses/by-sa/4.0/deed.de")).
 Sie dürfen das Material in jedwedem Format oder Medium vervielfältigen
 und weiterverbreiten, es remixen, verändern und darauf aufbauen, und
