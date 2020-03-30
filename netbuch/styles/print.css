@@ -62,8 +62,9 @@
 }
 
 .txtspace p  {
-  letter-spacing: 0.2pt !important;
+  letter-spacing: 0.3pt !important;
   word-spacing: 0.3pt !important;
+  line-height: 16pt;
 }
 
 h3.titlepageSub {
