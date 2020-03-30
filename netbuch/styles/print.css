@@ -908,6 +908,11 @@ section[data-type="fm2"] table + p {
   word-spacing: 0.2pt;
 }
 
+.txtnospace p {
+  letter-spacing: 0pt !important;
+  word-spacing: 0pt !important;
+}
+
 h2 {
   /* break-before: page; */
 }
@@ -1196,6 +1201,6 @@ ol.upper-latin {
       left: 34mm;
     }
 
-  
+
 
 }
