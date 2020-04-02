@@ -209,8 +209,15 @@ p {
 }
 
 p + p {
-  text-indent: 1.5em;
-  margin-top: 0 }
+  text-indent: 0;
+  margin-top: 9pt; }
+
+div.table-cell-container p + p {
+  margin-top: 0pt;}
+
+li p {
+   display: inline;
+}
 
 p:first-of-type {
   text-indent: 0;
@@ -869,6 +876,10 @@ section[data-type="toc"] a:after {
 
 h2 + p {
   margin-top: -5pt;
+}
+
+h3 + p, h4 + p {
+ margin-top: -3pt;
 }
 
 section[data-type="chapter"] {
