@@ -1066,11 +1066,6 @@ ol.upper-latin {
 }
 
 @-epubx-page-master second-page-backcover {
-  -epubx-page: 84;
-  background-size: cover;
-}
-
-@-epubx-page-master second-page-backcover {
   -epubx-page: 98;
   background-size: cover;
 }
