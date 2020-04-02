@@ -229,7 +229,7 @@ p:first-of-type {
 }
 
 .Kolophon p + p {
-  text-indent: 0em;
+  margin-top:0;
 }
 
 p.stb { text-indent: 0; margin-top: 0.83em }
