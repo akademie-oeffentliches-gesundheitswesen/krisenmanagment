@@ -26,22 +26,13 @@ Leibniz-Informationszentrum Technik und Naturwissenschaften. 
 
 ## Finanzierung
 
-Das Projekt wurde durch das [Bundesministerium für
+Das Projekt wurde mit Mitteln des [Bundesministerium für
 Gesundheit](https://www.bundesgesundheitsministerium.de/ "Bundesministerium für Gesundheit")
-(BMG) gefördert.
+(BMG) finanziell gefördert.
 
 ## Open Access
 
-Das Anliegen, öffentliche finanzierte Forschung und Lehre zur
-Verbesserung der Öffentlichen Gesundheit zu fördern, ist die Grundlage
-für dieses online kostenfrei zugängliche Lehr-und Handbuch. Zentral ist
-dabei, dass alle Mitarbeiterinnen und Mitarbeiter im ÖGD, die interessierte
-Fachöffentlichkeit und die Öffentlichkeit insgesamt jederzeit Zugang zu
-dem besten verfügbaren Wissen zum Thema Öffentliche Gesundheit haben.
-
-Wir arbeiten daran, dass Sie die aktuellste Version des Lehr-und
-Handbuchs on-demand gedruckt erhalten können und werden alsbald
-entsprechende Informationen dazu hier einfügen.
+Dieses online kostenfrei zugängliche Lehr- und Handbuch soll Ihnen als Arbeitshilfe im Praxisalltag dienen. Um Forschung und Lehre zur Verbesserung der Öffentlichen Gesundheit zu fördern ist es wichtig, dass alle Mitarbeiterinnen und Mitarbeiter im ÖGD, die interessierte Fachöffentlichkeit und die Öffentlichkeit jederzeit Zugang zum bestverfügbaren Wissen zum Thema Öffentliche Gesundheit haben.Die aktuellste Version des Lehr-und Handbuchs ist on-demand gedruckt erhältlich.
 
 ## Urheberrechtserklärung & Lizenz
 
@@ -197,7 +188,3 @@ werden nur zu Informationszwecken bereitgestellt und stellen keine
 Billigung von Websites oder anderen Quellen dar. Die Leser sollten sich
 bewusst sein, dass sich die in diesem Lehrbuch aufgeführten Websites
 ändern können.
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>

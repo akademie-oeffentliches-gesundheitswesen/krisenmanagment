@@ -13,11 +13,11 @@ Bedeutung gewonnen, insbesondere auch im Öffentlichen Gesundheitsdienst
 Krisenmanagements infektiologischer Gefahrenlagen bei den kommunalen
 Gesundheitsämtern.
 
-**Aufgrund der aktuellen Lage (Stand 27. März 2020) in Zusammenhang mit
+**Aufgrund der aktuellen Lage (Stand 31. März 2020) in Zusammenhang mit
 der Verbreitung des neuen Coronavirus stellen wir hiermit in einer
 Vorabversion Auszüge unseres Lehrbuchs zur Verfügung.**
 
-Instrumente des Krisenmanagements helfen Mitarbeitern/innen im ÖGD, die
+Instrumente des Krisenmanagements helfen Mitarbeiterinnen und Mitarbeitern im ÖGD, die
 Arbeitsfähigkeit der Behörden in infektiologischen Gefahrenlagen
 sicherzustellen. Übliche Verwaltungsstrukturen werden den Anforderungen
 in einer Krise in der Regel nicht gerecht. So muss beispielsweise das
