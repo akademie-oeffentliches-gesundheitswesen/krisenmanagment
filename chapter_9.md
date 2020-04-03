@@ -13,9 +13,6 @@ nav_order: 10
 {:toc}
  </details>
 
-   <p></p>
-
-
 |                     |             |                                   |
 | ------------------- | ----------- | --------------------------------- |
 | **Worum geht es?:** | ** Titel:** | **Gesundheitsamt im Krisenmodus** |
