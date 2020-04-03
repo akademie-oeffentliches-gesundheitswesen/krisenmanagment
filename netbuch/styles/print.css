@@ -1085,6 +1085,12 @@ ol.upper-latin {
   background-size: cover;
 }
 
+@-epubx-page-master second-page-backcover {
+  -epubx-page: 128;
+  background-size: cover;
+}
+
+
 @-epubx-page-master titlepagepage {
   @-epubx-partition body {
     -epubx-flow-from: titlepage;
