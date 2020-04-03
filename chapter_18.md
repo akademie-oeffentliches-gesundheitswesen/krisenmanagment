@@ -112,10 +112,12 @@ Umsetzung auf GitHub.
 **Bernd Schiller** und **Petra Münstedt** für die sorgfältige Durchsicht und umsichtigen
 Korrekturen des Textes im gesamten Werkes.
 
-**Dr. med. Claudia Kaufhold** und **André Riffer** für die Durchsicht auf thematische und inhaltliche Konsistenz und Korrektheit. 
+**Dr. med. Claudia Kaufhold** und **André Riffer** für die Durchsicht auf thematische und inhaltliche Konsistenz und Korrektheit.
 
 **Johannes Wilm**, und das **[FidusWriter.org
 Team](https://www.fiduswriter.org/who-we-are/ "https://www.fiduswriter.org/who-we-are/")**,
 für die technische Unterstützung.
+
+Dem **Bundesministerium für Gesundheit**, das die gemeinsame Erarbeitung unseres Lehrbuches gefördert hat. Ohne diese Unterstützung wäre das Projekt nicht möglich gewesen.
 
 **Dr.med. Ute Teichert** für den Enthusiasmus und die tatkräftige Unterstützung des Projektes.

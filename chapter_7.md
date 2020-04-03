@@ -254,7 +254,7 @@ Neben den Gesundheitsämtern wirken die Landesbehörden und
 Gesundsheitsministerien im Ereignisfall mit. Die konkreten Aufgaben in
 einem Einsatzfall sind länderspezifisch unterschiedlich geregelt.
 
-Das RKI als wissenschaftlich-medizinische Einrichtung der
+Das RKI hat als wissenschaftlich-medizinische Einrichtung der
 Bundesregierung die Gesundheit der Bevölkerung (Öffentliche Gesundheit)
 im Blick. Es ist für die Bekämpfung von Infektionskrankheiten
 verantwortlich. Eine besondere Rolle im RKI spielt die Weiterentwicklung

@@ -209,8 +209,15 @@ p {
 }
 
 p + p {
-  text-indent: 1.5em;
-  margin-top: 0 }
+  text-indent: 0;
+  margin-top: 9pt; }
+
+div.table-cell-container p + p {
+  margin-top: 0pt;}
+
+li p {
+   display: inline;
+}
 
 p:first-of-type {
   text-indent: 0;
@@ -222,7 +229,7 @@ p:first-of-type {
 }
 
 .Kolophon p + p {
-  text-indent: 0em;
+  margin-top:0;
 }
 
 p.stb { text-indent: 0; margin-top: 0.83em }
@@ -871,6 +878,10 @@ h2 + p {
   margin-top: -5pt;
 }
 
+h3 + p, h4 + p {
+ margin-top: -3pt;
+}
+
 section[data-type="chapter"] {
  /* break-before: page; */
 }
@@ -896,8 +907,8 @@ section[data-type="fm2"] {
 }
 
 section[data-type="fm2"] p {
-  letter-spacing: 0pt;
-  word-spacing: 0pt;
+  letter-spacing: 0.2pt;
+  word-spacing: 0.2pt;
 }
 
 section[data-type="fm2"] h2.part, section[data-type="fm2"] h3, section[data-type="fm2"] table {
@@ -1050,32 +1061,17 @@ ol.upper-latin {
 }
 
 @-epubx-page-master second-page-backcover {
-  -epubx-page: 24;
+  -epubx-page: 14;
   background-size: cover;
 }
 
 @-epubx-page-master second-page-backcover {
-  -epubx-page: 60;
+  -epubx-page: 18;
   background-size: cover;
 }
 
 @-epubx-page-master second-page-backcover {
-  -epubx-page: 84;
-  background-size: cover;
-}
-
-@-epubx-page-master second-page-backcover {
-  -epubx-page: 98;
-  background-size: cover;
-}
-
-@-epubx-page-master second-page-backcover {
-  -epubx-page: 102;
-  background-size: cover;
-}
-
-@-epubx-page-master second-page-backcover {
-  -epubx-page: 108;
+  -epubx-page: 92;
   background-size: cover;
 }
 
@@ -1083,6 +1079,17 @@ ol.upper-latin {
   -epubx-page: 114;
   background-size: cover;
 }
+
+@-epubx-page-master second-page-backcover {
+  -epubx-page: 120;
+  background-size: cover;
+}
+
+@-epubx-page-master second-page-backcover {
+  -epubx-page: 128;
+  background-size: cover;
+}
+
 
 @-epubx-page-master titlepagepage {
   @-epubx-partition body {

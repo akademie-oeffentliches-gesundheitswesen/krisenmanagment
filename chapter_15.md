@@ -13,9 +13,6 @@ nav_order: 16
 {:toc}
  </details>
 
-   <p></p>
-
-
 Im Folgenden stellen wir eine Checklistvorlage zur Verfügung für die
 Entwicklung eigener Checklisten.
 

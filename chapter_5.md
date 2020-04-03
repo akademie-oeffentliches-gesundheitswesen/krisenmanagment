@@ -186,13 +186,13 @@ werden. Presse und Medien benötigen feste Ansprechpartner. Informationen
 an die Öffentlichkeit dürfen nur durch dafür Autorisierte gegeben
 werden, die für diese Aufgabe besonders ausgebildet sind. Anfragende
 müssen an Autorisierte verwiesen werden. Fach-Expertise bedeutet nicht
-automatisch, dass diese auch verständlich vermittelt werden kann.
+automatisch, dass diese auch verständlich vermittelt werden kann. Üblicherweise wird in Verwaltungen die Pressearbeit zentral über eine Pressestelle geregelt. Diese ist auf jeden Fall einzuschalten.
 
 Da die Bevölkerung erwartet, dass die Behörden zeitnah Hilfe leisten,
 Sicherheit geben und effizient funktionieren, ist der Umgang mit
 Unsicherheiten, wie er häufig zu Beginn einer Krise besteht, eine
 besondere Herausforderung. Um Vertrauen zu erhalten, muss die
-Unsichterheit kommuniziert werden, gleichzeitig müssen auch die
+Unsicherheit kommuniziert werden, gleichzeitig müssen auch die
 Maßnahmen benannt werden, die ergriffen werden, um die Unsicherheiten
 zu klären und den Zeitpunkt, wann mit weiteren Informationen zu rechnen
 ist.

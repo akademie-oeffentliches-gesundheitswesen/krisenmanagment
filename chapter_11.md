@@ -13,9 +13,6 @@ nav_order: 12
 {:toc}
  </details>
 
-   <p></p>
-
-
 |                    |             |                                                 |
 | ------------------ | ----------- | ----------------------------------------------- |
 | **Worum geht es?** | ** Titel:** | **Infrastruktur und Ausstattung im Krisenstab** |

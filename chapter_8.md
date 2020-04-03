@@ -13,9 +13,6 @@ nav_order: 8
 {:toc}
  </details>
 
-   <p></p>
-
-
 In der Toolbox (Werkzeugkasten) werden fachliche und logistische
 Maßnahmen näher beschrieben, die bei infektiologischen Gefahrenlagen
 ggf. notwendig werden.
@@ -349,7 +346,7 @@ in einer **[Empfehlung: Personelle und organisatorische Voraussetzungen
 zur Prävention nosokomialer
 Infektionen](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili_Hygmanagement.pdf "https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/Downloads/Rili_Hygmanagement.pdf")**.
 
-Während unter Dekontamination üblicherweise die Reduktion von
+Die Desinfektionsmittelliste des Verbundes für angewandte Hygiene e.V. ist die Standardreferenz für die Desinfektion im Routinebetrieb beim medizinischen und nichtmedizinischen Einrichtungen. Während unter Dekontamination üblicherweise die Reduktion von
 schädlichen Agentien auf ein gesundheitsunschägliches Maß verstanden
 wird, bedeutet Desinfektion, die Abtötung bzw. irreversible
 Inaktivierung von Krankheitserregern. Eine Dekontamination kann daher,
@@ -470,7 +467,7 @@ kleinen Kindern kann dies eine große Herausforderung darstellen.
 
 Eine besondere Herausforderung kann auch die Versorgung von betroffenen
 Personen darstellen, die keine Nachbarn oder Angehörigen haben, die sie
-mit Lebensmitteln versorgen können. Hierzu sollte das Gesundheitsamt
+mit Lebensmitteln versorgen können. Hierzu kann das Gesundheitsamt
 eine Liste mit Unterstützungsangeboten vorbereiten, z.B. Lieferdienste
 von Lebensmittelgeschäften oder Apotheken.
 
