@@ -17,9 +17,9 @@ aux_links:
   "Lehrbuch auf GitHub":
     - "https://github.com/akademie-oeffentliches-gesundheitswesen/lehrbuch-krisenmanagment"
   "PDF":
-    - "pdf/Krisenmanagement-pre-release-v1.pdf"
+    - "pdf/Krisenmanagement-Pre-Release-v1-978-3-9812871-2-7-PDF.pdf"
   "Web-Buch":
-    - "https://consortium.github.io/lehrbuch-krisenmanagment/vivliostyle-viewer-2.0.0-pre.10/viewer/#src=https://consortium.github.io/lehrbuch-krisenmanagment/netbuch/krisenmanagement-netbuch.xhtml&bookMode=true&renderAllPages=true"
+    - "https://consortium.github.io/lehrbuch-krisenmanagment/vivliostyle-viewer-2.0.0-pre.10/viewer/#src=https://consortium.github.io/lehrbuch-krisenmanagment/netbuch/Krisenmanagement-Pre-Release-v1-978-3-9812871-2-7-webbuch.xhtml&bookMode=true&renderAllPages=true"
 
 logo: "/images/akademie.png"
 
