@@ -13,21 +13,18 @@ nav_order: 11
 {:toc}
  </details>
 
-   <p></p>
-
-
 |                    |             |                    |
 | ------------------ | ----------- | ------------------ |
 | **Worum geht es?** | ** Titel:** | ** Kommunikation** |
 | Addressaten:       |             | Datum:             |
 
-## **Auswahl der Kommunikationsform**
+## Auswahl der Kommunikationsform
 
 ☐ Presse-Erklärung
 
 ☐ Pressekonferenz/Experteninterview
 
-☐ Bürgertelefon
+☐ Bürgertelefon/Hotline
 
 ☐ Häufige Fragen (frequently asked questions/FAQ)-Listen
 
