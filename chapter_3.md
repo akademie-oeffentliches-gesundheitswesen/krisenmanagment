@@ -150,10 +150,12 @@ Validieren und Bewerten einer Lage Voraussetzung für die schnelle
 Einleitung von spezifischen Kontroll- und Präventionsmaßnahmen. Gemäß
 Art. 6 der **[Internationalen
 Gesundheitsvorschriften](https://www.rki.de/DE/Content/Infekt/IGV/Gesetz_IGV_de-en.pdf "https://www.rki.de/DE/Content/Infekt/IGV/Gesetz_IGV_de-en.pdf")**
+
 (IGV) und gemäß Art. 9 des **[Beschlusses Nr. 1082/2013/EU](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32013D1082&from=DE")  des
 Europäischen Parlaments und des Rates zu schwerwiegenden
 grenzüberschreitenden
 Gesundheitsgefahren**
+
 vom 22. Oktober 2013 ist Deutschland rechtlich verpflichtet,
 unverzüglich Ereignisse international zu melden, die eine
 gesundheitliche Notlage von internationaler Tragweite darstellen können
