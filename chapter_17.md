@@ -13,9 +13,6 @@ nav_order: 17
 {:toc}
  </details>
 
-   <p></p>
-
-
 ## Webseiten A-Z
 
 **Allgemeine Prinzipien der Risikoeinschätzung und Handlungsempfehlung
