@@ -907,8 +907,8 @@ section[data-type="fm2"] {
 }
 
 section[data-type="fm2"] p {
-  letter-spacing: 0pt;
-  word-spacing: 0pt;
+  letter-spacing: 0.2pt;
+  word-spacing: 0.2pt;
 }
 
 section[data-type="fm2"] h2.part, section[data-type="fm2"] h3, section[data-type="fm2"] table {
