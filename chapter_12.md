@@ -13,14 +13,10 @@ nav_order: 13
 {:toc}
  </details>
 
-   <p></p>
-
-
 |                    |             |                                    |
 | ------------------ | ----------- | ---------------------------------- |
 | **Worum geht es?** | ** Titel:** | **Planungshilfe Gesundheitsämter** |
 | Addressaten:       |             | Datum:                             |
-
 
 ## Koordination
 
@@ -37,6 +33,12 @@ nav_order: 13
 ## Risikomanagment
 
 ☐ Risikobewertung
+
+## Personalmanagement
+
+☐ Verstärkung der Personalressourcen (z. B. Umschichtung aus Bereichen, die auf Grund des Aussetzens elektiver Aufnahmen weniger Personal binden; Berücksichtigung von Medizinstudenten im letzten Ausbildungsjahr etc.)
+
+☐ erkranktes Personal mit Symptomen aus der Patientenversorgung ausschließen
 
 ## Kommunikation
 
@@ -82,6 +84,8 @@ Untersuchungsspektrum
 ☐ Wahrnehmung der Informations- und Beratungsaufgaben für andere
 Behörden, Einrichtungen und für die Bevölkerung
 
+☐ Hotleine einrichten
+
 # ORDNUNGSRECHTLICHE AUFGABEN
 
 ☐ Amtsärztliche Veranlassung der Absonderung
@@ -90,6 +94,8 @@ Behörden, Einrichtungen und für die Bevölkerung
 Überwachung des Leichentransports und der Kremierung
 
 ☐ Anordnung von Tätigkeits-, Teilnahme- und Besuchsverboten
+
+☐ Anordnung von Quarantäne und Isolierung
 
 ☐ Entsorgungmanagement
 
