@@ -13,9 +13,6 @@ nav_order: 14
 {:toc}
  </details>
 
-   <p></p>
-
-
 Die folgende Checkliste basiert auf Ausführungen des Nationalen
 Pandemieplans Teil I
 ([https://edoc.rki.de/handle/176904/187](https://edoc.rki.de/handle/176904/187 "https://edoc.rki.de/handle/176904/187"))
@@ -179,7 +176,3 @@ Sekreten ist generell zu vermeiden.
 | -------------- |  | -------- |
 | Einrichtung :  |  | Version. |
 | Bearbeiter/in: |  | Ablage:  |
-
-<div class="section fnlist" data-role="doc-footnotes">
-
-</div>
