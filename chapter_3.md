@@ -196,7 +196,7 @@ hämorrhagischen Fieber oder West-Nil-Fieber sowie andere Ereignisse,
 die von internationaler Tragweite für die öffentliche Gesundheit sein
 können, sind unter bestimmten Umständen an die WHO zu melden.
 
-{% include image.html url="images/bcd98565-cc3f-4c18-b2a4-86b4ede57839.png" description="Abbildung 2: Entscheidungsschema zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle: BKK)" %}
+{% include image.html url="images/ccc4b3a2-99b9-464c-bbf0-bcaa6482ac57.png" description="Abbildung 2: Entscheidungsschema zur Bewertung und Meldung von Ereignissen im Rahmen der IGV (Quelle: BKK)" %}
 
 Das Gesundheitsamt unterrichtet über die zuständige Landesbehörde die
 nationale Ebene, wenn die bloße Möglichkeit besteht, dass ein Ereignis
@@ -264,7 +264,7 @@ Krisengeschehen eine Entlastung zu erfahren.
 
 ## Ressourcen
 
-In manchen Situation werden die benötigten Ressourcen von Dritten
+In manchen Situationen werden die benötigten Ressourcen von Dritten
 bereitgestellt. Hierzu gehören u.a Versorgungsmöglichkeiten im
 Krankenhaus, die Verfügbarkeit von Impfstoffen und Antidota. Wer, was,
 wann bereitstellt, sollte als Information in Einsatzplänen aufgenommen
